@@ -1,0 +1,1883 @@
+08 001   Adams Total Migration Fl Co     11847            23958
+  08 031 Denver                   Co      2416  20.39      4615  19.26
+  08 059 Jefferson                Co      2313  19.52      4617  19.27
+  08 005 Arapahoe                 Co      1677  14.16      3315  13.84
+  08 013 Boulder                  Co       669   5.65      1311   5.47
+  08 123 Weld                     Co       342   2.89       783   3.27
+  08 069 Larimer                  Co       165   1.39       338   1.41
+  04 013 Maricopa                 Az       164   1.38       312   1.30
+  57 001 Foreign / Overseas       FR       138   1.16       231    .96
+  08 041 El Paso                  Co       126   1.06       256   1.07
+  08 035 Douglas                  Co       115    .97       268   1.12
+  32 003 Clark                    Nv       105    .89       217    .91
+  06 037 Los Angeles              Ca       100    .84       179    .75
+  06 073 San Diego                Ca        68    .57       137    .57
+  48 201 Harris                   Tx        63    .53       134    .56
+  08 077 Mesa                     Co        56    .47       107    .45
+  53 033 King                     Wa        51    .43        91    .38
+  08 101 Pueblo                   Co        44    .37        85    .35
+  48 113 Dallas                   Tx        43    .36        77    .32
+  06 059 Orange                   Ca        43    .36        77    .32
+  35 001 Bernalillo               NM        40    .34        84    .35
+  04 019 Pima                     Az        37    .31        80    .33
+  48 029 Bexar                    Tx        33    .28        82    .34
+  08 045 Garfield                 Co        32    .27        56    .23
+  49 035 Salt Lake                Ut        32    .27        68    .28
+  06 085 Santa Clara              Ca        31    .26        56    .23
+  48 439 Tarrant                  Tx        31    .26        59    .25
+  17 031 Cook                     Il        31    .26        56    .23
+  08 093 Park                     Co        30    .25        82    .34
+  56 021 Laramie                  Wy        27    .23        65    .27
+  06 071 San Bernardino           Ca        27    .23        57    .24
+  48 141 El Paso                  Tx        27    .23        84    .35
+  06 001 Alameda                  Ca        27    .23        46    .19
+  08 037 Eagle                    Co        27    .23        60    .25
+  20 173 Sedgwick                 Ks        26    .22        53    .22
+  08 087 Morgan                   Co        26    .22        69    .29
+  40 143 Tulsa                    Ok        25    .21        60    .25
+  15 003 Honolulu                 Hi        24    .20        42    .18
+  08 117 Summit                   Co        24    .20        37    .15
+  53 061 Snohomish                Wa        22    .19        40    .17
+  06 065 Riverside                Ca        21    .18        36    .15
+  27 053 Hennepin                 Mn        20    .17        45    .19
+  06 067 Sacramento               Ca        20    .17        49    .20
+  12 057 Hillsborough             Fl        18    .15        49    .20
+  20 091 Johnson                  Ks        18    .15        30    .13
+  32 031 Washoe                   Nv        18    .15        33    .14
+  08 107 Routt                    Co        17    .14        31    .13
+  08 039 Elbert                   Co        17    .14        45    .19
+  02 020 Anchorage Borough        Ak        16    .14        24    .10
+  40 109 Oklahoma                 Ok        16    .14        39    .16
+  31 055 Douglas                  Ne        16    .14        30    .13
+  31 109 Lancaster                Ne        15    .13        35    .15
+  16 001 Ada                      Id        15    .13        33    .14
+  06 081 San Mateo                Ca        15    .13        37    .15
+  08 019 Clear Creek              Co        15    .13        30    .13
+  47 157 Shelby                   Tn        15    .13        30    .13
+  08 049 Grand                    Co        14    .12        29    .12
+  56 025 Natrona                  Wy        14    .12        18    .08
+  08 075 Logan                    Co        14    .12        36    .15
+  06 013 Contra Costa             Ca        13    .11        26    .11
+  12 095 Orange                   Fl        13    .11        28    .12
+  31 157 Scotts Bluff             Ne        13    .11        20    .08
+  12 031 Duval                    Fl        13    .11        27    .11
+  08 029 Delta                    Co        13    .11        27    .11
+  27 037 Dakota                   Mn        12    .10        28    .12
+  06 053 Monterey                 Ca        12    .10        26    .11
+  41 051 Multnomah                Or        12    .10        31    .13
+  06 019 Fresno                   Ca        12    .10        33    .14
+  08 067 La Plata                 Co        12    .10        18    .08
+  35 013 Dona Ana                 NM        12    .10        27    .11
+  08 085 Montrose                 Co        12    .10        20    .08
+  53 053 Pierce                   Wa        12    .10        25    .10
+  29 095 Jackson                  Mo        12    .10        15    .06
+  48 453 Travis                   Tx        12    .10        23    .10
+  38 017 Cass                     ND        11    .09        21    .09
+  17 043 Du Page                  Il        11    .09        28    .12
+  08 043 Fremont                  Co        11    .09        20    .08
+  48 121 Denton                   Tx        11    .09        28    .12
+  19 153 Polk                     Ia        11    .09        17    .07
+  46 099 Minnehaha                SD        10    .08        24    .10
+  06 075 San Francisco            Ca        10    .08        13    .05
+  29 189 St. Louis                Mo        10    .08        24    .10
+  24 031 Montgomery               Md        10    .08        19    .08
+  41 067 Washington               Or        10    .08        20    .08
+  12 025 Dade                     Fl        10    .08        15    .06
+   Same State                              131   1.11       269   1.12
+   Region 1:   Northeast                   171   1.44       331   1.38
+   Region 2:   Midwest                     613   5.17      1379   5.76
+   Region 3:   South                       627   5.29      1405   5.86
+   Region 4:   West                        414   3.49       926   3.87
+      08 001   County Non-Migrants       83172           192456
+08 003   Alamosa Total Migration  Co       413              834
+  08 105 Rio Grande               Co        33   7.99        85  10.19
+  08 021 Conejos                  Co        27   6.54        71   8.51
+  08 041 El Paso                  Co        27   6.54        57   6.83
+  08 101 Pueblo                   Co        21   5.08        42   5.04
+  08 031 Denver                   Co        17   4.12        22   2.64
+  08 005 Arapahoe                 Co        15   3.63        21   2.52
+  08 001 Adams                    Co        13   3.15        19   2.28
+  08 059 Jefferson                Co        12   2.91        16   1.92
+  08 069 Larimer                  Co        10   2.42        19   2.28
+  08 109 Saguache                 Co        10   2.42        24   2.88
+   Same State                               62  15.01       134  16.07
+   Same Region, Diff. State                 82  19.85       160  19.18
+   Different Region                         84  20.34       164  19.66
+      08 003   County Non-Migrants        3507             8811
+08 005   Arapahoe Total Migration Co     19706            38364
+  08 031 Denver                   Co      5600  28.42      9347  24.36
+  08 059 Jefferson                Co      2121  10.76      3879  10.11
+  08 001 Adams                    Co      1469   7.45      2853   7.44
+  08 035 Douglas                  Co       823   4.18      1942   5.06
+  57 001 Foreign / Overseas       FR       345   1.75       701   1.83
+  08 013 Boulder                  Co       330   1.67       578   1.51
+  04 013 Maricopa                 Az       275   1.40       556   1.45
+  08 041 El Paso                  Co       275   1.40       544   1.42
+  06 037 Los Angeles              Ca       264   1.34       459   1.20
+  08 069 Larimer                  Co       228   1.16       360    .94
+  48 201 Harris                   Tx       215   1.09       599   1.56
+  06 073 San Diego                Ca       194    .98       356    .93
+  32 003 Clark                    Nv       146    .74       299    .78
+  53 033 King                     Wa       146    .74       267    .70
+  06 059 Orange                   Ca       137    .70       272    .71
+  08 123 Weld                     Co       125    .63       225    .59
+  48 113 Dallas                   Tx       125    .63       261    .68
+  08 039 Elbert                   Co       113    .57       245    .64
+  17 031 Cook                     Il       102    .52       169    .44
+  35 001 Bernalillo               NM        78    .40       151    .39
+  27 053 Hennepin                 Mn        77    .39       175    .46
+  06 067 Sacramento               Ca        74    .38       165    .43
+  49 035 Salt Lake                Ut        73    .37       189    .49
+  48 439 Tarrant                  Tx        72    .37       173    .45
+  51 059 Fairfax                  Va        71    .36       154    .40
+  06 085 Santa Clara              Ca        69    .35       108    .28
+  20 091 Johnson                  Ks        67    .34       169    .44
+  06 001 Alameda                  Ca        66    .33       124    .32
+  48 029 Bexar                    Tx        63    .32       176    .46
+  08 077 Mesa                     Co        62    .31       120    .31
+  08 093 Park                     Co        58    .29       132    .34
+  15 003 Honolulu                 Hi        58    .29       121    .32
+  08 101 Pueblo                   Co        57    .29       116    .30
+  31 055 Douglas                  Ne        55    .28       116    .30
+  06 029 Kern                     Ca        53    .27       166    .43
+  40 109 Oklahoma                 Ok        52    .26       133    .35
+  17 043 Du Page                  Il        52    .26       128    .33
+  08 117 Summit                   Co        50    .25        83    .22
+  08 037 Eagle                    Co        49    .25        73    .19
+  04 019 Pima                     Az        48    .24        93    .24
+  06 013 Contra Costa             Ca        48    .24       106    .28
+  06 071 San Bernardino           Ca        48    .24       114    .30
+  56 021 Laramie                  Wy        47    .24        98    .26
+  06 065 Riverside                Ca        45    .23        94    .25
+  12 057 Hillsborough             Fl        45    .23        81    .21
+  06 081 San Mateo                Ca        44    .22        72    .19
+  53 061 Snohomish                Wa        42    .21        83    .22
+  29 095 Jackson                  Mo        40    .20        88    .23
+  29 189 St. Louis                Mo        40    .20        91    .24
+  41 067 Washington               Or        39    .20        98    .26
+  12 011 Broward                  Fl        39    .20        64    .17
+  40 143 Tulsa                    Ok        37    .19        93    .24
+  08 067 La Plata                 Co        37    .19        60    .16
+  06 075 San Francisco            Ca        37    .19        58    .15
+  53 053 Pierce                   Wa        36    .18        77    .20
+  06 111 Ventura                  Ca        35    .18        90    .23
+  12 025 Dade                     Fl        34    .17        68    .18
+  13 067 Cobb                     Ga        34    .17        73    .19
+  24 031 Montgomery               Md        33    .17        77    .20
+  20 173 Sedgwick                 Ks        33    .17        77    .20
+  48 453 Travis                   Tx        32    .16        52    .14
+  13 121 Fulton                   Ga        30    .15        59    .15
+  48 085 Collin                   Tx        30    .15        92    .24
+  48 339 Montgomery               Tx        29    .15        86    .22
+  12 103 Pinellas                 Fl        29    .15        59    .15
+  12 099 Palm Beach               Fl        28    .14        49    .13
+  08 045 Garfield                 Co        28    .14        69    .18
+  12 095 Orange                   Fl        28    .14        44    .11
+  12 009 Brevard                  Fl        28    .14        64    .17
+  06 083 Santa Barbara            Ca        27    .14        45    .12
+  36 061 New York                 NY        27    .14        34    .09
+  41 051 Multnomah                Or        26    .13        46    .12
+  49 049 Utah                     Ut        26    .13        68    .18
+  16 001 Ada                      Id        26    .13        64    .17
+  48 141 El Paso                  Tx        26    .13        56    .15
+  02 020 Anchorage Borough        Ak        23    .12        52    .14
+  25 017 Middlesex                Ma        23    .12        47    .12
+  48 157 Fort Bend                Tx        22    .11        75    .20
+  19 153 Polk                     Ia        22    .11        44    .11
+  53 011 Clark                    Wa        21    .11        55    .14
+  48 121 Denton                   Tx        21    .11        62    .16
+  37 051 Cumberland               NC        21    .11        56    .15
+  51 013 Arlington                Va        21    .11        32    .08
+  08 097 Pitkin                   Co        21    .11        25    .07
+  30 111 Yellowstone              Mt        20    .10        45    .12
+  31 109 Lancaster                Ne        20    .10        35    .09
+  11 001 Wash.,D.C.               DC        20    .10        23    .06
+  56 025 Natrona                  Wy        20    .10        39    .10
+  08 051 Gunnison                 Co        19    .10        36    .09
+  06 053 Monterey                 Ca        19    .10        38    .10
+  39 049 Franklin                 Oh        19    .10        46    .12
+  26 081 Kent                     Mi        19    .10        50    .13
+  08 087 Morgan                   Co        19    .10        27    .07
+  49 011 Davis                    Ut        19    .10        44    .11
+  32 031 Washoe                   Nv        19    .10        33    .09
+  48 329 Midland                  Tx        18    .09        48    .13
+  18 097 Marion                   In        18    .09        42    .11
+  36 029 Erie                     NY        18    .09        49    .13
+  39 035 Cuyahoga                 Oh        18    .09        41    .11
+  08 107 Routt                    Co        18    .09        30    .08
+  12 031 Duval                    Fl        18    .09        46    .12
+  09 001 Fairfield                Ct        18    .09        54    .14
+  55 079 Milwaukee                Wi        18    .09        29    .08
+  26 125 Oakland                  Mi        18    .09        51    .13
+  12 117 Seminole                 Fl        18    .09        51    .13
+  13 089 De Kalb                  Ga        18    .09        35    .09
+  06 019 Fresno                   Ca        18    .09        39    .10
+  42 003 Allegheny                Pa        18    .09        40    .10
+  48 027 Bell                     Tx        18    .09        32    .08
+  51 153 Prince William           Va        18    .09        62    .16
+  08 029 Delta                    Co        17    .09        39    .10
+  53 063 Spokane                  Wa        16    .08        42    .11
+  08 049 Grand                    Co        16    .08        22    .06
+  22 051 Jefferson                La        16    .08        26    .07
+  55 025 Dane                     Wi        16    .08        30    .08
+  36 103 Suffolk                  NY        16    .08        28    .07
+  53 067 Thurston                 Wa        16    .08        47    .12
+  46 099 Minnehaha                SD        15    .08        30    .08
+  56 001 Albany                   Wy        15    .08        20    .05
+  55 133 Waukesha                 Wi        15    .08        40    .10
+  53 035 Kitsap                   Wa        15    .08        24    .06
+  46 103 Pennington               SD        15    .08        35    .09
+  08 085 Montrose                 Co        15    .08        33    .09
+  09 003 Hartford                 Ct        14    .07        37    .10
+  08 019 Clear Creek              Co        14    .07        28    .07
+  35 045 San Juan                 NM        14    .07        31    .08
+  06 077 San Joaquin              Ca        14    .07        34    .09
+  12 127 Volusia                  Fl        14    .07        25    .07
+  39 113 Montgomery               Oh        13    .07        40    .10
+  06 095 Solano                   Ca        13    .07        38    .10
+  27 037 Dakota                   Mn        13    .07        39    .10
+  29 047 Clay                     Mo        13    .07        27    .07
+  08 015 Chaffee                  Co        13    .07        18    .05
+  47 157 Shelby                   Tn        13    .07        29    .08
+  17 097 Lake                     Il        13    .07        38    .10
+  06 041 Marin                    Ca        12    .06        25    .07
+  05 119 Pulaski                  Ar        12    .06        30    .08
+  26 163 Wayne                    Mi        12    .06        19    .05
+  20 045 Douglas                  Ks        12    .06        22    .06
+  12 115 Sarasota                 Fl        12    .06        22    .06
+  41 005 Clackamas                Or        12    .06        23    .06
+  21 111 Jefferson                Ky        12    .06        28    .07
+  17 089 Kane                     Il        12    .06        37    .10
+  47 037 Davidson                 Tn        12    .06        24    .06
+  02 090 Fairbanks North Star Bor Ak        12    .06        26    .07
+  24 005 Baltimore                Md        12    .06        33    .09
+  27 137 St. Louis                Mn        12    .06        23    .06
+  24 033 Prince George's          Md        12    .06        23    .06
+  12 071 Lee                      Fl        12    .06        27    .07
+  08 043 Fremont                  Co        12    .06        22    .06
+  01 101 Montgomery               Al        12    .06        40    .10
+  51 810 Virginia Beach city      Va        12    .06        18    .05
+  42 029 Chester                  Pa        12    .06        27    .07
+  13 135 Gwinnett                 Ga        11    .06        31    .08
+  37 183 Wake                     NC        11    .06        25    .07
+  41 039 Lane                     Or        11    .06        21    .05
+  48 303 Lubbock                  Tx        11    .06        22    .06
+  24 003 Anne Arundel             Md        11    .06        18    .05
+  34 023 Middlesex                NJ        11    .06        19    .05
+  29 510 St. Louis city           Mo        11    .06        16    .04
+  45 045 Greenville               SC        11    .06        27    .07
+  49 057 Weber                    Ut        11    .06        22    .06
+  48 441 Taylor                   Tx        11    .06        23    .06
+  22 103 St. Tammany              La        11    .06        38    .10
+  39 061 Hamilton                 Oh        10    .05        29    .08
+  31 157 Scotts Bluff             Ne        10    .05        13    .03
+  56 013 Fremont                  Wy        10    .05        29    .08
+  12 073 Leon                     Fl        10    .05        26    .07
+  04 015 Mohave                   Az        10    .05        23    .06
+  12 091 Okaloosa                 Fl        10    .05        19    .05
+  37 119 Mecklenburg              NC        10    .05        22    .06
+  29 021 Buchanan                 Mo        10    .05        22    .06
+  35 049 Santa Fe                 NM        10    .05        23    .06
+  19 193 Woodbury                 Ia        10    .05        17    .04
+  30 031 Gallatin                 Mt        10    .05        20    .05
+  35 035 Otero                    NM        10    .05        30    .08
+  30 063 Missoula                 Mt        10    .05        17    .04
+  42 091 Montgomery               Pa        10    .05        19    .05
+  31 153 Sarpy                    Ne        10    .05        24    .06
+  12 021 Collier                  Fl        10    .05        17    .04
+   Same State                              126    .64       236    .62
+   Region 1:   Northeast                   317   1.61       678   1.77
+   Region 2:   Midwest                     878   4.46      1904   4.96
+   Region 3:   South                       813   4.13      1812   4.72
+   Region 4:   West                        483   2.45      1014   2.64
+      08 005   County Non-Migrants      130813           299969
+08 007   Archuleta Total Migratio Co       181              365
+  08 067 La Plata                 Co        23  12.71        47  12.88
+  35 045 San Juan                 NM        10   5.52        18   4.93
+   Same State                               37  20.44        87  23.84
+   Same Region, Diff. State                 61  33.70       114  31.23
+   Different Region                         50  27.62        99  27.12
+      08 007   County Non-Migrants        1472             3596
+08 009   Baca Total Migration Flo Co        98              197
+   Same State                               49  50.00        99  50.25
+   Region 2:   Midwest                      22  22.45        46  23.35
+   Region 3:   South                        17  17.35        29  14.72
+   Region 4:   West                         10  10.20        23  11.68
+      08 009   County Non-Migrants        1469             3520
+08 011   Bent Total Migration Flo Co       151              315
+  08 089 Otero                    Co        20  13.25        46  14.60
+  08 099 Prowers                  Co        19  12.58        41  13.02
+  08 101 Pueblo                   Co        10   6.62        20   6.35
+   Same State                               48  31.79        88  27.94
+   Same Region, Diff. State                 15   9.93        34  10.79
+   Different Region                         39  25.83        86  27.30
+      08 011   County Non-Migrants        1398             3297
+08 013   Boulder Total Migration  Co      9108            15691
+  08 001 Adams                    Co       857   9.41      1521   9.69
+  08 059 Jefferson                Co       844   9.27      1506   9.60
+  08 031 Denver                   Co       765   8.40      1023   6.52
+  08 069 Larimer                  Co       588   6.46      1094   6.97
+  08 123 Weld                     Co       395   4.34       864   5.51
+  08 005 Arapahoe                 Co       330   3.62       529   3.37
+  57 001 Foreign / Overseas       FR       156   1.71       255   1.63
+  06 037 Los Angeles              Ca       151   1.66       195   1.24
+  04 013 Maricopa                 Az       147   1.61       255   1.63
+  53 033 King                     Wa       128   1.41       168   1.07
+  08 041 El Paso                  Co       115   1.26       208   1.33
+  06 073 San Diego                Ca       108   1.19       194   1.24
+  04 019 Pima                     Az       107   1.17       223   1.42
+  48 453 Travis                   Tx        92   1.01       192   1.22
+  17 031 Cook                     Il        90    .99       130    .83
+  06 085 Santa Clara              Ca        86    .94       141    .90
+  06 075 San Francisco            Ca        72    .79        78    .50
+  32 003 Clark                    Nv        69    .76       107    .68
+  06 059 Orange                   Ca        65    .71       106    .68
+  08 117 Summit                   Co        55    .60        78    .50
+  48 201 Harris                   Tx        54    .59       106    .68
+  08 037 Eagle                    Co        50    .55        73    .47
+  08 077 Mesa                     Co        49    .54        91    .58
+  08 035 Douglas                  Co        43    .47        92    .59
+  48 113 Dallas                   Tx        43    .47        66    .42
+  06 001 Alameda                  Ca        41    .45        60    .38
+  08 107 Routt                    Co        40    .44        63    .40
+  35 001 Bernalillo               NM        37    .41        68    .43
+  15 003 Honolulu                 Hi        34    .37        51    .33
+  36 061 New York                 NY        32    .35        37    .24
+  06 081 San Mateo                Ca        32    .35        46    .29
+  48 439 Tarrant                  Tx        32    .35        69    .44
+  08 067 La Plata                 Co        31    .34        40    .25
+  49 035 Salt Lake                Ut        30    .33        47    .30
+  06 067 Sacramento               Ca        30    .33        56    .36
+  27 109 Olmsted                  Mn        29    .32        75    .48
+  41 051 Multnomah                Or        28    .31        41    .26
+  06 083 Santa Barbara            Ca        27    .30        30    .19
+  06 111 Ventura                  Ca        27    .30        44    .28
+  53 061 Snohomish                Wa        25    .27        45    .29
+  06 013 Contra Costa             Ca        25    .27        36    .23
+  56 021 Laramie                  Wy        25    .27        47    .30
+  24 031 Montgomery               Md        25    .27        48    .31
+  08 047 Gilpin                   Co        25    .27        45    .29
+  48 141 El Paso                  Tx        24    .26        74    .47
+  08 045 Garfield                 Co        24    .26        40    .25
+  06 065 Riverside                Ca        23    .25        41    .26
+  27 053 Hennepin                 Mn        23    .25        42    .27
+  12 095 Orange                   Fl        23    .25        30    .19
+  48 491 Williamson               Tx        22    .24        62    .40
+  08 101 Pueblo                   Co        22    .24        31    .20
+  51 059 Fairfax                  Va        22    .24        41    .26
+  11 001 Wash.,D.C.               DC        22    .24        24    .15
+  08 049 Grand                    Co        21    .23        24    .15
+  17 043 Du Page                  Il        21    .23        39    .25
+  25 017 Middlesex                Ma        21    .23        26    .17
+  08 097 Pitkin                   Co        21    .23        23    .15
+  32 031 Washoe                   Nv        20    .22        31    .20
+  41 039 Lane                     Or        20    .22        29    .18
+  12 011 Broward                  Fl        19    .21        31    .20
+  12 057 Hillsborough             Fl        19    .21        27    .17
+  06 071 San Bernardino           Ca        19    .21        28    .18
+  12 099 Palm Beach               Fl        19    .21        42    .27
+  55 025 Dane                     Wi        19    .21        33    .21
+  12 025 Dade                     Fl        18    .20        24    .15
+  35 049 Santa Fe                 NM        18    .20        28    .18
+  02 020 Anchorage Borough        Ak        18    .20        32    .20
+  17 097 Lake                     Il        18    .20        32    .20
+  48 029 Bexar                    Tx        17    .19        25    .16
+  06 041 Marin                    Ca        16    .18        24    .15
+  53 053 Pierce                   Wa        16    .18        25    .16
+  29 189 St. Louis                Mo        16    .18        26    .17
+  04 005 Coconino                 Az        16    .18        23    .15
+  06 087 Santa Cruz               Ca        16    .18        25    .16
+  06 097 Sonoma                   Ca        15    .16        31    .20
+  08 051 Gunnison                 Co        14    .15        21    .13
+  51 013 Arlington                Va        14    .15        21    .13
+  20 091 Johnson                  Ks        14    .15        29    .18
+  31 109 Lancaster                Ne        14    .15        22    .14
+  29 095 Jackson                  Mo        14    .15        18    .11
+  39 061 Hamilton                 Oh        14    .15        18    .11
+  41 067 Washington               Or        14    .15        28    .18
+  16 001 Ada                      Id        13    .14        21    .13
+  13 067 Cobb                     Ga        13    .14        29    .18
+  39 049 Franklin                 Oh        13    .14        31    .20
+  12 103 Pinellas                 Fl        13    .14        21    .13
+  20 173 Sedgwick                 Ks        13    .14        24    .15
+  37 183 Wake                     NC        13    .14        33    .21
+  25 009 Essex                    Ma        12    .13        16    .10
+  25 025 Suffolk                  Ma        12    .13        13    .08
+  09 001 Fairfield                Ct        12    .13        19    .12
+  35 013 Dona Ana                 NM        12    .13        21    .13
+  06 053 Monterey                 Ca        12    .13        18    .11
+  36 119 Westchester              NY        12    .13        22    .14
+  27 123 Ramsey                   Mn        12    .13        16    .10
+  08 113 San Miguel               Co        12    .13        16    .10
+  08 087 Morgan                   Co        12    .13        41    .26
+  17 019 Champaign                Il        12    .13        12    .08
+  26 161 Washtenaw                Mi        12    .13        23    .15
+  06 019 Fresno                   Ca        11    .12        25    .16
+  55 079 Milwaukee                Wi        11    .12        20    .13
+  49 049 Utah                     Ut        11    .12        32    .20
+  47 037 Davidson                 Tn        11    .12        22    .14
+  36 055 Monroe                   NY        11    .12        14    .09
+  30 111 Yellowstone              Mt        11    .12        21    .13
+  30 031 Gallatin                 Mt        11    .12        21    .13
+  42 101 Philadelphia             Pa        11    .12        13    .08
+  08 019 Clear Creek              Co        11    .12        22    .14
+  40 143 Tulsa                    Ok        11    .12        27    .17
+  12 031 Duval                    Fl        11    .12        14    .09
+  36 027 Dutchess                 NY        11    .12        24    .15
+  50 007 Chittenden               Vt        10    .11        18    .11
+  53 011 Clark                    Wa        10    .11        16    .10
+  06 007 Butte                    Ca        10    .11        18    .11
+  25 021 Norfolk                  Ma        10    .11        12    .08
+  34 025 Monmouth                 NJ        10    .11        21    .13
+  30 063 Missoula                 Mt        10    .11        21    .13
+  34 003 Bergen                   NJ        10    .11        28    .18
+  12 115 Sarasota                 Fl        10    .11        12    .08
+  40 109 Oklahoma                 Ok        10    .11        24    .15
+   Same State                              121   1.33       227   1.45
+   Region 1:   Northeast                   288   3.16       441   2.81
+   Region 2:   Midwest                     544   5.97      1040   6.63
+   Region 3:   South                       551   6.05      1013   6.46
+   Region 4:   West                        432   4.74       756   4.82
+      08 013   County Non-Migrants       79375           168793
+08 015   Chaffee Total Migration  Co       392              797
+  08 041 El Paso                  Co        38   9.69        69   8.66
+  08 043 Fremont                  Co        20   5.10        41   5.14
+  08 031 Denver                   Co        19   4.85        32   4.02
+  08 005 Arapahoe                 Co        14   3.57        21   2.63
+  08 059 Jefferson                Co        13   3.32        24   3.01
+  08 101 Pueblo                   Co        12   3.06        33   4.14
+  08 069 Larimer                  Co        12   3.06        23   2.89
+  08 093 Park                     Co        10   2.55        25   3.14
+  08 001 Adams                    Co        10   2.55        19   2.38
+  04 013 Maricopa                 Az        10   2.55        20   2.51
+   Same State                               63  16.07       144  18.07
+   Same Region, Diff. State                 85  21.68       182  22.84
+   Different Region                         86  21.94       164  20.58
+      08 015   County Non-Migrants        3939             9068
+08 017   Cheyenne Total Migration Co        84              192
+   All Migration Flows                      84 100.00       192 100.00
+      08 017   County Non-Migrants         734             1843
+08 019   Clear Creek Total Migrat Co       239              459
+  08 059 Jefferson                Co        55  23.01       104  22.66
+  08 031 Denver                   Co        19   7.95        26   5.66
+  08 005 Arapahoe                 Co        13   5.44        24   5.23
+   Same State                               73  30.54       146  31.81
+   Same Region, Diff. State                 24  10.04        45   9.80
+   Different Region                         55  23.01       114  24.84
+      08 019   County Non-Migrants        1820             4014
+08 021   Conejos Total Migration  Co       139              318
+  08 003 Alamosa                  Co        35  25.18        69  21.70
+  08 031 Denver                   Co        10   7.19        20   6.29
+   Same State                               38  27.34        98  30.82
+   Same Region, Diff. State                 45  32.37       113  35.53
+   Different Region                         11   7.91        18   5.66
+      08 021   County Non-Migrants        1968             5565
+08 023   Costilla Total Migration Co        77              175
+  08 003 Alamosa                  Co        15  19.48        36  20.57
+   Same State                               30  38.96        56  32.00
+   Same Region, Diff. State                 22  28.57        56  32.00
+   Different Region                         10  12.99        27  15.43
+      08 023   County Non-Migrants         841             2140
+08 025   Crowley Total Migration  Co        88              213
+  08 089 Otero                    Co        13  14.77        29  13.62
+   All Migration Flows                      75  85.23       184  86.38
+      08 025   County Non-Migrants         788             1946
+08 027   Custer Total Migration F Co        57              119
+  08 043 Fremont                  Co        16  28.07        41  34.45
+   Same State                               18  31.58        39  32.77
+   Same Region, Diff. State                 12  21.05        16  13.45
+   Different Region                         11  19.30        23  19.33
+      08 027   County Non-Migrants         591             1389
+08 029   Delta Total Migration Fl Co       562             1205
+  08 077 Mesa                     Co        87  15.48       158  13.11
+  08 085 Montrose                 Co        57  10.14       144  11.95
+  08 045 Garfield                 Co        20   3.56        42   3.49
+  57 001 Foreign / Overseas       FR        18   3.20        42   3.49
+  08 031 Denver                   Co        17   3.02        25   2.07
+  08 041 El Paso                  Co        12   2.14        29   2.41
+  08 001 Adams                    Co        12   2.14        25   2.07
+  08 005 Arapahoe                 Co        12   2.14        21   1.74
+  08 069 Larimer                  Co        11   1.96        21   1.74
+  04 013 Maricopa                 Az        11   1.96        25   2.07
+  06 037 Los Angeles              Ca        11   1.96        20   1.66
+  32 003 Clark                    Nv        10   1.78        22   1.83
+  08 059 Jefferson                Co        10   1.78        21   1.74
+  08 067 La Plata                 Co        10   1.78        23   1.91
+   Same State                               69  12.28       161  13.36
+   Same Region, Diff. State                103  18.33       223  18.51
+   Different Region                         92  16.37       203  16.85
+      08 029   County Non-Migrants        6272            14835
+08 031   Denver Total Migration F Co     22876            41305
+  08 005 Arapahoe                 Co      5971  26.10     11089  26.85
+  08 059 Jefferson                Co      4111  17.97      7491  18.14
+  08 001 Adams                    Co      2376  10.39      4896  11.85
+  08 013 Boulder                  Co       623   2.72       977   2.37
+  08 035 Douglas                  Co       382   1.67       814   1.97
+  57 001 Foreign / Overseas       FR       356   1.56       664   1.61
+  06 037 Los Angeles              Ca       337   1.47       482   1.17
+  08 041 El Paso                  Co       269   1.18       463   1.12
+  04 013 Maricopa                 Az       257   1.12       430   1.04
+  53 033 King                     Wa       227    .99       305    .74
+  08 069 Larimer                  Co       225    .98       358    .87
+  48 201 Harris                   Tx       180    .79       301    .73
+  32 003 Clark                    Nv       176    .77       295    .71
+  06 073 San Diego                Ca       173    .76       259    .63
+  08 123 Weld                     Co       161    .70       299    .72
+  17 031 Cook                     Il       139    .61       212    .51
+  48 113 Dallas                   Tx       129    .56       212    .51
+  06 059 Orange                   Ca       112    .49       178    .43
+  06 075 San Francisco            Ca       103    .45       115    .28
+  35 001 Bernalillo               NM        98    .43       174    .42
+  08 101 Pueblo                   Co        97    .42       179    .43
+  48 141 El Paso                  Tx        87    .38       226    .55
+  08 077 Mesa                     Co        84    .37       135    .33
+  06 085 Santa Clara              Ca        76    .33       111    .27
+  06 001 Alameda                  Ca        74    .32       119    .29
+  04 019 Pima                     Az        73    .32        96    .23
+  08 037 Eagle                    Co        67    .29        89    .22
+  06 067 Sacramento               Ca        66    .29       124    .30
+  49 035 Salt Lake                Ut        63    .28       119    .29
+  27 053 Hennepin                 Mn        63    .28       103    .25
+  48 029 Bexar                    Tx        63    .28       121    .29
+  15 003 Honolulu                 Hi        62    .27       105    .25
+  48 453 Travis                   Tx        59    .26        85    .21
+  08 117 Summit                   Co        59    .26        87    .21
+  36 061 New York                 NY        58    .25        68    .16
+  06 071 San Bernardino           Ca        49    .21        90    .22
+  40 143 Tulsa                    Ok        49    .21       107    .26
+  31 055 Douglas                  Ne        46    .20        71    .17
+  08 039 Elbert                   Co        46    .20       101    .24
+  51 059 Fairfax                  Va        46    .20        86    .21
+  08 093 Park                     Co        44    .19        65    .16
+  53 053 Pierce                   Wa        44    .19        74    .18
+  06 081 San Mateo                Ca        44    .19        64    .15
+  08 045 Garfield                 Co        43    .19        77    .19
+  48 439 Tarrant                  Tx        43    .19        77    .19
+  29 095 Jackson                  Mo        41    .18        62    .15
+  41 051 Multnomah                Or        40    .17        55    .13
+  11 001 Wash.,D.C.               DC        40    .17        46    .11
+  56 021 Laramie                  Wy        38    .17        63    .15
+  24 031 Montgomery               Md        38    .17        63    .15
+  06 029 Kern                     Ca        36    .16        65    .16
+  12 103 Pinellas                 Fl        34    .15        50    .12
+  12 025 Dade                     Fl        33    .14        58    .14
+  06 013 Contra Costa             Ca        33    .14        50    .12
+  20 173 Sedgwick                 Ks        32    .14        62    .15
+  12 057 Hillsborough             Fl        32    .14        50    .12
+  06 065 Riverside                Ca        31    .14        48    .12
+  12 011 Broward                  Fl        31    .14        47    .11
+  02 020 Anchorage Borough        Ak        31    .14        50    .12
+  29 189 St. Louis                Mo        31    .14        54    .13
+  13 121 Fulton                   Ga        31    .14        38    .09
+  40 109 Oklahoma                 Ok        31    .14        70    .17
+  42 003 Allegheny                Pa        31    .14        51    .12
+  19 153 Polk                     Ia        31    .14        62    .15
+  12 095 Orange                   Fl        30    .13        53    .13
+  42 101 Philadelphia             Pa        29    .13        40    .10
+  53 061 Snohomish                Wa        29    .13        53    .13
+  35 049 Santa Fe                 NM        29    .13        50    .12
+  32 031 Washoe                   Nv        28    .12        36    .09
+  08 043 Fremont                  Co        28    .12        57    .14
+  17 043 Du Page                  Il        27    .12        39    .09
+  20 091 Johnson                  Ks        27    .12        55    .13
+  08 097 Pitkin                   Co        27    .12        36    .09
+  39 035 Cuyahoga                 Oh        27    .12        43    .10
+  06 053 Monterey                 Ca        26    .11        48    .12
+  56 025 Natrona                  Wy        26    .11        39    .09
+  41 067 Washington               Or        26    .11        44    .11
+  31 109 Lancaster                Ne        25    .11        40    .10
+  55 079 Milwaukee                Wi        25    .11        38    .09
+  06 019 Fresno                   Ca        25    .11        37    .09
+  26 125 Oakland                  Mi        25    .11        41    .10
+  08 107 Routt                    Co        24    .10        29    .07
+  08 049 Grand                    Co        24    .10        39    .09
+  06 083 Santa Barbara            Ca        23    .10        42    .10
+  12 031 Duval                    Fl        23    .10        36    .09
+  08 019 Clear Creek              Co        23    .10        45    .11
+  30 111 Yellowstone              Mt        22    .10        36    .09
+  51 013 Arlington                Va        22    .10        36    .09
+  08 067 La Plata                 Co        21    .09        38    .09
+  08 087 Morgan                   Co        21    .09        59    .14
+  13 089 De Kalb                  Ga        21    .09        39    .09
+  18 097 Marion                   In        21    .09        34    .08
+  12 099 Palm Beach               Fl        21    .09        32    .08
+  27 123 Ramsey                   Mn        21    .09        36    .09
+  13 067 Cobb                     Ga        20    .09        26    .06
+  08 029 Delta                    Co        20    .09        38    .09
+  12 009 Brevard                  Fl        20    .09        35    .08
+  06 111 Ventura                  Ca        19    .08        26    .06
+  25 017 Middlesex                Ma        19    .08        29    .07
+  49 011 Davis                    Ut        19    .08        37    .09
+  53 063 Spokane                  Wa        18    .08        29    .07
+  21 111 Jefferson                Ky        18    .08        28    .07
+  06 041 Marin                    Ca        18    .08        31    .08
+  08 071 Las Animas               Co        17    .07        38    .09
+  47 037 Davidson                 Tn        17    .07        24    .06
+  39 061 Hamilton                 Oh        17    .07        25    .06
+  35 045 San Juan                 NM        17    .07        34    .08
+  24 033 Prince George's          Md        17    .07        24    .06
+  08 015 Chaffee                  Co        17    .07        31    .08
+  08 003 Alamosa                  Co        17    .07        31    .08
+  46 103 Pennington               SD        16    .07        32    .08
+  08 089 Otero                    Co        16    .07        26    .06
+  55 025 Dane                     Wi        16    .07        29    .07
+  47 157 Shelby                   Tn        16    .07        29    .07
+  26 161 Washtenaw                Mi        16    .07        27    .07
+  36 029 Erie                     NY        16    .07        18    .04
+  26 163 Wayne                    Mi        16    .07        31    .08
+  35 013 Dona Ana                 NM        15    .07        39    .09
+  13 135 Gwinnett                 Ga        15    .07        37    .09
+  16 001 Ada                      Id        15    .07        22    .05
+  12 091 Okaloosa                 Fl        15    .07        29    .07
+  22 051 Jefferson                La        14    .06        18    .04
+  20 177 Shawnee                  Ks        14    .06        19    .05
+  51 810 Virginia Beach city      Va        14    .06        31    .08
+  12 071 Lee                      Fl        14    .06        21    .05
+  39 113 Montgomery               Oh        14    .06        29    .07
+  35 055 Taos                     NM        14    .06        27    .07
+  06 095 Solano                   Ca        14    .06        22    .05
+  39 049 Franklin                 Oh        13    .06        17    .04
+  26 081 Kent                     Mi        13    .06        19    .05
+  56 001 Albany                   Wy        13    .06        21    .05
+  05 119 Pulaski                  Ar        13    .06        23    .06
+  12 021 Collier                  Fl        13    .06        22    .05
+  51 510 Alexandria city          Va        13    .06        18    .04
+  41 039 Lane                     Or        13    .06        22    .05
+  17 097 Lake                     Il        13    .06        25    .06
+  27 037 Dakota                   Mn        12    .05        24    .06
+  20 045 Douglas                  Ks        12    .05        16    .04
+  53 011 Clark                    Wa        12    .05        28    .07
+  48 027 Bell                     Tx        12    .05        16    .04
+  36 055 Monroe                   NY        12    .05        18    .04
+  37 133 Onslow                   NC        12    .05        26    .06
+  06 077 San Joaquin              Ca        12    .05        17    .04
+  36 047 Kings                    NY        12    .05        14    .03
+  09 001 Fairfield                Ct        12    .05        17    .04
+  09 003 Hartford                 Ct        12    .05        27    .07
+  22 071 Orleans                  La        12    .05        19    .05
+  37 051 Cumberland               NC        12    .05        25    .06
+  48 085 Collin                   Tx        12    .05        19    .05
+  29 077 Greene                   Mo        12    .05        18    .04
+  08 051 Gunnison                 Co        12    .05        17    .04
+  08 085 Montrose                 Co        11    .05        14    .03
+  24 005 Baltimore                Md        11    .05        22    .05
+  35 009 Curry                    NM        11    .05        15    .04
+  37 119 Mecklenburg              NC        11    .05        17    .04
+  36 081 Queens                   NY        11    .05        17    .04
+  53 035 Kitsap                   Wa        11    .05        23    .06
+  12 115 Sarasota                 Fl        11    .05        17    .04
+  25 025 Suffolk                  Ma        11    .05        14    .03
+  53 067 Thurston                 Wa        11    .05        16    .04
+  41 047 Marion                   Or        10    .04        19    .05
+  18 003 Allen                    In        10    .04        15    .04
+  56 037 Sweetwater               Wy        10    .04        15    .04
+  46 099 Minnehaha                SD        10    .04        20    .05
+  12 033 Escambia                 Fl        10    .04        19    .05
+  37 135 Orange                   NC        10    .04        15    .04
+  46 081 Lawrence                 SD        10    .04        15    .04
+  26 099 Macomb                   Mi        10    .04        14    .03
+  24 510 Baltimore city           Md        10    .04        12    .03
+  01 101 Montgomery               Al        10    .04        22    .05
+  51 153 Prince William           Va        10    .04        20    .05
+  36 103 Suffolk                  NY        10    .04        12    .03
+  24 027 Howard                   Md        10    .04        16    .04
+  20 169 Saline                   Ks        10    .04        11    .03
+   Same State                              118    .52       238    .58
+   Region 1:   Northeast                   352   1.54       568   1.38
+   Region 2:   Midwest                     714   3.12      1308   3.17
+   Region 3:   South                       787   3.44      1522   3.68
+   Region 4:   West                        521   2.28       962   2.33
+      08 031   County Non-Migrants      168126           322670
+08 033   Dolores Total Migration  Co        62              142
+  08 083 Montezuma                Co        10  16.13        33  23.24
+   All Migration Flows                      52  83.87       109  76.76
+      08 033   County Non-Migrants         482             1199
+08 035   Douglas Total Migration  Co      2281             4845
+  08 005 Arapahoe                 Co       534  23.41      1059  21.86
+  08 031 Denver                   Co       270  11.84       409   8.44
+  08 059 Jefferson                Co       160   7.01       307   6.34
+  08 041 El Paso                  Co        93   4.08       193   3.98
+  08 001 Adams                    Co        66   2.89       135   2.79
+  08 039 Elbert                   Co        62   2.72       172   3.55
+  04 013 Maricopa                 Az        39   1.71        80   1.65
+  08 013 Boulder                  Co        39   1.71        66   1.36
+  08 069 Larimer                  Co        29   1.27        51   1.05
+  06 037 Los Angeles              Ca        28   1.23        55   1.14
+  57 001 Foreign / Overseas       FR        27   1.18        59   1.22
+  06 059 Orange                   Ca        24   1.05        58   1.20
+  06 073 San Diego                Ca        20    .88        37    .76
+  48 201 Harris                   Tx        18    .79        51   1.05
+  53 033 King                     Wa        16    .70        40    .83
+  48 113 Dallas                   Tx        15    .66        34    .70
+  04 019 Pima                     Az        14    .61        31    .64
+  08 123 Weld                     Co        11    .48        31    .64
+  49 035 Salt Lake                Ut        11    .48        25    .52
+  17 031 Cook                     Il        11    .48        18    .37
+  48 439 Tarrant                  Tx        10    .44        26    .54
+   Same State                               92   4.03       217   4.48
+   Region 1:   Northeast                    47   2.06       105   2.17
+   Region 2:   Midwest                     199   8.72       482   9.95
+   Region 3:   South                       233  10.21       591  12.20
+   Region 4:   West                        213   9.34       513  10.59
+      08 035   County Non-Migrants       16118            42604
+08 037   Eagle Total Migration Fl Co      1289             2147
+  08 045 Garfield                 Co       107   8.30       248  11.55
+  08 013 Boulder                  Co        74   5.74        94   4.38
+  08 031 Denver                   Co        68   5.28        93   4.33
+  08 097 Pitkin                   Co        47   3.65        76   3.54
+  08 077 Mesa                     Co        44   3.41        99   4.61
+  08 059 Jefferson                Co        38   2.95        52   2.42
+  08 005 Arapahoe                 Co        37   2.87        61   2.84
+  08 065 Lake                     Co        31   2.40        78   3.63
+  08 041 El Paso                  Co        30   2.33        55   2.56
+  08 069 Larimer                  Co        27   2.09        48   2.24
+  06 073 San Diego                Ca        23   1.78        37   1.72
+  06 037 Los Angeles              Ca        20   1.55        44   2.05
+  08 001 Adams                    Co        19   1.47        31   1.44
+  04 013 Maricopa                 Az        18   1.40        41   1.91
+  53 033 King                     Wa        16   1.24        20    .93
+  17 031 Cook                     Il        13   1.01        17    .79
+  48 201 Harris                   Tx        12    .93        18    .84
+  48 113 Dallas                   Tx        12    .93        12    .56
+  57 001 Foreign / Overseas       FR        12    .93        19    .88
+  08 123 Weld                     Co        12    .93        20    .93
+  08 107 Routt                    Co        12    .93        20    .93
+   Same State                               87   6.75       167   7.78
+   Region 1:   Northeast                    78   6.05        93   4.33
+   Region 2:   Midwest                     130  10.09       193   8.99
+   Region 3:   South                       120   9.31       189   8.80
+   Region 4:   West                        202  15.67       322  15.00
+      08 037   County Non-Migrants        7606            15340
+08 039   Elbert Total Migration F Co       379              830
+  08 005 Arapahoe                 Co        69  18.21       149  17.95
+  08 035 Douglas                  Co        54  14.25       123  14.82
+  08 041 El Paso                  Co        40  10.55       103  12.41
+  08 031 Denver                   Co        29   7.65        48   5.78
+  08 059 Jefferson                Co        16   4.22        28   3.37
+  08 001 Adams                    Co        10   2.64        20   2.41
+   Same State                               41  10.82        90  10.84
+   Same Region, Diff. State                 46  12.14        93  11.20
+   Different Region                         74  19.53       176  21.20
+      08 039   County Non-Migrants        2583             6758
+08 041   El Paso Total Migration  Co     16779            36178
+  57 001 Foreign / Overseas       FR      1622   9.67      3972  10.98
+  08 031 Denver                   Co       519   3.09       797   2.20
+  08 005 Arapahoe                 Co       504   3.00       954   2.64
+  04 013 Maricopa                 Az       412   2.46       769   2.13
+  08 059 Jefferson                Co       303   1.81       581   1.61
+  08 119 Teller                   Co       294   1.75       640   1.77
+  32 003 Clark                    Nv       247   1.47       467   1.29
+  08 101 Pueblo                   Co       231   1.38       501   1.38
+  08 069 Larimer                  Co       230   1.37       439   1.21
+  06 037 Los Angeles              Ca       228   1.36       397   1.10
+  08 013 Boulder                  Co       220   1.31       351    .97
+  08 001 Adams                    Co       185   1.10       408   1.13
+  15 003 Honolulu                 Hi       174   1.04       451   1.25
+  06 073 San Diego                Ca       164    .98       285    .79
+  48 029 Bexar                    Tx       153    .91       331    .91
+  48 201 Harris                   Tx       148    .88       333    .92
+  53 033 King                     Wa       143    .85       249    .69
+  08 035 Douglas                  Co       129    .77       279    .77
+  08 043 Fremont                  Co       129    .77       270    .75
+  48 113 Dallas                   Tx       121    .72       230    .64
+  06 059 Orange                   Ca       110    .66       211    .58
+  17 031 Cook                     Il       107    .64       209    .58
+  51 059 Fairfax                  Va       107    .64       280    .77
+  35 001 Bernalillo               NM       102    .61       220    .61
+  53 053 Pierce                   Wa       102    .61       251    .69
+  04 019 Pima                     Az        96    .57       179    .49
+  06 085 Santa Clara              Ca        95    .57       175    .48
+  08 123 Weld                     Co        94    .56       160    .44
+  48 303 Lubbock                  Tx        89    .53       129    .36
+  06 071 San Bernardino           Ca        84    .50       236    .65
+  06 067 Sacramento               Ca        84    .50       149    .41
+  48 439 Tarrant                  Tx        81    .48       203    .56
+  40 047 Garfield                 Ok        80    .48        99    .27
+  48 465 Val Verde                Tx        76    .45        85    .23
+  48 453 Travis                   Tx        70    .42       182    .50
+  28 087 Lowndes                  Ms        69    .41        77    .21
+  02 020 Anchorage Borough        Ak        63    .38       169    .47
+  06 065 Riverside                Ca        62    .37       137    .38
+  37 051 Cumberland               NC        59    .35       166    .46
+  49 035 Salt Lake                Ut        59    .35       128    .35
+  08 077 Mesa                     Co        56    .33       127    .35
+  48 141 El Paso                  Tx        54    .32       143    .40
+  48 485 Wichita                  Tx        54    .32        88    .24
+  40 109 Oklahoma                 Ok        52    .31       111    .31
+  27 053 Hennepin                 Mn        51    .30        79    .22
+  48 027 Bell                     Tx        51    .30       134    .37
+  12 009 Brevard                  Fl        49    .29       137    .38
+  06 001 Alameda                  Ca        49    .29       104    .29
+  25 017 Middlesex                Ma        48    .29       124    .34
+  06 053 Monterey                 Ca        48    .29       117    .32
+  20 173 Sedgwick                 Ks        47    .28        89    .25
+  16 001 Ada                      Id        46    .27       107    .30
+  08 117 Summit                   Co        44    .26        63    .17
+  21 093 Hardin                   Ky        43    .26       136    .38
+  39 049 Franklin                 Oh        43    .26        98    .27
+  08 037 Eagle                    Co        43    .26        82    .23
+  02 090 Fairbanks North Star Bor Ak        42    .25       122    .34
+  08 039 Elbert                   Co        41    .24       131    .36
+  20 091 Johnson                  Ks        41    .24       103    .28
+  12 057 Hillsborough             Fl        40    .24       100    .28
+  31 055 Douglas                  Ne        40    .24        81    .22
+  08 015 Chaffee                  Co        39    .23        84    .23
+  12 091 Okaloosa                 Fl        39    .23        87    .24
+  39 113 Montgomery               Oh        38    .23        93    .26
+  53 063 Spokane                  Wa        38    .23        68    .19
+  31 153 Sarpy                    Ne        37    .22        98    .27
+  06 029 Kern                     Ca        37    .22        71    .20
+  24 033 Prince George's          Md        37    .22        82    .23
+  41 051 Multnomah                Or        37    .22        51    .14
+  56 021 Laramie                  Wy        36    .21        85    .23
+  12 095 Orange                   Fl        36    .21        76    .21
+  29 189 St. Louis                Mo        35    .21        78    .22
+  53 061 Snohomish                Wa        35    .21        72    .20
+  12 103 Pinellas                 Fl        34    .20        64    .18
+  06 083 Santa Barbara            Ca        34    .20        71    .20
+  39 035 Cuyahoga                 Oh        34    .20        75    .21
+  01 101 Montgomery               Al        34    .20       104    .29
+  29 095 Jackson                  Mo        34    .20        80    .22
+  48 121 Denton                   Tx        34    .20        83    .23
+  12 011 Broward                  Fl        33    .20        66    .18
+  06 095 Solano                   Ca        33    .20        64    .18
+  12 025 Dade                     Fl        33    .20        74    .20
+  22 115 Vernon                   La        33    .20       109    .30
+  26 163 Wayne                    Mi        32    .19        80    .22
+  40 031 Comanche                 Ok        32    .19       102    .28
+  08 045 Garfield                 Co        32    .19        76    .21
+  32 031 Washoe                   Nv        32    .19        63    .17
+  40 143 Tulsa                    Ok        31    .18        72    .20
+  06 013 Contra Costa             Ca        31    .18        64    .18
+  53 011 Clark                    Wa        31    .18        80    .22
+  24 003 Anne Arundel             Md        31    .18        76    .21
+  45 079 Richland                 SC        31    .18        77    .21
+  20 103 Leavenworth              Ks        31    .18       106    .29
+  41 067 Washington               Or        31    .18        78    .22
+  26 125 Oakland                  Mi        30    .18        62    .17
+  18 097 Marion                   In        30    .18        62    .17
+  48 451 Tom Green                Tx        30    .18        53    .15
+  06 111 Ventura                  Ca        29    .17        65    .18
+  42 003 Allegheny                Pa        28    .17        63    .17
+  47 157 Shelby                   Tn        28    .17        57    .16
+  13 215 Muscogee                 Ga        28    .17        69    .19
+  12 031 Duval                    Fl        28    .17        56    .15
+  47 125 Montgomery               Tn        28    .17        72    .20
+  04 003 Cochise                  Az        27    .16        71    .20
+  21 111 Jefferson                Ky        27    .16        52    .14
+  17 043 Du Page                  Il        27    .16        50    .14
+  39 057 Greene                   Oh        27    .16        69    .19
+  12 099 Palm Beach               Fl        26    .15        48    .13
+  06 019 Fresno                   Ca        26    .15        56    .15
+  08 067 La Plata                 Co        25    .15        37    .10
+  57 003 Foreign / Puerto Rico    FR        25    .15        71    .20
+  55 079 Milwaukee                Wi        25    .15        47    .13
+  51 013 Arlington                Va        24    .14        41    .11
+  06 081 San Mateo                Ca        24    .14        41    .11
+  17 163 St. Clair                Il        24    .14        53    .15
+  12 005 Bay                      Fl        24    .14        53    .15
+  04 015 Mohave                   Az        23    .14        37    .10
+  51 153 Prince William           Va        23    .14        68    .19
+  48 355 Nueces                   Tx        23    .14        55    .15
+  36 029 Erie                     NY        23    .14        40    .11
+  56 025 Natrona                  Wy        23    .14        70    .19
+  13 089 De Kalb                  Ga        22    .13        37    .10
+  46 103 Pennington               SD        22    .13        45    .12
+  31 109 Lancaster                Ne        22    .13        34    .09
+  27 123 Ramsey                   Mn        22    .13        45    .12
+  24 031 Montgomery               Md        22    .13        39    .11
+  12 115 Sarasota                 Fl        22    .13        42    .12
+  19 153 Polk                     Ia        22    .13        40    .11
+  08 093 Park                     Co        22    .13        45    .12
+  48 157 Fort Bend                Tx        21    .13        60    .17
+  25 027 Worcester                Ma        21    .13        60    .17
+  13 121 Fulton                   Ga        21    .13        45    .12
+  26 099 Macomb                   Mi        21    .13        47    .13
+  06 075 San Francisco            Ca        21    .13        34    .09
+  51 810 Virginia Beach city      Va        20    .12        42    .12
+  06 077 San Joaquin              Ca        20    .12        45    .12
+  35 045 San Juan                 NM        20    .12        31    .09
+  41 039 Lane                     Or        20    .12        42    .12
+  08 107 Routt                    Co        20    .12        36    .10
+  05 119 Pulaski                  Ar        20    .12        52    .14
+  10 003 New Castle               De        19    .11        46    .13
+  08 089 Otero                    Co        19    .11        36    .10
+  12 127 Volusia                  Fl        19    .11        46    .13
+  55 025 Dane                     Wi        19    .11        51    .14
+  01 045 Dale                     Al        19    .11        42    .12
+  11 001 Wash.,D.C.               DC        19    .11        25    .07
+  08 003 Alamosa                  Co        19    .11        41    .11
+  40 027 Cleveland                Ok        19    .11        48    .13
+  18 089 Lake                     In        19    .11        39    .11
+  51 650 Hampton city             Va        18    .11        37    .10
+  17 097 Lake                     Il        18    .11        32    .09
+  51 700 Newport News city        Va        18    .11        40    .11
+  35 049 Santa Fe                 NM        18    .11        36    .10
+  01 089 Madison                  Al        18    .11        51    .14
+  26 049 Genesee                  Mi        17    .10        40    .11
+  20 055 Finney                   Ks        17    .10        37    .10
+  38 101 Ward                     ND        17    .10        36    .10
+  13 051 Chatham                  Ga        17    .10        36    .10
+  51 510 Alexandria city          Va        17    .10        29    .08
+  39 061 Hamilton                 Oh        17    .10        41    .11
+  09 003 Hartford                 Ct        17    .10        34    .09
+  13 067 Cobb                     Ga        17    .10        42    .12
+  08 099 Prowers                  Co        17    .10        41    .11
+  34 005 Burlington               NJ        17    .10        42    .12
+  08 105 Rio Grande               Co        17    .10        32    .09
+  36 061 New York                 NY        17    .10        19    .05
+  01 073 Jefferson                Al        16    .10        38    .11
+  37 119 Mecklenburg              NC        16    .10        40    .11
+  48 085 Collin                   Tx        16    .10        43    .12
+  48 167 Galveston                Tx        16    .10        39    .11
+  49 011 Davis                    Ut        16    .10        40    .11
+  08 073 Lincoln                  Co        16    .10        28    .08
+  08 087 Morgan                   Co        16    .10        38    .11
+  53 067 Thurston                 Wa        16    .10        39    .11
+  20 177 Shawnee                  Ks        16    .10        28    .08
+  41 029 Jackson                  Or        16    .10        35    .10
+  39 153 Summit                   Oh        16    .10        27    .07
+  55 035 Eau Claire               Wi        15    .09        37    .10
+  35 013 Dona Ana                 NM        15    .09        31    .09
+  20 161 Riley                    Ks        15    .09        28    .08
+  25 025 Suffolk                  Ma        15    .09        26    .07
+  56 001 Albany                   Wy        15    .09        28    .08
+  30 013 Cascade                  Mt        15    .09        24    .07
+  22 033 East Baton Rouge         La        15    .09        29    .08
+  13 245 Richmond                 Ga        15    .09        34    .09
+  21 047 Christian                Ky        15    .09        31    .09
+  24 025 Harford                  Md        15    .09        37    .10
+  42 101 Philadelphia             Pa        15    .09        30    .08
+  47 037 Davidson                 Tn        15    .09        34    .09
+  48 441 Taylor                   Tx        15    .09        35    .10
+  49 049 Utah                     Ut        15    .09        37    .10
+  37 183 Wake                     NC        14    .08        34    .09
+  13 135 Gwinnett                 Ga        14    .08        41    .11
+  45 019 Charleston               SC        14    .08        34    .09
+  08 051 Gunnison                 Co        14    .08        19    .05
+  22 017 Caddo                    La        14    .08        35    .10
+  19 169 Story                    Ia        14    .08        31    .09
+  30 111 Yellowstone              Mt        14    .08        35    .10
+  12 073 Leon                     Fl        14    .08        34    .09
+  06 087 Santa Cruz               Ca        14    .08        20    .06
+  48 491 Williamson               Tx        14    .08        31    .09
+  12 071 Lee                      Fl        14    .08        26    .07
+  36 055 Monroe                   NY        14    .08        28    .08
+  04 025 Yavapai                  Az        14    .08        26    .07
+  26 065 Ingham                   Mi        13    .08        28    .08
+  29 077 Greene                   Mo        13    .08        28    .08
+  23 003 Aroostook                Me        13    .08        31    .09
+  06 061 Placer                   Ca        13    .08        20    .06
+  31 157 Scotts Bluff             Ne        13    .08        35    .10
+  17 019 Champaign                Il        13    .08        23    .06
+  35 035 Otero                    NM        13    .08        34    .09
+  42 091 Montgomery               Pa        13    .08        23    .06
+  18 003 Allen                    In        13    .08        24    .07
+  29 169 Pulaski                  Mo        13    .08        47    .13
+  06 097 Sonoma                   Ca        13    .08        25    .07
+  36 067 Onondaga                 NY        13    .08        24    .07
+  42 017 Bucks                    Pa        13    .08        27    .07
+  48 039 Brazoria                 Tx        13    .08        26    .07
+  38 035 Grand Forks              ND        13    .08        22    .06
+  08 055 Huerfano                 Co        13    .08        28    .08
+  46 099 Minnehaha                SD        12    .07        37    .10
+  34 003 Bergen                   NJ        12    .07        21    .06
+  17 119 Madison                  Il        12    .07        29    .08
+  12 117 Seminole                 Fl        12    .07        19    .05
+  24 005 Baltimore                Md        12    .07        32    .09
+  36 045 Jefferson                NY        12    .07        28    .08
+  24 510 Baltimore city           Md        12    .07        35    .10
+  08 029 Delta                    Co        12    .07        25    .07
+  27 003 Anoka                    Mn        12    .07        26    .07
+  49 057 Weber                    Ut        12    .07        35    .10
+  34 027 Morris                   NJ        12    .07        23    .06
+  04 005 Coconino                 Az        12    .07        17    .05
+  22 071 Orleans                  La        12    .07        29    .08
+  36 059 Nassau                   NY        12    .07        22    .06
+  27 037 Dakota                   Mn        12    .07        26    .07
+  20 209 Wyandotte                Ks        12    .07        27    .07
+  36 071 Orange                   NY        12    .07        31    .09
+  41 005 Clackamas                Or        12    .07        36    .10
+  47 093 Knox                     Tn        12    .07        29    .08
+  06 089 Shasta                   Ca        11    .07        26    .07
+  25 021 Norfolk                  Ma        11    .07        18    .05
+  51 710 Norfolk city             Va        11    .07        25    .07
+  04 021 Pinal                    Az        11    .07        25    .07
+  28 049 Hinds                    Ms        11    .07        27    .07
+  47 065 Hamilton                 Tn        11    .07        33    .09
+  16 019 Bonneville               Id        11    .07        16    .04
+  34 023 Middlesex                NJ        11    .07        24    .07
+  41 047 Marion                   Or        11    .07        26    .07
+  20 061 Geary                    Ks        11    .07        35    .10
+  28 047 Harrison                 Ms        11    .07        18    .05
+  48 099 Coryell                  Tx        11    .07        36    .10
+  26 121 Muskegon                 Mi        11    .07        34    .09
+  35 043 Sandoval                 NM        11    .07        26    .07
+  36 047 Kings                    NY        11    .07        18    .05
+  39 093 Lorain                   Oh        11    .07        20    .06
+  36 081 Queens                   NY        11    .07        19    .05
+  53 035 Kitsap                   Wa        11    .07        29    .08
+  20 169 Saline                   Ks        10    .06        17    .05
+  39 017 Butler                   Oh        10    .06        31    .09
+  45 045 Greenville               SC        10    .06        18    .05
+  12 033 Escambia                 Fl        10    .06        17    .05
+  19 113 Linn                     Ia        10    .06        16    .04
+  53 073 Whatcom                  Wa        10    .06        21    .06
+  06 047 Merced                   Ca        10    .06        21    .06
+  48 381 Randall                  Tx        10    .06        16    .04
+  42 043 Dauphin                  Pa        10    .06        25    .07
+  56 037 Sweetwater               Wy        10    .06        30    .08
+  37 133 Onslow                   NC        10    .06        14    .04
+  12 105 Polk                     Fl        10    .06        16    .04
+  42 071 Lancaster                Pa        10    .06        26    .07
+  13 063 Clayton                  Ga        10    .06        21    .06
+  38 017 Cass                     ND        10    .06        25    .07
+  33 011 Hillsborough             NH        10    .06        21    .06
+  20 045 Douglas                  Ks        10    .06        28    .08
+  08 085 Montrose                 Co        10    .06        23    .06
+  12 001 Alachua                  Fl        10    .06        22    .06
+  45 085 Sumter                   SC        10    .06        32    .09
+  10 001 Kent                     De        10    .06        17    .05
+   Same State                              111    .66       210    .58
+   Region 1:   Northeast                   528   3.15      1094   3.02
+   Region 2:   Midwest                    1292   7.70      2975   8.22
+   Region 3:   South                      1363   8.12      3221   8.90
+   Region 4:   West                        550   3.28      1192   3.29
+      08 041   County Non-Migrants      130534           298500
+08 043   Fremont Total Migration  Co       799             1715
+  08 041 El Paso                  Co       113  14.14       234  13.64
+  08 101 Pueblo                   Co        55   6.88       113   6.59
+  08 005 Arapahoe                 Co        33   4.13        64   3.73
+  04 013 Maricopa                 Az        25   3.13        44   2.57
+  08 031 Denver                   Co        25   3.13        43   2.51
+  08 001 Adams                    Co        19   2.38        46   2.68
+  08 059 Jefferson                Co        18   2.25        29   1.69
+  08 015 Chaffee                  Co        18   2.25        38   2.22
+  08 027 Custer                   Co        17   2.13        43   2.51
+  08 013 Boulder                  Co        17   2.13        28   1.63
+  08 073 Lincoln                  Co        14   1.75        36   2.10
+  08 069 Larimer                  Co        13   1.63        21   1.22
+  57 001 Foreign / Overseas       FR        10   1.25        19   1.11
+   Same State                               92  11.51       221  12.89
+   Region 1:   Northeast                    11   1.38        20   1.17
+   Region 2:   Midwest                      82  10.26       224  13.06
+   Region 3:   South                        97  12.14       221  12.89
+   Region 4:   West                        140  17.52       271  15.80
+      08 043   County Non-Migrants        9126            20765
+08 045   Garfield Total Migration Co      1239             2516
+  08 077 Mesa                     Co       184  14.85       397  15.78
+  08 097 Pitkin                   Co        61   4.92       108   4.29
+  08 031 Denver                   Co        46   3.71        81   3.22
+  08 037 Eagle                    Co        41   3.31        77   3.06
+  08 059 Jefferson                Co        39   3.15        72   2.86
+  08 005 Arapahoe                 Co        33   2.66        61   2.42
+  08 013 Boulder                  Co        33   2.66        51   2.03
+  08 001 Adams                    Co        30   2.42        60   2.38
+  04 013 Maricopa                 Az        26   2.10        52   2.07
+  08 041 El Paso                  Co        25   2.02        41   1.63
+  08 069 Larimer                  Co        23   1.86        40   1.59
+  08 029 Delta                    Co        20   1.61        47   1.87
+  57 001 Foreign / Overseas       FR        16   1.29        23    .91
+  08 123 Weld                     Co        16   1.29        32   1.27
+  08 085 Montrose                 Co        16   1.29        26   1.03
+  08 067 La Plata                 Co        12    .97        18    .72
+  15 003 Honolulu                 Hi        12    .97        25    .99
+  08 081 Moffat                   Co        11    .89        28   1.11
+  49 035 Salt Lake                Ut        11    .89        26   1.03
+  49 049 Utah                     Ut        10    .81        27   1.07
+   Same State                               96   7.75       227   9.02
+   Region 1:   Northeast                    20   1.61        45   1.79
+   Region 2:   Midwest                      97   7.83       202   8.03
+   Region 3:   South                       107   8.64       220   8.74
+   Region 4:   West                        254  20.50       530  21.07
+      08 045   County Non-Migrants        9500            22121
+08 047   Gilpin Total Migration F Co       127              222
+  08 059 Jefferson                Co        33  25.98        67  30.18
+  08 013 Boulder                  Co        15  11.81        22   9.91
+  08 031 Denver                   Co        11   8.66        22   9.91
+   Same State                               24  18.90        44  19.82
+   Same Region, Diff. State                 16  12.60        23  10.36
+   Different Region                         28  22.05        44  19.82
+      08 047   County Non-Migrants         753             1559
+08 049   Grand Total Migration Fl Co       444              753
+  08 031 Denver                   Co        36   8.11        47   6.24
+  08 059 Jefferson                Co        30   6.76        57   7.57
+  08 013 Boulder                  Co        25   5.63        38   5.05
+  08 069 Larimer                  Co        17   3.83        26   3.45
+  08 005 Arapahoe                 Co        14   3.15        21   2.79
+  08 117 Summit                   Co        14   3.15        31   4.12
+   Same State                               85  19.14       173  22.97
+   Region 1:   Northeast                    21   4.73        30   3.98
+   Region 2:   Midwest                      64  14.41        94  12.48
+   Region 3:   South                        47  10.59        73   9.69
+   Region 4:   West                         91  20.50       163  21.65
+      08 049   County Non-Migrants        2870             6131
+08 051   Gunnison Total Migration Co       499              861
+  08 031 Denver                   Co        21   4.21        35   4.07
+  08 077 Mesa                     Co        20   4.01        40   4.65
+  08 041 El Paso                  Co        19   3.81        32   3.72
+  08 085 Montrose                 Co        18   3.61        35   4.07
+  08 013 Boulder                  Co        17   3.41        25   2.90
+  08 005 Arapahoe                 Co        17   3.41        27   3.14
+  08 059 Jefferson                Co        14   2.81        30   3.48
+  08 029 Delta                    Co        13   2.61        28   3.25
+  08 045 Garfield                 Co        10   2.00        13   1.51
+  08 001 Adams                    Co        10   2.00        17   1.97
+   Same State                               59  11.82       109  12.66
+   Region 1:   Northeast                    27   5.41        38   4.41
+   Region 2:   Midwest                      55  11.02        99  11.50
+   Region 3:   South                        68  13.63       120  13.94
+   Region 4:   West                        121  24.25       199  23.11
+   Foreign                                  10   2.00        14   1.63
+      08 051   County Non-Migrants        3066             6417
+08 053   Hinsdale Total Migration Co        25               44
+   All Migration Flows                      25 100.00        44 100.00
+      08 053   County Non-Migrants         162              334
+08 055   Huerfano Total Migration Co       132              276
+  08 101 Pueblo                   Co        16  12.12        42  15.22
+  08 041 El Paso                  Co        15  11.36        28  10.14
+   Same State                               55  41.67       110  39.86
+   Same Region, Diff. State                 24  18.18        50  18.12
+   Different Region                         22  16.67        46  16.67
+      08 055   County Non-Migrants        1618             3682
+08 057   Jackson Total Migration  Co        55              143
+   All Migration Flows                      55 100.00       143 100.00
+      08 057   County Non-Migrants         511             1236
+08 059   Jefferson Total Migratio Co     18636            34989
+  08 031 Denver                   Co      4516  24.23      7444  21.28
+  08 005 Arapahoe                 Co      2598  13.94      4847  13.85
+  08 001 Adams                    Co      2478  13.30      4840  13.83
+  08 013 Boulder                  Co       773   4.15      1411   4.03
+  08 035 Douglas                  Co       340   1.82       766   2.19
+  08 069 Larimer                  Co       291   1.56       503   1.44
+  04 013 Maricopa                 Az       269   1.44       523   1.49
+  08 041 El Paso                  Co       204   1.09       420   1.20
+  06 037 Los Angeles              Ca       200   1.07       310    .89
+  08 123 Weld                     Co       191   1.02       331    .95
+  57 001 Foreign / Overseas       FR       152    .82       282    .81
+  06 073 San Diego                Ca       150    .80       268    .77
+  32 003 Clark                    Nv       142    .76       269    .77
+  48 201 Harris                   Tx       131    .70       270    .77
+  06 059 Orange                   Ca       119    .64       244    .70
+  08 077 Mesa                     Co       112    .60       218    .62
+  53 033 King                     Wa        99    .53       174    .50
+  08 093 Park                     Co        98    .53       222    .63
+  49 035 Salt Lake                Ut        85    .46       194    .55
+  48 113 Dallas                   Tx        78    .42       142    .41
+  17 031 Cook                     Il        77    .41       152    .43
+  08 117 Summit                   Co        72    .39       112    .32
+  04 019 Pima                     Az        68    .36       131    .37
+  48 439 Tarrant                  Tx        66    .35       144    .41
+  08 045 Garfield                 Co        64    .34       134    .38
+  35 001 Bernalillo               NM        63    .34       109    .31
+  06 001 Alameda                  Ca        63    .34       129    .37
+  08 019 Clear Creek              Co        60    .32       108    .31
+  06 085 Santa Clara              Ca        53    .28        82    .23
+  08 101 Pueblo                   Co        53    .28       122    .35
+  06 081 San Mateo                Ca        49    .26        79    .23
+  06 065 Riverside                Ca        45    .24        82    .23
+  15 003 Honolulu                 Hi        44    .24        74    .21
+  40 143 Tulsa                    Ok        43    .23       111    .32
+  06 067 Sacramento               Ca        43    .23        77    .22
+  08 037 Eagle                    Co        43    .23        73    .21
+  27 053 Hennepin                 Mn        42    .23        89    .25
+  08 107 Routt                    Co        39    .21        67    .19
+  48 029 Bexar                    Tx        39    .21        73    .21
+  06 029 Kern                     Ca        38    .20        80    .23
+  51 059 Fairfax                  Va        37    .20        87    .25
+  06 071 San Bernardino           Ca        36    .19        60    .17
+  08 049 Grand                    Co        36    .19        78    .22
+  48 453 Travis                   Tx        35    .19        65    .19
+  08 067 La Plata                 Co        35    .19        61    .17
+  06 013 Contra Costa             Ca        34    .18        60    .17
+  56 021 Laramie                  Wy        33    .18        66    .19
+  08 029 Delta                    Co        33    .18        64    .18
+  08 039 Elbert                   Co        33    .18        82    .23
+  12 103 Pinellas                 Fl        31    .17        62    .18
+  17 043 Du Page                  Il        31    .17        77    .22
+  30 111 Yellowstone              Mt        30    .16        58    .17
+  08 047 Gilpin                   Co        30    .16        59    .17
+  06 075 San Francisco            Ca        30    .16        32    .09
+  06 111 Ventura                  Ca        29    .16        56    .16
+  31 055 Douglas                  Ne        28    .15        55    .16
+  41 067 Washington               Or        27    .14        57    .16
+  02 020 Anchorage Borough        Ak        26    .14        47    .13
+  56 025 Natrona                  Wy        26    .14        59    .17
+  53 053 Pierce                   Wa        25    .13        62    .18
+  53 061 Snohomish                Wa        25    .13        54    .15
+  32 031 Washoe                   Nv        25    .13        40    .11
+  12 057 Hillsborough             Fl        25    .13        55    .16
+  29 189 St. Louis                Mo        25    .13        43    .12
+  12 095 Orange                   Fl        23    .12        41    .12
+  12 025 Dade                     Fl        23    .12        41    .12
+  12 009 Brevard                  Fl        23    .12        58    .17
+  20 091 Johnson                  Ks        22    .12        51    .15
+  08 043 Fremont                  Co        22    .12        36    .10
+  39 035 Cuyahoga                 Oh        22    .12        49    .14
+  31 109 Lancaster                Ne        21    .11        37    .11
+  16 001 Ada                      Id        21    .11        61    .17
+  19 153 Polk                     Ia        21    .11        39    .11
+  49 049 Utah                     Ut        21    .11        45    .13
+  40 109 Oklahoma                 Ok        21    .11        41    .12
+  27 123 Ramsey                   Mn        21    .11        44    .13
+  41 039 Lane                     Or        20    .11        32    .09
+  08 087 Morgan                   Co        20    .11        42    .12
+  53 011 Clark                    Wa        20    .11        32    .09
+  06 083 Santa Barbara            Ca        19    .10        36    .10
+  08 085 Montrose                 Co        19    .10        34    .10
+  27 037 Dakota                   Mn        18    .10        47    .13
+  08 015 Chaffee                  Co        18    .10        25    .07
+  41 051 Multnomah                Or        18    .10        34    .10
+  48 121 Denton                   Tx        18    .10        50    .14
+  06 053 Monterey                 Ca        18    .10        36    .10
+  12 011 Broward                  Fl        18    .10        33    .09
+  12 099 Palm Beach               Fl        18    .10        38    .11
+  48 085 Collin                   Tx        17    .09        42    .12
+  48 141 El Paso                  Tx        17    .09        30    .09
+  18 097 Marion                   In        17    .09        40    .11
+  08 051 Gunnison                 Co        17    .09        30    .09
+  35 013 Dona Ana                 NM        16    .09        29    .08
+  30 063 Missoula                 Mt        16    .09        25    .07
+  06 019 Fresno                   Ca        16    .09        32    .09
+  12 117 Seminole                 Fl        16    .09        39    .11
+  30 013 Cascade                  Mt        16    .09        32    .09
+  31 153 Sarpy                    Ne        16    .09        31    .09
+  04 015 Mohave                   Az        16    .09        30    .09
+  29 095 Jackson                  Mo        16    .09        31    .09
+  20 173 Sedgwick                 Ks        16    .09        33    .09
+  13 067 Cobb                     Ga        15    .08        28    .08
+  41 005 Clackamas                Or        15    .08        31    .09
+  06 095 Solano                   Ca        15    .08        25    .07
+  17 097 Lake                     Il        15    .08        26    .07
+  55 025 Dane                     Wi        15    .08        39    .11
+  21 111 Jefferson                Ky        15    .08        24    .07
+  24 031 Montgomery               Md        15    .08        30    .09
+  26 125 Oakland                  Mi        14    .08        34    .10
+  42 003 Allegheny                Pa        14    .08        27    .08
+  53 063 Spokane                  Wa        14    .08        22    .06
+  56 001 Albany                   Wy        14    .08        25    .07
+  37 119 Mecklenburg              NC        14    .08        31    .09
+  48 157 Fort Bend                Tx        13    .07        36    .10
+  31 111 Lincoln                  Ne        13    .07        30    .09
+  12 071 Lee                      Fl        13    .07        36    .10
+  39 049 Franklin                 Oh        13    .07        18    .05
+  48 339 Montgomery               Tx        13    .07        33    .09
+  19 193 Woodbury                 Ia        13    .07        32    .09
+  46 103 Pennington               SD        13    .07        31    .09
+  15 009 Maui                     Hi        13    .07        16    .05
+  29 077 Greene                   Mo        12    .06        30    .09
+  12 031 Duval                    Fl        12    .06        20    .06
+  12 115 Sarasota                 Fl        12    .06        19    .05
+  56 013 Fremont                  Wy        12    .06        23    .07
+  35 045 San Juan                 NM        12    .06        27    .08
+  51 013 Arlington                Va        12    .06        23    .07
+  08 097 Pitkin                   Co        12    .06        14    .04
+  36 061 New York                 NY        12    .06        12    .03
+  08 089 Otero                    Co        12    .06        25    .07
+  37 051 Cumberland               NC        12    .06        25    .07
+  08 119 Teller                   Co        12    .06        25    .07
+  08 083 Montezuma                Co        12    .06        24    .07
+  49 011 Davis                    Ut        12    .06        29    .08
+  26 163 Wayne                    Mi        12    .06        13    .04
+  29 165 Platte                   Mo        11    .06        21    .06
+  24 033 Prince George's          Md        11    .06        20    .06
+  41 029 Jackson                  Or        11    .06        28    .08
+  13 135 Gwinnett                 Ga        11    .06        23    .07
+  04 025 Yavapai                  Az        11    .06        26    .07
+  51 810 Virginia Beach city      Va        11    .06        30    .09
+  35 049 Santa Fe                 NM        11    .06        19    .05
+  47 093 Knox                     Tn        10    .05        26    .07
+  47 157 Shelby                   Tn        10    .05        26    .07
+  53 005 Benton                   Wa        10    .05        23    .07
+  37 133 Onslow                   NC        10    .05        21    .06
+  49 057 Weber                    Ut        10    .05        24    .07
+  09 001 Fairfield                Ct        10    .05        17    .05
+  13 121 Fulton                   Ga        10    .05        18    .05
+  25 017 Middlesex                Ma        10    .05        18    .05
+  41 003 Benton                   Or        10    .05        12    .03
+  51 153 Prince William           Va        10    .05        26    .07
+  31 157 Scotts Bluff             Ne        10    .05        20    .06
+  53 073 Whatcom                  Wa        10    .05        23    .07
+  56 037 Sweetwater               Wy        10    .05        23    .07
+  13 063 Clayton                  Ga        10    .05        19    .05
+  39 061 Hamilton                 Oh        10    .05        17    .05
+  32 007 Elko                     Nv        10    .05        15    .04
+   Same State                              104    .56       234    .67
+   Region 1:   Northeast                   259   1.39       506   1.45
+   Region 2:   Midwest                     833   4.47      1779   5.08
+   Region 3:   South                       757   4.06      1600   4.57
+   Region 4:   West                        487   2.61       941   2.69
+      08 059   County Non-Migrants      150991           340277
+08 061   Kiowa Total Migration Fl Co        59              137
+   All Migration Flows                      59 100.00       137 100.00
+      08 061   County Non-Migrants         565             1387
+08 063   Kit Carson Total Migrati Co       176              390
+  08 123 Weld                     Co        12   6.82        34   8.72
+  08 125 Yuma                     Co        10   5.68        29   7.44
+   Same State                               90  51.14       183  46.92
+   Same Region, Diff. State                 13   7.39        32   8.21
+   Different Region                         51  28.98       112  28.72
+      08 063   County Non-Migrants        2540             6239
+08 065   Lake Total Migration Flo Co       263              500
+  08 059 Jefferson                Co        24   9.13        53  10.60
+  08 117 Summit                   Co        22   8.37        33   6.60
+  08 037 Eagle                    Co        19   7.22        29   5.80
+  08 031 Denver                   Co        12   4.56        16   3.20
+  08 015 Chaffee                  Co        10   3.80        22   4.40
+   Same State                               63  23.95       131  26.20
+   Same Region, Diff. State                 74  28.14       146  29.20
+   Different Region                         39  14.83        70  14.00
+      08 065   County Non-Migrants        1949             4480
+08 067   La Plata Total Migration Co      1136             2126
+  35 045 San Juan                 NM        86   7.57       187   8.80
+  08 059 Jefferson                Co        44   3.87        73   3.43
+  04 013 Maricopa                 Az        44   3.87        84   3.95
+  08 031 Denver                   Co        42   3.70        75   3.53
+  08 083 Montezuma                Co        41   3.61        83   3.90
+  08 077 Mesa                     Co        33   2.90        64   3.01
+  08 013 Boulder                  Co        32   2.82        50   2.35
+  08 069 Larimer                  Co        28   2.46        45   2.12
+  35 001 Bernalillo               NM        26   2.29        41   1.93
+  08 041 El Paso                  Co        24   2.11        36   1.69
+  32 003 Clark                    Nv        23   2.02        41   1.93
+  04 019 Pima                     Az        21   1.85        37   1.74
+  08 001 Adams                    Co        19   1.67        38   1.79
+  06 073 San Diego                Ca        18   1.58        28   1.32
+  08 005 Arapahoe                 Co        17   1.50        30   1.41
+  06 037 Los Angeles              Ca        17   1.50        28   1.32
+  06 059 Orange                   Ca        11    .97        18    .85
+  57 001 Foreign / Overseas       FR        11    .97        13    .61
+  04 025 Yavapai                  Az        10    .88        17    .80
+  48 113 Dallas                   Tx        10    .88        15    .71
+  48 201 Harris                   Tx        10    .88        22   1.03
+  53 033 King                     Wa        10    .88        12    .56
+   Same State                               95   8.36       182   8.56
+   Region 1:   Northeast                    17   1.50        28   1.32
+   Region 2:   Midwest                      87   7.66       185   8.70
+   Region 3:   South                       127  11.18       237  11.15
+   Region 4:   West                        233  20.51       457  21.50
+      08 067   County Non-Migrants        9854            21936
+08 069   Larimer Total Migration  Co      5824            10679
+  08 013 Boulder                  Co       482   8.28       849   7.95
+  08 123 Weld                     Co       440   7.55       910   8.52
+  08 031 Denver                   Co       347   5.96       480   4.49
+  08 005 Arapahoe                 Co       250   4.29       414   3.88
+  08 059 Jefferson                Co       240   4.12       397   3.72
+  08 001 Adams                    Co       186   3.19       339   3.17
+  08 041 El Paso                  Co       132   2.27       244   2.28
+  04 013 Maricopa                 Az       129   2.21       214   2.00
+  57 001 Foreign / Overseas       FR        94   1.61       145   1.36
+  56 021 Laramie                  Wy        90   1.55       167   1.56
+  06 073 San Diego                Ca        72   1.24        99    .93
+  32 003 Clark                    Nv        67   1.15       109   1.02
+  53 033 King                     Wa        62   1.06        99    .93
+  06 037 Los Angeles              Ca        55    .94        82    .77
+  06 059 Orange                   Ca        49    .84        85    .80
+  06 085 Santa Clara              Ca        46    .79        76    .71
+  04 019 Pima                     Az        45    .77        81    .76
+  08 077 Mesa                     Co        43    .74        75    .70
+  48 201 Harris                   Tx        37    .64        59    .55
+  06 071 San Bernardino           Ca        34    .58        50    .47
+  08 035 Douglas                  Co        31    .53        62    .58
+  17 031 Cook                     Il        29    .50        45    .42
+  35 001 Bernalillo               NM        26    .45        53    .50
+  56 001 Albany                   Wy        26    .45        41    .38
+  49 035 Salt Lake                Ut        24    .41        43    .40
+  08 067 La Plata                 Co        23    .39        33    .31
+  08 117 Summit                   Co        22    .38        31    .29
+  08 107 Routt                    Co        22    .38        32    .30
+  08 037 Eagle                    Co        22    .38        30    .28
+  48 113 Dallas                   Tx        21    .36        42    .39
+  15 003 Honolulu                 Hi        20    .34        32    .30
+  08 087 Morgan                   Co        20    .34        32    .30
+  31 109 Lancaster                Ne        20    .34        44    .41
+  06 065 Riverside                Ca        19    .33        38    .36
+  06 067 Sacramento               Ca        18    .31        40    .37
+  48 453 Travis                   Tx        18    .31        45    .42
+  41 067 Washington               Or        17    .29        36    .34
+  48 029 Bexar                    Tx        17    .29        29    .27
+  31 157 Scotts Bluff             Ne        17    .29        50    .47
+  48 439 Tarrant                  Tx        17    .29        29    .27
+  06 081 San Mateo                Ca        16    .27        25    .23
+  20 091 Johnson                  Ks        16    .27        41    .38
+  06 013 Contra Costa             Ca        16    .27        26    .24
+  41 003 Benton                   Or        16    .27        26    .24
+  08 075 Logan                    Co        15    .26        31    .29
+  27 053 Hennepin                 Mn        15    .26        21    .20
+  53 011 Clark                    Wa        15    .26        37    .35
+  39 049 Franklin                 Oh        15    .26        20    .19
+  20 173 Sedgwick                 Ks        15    .26        28    .26
+  56 007 Carbon                   Wy        15    .26        29    .27
+  53 053 Pierce                   Wa        15    .26        27    .25
+  56 025 Natrona                  Wy        14    .24        25    .23
+  06 075 San Francisco            Ca        14    .24        15    .14
+  41 051 Multnomah                Or        14    .24        22    .21
+  08 045 Garfield                 Co        14    .24        26    .24
+  08 049 Grand                    Co        14    .24        21    .20
+  08 101 Pueblo                   Co        14    .24        20    .19
+  53 061 Snohomish                Wa        14    .24        35    .33
+  29 095 Jackson                  Mo        13    .22        18    .17
+  08 043 Fremont                  Co        13    .22        21    .20
+  06 001 Alameda                  Ca        13    .22        28    .26
+  08 029 Delta                    Co        13    .22        29    .27
+  51 059 Fairfax                  Va        12    .21        23    .22
+  46 103 Pennington               SD        12    .21        21    .20
+  16 001 Ada                      Id        12    .21        33    .31
+  31 055 Douglas                  Ne        12    .21        16    .15
+  02 020 Anchorage Borough        Ak        12    .21        25    .23
+  35 049 Santa Fe                 NM        12    .21        24    .22
+  40 143 Tulsa                    Ok        11    .19        25    .23
+  30 063 Missoula                 Mt        11    .19        18    .17
+  08 051 Gunnison                 Co        11    .19        15    .14
+  04 015 Mohave                   Az        11    .19        19    .18
+  29 189 St. Louis                Mo        11    .19        25    .23
+  27 123 Ramsey                   Mn        11    .19        20    .19
+  36 055 Monroe                   NY        11    .19        21    .20
+  19 153 Polk                     Ia        10    .17        28    .26
+  08 083 Montezuma                Co        10    .17        17    .16
+  12 095 Orange                   Fl        10    .17        16    .15
+  48 491 Williamson               Tx        10    .17        38    .36
+  35 045 San Juan                 NM        10    .17        14    .13
+  17 201 Winnebago                Il        10    .17        21    .20
+  12 103 Pinellas                 Fl        10    .17        23    .22
+  25 017 Middlesex                Ma        10    .17        23    .22
+  53 063 Spokane                  Wa        10    .17        17    .16
+  30 031 Gallatin                 Mt        10    .17        14    .13
+  08 057 Jackson                  Co        10    .17        21    .20
+   Same State                              100   1.72       211   1.98
+   Region 1:   Northeast                   198   3.40       323   3.02
+   Region 2:   Midwest                     632  10.85      1293  12.11
+   Region 3:   South                       525   9.01      1099  10.29
+   Region 4:   West                        462   7.93       904   8.47
+      08 069   County Non-Migrants       61071           138728
+08 071   Las Animas Total Migrati Co       284              601
+  08 101 Pueblo                   Co        32  11.27        74  12.31
+  08 031 Denver                   Co        20   7.04        34   5.66
+  08 041 El Paso                  Co        18   6.34        42   6.99
+  08 005 Arapahoe                 Co        13   4.58        28   4.66
+  08 059 Jefferson                Co        10   3.52        20   3.33
+   Same State                               57  20.07       126  20.97
+   Same Region, Diff. State                 73  25.70       148  24.63
+   Different Region                         61  21.48       129  21.46
+      08 071   County Non-Migrants        3873             9038
+08 073   Lincoln Total Migration  Co       168              333
+  08 041 El Paso                  Co        12   7.14        28   8.41
+  08 031 Denver                   Co        11   6.55        17   5.11
+  08 005 Arapahoe                 Co        11   6.55        17   5.11
+   Same State                               68  40.48       157  47.15
+   Region 2:   Midwest                      26  15.48        47  14.11
+   Region 3:   South                        17  10.12        33   9.91
+   Region 4:   West                         23  13.69        34  10.21
+      08 073   County Non-Migrants        1506             3497
+08 075   Logan Total Migration Fl Co       475              981
+  08 069 Larimer                  Co        55  11.58        81   8.26
+  08 123 Weld                     Co        50  10.53        90   9.17
+  08 005 Arapahoe                 Co        26   5.47        45   4.59
+  08 087 Morgan                   Co        22   4.63        68   6.93
+  08 001 Adams                    Co        16   3.37        33   3.36
+  08 059 Jefferson                Co        15   3.16        33   3.36
+  08 031 Denver                   Co        15   3.16        21   2.14
+  08 013 Boulder                  Co        14   2.95        28   2.85
+  08 041 El Paso                  Co        13   2.74        25   2.55
+  31 033 Cheyenne                 Ne        10   2.11        29   2.96
+   Same State                               65  13.68       145  14.78
+   Same Region, Diff. State                 57  12.00       125  12.74
+   Different Region                        117  24.63       258  26.30
+      08 075   County Non-Migrants        5892            13929
+08 077   Mesa Total Migration Flo Co      2300             4745
+  08 045 Garfield                 Co       101   4.39       249   5.25
+  08 059 Jefferson                Co        99   4.30       179   3.77
+  08 031 Denver                   Co        98   4.26       143   3.01
+  04 013 Maricopa                 Az        88   3.83       184   3.88
+  08 029 Delta                    Co        77   3.35       170   3.58
+  08 069 Larimer                  Co        72   3.13       130   2.74
+  08 005 Arapahoe                 Co        64   2.78       142   2.99
+  08 085 Montrose                 Co        60   2.61       132   2.78
+  08 041 El Paso                  Co        56   2.43       108   2.28
+  08 001 Adams                    Co        47   2.04        94   1.98
+  32 003 Clark                    Nv        46   2.00        67   1.41
+  08 013 Boulder                  Co        44   1.91        69   1.45
+  49 035 Salt Lake                Ut        42   1.83        96   2.02
+  08 123 Weld                     Co        32   1.39        56   1.18
+  57 001 Foreign / Overseas       FR        32   1.39        47    .99
+  08 067 La Plata                 Co        31   1.35        65   1.37
+  08 037 Eagle                    Co        26   1.13        45    .95
+  06 073 San Diego                Ca        25   1.09        35    .74
+  53 033 King                     Wa        23   1.00        40    .84
+  08 097 Pitkin                   Co        20    .87        31    .65
+  08 081 Moffat                   Co        19    .83        38    .80
+  06 037 Los Angeles              Ca        18    .78        32    .67
+  08 103 Rio Blanco               Co        17    .74        38    .80
+  04 019 Pima                     Az        17    .74        32    .67
+  48 201 Harris                   Tx        15    .65        30    .63
+  35 045 San Juan                 NM        14    .61        32    .67
+  06 029 Kern                     Ca        14    .61        38    .80
+  08 083 Montezuma                Co        13    .57        33    .70
+  08 101 Pueblo                   Co        12    .52        23    .48
+  04 015 Mohave                   Az        12    .52        31    .65
+  06 071 San Bernardino           Ca        12    .52        21    .44
+  08 107 Routt                    Co        12    .52        21    .44
+  32 031 Washoe                   Nv        12    .52        19    .40
+  35 001 Bernalillo               NM        12    .52        19    .40
+  04 025 Yavapai                  Az        12    .52        26    .55
+  49 057 Weber                    Ut        12    .52        26    .55
+  06 097 Sonoma                   Ca        10    .43        24    .51
+  15 003 Honolulu                 Hi        10    .43        20    .42
+  16 001 Ada                      Id        10    .43        20    .42
+  08 051 Gunnison                 Co        10    .43        14    .30
+  02 020 Anchorage Borough        Ak        10    .43        23    .48
+  06 065 Riverside                Ca        10    .43        20    .42
+   Same State                               97   4.22       222   4.68
+   Region 1:   Northeast                    36   1.57        64   1.35
+   Region 2:   Midwest                     185   8.04       412   8.68
+   Region 3:   South                       230  10.00       499  10.52
+   Region 4:   West                        386  16.78       886  18.67
+      08 077   County Non-Migrants       29714            68172
+08 079   Mineral Total Migration  Co        33               63
+   All Migration Flows                      33 100.00        63 100.00
+      08 079   County Non-Migrants         195              401
+08 081   Moffat Total Migration F Co       362              856
+  08 077 Mesa                     Co        38  10.50        96  11.21
+  08 107 Routt                    Co        23   6.35        59   6.89
+  08 103 Rio Blanco               Co        17   4.70        63   7.36
+  08 059 Jefferson                Co        11   3.04        18   2.10
+  08 045 Garfield                 Co        11   3.04        26   3.04
+   Same State                               85  23.48       178  20.79
+   Same Region, Diff. State                100  27.62       232  27.10
+   Different Region                         77  21.27       184  21.50
+      08 081   County Non-Migrants        3466             9098
+08 083   Montezuma Total Migratio Co       537             1221
+  35 045 San Juan                 NM        78  14.53       249  20.39
+  08 067 La Plata                 Co        36   6.70        62   5.08
+  04 013 Maricopa                 Az        33   6.15        58   4.75
+  08 077 Mesa                     Co        15   2.79        28   2.29
+  04 019 Pima                     Az        14   2.61        16   1.31
+  32 003 Clark                    Nv        11   2.05        21   1.72
+  04 001 Apache                   Az        11   2.05        41   3.36
+  49 037 San Juan                 Ut        11   2.05        31   2.54
+  08 059 Jefferson                Co        10   1.86        16   1.31
+  04 015 Mohave                   Az        10   1.86        24   1.97
+  08 031 Denver                   Co        10   1.86        18   1.47
+   Same State                               65  12.10       117   9.58
+   Same Region, Diff. State                137  25.51       335  27.44
+   Different Region                         96  17.88       205  16.79
+      08 083   County Non-Migrants        5448            13496
+08 085   Montrose Total Migration Co       713             1451
+  08 077 Mesa                     Co       102  14.31       218  15.02
+  08 029 Delta                    Co        58   8.13       138   9.51
+  04 013 Maricopa                 Az        23   3.23        49   3.38
+  08 059 Jefferson                Co        21   2.95        34   2.34
+  08 005 Arapahoe                 Co        18   2.52        24   1.65
+  57 001 Foreign / Overseas       FR        16   2.24        21   1.45
+  08 045 Garfield                 Co        14   1.96        30   2.07
+  08 013 Boulder                  Co        14   1.96        27   1.86
+  08 067 La Plata                 Co        12   1.68        21   1.45
+  32 003 Clark                    Nv        12   1.68        20   1.38
+  08 091 Ouray                    Co        11   1.54        18   1.24
+  08 001 Adams                    Co        10   1.40        22   1.52
+  08 051 Gunnison                 Co        10   1.40        20   1.38
+  08 069 Larimer                  Co        10   1.40        16   1.10
+  08 031 Denver                   Co        10   1.40        18   1.24
+  35 045 San Juan                 NM        10   1.40        22   1.52
+   Same State                               80  11.22       178  12.27
+   Region 1:   Northeast                    11   1.54        32   2.21
+   Region 2:   Midwest                      49   6.87       100   6.89
+   Region 3:   South                        59   8.27       125   8.61
+   Region 4:   West                        163  22.86       318  21.92
+      08 085   County Non-Migrants        7795            18647
+08 087   Morgan Total Migration F Co       609             1420
+  08 123 Weld                     Co        93  15.27       240  16.90
+  08 069 Larimer                  Co        40   6.57        72   5.07
+  08 001 Adams                    Co        26   4.27        62   4.37
+  08 031 Denver                   Co        24   3.94        42   2.96
+  08 075 Logan                    Co        23   3.78        47   3.31
+  08 059 Jefferson                Co        20   3.28        45   3.17
+  08 005 Arapahoe                 Co        20   3.28        38   2.68
+  08 041 El Paso                  Co        14   2.30        33   2.32
+  20 055 Finney                   Ks        14   2.30        44   3.10
+  08 121 Washington               Co        13   2.13        32   2.25
+  08 101 Pueblo                   Co        10   1.64        25   1.76
+  04 013 Maricopa                 Az        10   1.64        23   1.62
+   Same State                               44   7.22       105   7.39
+   Same Region, Diff. State                 87  14.29       193  13.59
+   Different Region                        171  28.08       419  29.51
+      08 087   County Non-Migrants        7155            18191
+08 089   Otero Total Migration Fl Co       498             1124
+  08 101 Pueblo                   Co        58  11.65       143  12.72
+  08 041 El Paso                  Co        39   7.83        73   6.49
+  08 031 Denver                   Co        19   3.82        40   3.56
+  08 069 Larimer                  Co        14   2.81        23   2.05
+  08 123 Weld                     Co        13   2.61        19   1.69
+  08 025 Crowley                  Co        12   2.41        37   3.29
+  08 011 Bent                     Co        12   2.41        28   2.49
+  08 005 Arapahoe                 Co        12   2.41        24   2.14
+  08 059 Jefferson                Co        10   2.01        18   1.60
+  57 001 Foreign / Overseas       FR        10   2.01        18   1.60
+   Same State                               84  16.87       211  18.77
+   Same Region, Diff. State                 83  16.67       190  16.90
+   Different Region                        132  26.51       300  26.69
+      08 089   County Non-Migrants        6010            14551
+08 091   Ouray Total Migration Fl Co        69              126
+  08 085 Montrose                 Co        12  17.39        25  19.84
+   Same State                               28  40.58        44  34.92
+   Same Region, Diff. State                 10  14.49        19  15.08
+   Different Region                         19  27.54        38  30.16
+      08 091   County Non-Migrants         705             1598
+08 093   Park Total Migration Flo Co       368              726
+  08 059 Jefferson                Co        86  23.37       192  26.45
+  08 005 Arapahoe                 Co        38  10.33        74  10.19
+  08 031 Denver                   Co        37  10.05        68   9.37
+  08 001 Adams                    Co        16   4.35        30   4.13
+  08 041 El Paso                  Co        14   3.80        18   2.48
+   Same State                               66  17.93       126  17.36
+   Same Region, Diff. State                 54  14.67       112  15.43
+   Different Region                         57  15.49       106  14.60
+      08 093   County Non-Migrants        2198             5281
+08 095   Phillips Total Migration Co       125              261
+  08 075 Logan                    Co        15  12.00        30  11.49
+   Same State                               41  32.80        83  31.80
+   Same Region, Diff. State                 23  18.40        43  16.48
+   Different Region                         46  36.80       105  40.23
+      08 095   County Non-Migrants        1523             3628
+08 097   Pitkin Total Migration F Co       860             1319
+  08 045 Garfield                 Co       112  13.02       210  15.92
+  08 037 Eagle                    Co        89  10.35       184  13.95
+  08 013 Boulder                  Co        55   6.40        77   5.84
+  08 031 Denver                   Co        28   3.26        31   2.35
+  06 037 Los Angeles              Ca        26   3.02        35   2.65
+  08 059 Jefferson                Co        21   2.44        28   2.12
+  06 075 San Francisco            Ca        18   2.09        21   1.59
+  08 077 Mesa                     Co        16   1.86        25   1.90
+  53 033 King                     Wa        11   1.28        12    .91
+  17 031 Cook                     Il        11   1.28        15   1.14
+  04 013 Maricopa                 Az        10   1.16        17   1.29
+   Same State                               62   7.21       100   7.58
+   Region 1:   Northeast                    71   8.26        85   6.44
+   Region 2:   Midwest                      55   6.40        85   6.44
+   Region 3:   South                       119  13.84       166  12.59
+   Region 4:   West                        156  18.14       228  17.29
+      08 097   County Non-Migrants        4751             7776
+08 099   Prowers Total Migration  Co       387              874
+  08 101 Pueblo                   Co        24   6.20        51   5.84
+  08 031 Denver                   Co        18   4.65        26   2.97
+  08 041 El Paso                  Co        16   4.13        25   2.86
+  08 005 Arapahoe                 Co        15   3.88        26   2.97
+  08 089 Otero                    Co        15   3.88        43   4.92
+  08 059 Jefferson                Co        10   2.58        24   2.75
+   Same State                               95  24.55       224  25.63
+   Same Region, Diff. State                 56  14.47       122  13.96
+   Different Region                        138  35.66       333  38.10
+      08 099   County Non-Migrants        4046            10286
+08 101   Pueblo Total Migration F Co      2315             4542
+  08 041 El Paso                  Co       271  11.71       549  12.09
+  08 031 Denver                   Co       161   6.95       253   5.57
+  08 005 Arapahoe                 Co       134   5.79       223   4.91
+  08 059 Jefferson                Co        83   3.59       168   3.70
+  08 001 Adams                    Co        78   3.37       168   3.70
+  08 043 Fremont                  Co        64   2.76       117   2.58
+  57 001 Foreign / Overseas       FR        57   2.46       120   2.64
+  04 013 Maricopa                 Az        50   2.16        84   1.85
+  08 069 Larimer                  Co        50   2.16        84   1.85
+  32 003 Clark                    Nv        45   1.94        74   1.63
+  06 073 San Diego                Ca        41   1.77        64   1.41
+  08 013 Boulder                  Co        37   1.60        55   1.21
+  08 089 Otero                    Co        35   1.51        81   1.78
+  06 037 Los Angeles              Ca        30   1.30        45    .99
+  35 001 Bernalillo               NM        25   1.08        40    .88
+  08 123 Weld                     Co        21    .91        31    .68
+  08 099 Prowers                  Co        19    .82        38    .84
+  08 077 Mesa                     Co        18    .78        36    .79
+  08 035 Douglas                  Co        15    .65        38    .84
+  08 003 Alamosa                  Co        14    .60        33    .73
+  17 031 Cook                     Il        14    .60        25    .55
+  20 055 Finney                   Ks        14    .60        29    .64
+  06 071 San Bernardino           Ca        13    .56        37    .81
+  48 201 Harris                   Tx        13    .56        25    .55
+  48 141 El Paso                  Tx        13    .56        31    .68
+  49 035 Salt Lake                Ut        13    .56        28    .62
+  48 113 Dallas                   Tx        13    .56        19    .42
+  53 033 King                     Wa        12    .52        20    .44
+  08 055 Huerfano                 Co        11    .48        29    .64
+  04 019 Pima                     Az        11    .48        21    .46
+  08 037 Eagle                    Co        11    .48        25    .55
+  20 173 Sedgwick                 Ks        11    .48        25    .55
+  08 087 Morgan                   Co        10    .43        23    .51
+   Same State                              124   5.36       247   5.44
+   Region 1:   Northeast                    47   2.03        95   2.09
+   Region 2:   Midwest                     219   9.46       488  10.74
+   Region 3:   South                       256  11.06       514  11.32
+   Region 4:   West                        262  11.32       560  12.33
+      08 101   County Non-Migrants       40116            89610
+08 103   Rio Blanco Total Migrati Co       218              489
+  08 077 Mesa                     Co        30  13.76        60  12.27
+  08 045 Garfield                 Co        14   6.42        29   5.93
+  49 047 Uintah                   Ut        13   5.96        35   7.16
+  08 081 Moffat                   Co        10   4.59        37   7.57
+   Same State                               52  23.85       108  22.09
+   Region 2:   Midwest                      20   9.17        41   8.38
+   Region 3:   South                        28  12.84        69  14.11
+   Region 4:   West                         51  23.39       110  22.49
+      08 103   County Non-Migrants        1752             4550
+08 105   Rio Grande Total Migrati Co       334              799
+  08 003 Alamosa                  Co        42  12.57        98  12.27
+  08 109 Saguache                 Co        17   5.09        46   5.76
+  08 101 Pueblo                   Co        11   3.29        26   3.25
+  08 041 El Paso                  Co        11   3.29        27   3.38
+  08 031 Denver                   Co        10   2.99        17   2.13
+  04 013 Maricopa                 Az        10   2.99        17   2.13
+   Same State                              101  30.24       241  30.16
+   Same Region, Diff. State                 78  23.35       211  26.41
+   Different Region                         54  16.17       116  14.52
+      08 105   County Non-Migrants        3309             8266
+08 107   Routt Total Migration Fl Co       673             1139
+  08 013 Boulder                  Co        38   5.65        43   3.78
+  08 077 Mesa                     Co        33   4.90        66   5.79
+  08 069 Larimer                  Co        30   4.46        50   4.39
+  08 031 Denver                   Co        30   4.46        44   3.86
+  08 081 Moffat                   Co        28   4.16        71   6.23
+  08 059 Jefferson                Co        22   3.27        39   3.42
+  08 005 Arapahoe                 Co        16   2.38        25   2.19
+  08 041 El Paso                  Co        14   2.08        15   1.32
+  53 033 King                     Wa        14   2.08        24   2.11
+  08 001 Adams                    Co        13   1.93        25   2.19
+  49 035 Salt Lake                Ut        11   1.63        19   1.67
+  57 001 Foreign / Overseas       FR        10   1.49        11    .97
+   Same State                               82  12.18       160  14.05
+   Region 1:   Northeast                    35   5.20        42   3.69
+   Region 2:   Midwest                      65   9.66       108   9.48
+   Region 3:   South                        64   9.51        96   8.43
+   Region 4:   West                        168  24.96       301  26.43
+      08 107   County Non-Migrants        4838            10155
+08 109   Saguache Total Migration Co       118              284
+  08 105 Rio Grande               Co        27  22.88        77  27.11
+  08 003 Alamosa                  Co        10   8.47        24   8.45
+   Same State                               44  37.29        87  30.63
+   Same Region, Diff. State                 24  20.34        56  19.72
+   Different Region                         13  11.02        40  14.08
+      08 109   County Non-Migrants        1277             3328
+08 111   San Juan Total Migration Co        45              120
+   All Migration Flows                      45 100.00       120 100.00
+      08 111   County Non-Migrants         243              561
+08 113   San Miguel Total Migrati Co       187              282
+  08 085 Montrose                 Co        21  11.23        55  19.50
+  08 013 Boulder                  Co        15   8.02        19   6.74
+  08 077 Mesa                     Co        10   5.35        14   4.96
+   Same State                               44  23.53        57  20.21
+   Region 1:   Northeast                    13   6.95        17   6.03
+   Region 2:   Midwest                      10   5.35        19   6.74
+   Region 3:   South                        18   9.63        26   9.22
+   Region 4:   West                         56  29.95        75  26.60
+      08 113   County Non-Migrants        1282             2520
+08 115   Sedgwick Total Migration Co        75              135
+   Same State                               35  46.67        56  41.48
+   Same Region, Diff. State                 12  16.00        27  20.00
+   Different Region                         28  37.33        52  38.52
+      08 115   County Non-Migrants         966             2232
+08 117   Summit Total Migration F Co      1209             1759
+  08 031 Denver                   Co        74   6.12        93   5.29
+  08 013 Boulder                  Co        63   5.21        75   4.26
+  08 059 Jefferson                Co        55   4.55        83   4.72
+  08 005 Arapahoe                 Co        47   3.89        73   4.15
+  08 069 Larimer                  Co        36   2.98        43   2.44
+  08 041 El Paso                  Co        29   2.40        46   2.62
+  08 001 Adams                    Co        29   2.40        37   2.10
+  08 037 Eagle                    Co        22   1.82        31   1.76
+  08 065 Lake                     Co        18   1.49        25   1.42
+  08 049 Grand                    Co        16   1.32        33   1.88
+  53 033 King                     Wa        16   1.32        18   1.02
+  04 013 Maricopa                 Az        15   1.24        25   1.42
+  08 067 La Plata                 Co        15   1.24        17    .97
+  08 077 Mesa                     Co        14   1.16        26   1.48
+  57 001 Foreign / Overseas       FR        13   1.08        23   1.31
+  08 045 Garfield                 Co        13   1.08        33   1.88
+  06 073 San Diego                Ca        11    .91        14    .80
+  17 031 Cook                     Il        10    .83        11    .63
+  08 107 Routt                    Co        10    .83        12    .68
+   Same State                               71   5.87       119   6.77
+   Region 1:   Northeast                    99   8.19       122   6.94
+   Region 2:   Midwest                     167  13.81       251  14.27
+   Region 3:   South                       175  14.47       280  15.92
+   Region 4:   West                        191  15.80       269  15.29
+      08 117   County Non-Migrants        5000             9084
+08 119   Teller Total Migration F Co       637             1394
+  08 041 El Paso                  Co       255  40.03       515  36.94
+  04 013 Maricopa                 Az        12   1.88        21   1.51
+  57 001 Foreign / Overseas       FR        12   1.88        18   1.29
+  08 069 Larimer                  Co        11   1.73        25   1.79
+  08 043 Fremont                  Co        10   1.57        30   2.15
+  08 005 Arapahoe                 Co        10   1.57        16   1.15
+   Same State                               97  15.23       220  15.78
+   Region 1:   Northeast                    14   2.20        24   1.72
+   Region 2:   Midwest                      55   8.63       152  10.90
+   Region 3:   South                        80  12.56       166  11.91
+   Region 4:   West                         81  12.72       207  14.85
+      08 119   County Non-Migrants        3793             9092
+08 121   Washington Total Migrati Co       135              276
+  08 075 Logan                    Co        15  11.11        36  13.04
+  08 087 Morgan                   Co        13   9.63        21   7.61
+  08 125 Yuma                     Co        12   8.89        40  14.49
+  08 123 Weld                     Co        10   7.41        15   5.43
+   Same State                               41  30.37        80  28.99
+   Same Region, Diff. State                 13   9.63        28  10.14
+   Different Region                         31  22.96        56  20.29
+      08 121   County Non-Migrants        1564             3643
+08 123   Weld Total Migration Flo Co      3989             8228
+  08 069 Larimer                  Co       510  12.79      1020  12.40
+  08 001 Adams                    Co       418  10.48       916  11.13
+  08 013 Boulder                  Co       364   9.13       754   9.16
+  08 031 Denver                   Co       242   6.07       389   4.73
+  08 005 Arapahoe                 Co       168   4.21       300   3.65
+  08 059 Jefferson                Co       146   3.66       241   2.93
+  08 041 El Paso                  Co        73   1.83       134   1.63
+  08 087 Morgan                   Co        66   1.65       167   2.03
+  04 013 Maricopa                 Az        64   1.60       124   1.51
+  56 021 Laramie                  Wy        52   1.30        91   1.11
+  32 003 Clark                    Nv        46   1.15       109   1.32
+  57 001 Foreign / Overseas       FR        41   1.03        57    .69
+  06 037 Los Angeles              Ca        33    .83        41    .50
+  06 073 San Diego                Ca        32    .80        63    .77
+  08 077 Mesa                     Co        25    .63        58    .70
+  48 141 El Paso                  Tx        25    .63        73    .89
+  35 001 Bernalillo               NM        25    .63        60    .73
+  06 059 Orange                   Ca        24    .60        40    .49
+  48 201 Harris                   Tx        22    .55        53    .64
+  53 033 King                     Wa        22    .55        33    .40
+  08 101 Pueblo                   Co        21    .53        44    .53
+  06 071 San Bernardino           Ca        20    .50        51    .62
+  08 035 Douglas                  Co        18    .45        34    .41
+  31 157 Scotts Bluff             Ne        17    .43        43    .52
+  08 125 Yuma                     Co        16    .40        36    .44
+  08 045 Garfield                 Co        16    .40        39    .47
+  17 031 Cook                     Il        15    .38        18    .22
+  48 113 Dallas                   Tx        15    .38        32    .39
+  20 055 Finney                   Ks        14    .35        37    .45
+  08 075 Logan                    Co        14    .35        34    .41
+  08 117 Summit                   Co        14    .35        24    .29
+  20 173 Sedgwick                 Ks        13    .33        27    .33
+  49 035 Salt Lake                Ut        13    .33        22    .27
+  46 103 Pennington               SD        13    .33        30    .36
+  08 037 Eagle                    Co        13    .33        26    .32
+  35 045 San Juan                 NM        12    .30        33    .40
+  06 067 Sacramento               Ca        11    .28        23    .28
+  08 107 Routt                    Co        11    .28        29    .35
+  56 001 Albany                   Wy        11    .28        28    .34
+  53 053 Pierce                   Wa        10    .25        13    .16
+  04 019 Pima                     Az        10    .25        20    .24
+  48 439 Tarrant                  Tx        10    .25        17    .21
+   Same State                              130   3.26       298   3.62
+   Region 1:   Northeast                    53   1.33        97   1.18
+   Region 2:   Midwest                     394   9.88       903  10.97
+   Region 3:   South                       334   8.37       764   9.29
+   Region 4:   West                        373   9.35       783   9.52
+      08 123   County Non-Migrants       39968            97265
+08 125   Yuma Total Migration Flo Co       235              518
+  08 123 Weld                     Co        32  13.62        60  11.58
+  08 069 Larimer                  Co        16   6.81        32   6.18
+  08 031 Denver                   Co        11   4.68        16   3.09
+  08 087 Morgan                   Co        11   4.68        26   5.02
+  08 121 Washington               Co        11   4.68        35   6.76
+   Same State                               67  28.51       151  29.15
+   Region 2:   Midwest                      49  20.85       121  23.36
+   Region 3:   South                        18   7.66        30   5.79
+   Region 4:   West                         20   8.51        47   9.07
+      08 125   County Non-Migrants        2974             7329

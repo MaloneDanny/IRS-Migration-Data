@@ -1,0 +1,236 @@
+44 001   Bristol Total Migration  RI      1157             2099
+  44 007 Providence               RI       459  39.67       841  40.07
+  25 005 Bristol                  Ma       141  12.19       252  12.01
+  44 005 Newport                  RI       117  10.11       222  10.58
+  44 003 Kent                     RI        45   3.89        77   3.67
+  44 009 Washington               RI        28   2.42        51   2.43
+  25 017 Middlesex                Ma        16   1.38        23   1.10
+  25 021 Norfolk                  Ma        15   1.30        29   1.38
+  09 001 Fairfield                Ct        12   1.04        20    .95
+   Region 1:   Northeast                   196  16.94       355  16.91
+   Region 2:   Midwest                      20   1.73        33   1.57
+   Region 3:   South                        77   6.66       140   6.67
+   Region 4:   West                         31   2.68        56   2.67
+      44 001   County Non-Migrants       17641            39074
+44 003   Kent Total Migration Flo RI      3796             6856
+  44 007 Providence               RI      2078  54.74      3768  54.96
+  44 009 Washington               RI       468  12.33       810  11.81
+  25 005 Bristol                  Ma       109   2.87       181   2.64
+  44 001 Bristol                  RI        67   1.77       112   1.63
+  44 005 Newport                  RI        61   1.61        87   1.27
+  25 017 Middlesex                Ma        47   1.24        87   1.27
+  25 027 Worcester                Ma        31    .82        47    .69
+  57 005 APO / FPO Zip Code       FR        28    .74        51    .74
+  09 011 New London               Ct        27    .71        50    .73
+  25 021 Norfolk                  Ma        26    .68        47    .69
+  09 003 Hartford                 Ct        25    .66        37    .54
+  25 025 Suffolk                  Ma        22    .58        30    .44
+  09 009 New Haven                Ct        21    .55        38    .55
+  36 061 New York                 NY        16    .42        30    .44
+  25 023 Plymouth                 Ma        15    .40        25    .36
+  12 011 Broward                  Fl        14    .37        24    .35
+  06 073 San Diego                Ca        14    .37        29    .42
+  09 001 Fairfield                Ct        14    .37        28    .41
+  33 011 Hillsborough             NH        12    .32        20    .29
+  25 013 Hampden                  Ma        12    .32        31    .45
+  09 007 Middlesex                Ct        12    .32        24    .35
+  36 103 Suffolk                  NY        11    .29        17    .25
+  04 013 Maricopa                 Az        11    .29        23    .34
+  51 059 Fairfax                  Va        11    .29        23    .34
+  36 059 Nassau                   NY        10    .26        17    .25
+  06 037 Los Angeles              Ca        10    .26        15    .22
+  06 059 Orange                   Ca        10    .26        13    .19
+  12 095 Orange                   Fl        10    .26        21    .31
+   Region 1:   Northeast                   236   6.22       428   6.24
+   Region 2:   Midwest                      72   1.90       147   2.14
+   Region 3:   South                       225   5.93       456   6.65
+   Region 4:   West                         71   1.87       140   2.04
+      44 003   County Non-Migrants       61186           130681
+44 005   Newport Total Migration  RI      3161             6738
+  25 005 Bristol                  Ma       268   8.48       529   7.85
+  57 005 APO / FPO Zip Code       FR       256   8.10       617   9.16
+  44 007 Providence               RI       208   6.58       329   4.88
+  44 001 Bristol                  RI       132   4.18       239   3.55
+  44 009 Washington               RI       125   3.95       205   3.04
+  06 053 Monterey                 Ca       100   3.16       267   3.96
+  06 073 San Diego                Ca        80   2.53       228   3.38
+  44 003 Kent                     RI        74   2.34       120   1.78
+  51 810 Virginia Beach city      Va        73   2.31       221   3.28
+  25 017 Middlesex                Ma        54   1.71        88   1.31
+  12 031 Duval                    Fl        52   1.65       156   2.32
+  09 011 New London               Ct        46   1.46       119   1.77
+  25 021 Norfolk                  Ma        38   1.20        68   1.01
+  51 710 Norfolk city             Va        37   1.17        93   1.38
+  51 059 Fairfax                  Va        33   1.04        95   1.41
+  25 025 Suffolk                  Ma        31    .98        35    .52
+  09 003 Hartford                 Ct        27    .85        36    .53
+  15 003 Honolulu                 Hi        27    .85        92   1.37
+  17 097 Lake                     Il        25    .79        77   1.14
+  09 001 Fairfield                Ct        25    .79        40    .59
+  09 009 New Haven                Ct        23    .73        36    .53
+  45 019 Charleston               SC        21    .66        61    .91
+  25 027 Worcester                Ma        20    .63        27    .40
+  24 003 Anne Arundel             Md        20    .63        44    .65
+  45 015 Berkeley                 SC        19    .60        66    .98
+  25 023 Plymouth                 Ma        19    .60        27    .40
+  06 059 Orange                   Ca        19    .60        47    .70
+  25 009 Essex                    Ma        19    .60        33    .49
+  06 037 Los Angeles              Ca        18    .57        41    .61
+  12 099 Palm Beach               Fl        17    .54        24    .36
+  12 033 Escambia                 Fl        16    .51        34    .50
+  36 103 Suffolk                  NY        16    .51        28    .42
+  36 061 New York                 NY        16    .51        20    .30
+  25 013 Hampden                  Ma        16    .51        31    .46
+  12 011 Broward                  Fl        14    .44        21    .31
+  37 133 Onslow                   NC        13    .41        40    .59
+  23 005 Cumberland               Me        13    .41        23    .34
+  12 095 Orange                   Fl        13    .41        26    .39
+  42 101 Philadelphia             Pa        13    .41        36    .53
+  42 091 Montgomery               Pa        12    .38        20    .30
+  48 113 Dallas                   Tx        12    .38        19    .28
+  12 019 Clay                     Fl        11    .35        39    .58
+  33 011 Hillsborough             NH        11    .35        15    .22
+  25 001 Barnstable               Ma        11    .35        19    .28
+  53 035 Kitsap                   Wa        11    .35        37    .55
+  57 001 Foreign / Overseas       FR        11    .35        21    .31
+  23 031 York                     Me        11    .35        17    .25
+  17 031 Cook                     Il        10    .32        24    .36
+  11 001 Wash.,D.C.               DC        10    .32        21    .31
+  47 157 Shelby                   Tn        10    .32        27    .40
+  33 015 Rockingham               NH        10    .32        21    .31
+   Region 1:   Northeast                   302   9.55       594   8.82
+   Region 2:   Midwest                     156   4.94       340   5.05
+   Region 3:   South                       369  11.67       821  12.18
+   Region 4:   West                        168   5.31       384   5.70
+      44 005   County Non-Migrants       29842            62330
+44 007   Providence Total Migrati RI      7645            12389
+  44 003 Kent                     RI      1582  20.69      2662  21.49
+  25 005 Bristol                  Ma       808  10.57      1342  10.83
+  44 001 Bristol                  RI       403   5.27       695   5.61
+  44 009 Washington               RI       389   5.09       622   5.02
+  25 027 Worcester                Ma       267   3.49       484   3.91
+  09 003 Hartford                 Ct       229   3.00       291   2.35
+  25 021 Norfolk                  Ma       219   2.86       357   2.88
+  25 017 Middlesex                Ma       211   2.76       294   2.37
+  57 001 Foreign / Overseas       FR       163   2.13       194   1.57
+  44 005 Newport                  RI       142   1.86       209   1.69
+  25 025 Suffolk                  Ma       137   1.79       202   1.63
+  36 061 New York                 NY       108   1.41       162   1.31
+  23 019 Penobscot                Me       104   1.36       125   1.01
+  57 005 APO / FPO Zip Code       FR        74    .97       135   1.09
+  25 023 Plymouth                 Ma        64    .84       102    .82
+  06 037 Los Angeles              Ca        63    .82        99    .80
+  25 009 Essex                    Ma        61    .80        90    .73
+  09 015 Windham                  Ct        56    .73        98    .79
+  36 047 Kings                    NY        56    .73       122    .98
+  09 009 New Haven                Ct        55    .72        70    .57
+  09 011 New London               Ct        53    .69        81    .65
+  09 001 Fairfield                Ct        50    .65        71    .57
+  12 011 Broward                  Fl        48    .63        77    .62
+  12 025 Dade                     Fl        36    .47        68    .55
+  25 013 Hampden                  Ma        35    .46        44    .36
+  23 005 Cumberland               Me        33    .43        38    .31
+  17 031 Cook                     Il        32    .42        51    .41
+  12 099 Palm Beach               Fl        31    .41        53    .43
+  36 081 Queens                   NY        31    .41        47    .38
+  36 103 Suffolk                  NY        29    .38        53    .43
+  25 001 Barnstable               Ma        28    .37        39    .31
+  33 011 Hillsborough             NH        27    .35        58    .47
+  06 073 San Diego                Ca        26    .34        37    .30
+  12 095 Orange                   Fl        26    .34        45    .36
+  06 059 Orange                   Ca        26    .34        41    .33
+  12 103 Pinellas                 Fl        26    .34        55    .44
+  36 059 Nassau                   NY        26    .34        37    .30
+  51 059 Fairfax                  Va        25    .33        50    .40
+  36 005 Bronx                    NY        24    .31        55    .44
+  04 013 Maricopa                 Az        22    .29        40    .32
+  24 031 Montgomery               Md        22    .29        32    .26
+  11 001 Wash.,D.C.               DC        22    .29        26    .21
+  36 055 Monroe                   NY        21    .27        34    .27
+  34 023 Middlesex                NJ        19    .25        33    .27
+  36 029 Erie                     NY        19    .25        26    .21
+  06 085 Santa Clara              Ca        19    .25        30    .24
+  12 009 Brevard                  Fl        19    .25        35    .28
+  42 003 Allegheny                Pa        19    .25        35    .28
+  42 101 Philadelphia             Pa        19    .25        28    .23
+  06 001 Alameda                  Ca        19    .25        35    .28
+  25 015 Hampshire                Ma        18    .24        22    .18
+  34 003 Bergen                   NJ        17    .22        27    .22
+  34 017 Hudson                   NJ        17    .22        26    .21
+  53 033 King                     Wa        16    .21        19    .15
+  33 015 Rockingham               NH        16    .21        23    .19
+  12 115 Sarasota                 Fl        15    .20        26    .21
+  23 031 York                     Me        14    .18        20    .16
+  12 127 Volusia                  Fl        14    .18        20    .16
+  15 003 Honolulu                 Hi        14    .18        20    .16
+  09 005 Litchfield               Ct        14    .18        19    .15
+  12 057 Hillsborough             Fl        14    .18        25    .20
+  12 071 Lee                      Fl        14    .18        22    .18
+  36 001 Albany                   NY        13    .17        18    .15
+  06 067 Sacramento               Ca        13    .17        24    .19
+  48 201 Harris                   Tx        13    .17        25    .20
+  42 091 Montgomery               Pa        13    .17        18    .15
+  34 031 Passaic                  NJ        12    .16        21    .17
+  06 075 San Francisco            Ca        12    .16        15    .12
+  51 810 Virginia Beach city      Va        12    .16        28    .23
+  09 007 Middlesex                Ct        12    .16        14    .11
+  51 013 Arlington                Va        12    .16        17    .14
+  36 067 Onondaga                 NY        12    .16        17    .14
+  29 189 St. Louis                Mo        12    .16        28    .23
+  23 011 Kennebec                 Me        12    .16        14    .11
+  39 035 Cuyahoga                 Oh        11    .14        22    .18
+  13 121 Fulton                   Ga        11    .14        20    .16
+  12 081 Manatee                  Fl        11    .14        17    .14
+  48 439 Tarrant                  Tx        11    .14        23    .19
+  24 510 Baltimore city           Md        11    .14        21    .17
+  48 113 Dallas                   Tx        11    .14        20    .16
+  32 003 Clark                    Nv        11    .14        12    .10
+  25 011 Franklin                 Ma        11    .14        21    .17
+  25 003 Berkshire                Ma        11    .14        18    .15
+  06 071 San Bernardino           Ca        11    .14        25    .20
+  36 119 Westchester              NY        10    .13        13    .10
+  34 013 Essex                    NJ        10    .13        19    .15
+  27 053 Hennepin                 Mn        10    .13        11    .09
+  34 039 Union                    NJ        10    .13        21    .17
+  06 065 Riverside                Ca        10    .13        19    .15
+  39 049 Franklin                 Oh        10    .13        19    .15
+  26 163 Wayne                    Mi        10    .13        21    .17
+   Region 1:   Northeast                   365   4.77       553   4.46
+   Region 2:   Midwest                     187   2.45       329   2.66
+   Region 3:   South                       433   5.66       775   6.26
+   Region 4:   West                        126   1.65       193   1.56
+      44 007   County Non-Migrants      207823           425660
+44 009   Washington Total Migrati RI      3018             5517
+  44 007 Providence               RI       603  19.98      1105  20.03
+  44 003 Kent                     RI       583  19.32      1132  20.52
+  09 011 New London               Ct       316  10.47       596  10.80
+  44 005 Newport                  RI       137   4.54       244   4.42
+  57 001 Foreign / Overseas       FR        93   3.08       112   2.03
+  09 003 Hartford                 Ct        73   2.42       114   2.07
+  25 005 Bristol                  Ma        45   1.49        86   1.56
+  09 009 New Haven                Ct        40   1.33        70   1.27
+  09 001 Fairfield                Ct        36   1.19        69   1.25
+  34 001 Atlantic                 NJ        33   1.09        62   1.12
+  25 017 Middlesex                Ma        31   1.03        46    .83
+  44 001 Bristol                  RI        30    .99        52    .94
+  25 021 Norfolk                  Ma        24    .80        37    .67
+  06 073 San Diego                Ca        21    .70        31    .56
+  36 061 New York                 NY        21    .70        32    .58
+  25 025 Suffolk                  Ma        21    .70        31    .56
+  25 027 Worcester                Ma        20    .66        24    .44
+  57 005 APO / FPO Zip Code       FR        16    .53        33    .60
+  25 013 Hampden                  Ma        16    .53        26    .47
+  12 099 Palm Beach               Fl        16    .53        20    .36
+  09 013 Tolland                  Ct        14    .46        32    .58
+  25 001 Barnstable               Ma        13    .43        29    .53
+  09 007 Middlesex                Ct        13    .43        19    .34
+  09 015 Windham                  Ct        13    .43        27    .49
+  36 103 Suffolk                  NY        11    .36        28    .51
+  25 023 Plymouth                 Ma        11    .36        19    .34
+  25 009 Essex                    Ma        10    .33        15    .27
+  12 103 Pinellas                 Fl        10    .33        16    .29
+   Region 1:   Northeast                   302  10.01       538   9.75
+   Region 2:   Midwest                      88   2.92       168   3.05
+   Region 3:   South                       243   8.05       490   8.88
+   Region 4:   West                        115   3.81       214   3.88
+      44 009   County Non-Migrants       38103            83480

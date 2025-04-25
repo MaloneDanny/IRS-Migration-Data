@@ -1,0 +1,2265 @@
+18 001   Adams Total Migration Fl In       571             1260
+  18 003 Allen                    In       199  34.85       383  30.40
+  18 075 Jay                      In        58  10.16       124   9.84
+  18 179 Wells                    In        46   8.06       118   9.37
+  39 161 Van Wert                 Oh        21   3.68        35   2.78
+  18 069 Huntington               In        14   2.45        23   1.83
+   Same State                               83  14.54       188  14.92
+   Same Region, Diff. State                 79  13.84       198  15.71
+   Different Region                         71  12.43       191  15.16
+      18 001   County Non-Migrants       11334            28980
+18 003   Allen Total Migration Fl In      5525            10977
+  18 001 Adams                    In       233   4.22       453   4.13
+  18 183 Whitley                  In       231   4.18       450   4.10
+  18 179 Wells                    In       196   3.55       362   3.30
+  18 097 Marion                   In       191   3.46       323   2.94
+  18 069 Huntington               In       191   3.46       351   3.20
+  18 033 De Kalb                  In       182   3.29       340   3.10
+  18 113 Noble                    In       171   3.10       305   2.78
+  18 151 Steuben                  In       109   1.97       196   1.79
+  18 085 Kosciusko                In        98   1.77       158   1.44
+  17 031 Cook                     Il        79   1.43       142   1.29
+  18 053 Grant                    In        66   1.19       120   1.09
+  57 005 APO / FPO Zip Code       FR        65   1.18       132   1.20
+  18 141 St. Joseph               In        62   1.12       116   1.06
+  26 125 Oakland                  Mi        54    .98       141   1.28
+  39 039 Defiance                 Oh        53    .96        99    .90
+  18 039 Elkhart                  In        51    .92        80    .73
+  18 035 Delaware                 In        50    .90        94    .86
+  18 087 Lagrange                 In        49    .89        88    .80
+  18 157 Tippecanoe               In        48    .87        66    .60
+  26 163 Wayne                    Mi        43    .78        85    .77
+  18 169 Wabash                   In        41    .74        66    .60
+  39 125 Paulding                 Oh        41    .74        77    .70
+  04 013 Maricopa                 Az        39    .71        89    .81
+  39 095 Lucas                    Oh        38    .69        70    .64
+  06 037 Los Angeles              Ca        38    .69        73    .67
+  18 057 Hamilton                 In        35    .63        85    .77
+  57 001 Foreign / Overseas       FR        34    .62        68    .62
+  39 161 Van Wert                 Oh        33    .60        70    .64
+  29 095 Jackson                  Mo        33    .60        88    .80
+  18 105 Monroe                   In        32    .58        40    .36
+  39 049 Franklin                 Oh        32    .58        64    .58
+  12 103 Pinellas                 Fl        30    .54        56    .51
+  39 003 Allen                    Oh        30    .54        55    .50
+  17 043 Du Page                  Il        27    .49        55    .50
+  48 201 Harris                   Tx        26    .47        60    .55
+  12 057 Hillsborough             Fl        25    .45        53    .48
+  48 439 Tarrant                  Tx        24    .43        50    .46
+  48 113 Dallas                   Tx        24    .43        53    .48
+  18 089 Lake                     In        24    .43        42    .38
+  18 091 La Porte                 In        23    .42        35    .32
+  39 035 Cuyahoga                 Oh        22    .40        52    .47
+  39 061 Hamilton                 Oh        22    .40        42    .38
+  51 107 Loudoun                  Va        22    .40        58    .53
+  51 059 Fairfax                  Va        21    .38        67    .61
+  55 035 Eau Claire               Wi        21    .38        48    .44
+  39 113 Montgomery               Oh        21    .38        40    .36
+  06 073 San Diego                Ca        20    .36        41    .37
+  26 077 Kalamazoo                Mi        20    .36        36    .33
+  06 059 Orange                   Ca        20    .36        40    .36
+  05 023 Cleburne                 Ar        20    .36        35    .32
+  12 115 Sarasota                 Fl        20    .36        34    .31
+  18 095 Madison                  In        20    .36        43    .39
+  25 027 Worcester                Ma        19    .34        46    .42
+  26 065 Ingham                   Mi        19    .34        38    .35
+  18 099 Marshall                 In        18    .33        32    .29
+  39 023 Clark                    Oh        18    .33        33    .30
+  39 171 Williams                 Oh        18    .33        28    .26
+  18 103 Miami                    In        18    .33        29    .26
+  12 095 Orange                   Fl        17    .31        20    .18
+  39 153 Summit                   Oh        17    .31        53    .48
+  26 161 Washtenaw                Mi        16    .29        37    .34
+  08 041 El Paso                  Co        16    .29        38    .35
+  26 145 Saginaw                  Mi        15    .27        33    .30
+  18 075 Jay                      In        15    .27        20    .18
+  12 011 Broward                  Fl        15    .27        28    .26
+  15 003 Honolulu                 Hi        15    .27        31    .28
+  26 081 Kent                     Mi        15    .27        26    .24
+  26 023 Branch                   Mi        15    .27        25    .23
+  26 075 Jackson                  Mi        14    .25        24    .22
+  26 049 Genesee                  Mi        14    .25        27    .25
+  12 099 Palm Beach               Fl        14    .25        18    .16
+  12 021 Collier                  Fl        14    .25        27    .25
+  18 163 Vanderburgh              In        14    .25        27    .25
+  26 021 Berrien                  Mi        13    .24        17    .15
+  18 067 Howard                   In        13    .24        26    .24
+  25 017 Middlesex                Ma        13    .24        19    .17
+  18 135 Randolph                 In        13    .24        21    .19
+  18 017 Cass                     In        13    .24        21    .19
+  55 133 Waukesha                 Wi        12    .22        33    .30
+  20 091 Johnson                  Ks        12    .22        41    .37
+  39 151 Stark                    Oh        12    .22        28    .26
+  21 111 Jefferson                Ky        12    .22        24    .22
+  42 003 Allegheny                Pa        12    .22        22    .20
+  39 173 Wood                     Oh        12    .22        26    .24
+  40 031 Comanche                 Ok        12    .22        30    .27
+  12 071 Lee                      Fl        12    .22        18    .16
+  12 083 Marion                   Fl        11    .20        16    .15
+  18 011 Boone                    In        11    .20        18    .16
+  39 107 Mercer                   Oh        11    .20        20    .18
+  55 079 Milwaukee                Wi        11    .20        25    .23
+  17 097 Lake                     Il        11    .20        26    .24
+  18 127 Porter                   In        11    .20        20    .18
+  12 025 Dade                     Fl        11    .20        17    .15
+  12 009 Brevard                  Fl        11    .20        16    .15
+  17 113 McLean                   Il        10    .18        15    .14
+  26 025 Calhoun                  Mi        10    .18        22    .20
+  26 099 Macomb                   Mi        10    .18        20    .18
+  29 189 St. Louis                Mo        10    .18        22    .20
+  12 081 Manatee                  Fl        10    .18        14    .13
+  06 071 San Bernardino           Ca        10    .18        31    .28
+  44 007 Providence               RI        10    .18        26    .24
+  17 089 Kane                     Il        10    .18        21    .19
+  12 031 Duval                    Fl        10    .18        19    .17
+  27 053 Hennepin                 Mn        10    .18        20    .18
+  18 177 Wayne                    In        10    .18        24    .22
+  48 141 El Paso                  Tx        10    .18        18    .16
+  37 119 Mecklenburg              NC        10    .18        25    .23
+  29 183 St. Charles              Mo        10    .18        30    .27
+   Same State                              170   3.08       326   2.97
+   Region 1:   Northeast                   225   4.07       502   4.57
+   Region 2:   Midwest                     514   9.30      1077   9.81
+   Region 3:   South                       605  10.95      1339  12.20
+   Region 4:   West                        186   3.37       416   3.79
+      18 003   County Non-Migrants      112874           259136
+18 005   Bartholomew Total Migrat In      1497             3210
+  18 081 Johnson                  In       170  11.36       361  11.25
+  18 097 Marion                   In       120   8.02       240   7.48
+  18 071 Jackson                  In       114   7.62       251   7.82
+  18 079 Jennings                 In       113   7.55       231   7.20
+  18 013 Brown                    In        59   3.94       124   3.86
+  18 031 Decatur                  In        51   3.41        98   3.05
+  18 145 Shelby                   In        44   2.94       103   3.21
+  18 105 Monroe                   In        34   2.27        58   1.81
+  39 061 Hamilton                 Oh        24   1.60        58   1.81
+  57 001 Foreign / Overseas       FR        18   1.20        32   1.00
+  21 111 Jefferson                Ky        14    .94        27    .84
+  17 031 Cook                     Il        14    .94        27    .84
+  18 077 Jefferson                In        12    .80        28    .87
+  18 035 Delaware                 In        12    .80        28    .87
+  18 057 Hamilton                 In        12    .80        24    .75
+  18 137 Ripley                   In        11    .73        22    .69
+  18 157 Tippecanoe               In        11    .73        24    .75
+  29 189 St. Louis                Mo        11    .73        21    .65
+  18 003 Allen                    In        11    .73        24    .75
+  04 013 Maricopa                 Az        10    .67        25    .78
+  06 037 Los Angeles              Ca        10    .67        18    .56
+  57 005 APO / FPO Zip Code       FR        10    .67        28    .87
+   Same State                              135   9.02       284   8.85
+   Region 1:   Northeast                    38   2.54        82   2.55
+   Region 2:   Midwest                     175  11.69       383  11.93
+   Region 3:   South                       224  14.96       521  16.23
+   Region 4:   West                         40   2.67        88   2.74
+      18 005   County Non-Migrants       23375            54134
+18 007   Benton Total Migration F In       276              658
+  18 157 Tippecanoe               In        99  35.87       201  30.55
+  18 111 Newton                   In        23   8.33        55   8.36
+  18 073 Jasper                   In        15   5.43        36   5.47
+  18 171 Warren                   In        14   5.07        39   5.93
+   Same State                               47  17.03       126  19.15
+   Same Region, Diff. State                 39  14.13        88  13.37
+   Different Region                         39  14.13       113  17.17
+      18 007   County Non-Migrants        3264             7807
+18 009   Blackford Total Migratio In       325              717
+  18 035 Delaware                 In        60  18.46       141  19.67
+  18 053 Grant                    In        53  16.31       108  15.06
+  18 075 Jay                      In        25   7.69        55   7.67
+  18 179 Wells                    In        21   6.46        60   8.37
+  18 069 Huntington               In        16   4.92        37   5.16
+  18 135 Randolph                 In        10   3.08        16   2.23
+   Same State                               53  16.31       114  15.90
+   Same Region, Diff. State                 25   7.69        56   7.81
+   Different Region                         62  19.08       130  18.13
+      18 009   County Non-Migrants        5110            11931
+18 011   Boone Total Migration Fl In      1345             2847
+  18 097 Marion                   In       487  36.21       953  33.47
+  18 057 Hamilton                 In       112   8.33       241   8.47
+  18 063 Hendricks                In        70   5.20       138   4.85
+  18 023 Clinton                  In        51   3.79       118   4.14
+  18 157 Tippecanoe               In        44   3.27       104   3.65
+  18 107 Montgomery               In        39   2.90        85   2.99
+  17 031 Cook                     Il        14   1.04        23    .81
+  18 003 Allen                    In        12    .89        25    .88
+  18 105 Monroe                   In        11    .82        16    .56
+  18 081 Johnson                  In        10    .74        14    .49
+   Same State                              132   9.81       287  10.08
+   Region 1:   Northeast                    30   2.23        68   2.39
+   Region 2:   Midwest                     115   8.55       283   9.94
+   Region 3:   South                       157  11.67       352  12.36
+   Region 4:   West                         46   3.42       110   3.86
+   Foreign                                  15   1.12        30   1.05
+      18 011   County Non-Migrants       13882            33652
+18 013   Brown Total Migration Fl In       580             1212
+  18 081 Johnson                  In       106  18.28       256  21.12
+  18 097 Marion                   In       106  18.28       207  17.08
+  18 005 Bartholomew              In        70  12.07       131  10.81
+  18 105 Monroe                   In        64  11.03       114   9.41
+  18 109 Morgan                   In        28   4.83        74   6.11
+  18 071 Jackson                  In        10   1.72        19   1.57
+   Same State                               99  17.07       188  15.51
+   Region 1:   Northeast                    10   1.72        30   2.48
+   Region 2:   Midwest                      23   3.97        43   3.55
+   Region 3:   South                        44   7.59       107   8.83
+   Region 4:   West                         20   3.45        43   3.55
+      18 013   County Non-Migrants        4513            10362
+18 015   Carroll Total Migration  In       590             1282
+  18 157 Tippecanoe               In       152  25.76       334  26.05
+  18 181 White                    In        80  13.56       173  13.49
+  18 017 Cass                     In        42   7.12        87   6.79
+  18 067 Howard                   In        40   6.78        96   7.49
+  18 023 Clinton                  In        29   4.92        61   4.76
+  18 097 Marion                   In        14   2.37        22   1.72
+  18 089 Lake                     In        12   2.03        33   2.57
+   Same State                               88  14.92       188  14.66
+   Region 1:   Northeast                    11   1.86        23   1.79
+   Region 2:   Midwest                      54   9.15       115   8.97
+   Region 3:   South                        42   7.12        85   6.63
+   Region 4:   West                         16   2.71        41   3.20
+   Foreign                                  10   1.69        24   1.87
+      18 015   County Non-Migrants        7213            17053
+18 017   Cass Total Migration Flo In       800             1723
+  18 067 Howard                   In       119  14.88       270  15.67
+  18 103 Miami                    In        88  11.00       212  12.30
+  18 181 White                    In        44   5.50        84   4.88
+  18 015 Carroll                  In        44   5.50        95   5.51
+  18 097 Marion                   In        38   4.75        62   3.60
+  18 049 Fulton                   In        26   3.25        50   2.90
+  18 157 Tippecanoe               In        25   3.13        42   2.44
+  18 131 Pulaski                  In        21   2.63        42   2.44
+  57 005 APO / FPO Zip Code       FR        17   2.13        42   2.44
+  18 023 Clinton                  In        14   1.75        35   2.03
+  18 169 Wabash                   In        10   1.25        16    .93
+   Same State                              107  13.38       234  13.58
+   Region 1:   Northeast                    15   1.88        46   2.67
+   Region 2:   Midwest                      89  11.13       208  12.07
+   Region 3:   South                       110  13.75       218  12.65
+   Region 4:   West                         33   4.13        67   3.89
+      18 017   County Non-Migrants       14017            32257
+18 019   Clark Total Migration Fl In      2549             5135
+  18 043 Floyd                    In       669  26.25      1300  25.32
+  21 111 Jefferson                Ky       619  24.28      1169  22.77
+  18 061 Harrison                 In        90   3.53       163   3.17
+  18 175 Washington               In        75   2.94       164   3.19
+  18 143 Scott                    In        62   2.43       134   2.61
+  18 077 Jefferson                In        59   2.31       119   2.32
+  18 097 Marion                   In        32   1.26        67   1.30
+  57 005 APO / FPO Zip Code       FR        30   1.18        55   1.07
+  21 029 Bullitt                  Ky        18    .71        38    .74
+  21 093 Hardin                   Ky        16    .63        36    .70
+  21 185 Oldham                   Ky        16    .63        35    .68
+  18 025 Crawford                 In        15    .59        30    .58
+  18 163 Vanderburgh              In        13    .51        25    .49
+  18 105 Monroe                   In        13    .51        24    .47
+  21 067 Fayette                  Ky        12    .47        22    .43
+  06 073 San Diego                Ca        10    .39        28    .55
+  12 057 Hillsborough             Fl        10    .39        15    .29
+  06 037 Los Angeles              Ca        10    .39        20    .39
+   Same State                              147   5.77       310   6.04
+   Region 1:   Northeast                    39   1.53        72   1.40
+   Region 2:   Midwest                     148   5.81       328   6.39
+   Region 3:   South                       371  14.55       813  15.83
+   Region 4:   West                         75   2.94       168   3.27
+      18 019   County Non-Migrants       31140            69216
+18 021   Clay Total Migration Flo In       593             1365
+  18 167 Vigo                     In       177  29.85       375  27.47
+  18 133 Putnam                   In        50   8.43       128   9.38
+  18 097 Marion                   In        42   7.08        85   6.23
+  18 119 Owen                     In        27   4.55        53   3.88
+  18 121 Parke                    In        25   4.22        60   4.40
+  18 055 Greene                   In        12   2.02        25   1.83
+  18 063 Hendricks                In        12   2.02        36   2.64
+   Same State                               94  15.85       231  16.92
+   Same Region, Diff. State                 43   7.25       109   7.99
+   Different Region                        111  18.72       263  19.27
+      18 021   County Non-Migrants        8504            20334
+18 023   Clinton Total Migration  In       662             1499
+  18 157 Tippecanoe               In       156  23.56       368  24.55
+  18 011 Boone                    In        51   7.70       114   7.61
+  18 097 Marion                   In        43   6.50        86   5.74
+  18 015 Carroll                  In        36   5.44        75   5.00
+  18 067 Howard                   In        32   4.83        60   4.00
+  18 057 Hamilton                 In        28   4.23        58   3.87
+  18 159 Tipton                   In        14   2.11        33   2.20
+  18 181 White                    In        12   1.81        29   1.93
+   Same State                               89  13.44       203  13.54
+   Region 1:   Northeast                    13   1.96        22   1.47
+   Region 2:   Midwest                      55   8.31       139   9.27
+   Region 3:   South                       103  15.56       240  16.01
+   Region 4:   West                         30   4.53        72   4.80
+      18 023   County Non-Migrants       11126            26465
+18 025   Crawford Total Migration In       234              566
+  18 061 Harrison                 In        45  19.23       103  18.20
+  18 037 Dubois                   In        26  11.11        61  10.78
+  18 043 Floyd                    In        20   8.55        40   7.07
+  18 117 Orange                   In        16   6.84        43   7.60
+  21 111 Jefferson                Ky        14   5.98        55   9.72
+  18 123 Perry                    In        14   5.98        36   6.36
+   Same State                               43  18.38       101  17.84
+   Same Region, Diff. State                 10   4.27        26   4.59
+   Different Region                         46  19.66       101  17.84
+      18 025   County Non-Migrants        2921             7053
+18 027   Daviess Total Migration  In       426              949
+  18 101 Martin                   In        46  10.80       112  11.80
+  18 083 Knox                     In        42   9.86        80   8.43
+  18 055 Greene                   In        26   6.10        60   6.32
+  18 097 Marion                   In        24   5.63        51   5.37
+  18 125 Pike                     In        20   4.69        37   3.90
+  18 037 Dubois                   In        19   4.46        39   4.11
+  18 051 Gibson                   In        15   3.52        29   3.06
+  18 105 Monroe                   In        12   2.82        16   1.69
+   Same State                               69  16.20       151  15.91
+   Region 1:   Northeast                    11   2.58        31   3.27
+   Region 2:   Midwest                      38   8.92        83   8.75
+   Region 3:   South                        81  19.01       209  22.02
+   Region 4:   West                         23   5.40        51   5.37
+      18 027   County Non-Migrants        9375            23081
+18 029   Dearborn Total Migration In      1176             2692
+  39 061 Hamilton                 Oh       435  36.99      1018  37.82
+  18 047 Franklin                 In       101   8.59       261   9.70
+  18 137 Ripley                   In        91   7.74       198   7.36
+  18 115 Ohio                     In        53   4.51       118   4.38
+  39 017 Butler                   Oh        50   4.25       108   4.01
+  21 117 Kenton                   Ky        40   3.40        78   2.90
+  21 015 Boone                    Ky        36   3.06        89   3.31
+  39 025 Clermont                 Oh        20   1.70        47   1.75
+  18 155 Switzerland              In        15   1.28        31   1.15
+  18 097 Marion                   In        10    .85        22    .82
+   Same State                               88   7.48       192   7.13
+   Region 1:   Northeast                    21   1.79        53   1.97
+   Region 2:   Midwest                      68   5.78       144   5.35
+   Region 3:   South                       114   9.69       252   9.36
+   Region 4:   West                         34   2.89        81   3.01
+      18 029   County Non-Migrants       13104            31811
+18 031   Decatur Total Migration  In       481             1039
+  18 145 Shelby                   In        69  14.35       171  16.46
+  18 137 Ripley                   In        51  10.60       129  12.42
+  18 139 Rush                     In        41   8.52        74   7.12
+  18 005 Bartholomew              In        40   8.32        95   9.14
+  18 097 Marion                   In        29   6.03        47   4.52
+  18 079 Jennings                 In        23   4.78        44   4.23
+  18 047 Franklin                 In        17   3.53        26   2.50
+   Same State                               91  18.92       186  17.90
+   Region 1:   Northeast                    10   2.08        26   2.50
+   Region 2:   Midwest                      34   7.07        74   7.12
+   Region 3:   South                        49  10.19       113  10.88
+   Region 4:   West                         17   3.53        38   3.66
+   Foreign                                  10   2.08        16   1.54
+      18 031   County Non-Migrants        8309            20143
+18 033   De Kalb Total Migration  In       867             1836
+  18 003 Allen                    In       294  33.91       603  32.84
+  18 151 Steuben                  In       120  13.84       264  14.38
+  18 113 Noble                    In       100  11.53       228  12.42
+  18 183 Whitley                  In        23   2.65        44   2.40
+  39 171 Williams                 Oh        20   2.31        40   2.18
+  18 087 Lagrange                 In        18   2.08        30   1.63
+  39 039 Defiance                 Oh        15   1.73        35   1.91
+   Same State                               65   7.50       140   7.63
+   Region 1:   Northeast                    14   1.61        27   1.47
+   Region 2:   Midwest                     108  12.46       242  13.18
+   Region 3:   South                        66   7.61       129   7.03
+   Region 4:   West                         24   2.77        54   2.94
+      18 033   County Non-Migrants       13168            31476
+18 035   Delaware Total Migration In      2495             4709
+  18 095 Madison                  In       226   9.06       428   9.09
+  18 097 Marion                   In       173   6.93       291   6.18
+  18 135 Randolph                 In       170   6.81       314   6.67
+  18 065 Henry                    In       128   5.13       236   5.01
+  18 075 Jay                      In        76   3.05       150   3.19
+  18 003 Allen                    In        58   2.32       103   2.19
+  18 009 Blackford                In        55   2.20       106   2.25
+  18 053 Grant                    In        51   2.04        98   2.08
+  57 001 Foreign / Overseas       FR        39   1.56        50   1.06
+  57 005 APO / FPO Zip Code       FR        38   1.52        77   1.64
+  18 177 Wayne                    In        36   1.44        53   1.13
+  18 057 Hamilton                 In        35   1.40        68   1.44
+  18 157 Tippecanoe               In        31   1.24        55   1.17
+  18 089 Lake                     In        30   1.20        45    .96
+  18 141 St. Joseph               In        25   1.00        50   1.06
+  18 039 Elkhart                  In        24    .96        45    .96
+  17 031 Cook                     Il        21    .84        38    .81
+  39 113 Montgomery               Oh        20    .80        39    .83
+  29 095 Jackson                  Mo        19    .76        48   1.02
+  40 109 Oklahoma                 Ok        19    .76        63   1.34
+  18 067 Howard                   In        18    .72        33    .70
+  18 105 Monroe                   In        18    .72        39    .83
+  18 005 Bartholomew              In        18    .72        35    .74
+  18 085 Kosciusko                In        17    .68        29    .62
+  40 027 Cleveland                Ok        17    .68        58   1.23
+  18 041 Fayette                  In        17    .68        25    .53
+  18 091 La Porte                 In        15    .60        24    .51
+  06 037 Los Angeles              Ca        14    .56        32    .68
+  26 125 Oakland                  Mi        13    .52        22    .47
+  04 013 Maricopa                 Az        13    .52        19    .40
+  12 095 Orange                   Fl        13    .52        19    .40
+  39 061 Hamilton                 Oh        12    .48        26    .55
+  39 049 Franklin                 Oh        12    .48        23    .49
+  12 103 Pinellas                 Fl        11    .44        18    .38
+  12 081 Manatee                  Fl        11    .44        21    .45
+  18 081 Johnson                  In        10    .40        16    .34
+  18 059 Hancock                  In        10    .40        24    .51
+  18 103 Miami                    In        10    .40        15    .32
+  18 167 Vigo                     In        10    .40        14    .30
+  06 059 Orange                   Ca        10    .40        17    .36
+  12 127 Volusia                  Fl        10    .40        21    .45
+   Same State                              194   7.78       326   6.92
+   Region 1:   Northeast                    72   2.89       123   2.61
+   Region 2:   Midwest                     221   8.86       451   9.58
+   Region 3:   South                       341  13.67       695  14.76
+   Region 4:   West                        114   4.57       227   4.82
+      18 035   County Non-Migrants       38893            86579
+18 037   Dubois Total Migration F In       567             1116
+  18 147 Spencer                  In        58  10.23       123  11.02
+  18 125 Pike                     In        55   9.70       109   9.77
+  18 123 Perry                    In        39   6.88        75   6.72
+  18 163 Vanderburgh              In        35   6.17        64   5.73
+  18 117 Orange                   In        31   5.47        54   4.84
+  18 027 Daviess                  In        25   4.41        46   4.12
+  18 101 Martin                   In        23   4.06        47   4.21
+  18 173 Warrick                  In        21   3.70        38   3.41
+  18 097 Marion                   In        20   3.53        34   3.05
+  18 025 Crawford                 In        14   2.47        19   1.70
+  21 059 Daviess                  Ky        11   1.94        18   1.61
+   Same State                               73  12.87       139  12.46
+   Region 1:   Northeast                    13   2.29        26   2.33
+   Region 2:   Midwest                      47   8.29       110   9.86
+   Region 3:   South                        81  14.29       171  15.32
+   Region 4:   West                         21   3.70        43   3.85
+      18 037   County Non-Migrants       13681            32742
+18 039   Elkhart Total Migration  In      3383             6960
+  18 141 St. Joseph               In       662  19.57      1309  18.81
+  18 085 Kosciusko                In       247   7.30       583   8.38
+  26 027 Cass                     Mi       211   6.24       391   5.62
+  18 087 Lagrange                 In       156   4.61       324   4.66
+  18 099 Marshall                 In        92   2.72       190   2.73
+  18 113 Noble                    In        84   2.48       173   2.49
+  26 149 St. Joseph               Mi        82   2.42       160   2.30
+  17 031 Cook                     Il        53   1.57       104   1.49
+  18 003 Allen                    In        50   1.48        89   1.28
+  18 097 Marion                   In        46   1.36        85   1.22
+  26 021 Berrien                  Mi        45   1.33        75   1.08
+  18 149 Starke                   In        43   1.27        94   1.35
+  18 089 Lake                     In        34   1.01        69    .99
+  18 091 La Porte                 In        33    .98        65    .93
+  57 005 APO / FPO Zip Code       FR        31    .92        62    .89
+  57 001 Foreign / Overseas       FR        29    .86        62    .89
+  04 013 Maricopa                 Az        26    .77        55    .79
+  18 127 Porter                   In        24    .71        43    .62
+  12 115 Sarasota                 Fl        22    .65        43    .62
+  26 077 Kalamazoo                Mi        21    .62        41    .59
+  26 081 Kent                     Mi        20    .59        49    .70
+  18 157 Tippecanoe               In        19    .56        32    .46
+  18 053 Grant                    In        18    .53        40    .57
+  18 035 Delaware                 In        18    .53        29    .42
+  18 103 Miami                    In        15    .44        39    .56
+  18 057 Hamilton                 In        13    .38        27    .39
+  06 065 Riverside                Ca        13    .38        32    .46
+  48 201 Harris                   Tx        12    .35        23    .33
+  18 105 Monroe                   In        12    .35        14    .20
+  18 095 Madison                  In        12    .35        24    .34
+  18 169 Wabash                   In        12    .35        22    .32
+  06 037 Los Angeles              Ca        12    .35        32    .46
+  26 145 Saginaw                  Mi        11    .33        21    .30
+  12 071 Lee                      Fl        11    .33        18    .26
+   Same State                              140   4.14       280   4.02
+   Region 1:   Northeast                   112   3.31       200   2.87
+   Region 2:   Midwest                     428  12.65       913  13.12
+   Region 3:   South                       395  11.68       880  12.64
+   Region 4:   West                        119   3.52       268   3.85
+      18 039   County Non-Migrants       55644           130848
+18 041   Fayette Total Migration  In       410              888
+  18 177 Wayne                    In        66  16.10       136  15.32
+  18 139 Rush                     In        41  10.00       100  11.26
+  18 047 Franklin                 In        34   8.29        72   8.11
+  18 161 Union                    In        19   4.63        41   4.62
+  18 097 Marion                   In        17   4.15        29   3.27
+  18 145 Shelby                   In        13   3.17        29   3.27
+   Same State                               68  16.59       144  16.22
+   Region 1:   Northeast                    12   2.93        29   3.27
+   Region 2:   Midwest                      48  11.71       118  13.29
+   Region 3:   South                        72  17.56       149  16.78
+   Region 4:   West                         20   4.88        41   4.62
+      18 041   County Non-Migrants        8921            20794
+18 043   Floyd Total Migration Fl In      1929             4152
+  18 019 Clark                    In       664  34.42      1380  33.24
+  21 111 Jefferson                Ky       369  19.13       759  18.28
+  18 061 Harrison                 In       199  10.32       448  10.79
+  18 175 Washington               In        50   2.59        99   2.38
+  18 143 Scott                    In        21   1.09        46   1.11
+  18 077 Jefferson                In        17    .88        33    .79
+  18 025 Crawford                 In        17    .88        32    .77
+  18 097 Marion                   In        17    .88        29    .70
+  18 167 Vigo                     In        13    .67        27    .65
+  21 029 Bullitt                  Ky        12    .62        41    .99
+  57 005 APO / FPO Zip Code       FR        12    .62        22    .53
+  18 163 Vanderburgh              In        10    .52        28    .67
+  18 105 Monroe                   In        10    .52        18    .43
+  39 061 Hamilton                 Oh        10    .52        19    .46
+   Same State                               86   4.46       179   4.31
+   Region 1:   Northeast                    16    .83        42   1.01
+   Region 2:   Midwest                      92   4.77       246   5.92
+   Region 3:   South                       257  13.32       572  13.78
+   Region 4:   West                         57   2.95       132   3.18
+      18 043   County Non-Migrants       23241            52774
+18 045   Fountain Total Migration In       401              887
+  18 171 Warren                   In        62  15.46       130  14.66
+  18 157 Tippecanoe               In        44  10.97       102  11.50
+  18 107 Montgomery               In        44  10.97        92  10.37
+  17 183 Vermilion                Il        34   8.48        83   9.36
+  18 165 Vermillion               In        24   5.99        67   7.55
+  18 121 Parke                    In        17   4.24        35   3.95
+  18 097 Marion                   In        16   3.99        27   3.04
+   Same State                               57  14.21       128  14.43
+   Same Region, Diff. State                 37   9.23        72   8.12
+   Different Region                         66  16.46       151  17.02
+      18 045   County Non-Migrants        6080            14429
+18 047   Franklin Total Migration In       445              977
+  39 061 Hamilton                 Oh        78  17.53       163  16.68
+  18 029 Dearborn                 In        76  17.08       200  20.47
+  18 041 Fayette                  In        45  10.11        98  10.03
+  18 137 Ripley                   In        29   6.52        63   6.45
+  39 017 Butler                   Oh        29   6.52        50   5.12
+  18 139 Rush                     In        25   5.62        52   5.32
+  18 097 Marion                   In        14   3.15        36   3.68
+   Same State                               52  11.69       105  10.75
+   Same Region, Diff. State                 37   8.31        78   7.98
+   Different Region                         60  13.48       132  13.51
+      18 047   County Non-Migrants        6630            16551
+18 049   Fulton Total Migration F In       476             1077
+  18 099 Marshall                 In        58  12.18       145  13.46
+  18 085 Kosciusko                In        48  10.08       125  11.61
+  18 103 Miami                    In        43   9.03       114  10.58
+  18 149 Starke                   In        43   9.03        86   7.99
+  18 017 Cass                     In        40   8.40        82   7.61
+  18 131 Pulaski                  In        20   4.20        46   4.27
+  18 067 Howard                   In        17   3.57        36   3.34
+  18 141 St. Joseph               In        16   3.36        36   3.34
+  18 169 Wabash                   In        13   2.73        31   2.88
+   Same State                               75  15.76       153  14.21
+   Same Region, Diff. State                 50  10.50       115  10.68
+   Different Region                         53  11.13       108  10.03
+      18 049   County Non-Migrants        6560            15337
+18 051   Gibson Total Migration F In       538             1204
+  18 163 Vanderburgh              In       135  25.09       282  23.42
+  18 125 Pike                     In        44   8.18       122  10.13
+  18 173 Warrick                  In        33   6.13        69   5.73
+  17 185 Wabash                   Il        23   4.28        46   3.82
+  18 129 Posey                    In        18   3.35        47   3.90
+  18 037 Dubois                   In        11   2.04        22   1.83
+  18 097 Marion                   In        10   1.86        25   2.08
+   Same State                               74  13.75       153  12.71
+   Region 1:   Northeast                    11   2.04        38   3.16
+   Region 2:   Midwest                      70  13.01       152  12.62
+   Region 3:   South                        94  17.47       224  18.60
+   Region 4:   West                         15   2.79        24   1.99
+      18 051   County Non-Migrants       11165            26052
+18 053   Grant Total Migration Fl In      1225             2567
+  18 069 Huntington               In        65   5.31       155   6.04
+  18 095 Madison                  In        65   5.31       131   5.10
+  18 035 Delaware                 In        61   4.98       131   5.10
+  18 169 Wabash                   In        54   4.41       107   4.17
+  18 097 Marion                   In        52   4.24       106   4.13
+  18 009 Blackford                In        48   3.92       109   4.25
+  18 067 Howard                   In        44   3.59        96   3.74
+  18 103 Miami                    In        37   3.02        81   3.16
+  18 003 Allen                    In        29   2.37        57   2.22
+  57 005 APO / FPO Zip Code       FR        19   1.55        37   1.44
+  17 031 Cook                     Il        18   1.47        26   1.01
+  18 179 Wells                    In        17   1.39        41   1.60
+  18 085 Kosciusko                In        16   1.31        35   1.36
+  18 039 Elkhart                  In        14   1.14        32   1.25
+  18 057 Hamilton                 In        13   1.06        27   1.05
+  57 001 Foreign / Overseas       FR        12    .98        20    .78
+  04 013 Maricopa                 Az        12    .98        23    .90
+   Same State                              109   8.90       228   8.88
+   Region 1:   Northeast                    41   3.35        85   3.31
+   Region 2:   Midwest                     209  17.06       436  16.98
+   Region 3:   South                       223  18.20       473  18.43
+   Region 4:   West                         67   5.47       131   5.10
+      18 053   County Non-Migrants       25707            59440
+18 055   Greene Total Migration F In       791             1753
+  18 105 Monroe                   In       190  24.02       401  22.88
+  18 153 Sullivan                 In        47   5.94       114   6.50
+  18 093 Lawrence                 In        39   4.93        88   5.02
+  18 119 Owen                     In        36   4.55        90   5.13
+  18 097 Marion                   In        35   4.42        80   4.56
+  18 167 Vigo                     In        28   3.54        58   3.31
+  18 083 Knox                     In        25   3.16        49   2.80
+  18 021 Clay                     In        23   2.91        50   2.85
+  18 027 Daviess                  In        22   2.78        41   2.34
+  57 005 APO / FPO Zip Code       FR        14   1.77        38   2.17
+  18 081 Johnson                  In        13   1.64        28   1.60
+   Same State                              119  15.04       267  15.23
+   Same Region, Diff. State                 72   9.10       151   8.61
+   Different Region                        128  16.18       298  17.00
+      18 055   County Non-Migrants       10335            24221
+18 057   Hamilton Total Migration In      5804            12470
+  18 097 Marion                   In      2548  43.90      4985  39.98
+  18 095 Madison                  In       229   3.95       441   3.54
+  18 011 Boone                    In       113   1.95       234   1.88
+  18 067 Howard                   In       112   1.93       222   1.78
+  18 035 Delaware                 In        90   1.55       172   1.38
+  17 031 Cook                     Il        75   1.29       183   1.47
+  18 059 Hancock                  In        75   1.29       158   1.27
+  18 159 Tipton                   In        68   1.17       129   1.03
+  18 003 Allen                    In        62   1.07       144   1.15
+  18 157 Tippecanoe               In        62   1.07       131   1.05
+  18 063 Hendricks                In        58   1.00       114    .91
+  26 125 Oakland                  Mi        52    .90       133   1.07
+  18 081 Johnson                  In        48    .83        98    .79
+  17 043 Du Page                  Il        43    .74       111    .89
+  39 049 Franklin                 Oh        40    .69       102    .82
+  18 105 Monroe                   In        39    .67        75    .60
+  39 061 Hamilton                 Oh        35    .60        83    .67
+  18 141 St. Joseph               In        33    .57        80    .64
+  29 189 St. Louis                Mo        30    .52        80    .64
+  57 001 Foreign / Overseas       FR        28    .48        71    .57
+  57 005 APO / FPO Zip Code       FR        28    .48        74    .59
+  21 111 Jefferson                Ky        28    .48        70    .56
+  18 053 Grant                    In        27    .47        48    .38
+  18 089 Lake                     In        26    .45        67    .54
+  06 073 San Diego                Ca        24    .41        61    .49
+  29 183 St. Charles              Mo        22    .38        73    .59
+  04 013 Maricopa                 Az        20    .34        35    .28
+  06 037 Los Angeles              Ca        20    .34        47    .38
+  18 005 Bartholomew              In        19    .33        43    .34
+  26 099 Macomb                   Mi        19    .33        57    .46
+  18 167 Vigo                     In        19    .33        35    .28
+  26 163 Wayne                    Mi        19    .33        57    .46
+  18 145 Shelby                   In        17    .29        36    .29
+  18 023 Clinton                  In        17    .29        27    .22
+  12 057 Hillsborough             Fl        16    .28        34    .27
+  18 017 Cass                     In        16    .28        25    .20
+  18 039 Elkhart                  In        16    .28        35    .28
+  12 103 Pinellas                 Fl        15    .26        29    .23
+  18 163 Vanderburgh              In        15    .26        37    .30
+  48 439 Tarrant                  Tx        15    .26        41    .33
+  48 201 Harris                   Tx        15    .26        39    .31
+  06 059 Orange                   Ca        14    .24        34    .27
+  42 003 Allegheny                Pa        14    .24        30    .24
+  17 097 Lake                     Il        13    .22        44    .35
+  39 035 Cuyahoga                 Oh        13    .22        28    .22
+  18 065 Henry                    In        12    .21        24    .19
+  13 135 Gwinnett                 Ga        12    .21        34    .27
+  51 059 Fairfax                  Va        12    .21        28    .22
+  18 103 Miami                    In        12    .21        22    .18
+  55 079 Milwaukee                Wi        12    .21        40    .32
+  39 113 Montgomery               Oh        12    .21        31    .25
+  12 099 Palm Beach               Fl        12    .21        19    .15
+  26 049 Genesee                  Mi        11    .19        26    .21
+  12 031 Duval                    Fl        11    .19        30    .24
+  13 121 Fulton                   Ga        11    .19        26    .21
+  39 017 Butler                   Oh        11    .19        25    .20
+  18 127 Porter                   In        10    .17        25    .20
+  39 165 Warren                   Oh        10    .17        27    .22
+  18 085 Kosciusko                In        10    .17        20    .16
+  48 121 Denton                   Tx        10    .17        30    .24
+  18 071 Jackson                  In        10    .17        22    .18
+  17 197 Will                     Il        10    .17        32    .26
+  29 095 Jackson                  Mo        10    .17        21    .17
+  48 113 Dallas                   Tx        10    .17        22    .18
+  26 161 Washtenaw                Mi        10    .17        25    .20
+   Same State                              173   2.98       331   2.65
+   Region 1:   Northeast                   199   3.43       513   4.11
+   Region 2:   Midwest                     330   5.69       862   6.91
+   Region 3:   South                       416   7.17       999   8.01
+   Region 4:   West                        161   2.77       384   3.08
+      18 057   County Non-Migrants       39924            99991
+18 059   Hancock Total Migration  In      1663             3587
+  18 097 Marion                   In       838  50.39      1802  50.24
+  18 095 Madison                  In        87   5.23       182   5.07
+  18 145 Shelby                   In        82   4.93       172   4.80
+  18 057 Hamilton                 In        70   4.21       158   4.40
+  18 065 Henry                    In        63   3.79       129   3.60
+  18 139 Rush                     In        28   1.68        52   1.45
+  18 081 Johnson                  In        27   1.62        57   1.59
+  18 035 Delaware                 In        18   1.08        36   1.00
+  18 177 Wayne                    In        11    .66        19    .53
+  18 063 Hendricks                In        11    .66        34    .95
+  57 005 APO / FPO Zip Code       FR        10    .60        19    .53
+  18 105 Monroe                   In        10    .60        16    .45
+   Same State                              119   7.16       260   7.25
+   Region 1:   Northeast                    21   1.26        62   1.73
+   Region 2:   Midwest                      89   5.35       206   5.74
+   Region 3:   South                       136   8.18       295   8.22
+   Region 4:   West                         43   2.59        88   2.45
+      18 059   County Non-Migrants       16513            40071
+18 061   Harrison Total Migration In       679             1526
+  18 043 Floyd                    In       192  28.28       430  28.18
+  21 111 Jefferson                Ky        97  14.29       217  14.22
+  18 019 Clark                    In        83  12.22       187  12.25
+  18 025 Crawford                 In        36   5.30        93   6.09
+  18 175 Washington               In        29   4.27        67   4.39
+  18 117 Orange                   In        12   1.77        31   2.03
+   Same State                               58   8.54       124   8.13
+   Same Region, Diff. State                 34   5.01        73   4.78
+   Different Region                        138  20.32       304  19.92
+      18 061   County Non-Migrants       10088            24577
+18 063   Hendricks Total Migratio In      2808             6134
+  18 097 Marion                   In      1664  59.26      3552  57.91
+  18 109 Morgan                   In       131   4.67       294   4.79
+  18 133 Putnam                   In       101   3.60       214   3.49
+  18 011 Boone                    In        76   2.71       160   2.61
+  18 081 Johnson                  In        47   1.67        99   1.61
+  18 057 Hamilton                 In        43   1.53        92   1.50
+  18 105 Monroe                   In        25    .89        42    .68
+  18 157 Tippecanoe               In        22    .78        50    .82
+  18 167 Vigo                     In        20    .71        53    .86
+  18 107 Montgomery               In        14    .50        35    .57
+  57 005 APO / FPO Zip Code       FR        14    .50        22    .36
+  17 031 Cook                     Il        13    .46        39    .64
+  18 119 Owen                     In        11    .39        21    .34
+  26 163 Wayne                    Mi        10    .36        23    .37
+  18 095 Madison                  In        10    .36        27    .44
+   Same State                              160   5.70       391   6.37
+   Region 1:   Northeast                    41   1.46        81   1.32
+   Region 2:   Midwest                     158   5.63       396   6.46
+   Region 3:   South                       189   6.73       434   7.08
+   Region 4:   West                         59   2.10       109   1.78
+      18 063   County Non-Migrants       26591            65896
+18 065   Henry Total Migration Fl In       995             2102
+  18 095 Madison                  In       137  13.77       266  12.65
+  18 035 Delaware                 In       129  12.96       291  13.84
+  18 097 Marion                   In        88   8.84       180   8.56
+  18 177 Wayne                    In        76   7.64       173   8.23
+  18 059 Hancock                  In        57   5.73       106   5.04
+  18 139 Rush                     In        50   5.03        99   4.71
+  18 057 Hamilton                 In        21   2.11        46   2.19
+  18 135 Randolph                 In        20   2.01        48   2.28
+  18 041 Fayette                  In        11   1.11        26   1.24
+  18 081 Johnson                  In        11   1.11        29   1.38
+  57 005 APO / FPO Zip Code       FR        10   1.01        18    .86
+   Same State                              112  11.26       243  11.56
+   Same Region, Diff. State                 88   8.84       196   9.32
+   Different Region                        185  18.59       381  18.13
+      18 065   County Non-Migrants       17472            40155
+18 067   Howard Total Migration F In      1729             3657
+  18 097 Marion                   In       118   6.82       220   6.02
+  18 103 Miami                    In       108   6.25       233   6.37
+  18 159 Tipton                   In       107   6.19       251   6.86
+  18 017 Cass                     In        99   5.73       207   5.66
+  18 053 Grant                    In        59   3.41       131   3.58
+  18 057 Hamilton                 In        58   3.35       110   3.01
+  57 005 APO / FPO Zip Code       FR        38   2.20        83   2.27
+  18 015 Carroll                  In        38   2.20        69   1.89
+  18 023 Clinton                  In        34   1.97        81   2.21
+  18 157 Tippecanoe               In        30   1.74        51   1.39
+  18 095 Madison                  In        24   1.39        46   1.26
+  29 189 St. Louis                Mo        19   1.10        47   1.29
+  04 013 Maricopa                 Az        19   1.10        40   1.09
+  18 003 Allen                    In        18   1.04        32    .88
+  55 059 Kenosha                  Wi        17    .98        48   1.31
+  17 031 Cook                     Il        17    .98        40   1.09
+  29 099 Jefferson                Mo        16    .93        53   1.45
+  18 049 Fulton                   In        15    .87        38   1.04
+  18 035 Delaware                 In        14    .81        22    .60
+  18 039 Elkhart                  In        13    .75        21    .57
+  18 105 Monroe                   In        13    .75        23    .63
+  18 141 St. Joseph               In        12    .69        21    .57
+  26 125 Oakland                  Mi        12    .69        21    .57
+  12 057 Hillsborough             Fl        11    .64        23    .63
+  18 167 Vigo                     In        11    .64        18    .49
+  18 169 Wabash                   In        10    .58        18    .49
+   Same State                              142   8.21       280   7.66
+   Region 1:   Northeast                    41   2.37        87   2.38
+   Region 2:   Midwest                     234  13.53       500  13.67
+   Region 3:   South                       293  16.95       662  18.10
+   Region 4:   West                         89   5.15       181   4.95
+      18 067   County Non-Migrants       29641            69019
+18 069   Huntington Total Migrati In       728             1545
+  18 003 Allen                    In       167  22.94       333  21.55
+  18 053 Grant                    In        70   9.62       141   9.13
+  18 169 Wabash                   In        55   7.55       112   7.25
+  18 179 Wells                    In        38   5.22        83   5.37
+  18 183 Whitley                  In        20   2.75        43   2.78
+  18 085 Kosciusko                In        13   1.79        27   1.75
+  57 005 APO / FPO Zip Code       FR        11   1.51        26   1.68
+  18 095 Madison                  In        11   1.51        22   1.42
+   Same State                              131  17.99       274  17.73
+   Region 1:   Northeast                    19   2.61        46   2.98
+   Region 2:   Midwest                      85  11.68       199  12.88
+   Region 3:   South                        76  10.44       172  11.13
+   Region 4:   West                         32   4.40        67   4.34
+      18 069   County Non-Migrants       13365            31808
+18 071   Jackson Total Migration  In       782             1732
+  18 005 Bartholomew              In       115  14.71       253  14.61
+  18 079 Jennings                 In        79  10.10       171   9.87
+  18 143 Scott                    In        55   7.03       118   6.81
+  18 097 Marion                   In        35   4.48        68   3.93
+  18 093 Lawrence                 In        21   2.69        59   3.41
+  18 077 Jefferson                In        19   2.43        40   2.31
+  18 175 Washington               In        19   2.43        42   2.42
+  18 081 Johnson                  In        15   1.92        34   1.96
+  18 013 Brown                    In        12   1.53        29   1.67
+  18 105 Monroe                   In        11   1.41        20   1.15
+   Same State                              106  13.55       231  13.34
+   Region 1:   Northeast                    19   2.43        49   2.83
+   Region 2:   Midwest                      86  11.00       194  11.20
+   Region 3:   South                       158  20.20       359  20.73
+   Region 4:   West                         32   4.09        65   3.75
+      18 071   County Non-Migrants       13444            31722
+18 073   Jasper Total Migration F In       689             1625
+  18 089 Lake                     In       212  30.77       517  31.82
+  18 111 Newton                   In        82  11.90       195  12.00
+  18 127 Porter                   In        60   8.71       134   8.25
+  17 031 Cook                     Il        45   6.53       115   7.08
+  18 181 White                    In        25   3.63        56   3.45
+  18 157 Tippecanoe               In        21   3.05        34   2.09
+  18 131 Pulaski                  In        15   2.18        34   2.09
+  18 091 La Porte                 In        11   1.60        20   1.23
+   Same State                               62   9.00       133   8.18
+   Region 1:   Northeast                    11   1.60        20   1.23
+   Region 2:   Midwest                      76  11.03       192  11.82
+   Region 3:   South                        53   7.69       127   7.82
+   Region 4:   West                         16   2.32        48   2.95
+      18 073   County Non-Migrants        8354            20992
+18 075   Jay Total Migration Flow In       411              897
+  18 035 Delaware                 In        71  17.27       178  19.84
+  18 135 Randolph                 In        60  14.60       134  14.94
+  18 001 Adams                    In        52  12.65       113  12.60
+  18 009 Blackford                In        25   6.08        50   5.57
+  18 179 Wells                    In        15   3.65        29   3.23
+  18 097 Marion                   In        12   2.92        30   3.34
+  39 107 Mercer                   Oh        12   2.92        25   2.79
+   Same State                               56  13.63       101  11.26
+   Same Region, Diff. State                 32   7.79        84   9.36
+   Different Region                         76  18.49       153  17.06
+      18 075   County Non-Migrants        7680            18147
+18 077   Jefferson Total Migratio In       730             1591
+  18 143 Scott                    In        81  11.10       185  11.63
+  21 223 Trimble                  Ky        51   6.99       105   6.60
+  18 019 Clark                    In        45   6.16       114   7.17
+  21 111 Jefferson                Ky        38   5.21        70   4.40
+  18 079 Jennings                 In        34   4.66        63   3.96
+  18 155 Switzerland              In        33   4.52        65   4.09
+  18 137 Ripley                   In        30   4.11        76   4.78
+  18 097 Marion                   In        24   3.29        44   2.77
+  21 041 Carroll                  Ky        18   2.47        45   2.83
+  18 043 Floyd                    In        17   2.33        40   2.51
+  18 005 Bartholomew              In        13   1.78        27   1.70
+  18 071 Jackson                  In        13   1.78        24   1.51
+  47 157 Shelby                   Tn        10   1.37        19   1.19
+   Same State                               79  10.82       186  11.69
+   Region 1:   Northeast                    14   1.92        32   2.01
+   Region 2:   Midwest                      66   9.04       127   7.98
+   Region 3:   South                       121  16.58       272  17.10
+   Region 4:   West                         32   4.38        73   4.59
+   Foreign                                  11   1.51        24   1.51
+      18 077   County Non-Migrants       10205            23597
+18 079   Jennings Total Migration In       577             1280
+  18 005 Bartholomew              In       126  21.84       281  21.95
+  18 071 Jackson                  In        77  13.34       164  12.81
+  18 031 Decatur                  In        37   6.41        80   6.25
+  18 097 Marion                   In        36   6.24        78   6.09
+  18 077 Jefferson                In        32   5.55        77   6.02
+  18 137 Ripley                   In        22   3.81        65   5.08
+  18 081 Johnson                  In        21   3.64        47   3.67
+  18 143 Scott                    In        12   2.08        25   1.95
+   Same State                               84  14.56       179  13.98
+   Same Region, Diff. State                 27   4.68        57   4.45
+   Different Region                        103  17.85       227  17.73
+      18 079   County Non-Migrants        7885            18766
+18 081   Johnson Total Migration  In      3742             7847
+  18 097 Marion                   In      1891  50.53      3973  50.63
+  18 109 Morgan                   In       191   5.10       412   5.25
+  18 005 Bartholomew              In       157   4.20       330   4.21
+  18 013 Brown                    In       117   3.13       252   3.21
+  18 145 Shelby                   In        96   2.57       211   2.69
+  18 063 Hendricks                In        56   1.50       113   1.44
+  18 105 Monroe                   In        49   1.31        96   1.22
+  18 057 Hamilton                 In        43   1.15        73    .93
+  18 059 Hancock                  In        24    .64        47    .60
+  18 095 Madison                  In        23    .61        47    .60
+  57 005 APO / FPO Zip Code       FR        23    .61        41    .52
+  18 157 Tippecanoe               In        19    .51        28    .36
+  18 167 Vigo                     In        19    .51        28    .36
+  12 103 Pinellas                 Fl        19    .51        36    .46
+  18 003 Allen                    In        18    .48        34    .43
+  18 071 Jackson                  In        18    .48        36    .46
+  39 113 Montgomery               Oh        16    .43        34    .43
+  06 037 Los Angeles              Ca        15    .40        32    .41
+  17 031 Cook                     Il        15    .40        27    .34
+  18 177 Wayne                    In        14    .37        27    .34
+  18 035 Delaware                 In        13    .35        19    .24
+  18 011 Boone                    In        13    .35        29    .37
+  18 141 St. Joseph               In        13    .35        32    .41
+  18 079 Jennings                 In        12    .32        26    .33
+  18 083 Knox                     In        12    .32        22    .28
+  18 133 Putnam                   In        11    .29        25    .32
+  18 093 Lawrence                 In        10    .27        15    .19
+  26 125 Oakland                  Mi        10    .27        21    .27
+  21 111 Jefferson                Ky        10    .27        23    .29
+   Same State                              181   4.84       352   4.49
+   Region 1:   Northeast                    57   1.52       141   1.80
+   Region 2:   Midwest                     208   5.56       452   5.76
+   Region 3:   South                       297   7.94       642   8.18
+   Region 4:   West                         72   1.92       171   2.18
+      18 081   County Non-Migrants       32491            77234
+18 083   Knox Total Migration Flo In       738             1462
+  17 101 Lawrence                 Il        59   7.99       132   9.03
+  18 027 Daviess                  In        54   7.32       108   7.39
+  18 097 Marion                   In        32   4.34        59   4.04
+  18 055 Greene                   In        29   3.93        56   3.83
+  18 153 Sullivan                 In        19   2.57        45   3.08
+  18 163 Vanderburgh              In        18   2.44        30   2.05
+  18 051 Gibson                   In        16   2.17        32   2.19
+  18 167 Vigo                     In        15   2.03        30   2.05
+  18 089 Lake                     In        13   1.76        24   1.64
+  18 105 Monroe                   In        13   1.76        27   1.85
+  18 057 Hamilton                 In        11   1.49        19   1.30
+  57 005 APO / FPO Zip Code       FR        10   1.36        18   1.23
+   Same State                              167  22.63       286  19.56
+   Region 1:   Northeast                    13   1.76        25   1.71
+   Region 2:   Midwest                      90  12.20       206  14.09
+   Region 3:   South                       136  18.43       284  19.43
+   Region 4:   West                         43   5.83        81   5.54
+      18 083   County Non-Migrants       12711            28848
+18 085   Kosciusko Total Migratio In      1543             3338
+  18 039 Elkhart                  In       201  13.03       461  13.81
+  18 003 Allen                    In        84   5.44       139   4.16
+  18 099 Marshall                 In        84   5.44       194   5.81
+  18 113 Noble                    In        75   4.86       179   5.36
+  18 169 Wabash                   In        73   4.73       164   4.91
+  18 183 Whitley                  In        64   4.15       135   4.04
+  18 049 Fulton                   In        55   3.56       112   3.36
+  18 097 Marion                   In        37   2.40        60   1.80
+  18 149 Starke                   In        36   2.33        79   2.37
+  18 141 St. Joseph               In        34   2.20        62   1.86
+  18 053 Grant                    In        26   1.69        52   1.56
+  17 031 Cook                     Il        24   1.56        51   1.53
+  18 035 Delaware                 In        20   1.30        36   1.08
+  18 095 Madison                  In        18   1.17        45   1.35
+  18 103 Miami                    In        18   1.17        38   1.14
+  18 069 Huntington               In        17   1.10        34   1.02
+  17 043 Du Page                  Il        14    .91        34   1.02
+  18 091 La Porte                 In        13    .84        36   1.08
+  21 071 Floyd                    Ky        12    .78        26    .78
+  18 087 Lagrange                 In        12    .78        22    .66
+  18 067 Howard                   In        11    .71        17    .51
+  12 071 Lee                      Fl        10    .65        17    .51
+  57 001 Foreign / Overseas       FR        10    .65        18    .54
+  18 089 Lake                     In        10    .65        24    .72
+   Same State                              120   7.78       246   7.37
+   Region 1:   Northeast                    51   3.31       112   3.36
+   Region 2:   Midwest                     195  12.64       445  13.33
+   Region 3:   South                       141   9.14       320   9.59
+   Region 4:   West                         78   5.06       180   5.39
+      18 085   County Non-Migrants       23475            56927
+18 087   Lagrange Total Migration In       663             1483
+  18 113 Noble                    In       129  19.46       309  20.84
+  18 039 Elkhart                  In       103  15.54       237  15.98
+  26 149 St. Joseph               Mi        74  11.16       159  10.72
+  18 003 Allen                    In        58   8.75       108   7.28
+  18 151 Steuben                  In        57   8.60       134   9.04
+  18 033 De Kalb                  In        20   3.02        41   2.76
+  18 141 St. Joseph               In        14   2.11        28   1.89
+  18 085 Kosciusko                In        10   1.51        21   1.42
+   Same State                               47   7.09       106   7.15
+   Same Region, Diff. State                 79  11.92       191  12.88
+   Different Region                         72  10.86       149  10.05
+      18 087   County Non-Migrants        9607            26051
+18 089   Lake Total Migration Flo In      7074            14656
+  17 031 Cook                     Il      2395  33.86      5374  36.67
+  18 127 Porter                   In       938  13.26      1926  13.14
+  57 005 APO / FPO Zip Code       FR       141   1.99       258   1.76
+  17 197 Will                     Il       118   1.67       274   1.87
+  17 043 Du Page                  Il       116   1.64       220   1.50
+  18 097 Marion                   In       110   1.55       208   1.42
+  18 091 La Porte                 In        80   1.13       166   1.13
+  18 111 Newton                   In        64    .90       130    .89
+  18 073 Jasper                   In        59    .83       113    .77
+  04 013 Maricopa                 Az        59    .83       111    .76
+  18 157 Tippecanoe               In        52    .74        76    .52
+  06 037 Los Angeles              Ca        51    .72       102    .70
+  06 073 San Diego                Ca        50    .71        88    .60
+  18 141 St. Joseph               In        47    .66        81    .55
+  48 201 Harris                   Tx        45    .64        73    .50
+  55 079 Milwaukee                Wi        39    .55        91    .62
+  18 003 Allen                    In        37    .52        55    .38
+  17 091 Kankakee                 Il        36    .51        80    .55
+  18 105 Monroe                   In        35    .49        49    .33
+  06 059 Orange                   Ca        28    .40        62    .42
+  32 003 Clark                    Nv        28    .40        46    .31
+  12 011 Broward                  Fl        27    .38        40    .27
+  12 095 Orange                   Fl        27    .38        50    .34
+  57 001 Foreign / Overseas       FR        25    .35        37    .25
+  27 053 Hennepin                 Mn        25    .35        66    .45
+  12 103 Pinellas                 Fl        25    .35        50    .34
+  26 163 Wayne                    Mi        25    .35        39    .27
+  17 089 Kane                     Il        24    .34        56    .38
+  48 113 Dallas                   Tx        23    .33        52    .35
+  18 039 Elkhart                  In        22    .31        46    .31
+  39 035 Cuyahoga                 Oh        22    .31        67    .46
+  17 097 Lake                     Il        21    .30        52    .35
+  06 071 San Bernardino           Ca        21    .30        54    .37
+  18 035 Delaware                 In        21    .30        36    .25
+  42 003 Allegheny                Pa        19    .27        43    .29
+  13 089 De Kalb                  Ga        19    .27        31    .21
+  48 029 Bexar                    Tx        18    .25        38    .26
+  26 081 Kent                     Mi        18    .25        24    .16
+  48 439 Tarrant                  Tx        17    .24        33    .23
+  18 149 Starke                   In        17    .24        32    .22
+  29 189 St. Louis                Mo        16    .23        27    .18
+  12 071 Lee                      Fl        16    .23        26    .18
+  39 049 Franklin                 Oh        15    .21        29    .20
+  01 073 Jefferson                Al        15    .21        28    .19
+  18 167 Vigo                     In        15    .21        28    .19
+  12 099 Palm Beach               Fl        15    .21        26    .18
+  26 125 Oakland                  Mi        15    .21        31    .21
+  37 133 Onslow                   NC        14    .20        38    .26
+  55 025 Dane                     Wi        14    .20        24    .16
+  15 003 Honolulu                 Hi        14    .20        23    .16
+  13 121 Fulton                   Ga        14    .20        18    .12
+  13 067 Cobb                     Ga        14    .20        31    .21
+  12 101 Pasco                    Fl        13    .18        24    .16
+  04 019 Pima                     Az        13    .18        21    .14
+  12 025 Dade                     Fl        13    .18        19    .13
+  17 201 Winnebago                Il        13    .18        25    .17
+  47 157 Shelby                   Tn        13    .18        18    .12
+  47 037 Davidson                 Tn        13    .18        26    .18
+  51 710 Norfolk city             Va        13    .18        32    .22
+  18 057 Hamilton                 In        13    .18        19    .13
+  26 161 Washtenaw                Mi        13    .18        17    .12
+  12 031 Duval                    Fl        12    .17        22    .15
+  18 163 Vanderburgh              In        12    .17        25    .17
+  26 021 Berrien                  Mi        12    .17        25    .17
+  26 099 Macomb                   Mi        12    .17        20    .14
+  18 181 White                    In        11    .16        16    .11
+  39 095 Lucas                    Oh        11    .16        23    .16
+  08 031 Denver                   Co        11    .16        15    .10
+  39 061 Hamilton                 Oh        11    .16        17    .12
+  06 085 Santa Clara              Ca        10    .14        15    .10
+  17 019 Champaign                Il        10    .14        15    .10
+  06 065 Riverside                Ca        10    .14        20    .14
+  12 057 Hillsborough             Fl        10    .14        21    .14
+  21 111 Jefferson                Ky        10    .14        20    .14
+  48 027 Bell                     Tx        10    .14        22    .15
+  37 051 Cumberland               NC        10    .14        23    .16
+  17 119 Madison                  Il        10    .14        16    .11
+  01 089 Madison                  Al        10    .14        25    .17
+  11 001 Wash.,D.C.               DC        10    .14        17    .12
+   Same State                              135   1.91       254   1.73
+   Region 1:   Northeast                   193   2.73       366   2.50
+   Region 2:   Midwest                     454   6.42       915   6.24
+   Region 3:   South                       672   9.50      1417   9.67
+   Region 4:   West                        190   2.69       388   2.65
+      18 089   County Non-Migrants      164692           374032
+18 091   La Porte Total Migration In      1981             4057
+  18 127 Porter                   In       346  17.47       704  17.35
+  18 149 Starke                   In       169   8.53       388   9.56
+  18 089 Lake                     In       165   8.33       380   9.37
+  17 031 Cook                     Il       145   7.32       289   7.12
+  18 141 St. Joseph               In       125   6.31       249   6.14
+  26 021 Berrien                  Mi        88   4.44       189   4.66
+  57 005 APO / FPO Zip Code       FR        41   2.07        69   1.70
+  18 097 Marion                   In        31   1.56        46   1.13
+  18 099 Marshall                 In        31   1.56        52   1.28
+  18 003 Allen                    In        21   1.06        39    .96
+  04 013 Maricopa                 Az        18    .91        33    .81
+  18 039 Elkhart                  In        16    .81        38    .94
+  48 201 Harris                   Tx        15    .76        23    .57
+  18 157 Tippecanoe               In        13    .66        25    .62
+  18 085 Kosciusko                In        12    .61        22    .54
+  18 105 Monroe                   In        11    .56        13    .32
+  39 049 Franklin                 Oh        11    .56        24    .59
+  17 043 Du Page                  Il        11    .56        28    .69
+   Same State                               96   4.85       189   4.66
+   Region 1:   Northeast                    48   2.42        96   2.37
+   Region 2:   Midwest                     231  11.66       467  11.51
+   Region 3:   South                       238  12.01       491  12.10
+   Region 4:   West                         99   5.00       203   5.00
+      18 091   County Non-Migrants       37152            85067
+18 093   Lawrence Total Migration In       762             1727
+  18 105 Monroe                   In       157  20.60       335  19.40
+  18 117 Orange                   In        72   9.45       178  10.31
+  18 055 Greene                   In        47   6.17       109   6.31
+  18 097 Marion                   In        34   4.46        65   3.76
+  18 071 Jackson                  In        31   4.07        73   4.23
+  18 101 Martin                   In        24   3.15        43   2.49
+  18 175 Washington               In        18   2.36        46   2.66
+  18 119 Owen                     In        13   1.71        28   1.62
+  57 005 APO / FPO Zip Code       FR        13   1.71        31   1.80
+  18 027 Daviess                  In        11   1.44        25   1.45
+  18 109 Morgan                   In        11   1.44        25   1.45
+   Same State                              112  14.70       251  14.53
+   Region 1:   Northeast                    16   2.10        34   1.97
+   Region 2:   Midwest                      57   7.48       135   7.82
+   Region 3:   South                       112  14.70       257  14.88
+   Region 4:   West                         34   4.46        92   5.33
+      18 093   County Non-Migrants       14804            34720
+18 095   Madison Total Migration  In      2327             4606
+  18 097 Marion                   In       322  13.84       570  12.38
+  18 035 Delaware                 In       238  10.23       456   9.90
+  18 057 Hamilton                 In       159   6.83       336   7.29
+  18 065 Henry                    In       113   4.86       217   4.71
+  18 053 Grant                    In        79   3.39       173   3.76
+  18 059 Hancock                  In        68   2.92       133   2.89
+  18 159 Tipton                   In        46   1.98        98   2.13
+  18 003 Allen                    In        42   1.80        87   1.89
+  57 005 APO / FPO Zip Code       FR        39   1.68        69   1.50
+  18 067 Howard                   In        29   1.25        66   1.43
+  28 075 Lauderdale               Ms        24   1.03        57   1.24
+  18 157 Tippecanoe               In        23    .99        36    .78
+  18 081 Johnson                  In        19    .82        45    .98
+  18 141 St. Joseph               In        18    .77        35    .76
+  18 105 Monroe                   In        16    .69        20    .43
+  18 039 Elkhart                  In        14    .60        25    .54
+  12 105 Polk                     Fl        14    .60        30    .65
+  17 031 Cook                     Il        13    .56        18    .39
+  18 085 Kosciusko                In        12    .52        25    .54
+  18 009 Blackford                In        11    .47        24    .52
+  06 073 San Diego                Ca        11    .47        20    .43
+  39 113 Montgomery               Oh        11    .47        24    .52
+  18 109 Morgan                   In        11    .47        17    .37
+  18 069 Huntington               In        10    .43        18    .39
+  12 071 Lee                      Fl        10    .43        20    .43
+   Same State                              173   7.43       351   7.62
+   Region 1:   Northeast                    49   2.11        81   1.76
+   Region 2:   Midwest                     227   9.76       446   9.68
+   Region 3:   South                       425  18.26       913  19.82
+   Region 4:   West                        101   4.34       196   4.26
+      18 095   County Non-Migrants       47482           106615
+18 097   Marion Total Migration F In     21666            38208
+  18 057 Hamilton                 In      2028   9.36      3257   8.52
+  18 081 Johnson                  In      1724   7.96      3137   8.21
+  18 063 Hendricks                In      1262   5.82      2334   6.11
+  18 059 Hancock                  In       659   3.04      1209   3.16
+  18 109 Morgan                   In       512   2.36       951   2.49
+  18 011 Boone                    In       438   2.02       735   1.92
+  18 095 Madison                  In       434   2.00       699   1.83
+  18 105 Monroe                   In       416   1.92       569   1.49
+  57 005 APO / FPO Zip Code       FR       387   1.79       900   2.36
+  17 031 Cook                     Il       353   1.63       558   1.46
+  18 003 Allen                    In       333   1.54       560   1.47
+  18 035 Delaware                 In       320   1.48       491   1.29
+  18 145 Shelby                   In       287   1.32       543   1.42
+  18 157 Tippecanoe               In       282   1.30       421   1.10
+  18 089 Lake                     In       261   1.20       392   1.03
+  18 167 Vigo                     In       228   1.05       406   1.06
+  18 141 St. Joseph               In       201    .93       310    .81
+  39 061 Hamilton                 Oh       190    .88       346    .91
+  18 067 Howard                   In       186    .86       291    .76
+  06 037 Los Angeles              Ca       179    .83       321    .84
+  18 005 Bartholomew              In       169    .78       258    .68
+  18 065 Henry                    In       161    .74       257    .67
+  18 133 Putnam                   In       160    .74       274    .72
+  57 001 Foreign / Overseas       FR       148    .68       211    .55
+  18 163 Vanderburgh              In       143    .66       223    .58
+  21 111 Jefferson                Ky       139    .64       262    .69
+  39 049 Franklin                 Oh       137    .63       223    .58
+  39 113 Montgomery               Oh       122    .56       209    .55
+  06 073 San Diego                Ca       111    .51       236    .62
+  04 013 Maricopa                 Az       108    .50       194    .51
+  18 177 Wayne                    In       108    .50       174    .46
+  18 039 Elkhart                  In       105    .48       146    .38
+  18 053 Grant                    In       105    .48       148    .39
+  48 113 Dallas                   Tx        95    .44       169    .44
+  26 163 Wayne                    Mi        95    .44       158    .41
+  48 201 Harris                   Tx        92    .42       164    .43
+  17 043 Du Page                  Il        88    .41       171    .45
+  18 107 Montgomery               In        87    .40       120    .31
+  12 011 Broward                  Fl        86    .40       152    .40
+  12 103 Pinellas                 Fl        84    .39       128    .34
+  18 127 Porter                   In        81    .37       114    .30
+  29 189 St. Louis                Mo        77    .36       128    .34
+  18 091 La Porte                 In        75    .35       117    .31
+  47 037 Davidson                 Tn        72    .33       138    .36
+  51 059 Fairfax                  Va        69    .32       133    .35
+  39 035 Cuyahoga                 Oh        68    .31       118    .31
+  39 095 Lucas                    Oh        68    .31       118    .31
+  26 125 Oakland                  Mi        67    .31       123    .32
+  18 013 Brown                    In        67    .31       137    .36
+  06 059 Orange                   Ca        64    .30       116    .30
+  18 119 Owen                     In        61    .28       107    .28
+  18 085 Kosciusko                In        56    .26        81    .21
+  12 057 Hillsborough             Fl        56    .26       104    .27
+  42 003 Allegheny                Pa        54    .25        87    .23
+  39 017 Butler                   Oh        54    .25       110    .29
+  48 439 Tarrant                  Tx        53    .24       126    .33
+  18 083 Knox                     In        53    .24        77    .20
+  12 099 Palm Beach               Fl        53    .24        91    .24
+  17 097 Lake                     Il        52    .24       118    .31
+  27 053 Hennepin                 Mn        52    .24        80    .21
+  18 071 Jackson                  In        51    .24        74    .19
+  18 103 Miami                    In        51    .24        81    .21
+  48 029 Bexar                    Tx        50    .23       107    .28
+  12 071 Lee                      Fl        50    .23        86    .23
+  12 095 Orange                   Fl        49    .23        90    .24
+  17 019 Champaign                Il        49    .23        81    .21
+  18 139 Rush                     In        49    .23        81    .21
+  17 183 Vermilion                Il        48    .22        76    .20
+  18 041 Fayette                  In        48    .22        68    .18
+  15 003 Honolulu                 Hi        46    .21       107    .28
+  13 089 De Kalb                  Ga        45    .21        77    .20
+  47 157 Shelby                   Tn        45    .21        88    .23
+  18 031 Decatur                  In        43    .20        69    .18
+  18 017 Cass                     In        43    .20        62    .16
+  18 037 Dubois                   In        42    .19        51    .13
+  55 079 Milwaukee                Wi        41    .19        86    .23
+  26 081 Kent                     Mi        41    .19        71    .19
+  18 055 Greene                   In        40    .18        70    .18
+  18 023 Clinton                  In        39    .18        57    .15
+  18 019 Clark                    In        39    .18        72    .19
+  18 043 Floyd                    In        39    .18        61    .16
+  18 169 Wabash                   In        39    .18        54    .14
+  21 067 Fayette                  Ky        38    .18        72    .19
+  26 161 Washtenaw                Mi        38    .18        67    .18
+  24 031 Montgomery               Md        37    .17        96    .25
+  18 181 White                    In        37    .17        56    .15
+  18 093 Lawrence                 In        36    .17        63    .16
+  21 093 Hardin                   Ky        36    .17        84    .22
+  12 025 Dade                     Fl        36    .17        76    .20
+  18 159 Tipton                   In        35    .16        52    .14
+  17 115 Macon                    Il        35    .16        56    .15
+  13 121 Fulton                   Ga        35    .16        68    .18
+  48 453 Travis                   Tx        35    .16        72    .19
+  18 021 Clay                     In        35    .16        62    .16
+  08 041 El Paso                  Co        35    .16        69    .18
+  26 099 Macomb                   Mi        34    .16        63    .16
+  37 051 Cumberland               NC        33    .15        85    .22
+  26 065 Ingham                   Mi        32    .15        56    .15
+  32 003 Clark                    Nv        32    .15        61    .16
+  13 067 Cobb                     Ga        32    .15        57    .15
+  17 089 Kane                     Il        31    .14        57    .15
+  29 095 Jackson                  Mo        31    .14        65    .17
+  26 077 Kalamazoo                Mi        30    .14        57    .15
+  18 137 Ripley                   In        30    .14        43    .11
+  06 075 San Francisco            Ca        30    .14        63    .16
+  08 005 Arapahoe                 Co        30    .14        70    .18
+  36 061 New York                 NY        29    .13        52    .14
+  18 121 Parke                    In        29    .13        37    .10
+  51 810 Virginia Beach city      Va        28    .13        70    .18
+  04 019 Pima                     Az        28    .13        54    .14
+  06 053 Monterey                 Ca        28    .13        74    .19
+  53 033 King                     Wa        28    .13        58    .15
+  18 027 Daviess                  In        27    .12        41    .11
+  06 071 San Bernardino           Ca        27    .12        54    .14
+  17 197 Will                     Il        27    .12        49    .13
+  12 115 Sarasota                 Fl        27    .12        39    .10
+  06 065 Riverside                Ca        27    .12        53    .14
+  29 510 St. Louis city           Mo        26    .12        39    .10
+  40 109 Oklahoma                 Ok        26    .12        46    .12
+  18 099 Marshall                 In        26    .12        35    .09
+  12 117 Seminole                 Fl        26    .12        52    .14
+  18 069 Huntington               In        26    .12        38    .10
+  06 013 Contra Costa             Ca        26    .12        45    .12
+  12 031 Duval                    Fl        25    .12        41    .11
+  06 067 Sacramento               Ca        25    .12        48    .13
+  12 105 Polk                     Fl        25    .12        43    .11
+  13 135 Gwinnett                 Ga        25    .12        54    .14
+  18 015 Carroll                  In        25    .12        34    .09
+  45 019 Charleston               SC        25    .12        52    .14
+  48 141 El Paso                  Tx        25    .12        51    .13
+  17 113 McLean                   Il        25    .12        37    .10
+  47 125 Montgomery               Tn        24    .11        51    .13
+  01 089 Madison                  Al        24    .11        50    .13
+  25 017 Middlesex                Ma        24    .11        51    .13
+  18 135 Randolph                 In        24    .11        42    .11
+  11 001 Wash.,D.C.               DC        24    .11        33    .09
+  53 053 Pierce                   Wa        24    .11        61    .16
+  39 023 Clark                    Oh        24    .11        41    .11
+  06 001 Alameda                  Ca        23    .11        50    .13
+  39 057 Greene                   Oh        23    .11        39    .10
+  18 079 Jennings                 In        23    .11        43    .11
+  12 009 Brevard                  Fl        23    .11        51    .13
+  18 077 Jefferson                In        23    .11        40    .10
+  51 013 Arlington                Va        23    .11        42    .11
+  17 143 Peoria                   Il        23    .11        38    .10
+  48 027 Bell                     Tx        23    .11        64    .17
+  18 173 Warrick                  In        23    .11        34    .09
+  06 085 Santa Clara              Ca        23    .11        31    .08
+  39 153 Summit                   Oh        22    .10        40    .10
+  26 049 Genesee                  Mi        22    .10        38    .10
+  39 025 Clermont                 Oh        22    .10        44    .12
+  24 033 Prince George's          Md        22    .10        37    .10
+  37 133 Onslow                   NC        22    .10        52    .14
+  18 073 Jasper                   In        22    .10        29    .08
+  12 101 Pasco                    Fl        22    .10        31    .08
+  55 025 Dane                     Wi        22    .10        42    .11
+  24 003 Anne Arundel             Md        21    .10        33    .09
+  19 153 Polk                     Ia        21    .10        37    .10
+  29 183 St. Charles              Mo        21    .10        44    .12
+  09 003 Hartford                 Ct        21    .10        51    .13
+  26 021 Berrien                  Mi        21    .10        38    .10
+  20 173 Sedgwick                 Ks        21    .10        44    .12
+  12 127 Volusia                  Fl        21    .10        31    .08
+  37 183 Wake                     NC        20    .09        33    .09
+  31 055 Douglas                  Ne        20    .09        34    .09
+  18 049 Fulton                   In        20    .09        33    .09
+  21 047 Christian                Ky        20    .09        37    .10
+  17 119 Madison                  Il        20    .09        33    .09
+  18 165 Vermillion               In        19    .09        30    .08
+  42 101 Philadelphia             Pa        19    .09        40    .10
+  36 047 Kings                    NY        19    .09        43    .11
+  47 093 Knox                     Tn        19    .09        40    .10
+  12 081 Manatee                  Fl        19    .09        37    .10
+  47 165 Sumner                   Tn        18    .08        42    .11
+  05 119 Pulaski                  Ar        18    .08        43    .11
+  19 103 Johnson                  Ia        18    .08        35    .09
+  22 071 Orleans                  La        18    .08        35    .09
+  18 149 Starke                   In        18    .08        31    .08
+  37 119 Mecklenburg              NC        18    .08        42    .11
+  09 009 New Haven                Ct        17    .08        36    .09
+  42 091 Montgomery               Pa        17    .08        33    .09
+  20 091 Johnson                  Ks        17    .08        38    .10
+  39 109 Miami                    Oh        17    .08        36    .09
+  18 153 Sullivan                 In        17    .08        28    .07
+  36 059 Nassau                   NY        17    .08        28    .07
+  17 201 Winnebago                Il        17    .08        32    .08
+  24 005 Baltimore                Md        16    .07        36    .09
+  25 021 Norfolk                  Ma        16    .07        22    .06
+  12 015 Charlotte                Fl        16    .07        30    .08
+  34 005 Burlington               NJ        16    .07        36    .09
+  18 113 Noble                    In        15    .07        18    .05
+  26 145 Saginaw                  Mi        15    .07        33    .09
+  18 033 De Kalb                  In        15    .07        24    .06
+  18 009 Blackford                In        15    .07        23    .06
+  36 029 Erie                     NY        15    .07        22    .06
+  17 179 Tazewell                 Il        15    .07        30    .08
+  18 045 Fountain                 In        15    .07        17    .04
+  18 125 Pike                     In        15    .07        26    .07
+  18 001 Adams                    In        15    .07        20    .05
+  22 051 Jefferson                La        15    .07        32    .08
+  27 037 Dakota                   Mn        15    .07        35    .09
+  08 031 Denver                   Co        15    .07        27    .07
+  21 059 Daviess                  Ky        14    .06        26    .07
+  21 227 Warren                   Ky        14    .06        22    .06
+  18 179 Wells                    In        14    .06        21    .05
+  22 115 Vernon                   La        14    .06        29    .08
+  06 095 Solano                   Ca        14    .06        25    .07
+  06 081 San Mateo                Ca        14    .06        20    .05
+  12 021 Collier                  Fl        14    .06        20    .05
+  48 061 Cameron                  Tx        14    .06        21    .05
+  12 091 Okaloosa                 Fl        14    .06        27    .07
+  09 001 Fairfield                Ct        14    .06        16    .04
+  06 111 Ventura                  Ca        13    .06        23    .06
+  51 710 Norfolk city             Va        13    .06        34    .09
+  34 025 Monmouth                 NJ        13    .06        30    .08
+  42 045 Delaware                 Pa        13    .06        25    .07
+  55 133 Waukesha                 Wi        13    .06        22    .06
+  18 183 Whitley                  In        13    .06        16    .04
+  40 143 Tulsa                    Ok        13    .06        30    .08
+  18 151 Steuben                  In        13    .06        17    .04
+  36 067 Onondaga                 NY        13    .06        20    .05
+  40 031 Comanche                 Ok        13    .06        32    .08
+  36 081 Queens                   NY        13    .06        35    .09
+  17 163 St. Clair                Il        13    .06        22    .06
+  36 103 Suffolk                  NY        12    .06        22    .06
+  17 167 Sangamon                 Il        12    .06        25    .07
+  25 005 Bristol                  Ma        12    .06        28    .07
+  18 061 Harrison                 In        12    .06        16    .04
+  34 003 Bergen                   NJ        12    .06        13    .03
+  51 153 Prince William           Va        12    .06        35    .09
+  18 075 Jay                      In        12    .06        15    .04
+  48 085 Collin                   Tx        12    .06        20    .05
+  35 001 Bernalillo               NM        12    .06        23    .06
+  45 079 Richland                 SC        12    .06        24    .06
+  49 035 Salt Lake                Ut        12    .06        17    .04
+  18 143 Scott                    In        12    .06        24    .06
+  18 051 Gibson                   In        12    .06        25    .07
+  34 035 Somerset                 NJ        11    .05        20    .05
+  47 065 Hamilton                 Tn        11    .05        19    .05
+  39 173 Wood                     Oh        11    .05        21    .05
+  22 017 Caddo                    La        11    .05        17    .04
+  17 077 Jackson                  Il        11    .05        15    .04
+  21 117 Kenton                   Ky        11    .05        21    .05
+  51 087 Henrico                  Va        11    .05        15    .04
+  12 087 Monroe                   Fl        11    .05        13    .03
+  53 061 Snohomish                Wa        11    .05        22    .06
+  23 005 Cumberland               Me        11    .05        25    .07
+  39 151 Stark                    Oh        11    .05        16    .04
+  17 111 McHenry                  Il        11    .05        18    .05
+  36 055 Monroe                   NY        11    .05        18    .05
+  18 047 Franklin                 In        11    .05        20    .05
+  34 023 Middlesex                NJ        11    .05        19    .05
+  12 005 Bay                      Fl        11    .05        19    .05
+  26 111 Midland                  Mi        11    .05        20    .05
+  13 245 Richmond                 Ga        11    .05        29    .08
+  28 049 Hinds                    Ms        11    .05        23    .06
+  12 033 Escambia                 Fl        10    .05        13    .03
+  18 117 Orange                   In        10    .05        20    .05
+  01 073 Jefferson                Al        10    .05        20    .05
+  36 045 Jefferson                NY        10    .05        23    .06
+  44 007 Providence               RI        10    .05        20    .05
+  18 175 Washington               In        10    .05        15    .04
+  12 001 Alachua                  Fl        10    .05        22    .06
+  51 700 Newport News city        Va        10    .05        15    .04
+  19 163 Scott                    Ia        10    .05        23    .06
+  25 027 Worcester                Ma        10    .05        25    .07
+  27 123 Ramsey                   Mn        10    .05        21    .05
+  13 215 Muscogee                 Ga        10    .05        29    .08
+  34 027 Morris                   NJ        10    .05        13    .03
+  08 059 Jefferson                Co        10    .05        15    .04
+  17 091 Kankakee                 Il        10    .05        25    .07
+  25 009 Essex                    Ma        10    .05        15    .04
+  42 049 Erie                     Pa        10    .05        22    .06
+  21 015 Boone                    Ky        10    .05        21    .05
+  26 121 Muskegon                 Mi        10    .05        17    .04
+  26 027 Cass                     Mi        10    .05        17    .04
+  41 051 Multnomah                Or        10    .05        18    .05
+  12 097 Osceola                  Fl        10    .05        21    .05
+  36 005 Bronx                    NY        10    .05        23    .06
+   Same State                               84    .39       116    .30
+   Region 1:   Northeast                   314   1.45       614   1.61
+   Region 2:   Midwest                     812   3.75      1439   3.77
+   Region 3:   South                      1180   5.45      2313   6.05
+   Region 4:   West                        262   1.21       516   1.35
+      18 097   County Non-Migrants      298673           637018
+18 099   Marshall Total Migration In      1035             2247
+  18 141 St. Joseph               In       234  22.61       503  22.39
+  18 149 Starke                   In       170  16.43       382  17.00
+  18 039 Elkhart                  In        73   7.05       166   7.39
+  18 085 Kosciusko                In        65   6.28       178   7.92
+  18 049 Fulton                   In        44   4.25        80   3.56
+  18 091 La Porte                 In        31   3.00        71   3.16
+  17 031 Cook                     Il        29   2.80        56   2.49
+  18 131 Pulaski                  In        18   1.74        32   1.42
+  18 089 Lake                     In        16   1.55        31   1.38
+  18 127 Porter                   In        14   1.35        27   1.20
+  18 157 Tippecanoe               In        13   1.26        21    .93
+  18 003 Allen                    In        11   1.06        24   1.07
+   Same State                               80   7.73       161   7.17
+   Region 1:   Northeast                    20   1.93        47   2.09
+   Region 2:   Midwest                      91   8.79       188   8.37
+   Region 3:   South                        79   7.63       171   7.61
+   Region 4:   West                         47   4.54       109   4.85
+      18 099   County Non-Migrants       14417            34819
+18 101   Martin Total Migration F In       229              522
+  18 027 Daviess                  In        45  19.65       105  20.11
+  18 037 Dubois                   In        26  11.35        63  12.07
+  18 093 Lawrence                 In        17   7.42        31   5.94
+  18 117 Orange                   In        14   6.11        36   6.90
+   Same State                               60  26.20       130  24.90
+   Same Region, Diff. State                 18   7.86        38   7.28
+   Different Region                         49  21.40       119  22.80
+      18 101   County Non-Migrants        3779             8906
+18 103   Miami Total Migration Fl In      1097             2466
+  18 067 Howard                   In       134  12.22       289  11.72
+  57 005 APO / FPO Zip Code       FR       118  10.76       335  13.58
+  18 017 Cass                     In        81   7.38       176   7.14
+  18 169 Wabash                   In        69   6.29       153   6.20
+  18 053 Grant                    In        50   4.56       122   4.95
+  18 049 Fulton                   In        30   2.73        72   2.92
+  18 097 Marion                   In        22   2.01        35   1.42
+  18 003 Allen                    In        10    .91        22    .89
+  17 031 Cook                     Il        10    .91        18    .73
+   Same State                              132  12.03       273  11.07
+   Region 1:   Northeast                    36   3.28        58   2.35
+   Region 2:   Midwest                     143  13.04       310  12.57
+   Region 3:   South                       170  15.50       364  14.76
+   Region 4:   West                         92   8.39       239   9.69
+      18 103   County Non-Migrants       12371            29929
+18 105   Monroe Total Migration F In      3696             5926
+  18 097 Marion                   In       301   8.14       429   7.24
+  57 001 Foreign / Overseas       FR       204   5.52       249   4.20
+  18 093 Lawrence                 In       176   4.76       324   5.47
+  18 119 Owen                     In       170   4.60       323   5.45
+  18 055 Greene                   In       143   3.87       289   4.88
+  17 031 Cook                     Il        87   2.35       122   2.06
+  18 109 Morgan                   In        70   1.89       142   2.40
+  18 003 Allen                    In        64   1.73        83   1.40
+  18 089 Lake                     In        63   1.70        73   1.23
+  18 081 Johnson                  In        57   1.54        85   1.43
+  18 013 Brown                    In        53   1.43       100   1.69
+  18 141 St. Joseph               In        49   1.33        58    .98
+  18 005 Bartholomew              In        45   1.22        74   1.25
+  18 167 Vigo                     In        41   1.11        60   1.01
+  21 111 Jefferson                Ky        38   1.03        59   1.00
+  18 157 Tippecanoe               In        35    .95        53    .89
+  18 057 Hamilton                 In        35    .95        53    .89
+  39 061 Hamilton                 Oh        34    .92        45    .76
+  18 163 Vanderburgh              In        31    .84        40    .67
+  06 037 Los Angeles              Ca        26    .70        40    .67
+  57 005 APO / FPO Zip Code       FR        25    .68        53    .89
+  18 067 Howard                   In        24    .65        33    .56
+  18 127 Porter                   In        24    .65        25    .42
+  18 039 Elkhart                  In        23    .62        34    .57
+  09 003 Hartford                 Ct        23    .62        65   1.10
+  17 043 Du Page                  Il        22    .60        34    .57
+  25 017 Middlesex                Ma        22    .60        35    .59
+  18 035 Delaware                 In        21    .57        32    .54
+  18 177 Wayne                    In        20    .54        28    .47
+  18 083 Knox                     In        20    .54        26    .44
+  29 189 St. Louis                Mo        20    .54        29    .49
+  06 073 San Diego                Ca        19    .51        36    .61
+  18 063 Hendricks                In        18    .49        35    .59
+  18 101 Martin                   In        17    .46        25    .42
+  18 117 Orange                   In        16    .43        29    .49
+  18 019 Clark                    In        15    .41        17    .29
+  18 095 Madison                  In        15    .41        24    .40
+  06 059 Orange                   Ca        14    .38        26    .44
+  18 027 Daviess                  In        14    .38        28    .47
+  36 061 New York                 NY        14    .38        15    .25
+  18 091 La Porte                 In        14    .38        18    .30
+  04 013 Maricopa                 Az        14    .38        23    .39
+  48 201 Harris                   Tx        14    .38        25    .42
+  51 013 Arlington                Va        13    .35        14    .24
+  26 125 Oakland                  Mi        13    .35        21    .35
+  18 021 Clay                     In        13    .35        23    .39
+  06 053 Monterey                 Ca        13    .35        37    .62
+  18 077 Jefferson                In        12    .32        15    .25
+  25 025 Suffolk                  Ma        11    .30        15    .25
+  55 025 Dane                     Wi        11    .30        15    .25
+  04 019 Pima                     Az        11    .30        13    .22
+  18 011 Boone                    In        11    .30        23    .39
+  18 071 Jackson                  In        11    .30        25    .42
+  26 161 Washtenaw                Mi        11    .30        17    .29
+  39 049 Franklin                 Oh        11    .30        21    .35
+  18 037 Dubois                   In        10    .27        13    .22
+  12 011 Broward                  Fl        10    .27        21    .35
+  39 113 Montgomery               Oh        10    .27        12    .20
+  11 001 Wash.,D.C.               DC        10    .27        12    .20
+  18 053 Grant                    In        10    .27        12    .20
+  26 163 Wayne                    Mi        10    .27        15    .25
+  47 037 Davidson                 Tn        10    .27        11    .19
+  55 079 Milwaukee                Wi        10    .27        12    .20
+  18 051 Gibson                   In        10    .27        17    .29
+   Same State                              208   5.63       320   5.40
+   Region 1:   Northeast                   248   6.71       383   6.46
+   Region 2:   Midwest                     319   8.63       530   8.94
+   Region 3:   South                       382  10.34       659  11.12
+   Region 4:   West                        158   4.27       274   4.62
+      18 105   County Non-Migrants       31137            65136
+18 107   Montgomery Total Migrati In       745             1544
+  18 097 Marion                   In        84  11.28       164  10.62
+  18 157 Tippecanoe               In        68   9.13       133   8.61
+  18 045 Fountain                 In        50   6.71       116   7.51
+  18 133 Putnam                   In        47   6.31        87   5.63
+  18 011 Boone                    In        39   5.23        70   4.53
+  18 121 Parke                    In        26   3.49        56   3.63
+  57 001 Foreign / Overseas       FR        19   2.55        20   1.30
+  18 063 Hendricks                In        18   2.42        41   2.66
+  17 031 Cook                     Il        15   2.01        38   2.46
+  18 023 Clinton                  In        14   1.88        29   1.88
+  18 089 Lake                     In        13   1.74        23   1.49
+   Same State                              115  15.44       241  15.61
+   Region 1:   Northeast                    15   2.01        30   1.94
+   Region 2:   Midwest                      77  10.34       178  11.53
+   Region 3:   South                       110  14.77       235  15.22
+   Region 4:   West                         35   4.70        83   5.38
+      18 107   County Non-Migrants       12514            28924
+18 109   Morgan Total Migration F In      1672             3780
+  18 097 Marion                   In       702  41.99      1562  41.32
+  18 063 Hendricks                In       164   9.81       402  10.63
+  18 081 Johnson                  In       158   9.45       341   9.02
+  18 105 Monroe                   In        68   4.07       128   3.39
+  18 119 Owen                     In        35   2.09        99   2.62
+  18 013 Brown                    In        28   1.67        71   1.88
+  18 133 Putnam                   In        22   1.32        59   1.56
+  18 057 Hamilton                 In        17   1.02        35    .93
+  57 005 APO / FPO Zip Code       FR        14    .84        32    .85
+  18 095 Madison                  In        11    .66        33    .87
+   Same State                              155   9.27       339   8.97
+   Region 1:   Northeast                    24   1.44        50   1.32
+   Region 2:   Midwest                      77   4.61       180   4.76
+   Region 3:   South                       136   8.13       324   8.57
+   Region 4:   West                         61   3.65       125   3.31
+      18 109   County Non-Migrants       18670            45523
+18 111   Newton Total Migration F In       377              901
+  18 089 Lake                     In        97  25.73       227  25.19
+  18 073 Jasper                   In        93  24.67       220  24.42
+  17 031 Cook                     Il        27   7.16        59   6.55
+  18 007 Benton                   In        24   6.37        48   5.33
+  17 075 Iroquois                 Il        10   2.65        31   3.44
+   Same State                               57  15.12       134  14.87
+   Same Region, Diff. State                 32   8.49        81   8.99
+   Different Region                         37   9.81       101  11.21
+      18 111   County Non-Migrants        4745            11714
+18 113   Noble Total Migration Fl In      1075             2247
+  18 003 Allen                    In       186  17.30       354  15.75
+  18 087 Lagrange                 In       120  11.16       254  11.30
+  18 033 De Kalb                  In        96   8.93       200   8.90
+  18 183 Whitley                  In        76   7.07       151   6.72
+  18 085 Kosciusko                In        75   6.98       191   8.50
+  18 039 Elkhart                  In        71   6.60       151   6.72
+  18 151 Steuben                  In        25   2.33        47   2.09
+  18 097 Marion                   In        13   1.21        28   1.25
+  18 001 Adams                    In        11   1.02        22    .98
+   Same State                               90   8.37       173   7.70
+   Same Region, Diff. State                154  14.33       324  14.42
+   Different Region                        158  14.70       352  15.67
+      18 113   County Non-Migrants       13944            34232
+18 115   Ohio Total Migration Flo In       156              335
+  18 029 Dearborn                 In        46  29.49       102  30.45
+  18 155 Switzerland              In        23  14.74        48  14.33
+  39 061 Hamilton                 Oh        16  10.26        32   9.55
+   Same State                               16  10.26        33   9.85
+   Same Region, Diff. State                 11   7.05        23   6.87
+   Different Region                         44  28.21        97  28.96
+      18 115   County Non-Migrants        1683             4003
+18 117   Orange Total Migration F In       341              764
+  18 093 Lawrence                 In        72  21.11       158  20.68
+  18 025 Crawford                 In        33   9.68        80  10.47
+  18 037 Dubois                   In        30   8.80        53   6.94
+  18 175 Washington               In        30   8.80        73   9.55
+  18 101 Martin                   In        15   4.40        35   4.58
+  18 097 Marion                   In        12   3.52        19   2.49
+   Same State                               65  19.06       145  18.98
+   Same Region, Diff. State                 17   4.99        40   5.24
+   Different Region                         67  19.65       161  21.07
+      18 117   County Non-Migrants        5871            13910
+18 119   Owen Total Migration Flo In       719             1566
+  18 105 Monroe                   In       214  29.76       409  26.12
+  18 097 Marion                   In       131  18.22       311  19.86
+  18 109 Morgan                   In        43   5.98       110   7.02
+  18 133 Putnam                   In        37   5.15        87   5.56
+  18 055 Greene                   In        37   5.15        89   5.68
+  18 021 Clay                     In        21   2.92        57   3.64
+  18 063 Hendricks                In        14   1.95        37   2.36
+   Same State                               92  12.80       192  12.26
+   Region 1:   Northeast                    10   1.39        21   1.34
+   Region 2:   Midwest                      36   5.01        71   4.53
+   Region 3:   South                        61   8.48       141   9.00
+   Region 4:   West                         23   3.20        41   2.62
+      18 119   County Non-Migrants        6002            14224
+18 121   Parke Total Migration Fl In       449             1059
+  18 167 Vigo                     In       102  22.72       219  20.68
+  18 165 Vermillion               In        44   9.80        97   9.16
+  18 097 Marion                   In        39   8.69        71   6.70
+  18 107 Montgomery               In        32   7.13        71   6.70
+  18 021 Clay                     In        29   6.46        72   6.80
+  18 133 Putnam                   In        22   4.90        55   5.19
+  18 063 Hendricks                In        15   3.34        43   4.06
+  18 045 Fountain                 In        11   2.45        41   3.87
+   Same State                               50  11.14       103   9.73
+   Region 1:   Northeast                    16   3.56       100   9.44
+   Region 2:   Midwest                      21   4.68        54   5.10
+   Region 3:   South                        52  11.58       103   9.73
+   Region 4:   West                         16   3.56        30   2.83
+      18 121   County Non-Migrants        5197            12111
+18 123   Perry Total Migration Fl In       233              479
+  18 147 Spencer                  In        34  14.59        88  18.37
+  18 037 Dubois                   In        24  10.30        46   9.60
+  21 091 Hancock                  Ky        15   6.44        32   6.68
+   Same State                               75  32.19       135  28.18
+   Same Region, Diff. State                 15   6.44        22   4.59
+   Different Region                         70  30.04       156  32.57
+      18 123   County Non-Migrants        6327            14932
+18 125   Pike Total Migration Flo In       236              561
+  18 051 Gibson                   In        53  22.46       119  21.21
+  18 037 Dubois                   In        39  16.53       102  18.18
+  18 027 Daviess                  In        21   8.90        53   9.45
+  18 173 Warrick                  In        15   6.36        27   4.81
+  18 163 Vanderburgh              In        12   5.08        23   4.10
+   Same State                               43  18.22       103  18.36
+   Same Region, Diff. State                 16   6.78        43   7.66
+   Different Region                         37  15.68        91  16.22
+      18 125   County Non-Migrants        4278             9979
+18 127   Porter Total Migration F In      3516             7473
+  18 089 Lake                     In      1432  40.73      3073  41.12
+  17 031 Cook                     Il       310   8.82       688   9.21
+  18 091 La Porte                 In       238   6.77       465   6.22
+  18 141 St. Joseph               In        54   1.54       109   1.46
+  18 073 Jasper                   In        52   1.48       132   1.77
+  18 097 Marion                   In        44   1.25        72    .96
+  17 043 Du Page                  Il        37   1.05        90   1.20
+  57 005 APO / FPO Zip Code       FR        33    .94        55    .74
+  18 149 Starke                   In        27    .77        64    .86
+  18 157 Tippecanoe               In        24    .68        35    .47
+  18 039 Elkhart                  In        24    .68        53    .71
+  04 013 Maricopa                 Az        24    .68        48    .64
+  17 197 Will                     Il        22    .63        63    .84
+  18 003 Allen                    In        20    .57        39    .52
+  06 037 Los Angeles              Ca        18    .51        27    .36
+  18 105 Monroe                   In        18    .51        36    .48
+  56 025 Natrona                  Wy        16    .46        58    .78
+  06 073 San Diego                Ca        15    .43        33    .44
+  57 001 Foreign / Overseas       FR        14    .40        19    .25
+  42 003 Allegheny                Pa        13    .37        32    .43
+  12 103 Pinellas                 Fl        13    .37        24    .32
+  26 021 Berrien                  Mi        13    .37        20    .27
+  17 097 Lake                     Il        12    .34        27    .36
+  18 111 Newton                   In        12    .34        28    .37
+  18 167 Vigo                     In        11    .31        24    .32
+  26 163 Wayne                    Mi        11    .31        25    .33
+  48 201 Harris                   Tx        10    .28        24    .32
+  32 003 Clark                    Nv        10    .28        18    .24
+  42 017 Bucks                    Pa        10    .28        23    .31
+   Same State                              119   3.38       241   3.22
+   Region 1:   Northeast                   108   3.07       224   3.00
+   Region 2:   Midwest                     308   8.76       657   8.79
+   Region 3:   South                       348   9.90       759  10.16
+   Region 4:   West                         96   2.73       188   2.52
+      18 127   County Non-Migrants       44009           106059
+18 129   Posey Total Migration Fl In       514             1133
+  18 163 Vanderburgh              In       253  49.22       538  47.48
+  18 051 Gibson                   In        24   4.67        62   5.47
+  18 173 Warrick                  In        19   3.70        44   3.88
+  17 193 White                    Il        10   1.95        19   1.68
+   Same State                               46   8.95        91   8.03
+   Region 1:   Northeast                    16   3.11        45   3.97
+   Region 2:   Midwest                      70  13.62       169  14.92
+   Region 3:   South                        61  11.87       132  11.65
+   Region 4:   West                         15   2.92        33   2.91
+      18 129   County Non-Migrants        8441            20342
+18 131   Pulaski Total Migration  In       270              682
+  18 149 Starke                   In        64  23.70       185  27.13
+  18 049 Fulton                   In        17   6.30        44   6.45
+  18 073 Jasper                   In        16   5.93        55   8.06
+  18 089 Lake                     In        14   5.19        27   3.96
+  18 099 Marshall                 In        13   4.81        32   4.69
+  18 181 White                    In        12   4.44        27   3.96
+  18 091 La Porte                 In        11   4.07        39   5.72
+  18 127 Porter                   In        10   3.70        25   3.67
+   Same State                               44  16.30        79  11.58
+   Same Region, Diff. State                 32  11.85        78  11.44
+   Different Region                         37  13.70        91  13.34
+      18 131   County Non-Migrants        4324            10604
+18 133   Putnam Total Migration F In       931             2058
+  18 097 Marion                   In       224  24.06       462  22.45
+  18 063 Hendricks                In       123  13.21       304  14.77
+  18 119 Owen                     In        51   5.48       104   5.05
+  18 107 Montgomery               In        43   4.62        97   4.71
+  18 021 Clay                     In        32   3.44        71   3.45
+  18 109 Morgan                   In        30   3.22        73   3.55
+  18 121 Parke                    In        25   2.69        49   2.38
+  18 167 Vigo                     In        23   2.47        40   1.94
+  18 081 Johnson                  In        15   1.61        32   1.55
+  42 041 Cumberland               Pa        11   1.18        26   1.26
+  18 105 Monroe                   In        10   1.07        19    .92
+   Same State                              116  12.46       263  12.78
+   Region 1:   Northeast                    21   2.26        55   2.67
+   Region 2:   Midwest                      62   6.66       131   6.37
+   Region 3:   South                       114  12.24       265  12.88
+   Region 4:   West                         31   3.33        67   3.26
+      18 133   County Non-Migrants        9762            23062
+18 135   Randolph Total Migration In       578             1328
+  18 035 Delaware                 In       138  23.88       322  24.25
+  39 037 Darke                    Oh        84  14.53       205  15.44
+  18 177 Wayne                    In        60  10.38       128   9.64
+  18 075 Jay                      In        43   7.44       102   7.68
+  18 097 Marion                   In        17   2.94        30   2.26
+  18 095 Madison                  In        13   2.25        28   2.11
+  18 065 Henry                    In        12   2.08        27   2.03
+   Same State                               66  11.42       140  10.54
+   Same Region, Diff. State                 56   9.69       131   9.86
+   Different Region                         89  15.40       215  16.19
+      18 135   County Non-Migrants        9713            22580
+18 137   Ripley Total Migration F In       570             1325
+  18 029 Dearborn                 In       119  20.88       257  19.40
+  39 061 Hamilton                 Oh        59  10.35       131   9.89
+  18 047 Franklin                 In        47   8.25       104   7.85
+  18 031 Decatur                  In        34   5.96        90   6.79
+  18 097 Marion                   In        25   4.39        48   3.62
+  18 079 Jennings                 In        23   4.04        51   3.85
+  18 077 Jefferson                In        21   3.68        57   4.30
+  39 017 Butler                   Oh        15   2.63        41   3.09
+  18 155 Switzerland              In        12   2.11        27   2.04
+  18 005 Bartholomew              In        11   1.93        24   1.81
+   Same State                               60  10.53       139  10.49
+   Same Region, Diff. State                 44   7.72       118   8.91
+   Different Region                        100  17.54       238  17.96
+      18 137   County Non-Migrants        8426            20843
+18 139   Rush Total Migration Flo In       426              933
+  18 145 Shelby                   In        57  13.38       111  11.90
+  18 097 Marion                   In        46  10.80       111  11.90
+  18 041 Fayette                  In        44  10.33        86   9.22
+  18 065 Henry                    In        40   9.39        83   8.90
+  18 059 Hancock                  In        29   6.81        65   6.97
+  18 031 Decatur                  In        22   5.16        44   4.72
+  18 047 Franklin                 In        21   4.93        46   4.93
+   Same State                               81  19.01       174  18.65
+   Same Region, Diff. State                 26   6.10        71   7.61
+   Different Region                         60  14.08       142  15.22
+      18 139   County Non-Migrants        6424            15386
+18 141   St. Joseph Total Migrati In      4751             9221
+  18 039 Elkhart                  In       620  13.05      1137  12.33
+  26 021 Berrien                  Mi       308   6.48       613   6.65
+  18 099 Marshall                 In       219   4.61       427   4.63
+  26 027 Cass                     Mi       181   3.81       340   3.69
+  18 091 La Porte                 In       180   3.79       361   3.91
+  17 031 Cook                     Il       179   3.77       357   3.87
+  18 097 Marion                   In       140   2.95       241   2.61
+  57 001 Foreign / Overseas       FR       109   2.29       151   1.64
+  18 149 Starke                   In        84   1.77       194   2.10
+  18 089 Lake                     In        80   1.68       184   2.00
+  18 003 Allen                    In        65   1.37       127   1.38
+  06 037 Los Angeles              Ca        56   1.18       104   1.13
+  18 127 Porter                   In        54   1.14       109   1.18
+  57 005 APO / FPO Zip Code       FR        51   1.07       105   1.14
+  18 085 Kosciusko                In        47    .99        87    .94
+  06 073 San Diego                Ca        38    .80        70    .76
+  04 013 Maricopa                 Az        37    .78        75    .81
+  18 157 Tippecanoe               In        35    .74        57    .62
+  26 081 Kent                     Mi        34    .72        71    .77
+  26 125 Oakland                  Mi        33    .69        59    .64
+  18 105 Monroe                   In        33    .69        44    .48
+  26 077 Kalamazoo                Mi        29    .61        57    .62
+  26 163 Wayne                    Mi        24    .51        55    .60
+  12 103 Pinellas                 Fl        22    .46        38    .41
+  18 035 Delaware                 In        22    .46        31    .34
+  17 043 Du Page                  Il        21    .44        39    .42
+  48 113 Dallas                   Tx        19    .40        38    .41
+  26 161 Washtenaw                Mi        18    .38        31    .34
+  48 439 Tarrant                  Tx        18    .38        41    .44
+  18 049 Fulton                   In        17    .36        36    .39
+  18 057 Hamilton                 In        17    .36        40    .43
+  39 095 Lucas                    Oh        17    .36        42    .46
+  55 079 Milwaukee                Wi        16    .34        33    .36
+  39 035 Cuyahoga                 Oh        16    .34        25    .27
+  39 049 Franklin                 Oh        15    .32        31    .34
+  26 149 St. Joseph               Mi        15    .32        27    .29
+  48 201 Harris                   Tx        15    .32        26    .28
+  12 025 Dade                     Fl        15    .32        42    .46
+  18 113 Noble                    In        14    .29        28    .30
+  17 089 Kane                     Il        14    .29        32    .35
+  18 163 Vanderburgh              In        14    .29        30    .33
+  12 071 Lee                      Fl        14    .29        26    .28
+  12 095 Orange                   Fl        13    .27        18    .20
+  06 059 Orange                   Ca        13    .27        31    .34
+  39 061 Hamilton                 Oh        13    .27        25    .27
+  27 053 Hennepin                 Mn        13    .27        21    .23
+  26 139 Ottawa                   Mi        13    .27        20    .22
+  42 003 Allegheny                Pa        13    .27        26    .28
+  26 099 Macomb                   Mi        12    .25        31    .34
+  53 053 Pierce                   Wa        12    .25        37    .40
+  18 081 Johnson                  In        12    .25        22    .24
+  48 029 Bexar                    Tx        12    .25        37    .40
+  12 057 Hillsborough             Fl        12    .25        22    .24
+  53 033 King                     Wa        11    .23        13    .14
+  15 003 Honolulu                 Hi        11    .23        19    .21
+  18 067 Howard                   In        11    .23        22    .24
+  26 065 Ingham                   Mi        11    .23        17    .18
+  06 071 San Bernardino           Ca        11    .23        26    .28
+  12 011 Broward                  Fl        11    .23        25    .27
+  21 111 Jefferson                Ky        11    .23        25    .27
+  08 031 Denver                   Co        11    .23        31    .34
+  17 019 Champaign                Il        11    .23        28    .30
+  25 017 Middlesex                Ma        10    .21        20    .22
+  45 019 Charleston               SC        10    .21        19    .21
+  37 051 Cumberland               NC        10    .21        19    .21
+  06 085 Santa Clara              Ca        10    .21        20    .22
+   Same State                              149   3.14       270   2.93
+   Region 1:   Northeast                   203   4.27       377   4.09
+   Region 2:   Midwest                     452   9.51       912   9.89
+   Region 3:   South                       539  11.34      1074  11.65
+   Region 4:   West                        176   3.70       353   3.83
+      18 141   County Non-Migrants       88108           196581
+18 143   Scott Total Migration Fl In       445              975
+  18 019 Clark                    In        73  16.40       158  16.21
+  18 077 Jefferson                In        67  15.06       150  15.38
+  18 071 Jackson                  In        56  12.58       135  13.85
+  18 175 Washington               In        26   5.84        57   5.85
+  21 111 Jefferson                Ky        20   4.49        37   3.79
+  18 005 Bartholomew              In        14   3.15        29   2.97
+  18 079 Jennings                 In        14   3.15        34   3.49
+  18 043 Floyd                    In        10   2.25        32   3.28
+   Same State                               42   9.44        77   7.90
+   Same Region, Diff. State                 30   6.74        68   6.97
+   Different Region                         93  20.90       198  20.31
+      18 143   County Non-Migrants        6767            15924
+18 145   Shelby Total Migration F In      1010             2239
+  18 097 Marion                   In       306  30.30       701  31.31
+  18 081 Johnson                  In        81   8.02       164   7.32
+  18 139 Rush                     In        73   7.23       162   7.24
+  18 059 Hancock                  In        70   6.93       169   7.55
+  18 031 Decatur                  In        46   4.55       119   5.31
+  18 005 Bartholomew              In        34   3.37        72   3.22
+  18 057 Hamilton                 In        16   1.58        36   1.61
+  18 065 Henry                    In        13   1.29        21    .94
+  18 105 Monroe                   In        12   1.19        21    .94
+  18 063 Hendricks                In        11   1.09        24   1.07
+   Same State                              130  12.87       277  12.37
+   Region 1:   Northeast                    12   1.19        28   1.25
+   Region 2:   Midwest                      63   6.24       144   6.43
+   Region 3:   South                        98   9.70       209   9.33
+   Region 4:   West                         32   3.17        62   2.77
+   Foreign                                  13   1.29        30   1.34
+      18 145   County Non-Migrants       14199            33392
+18 147   Spencer Total Migration  In       383              842
+  18 173 Warrick                  In        66  17.23       159  18.88
+  18 037 Dubois                   In        44  11.49       110  13.06
+  18 123 Perry                    In        40  10.44        79   9.38
+  18 163 Vanderburgh              In        39  10.18        72   8.55
+  21 059 Daviess                  Ky        33   8.62        75   8.91
+   Same State                               49  12.79        99  11.76
+   Same Region, Diff. State                 18   4.70        43   5.11
+   Different Region                         94  24.54       205  24.35
+      18 147   County Non-Migrants        6514            15987
+18 149   Starke Total Migration F In       782             1665
+  18 091 La Porte                 In       177  22.63       359  21.56
+  18 099 Marshall                 In       118  15.09       265  15.92
+  18 141 St. Joseph               In        65   8.31       129   7.75
+  18 131 Pulaski                  In        56   7.16       117   7.03
+  18 089 Lake                     In        36   4.60        82   4.92
+  18 127 Porter                   In        34   4.35        83   4.98
+  17 031 Cook                     Il        27   3.45        49   2.94
+  18 039 Elkhart                  In        23   2.94        38   2.28
+  18 085 Kosciusko                In        21   2.69        46   2.76
+  18 073 Jasper                   In        20   2.56        47   2.82
+  18 049 Fulton                   In        19   2.43        50   3.00
+  18 003 Allen                    In        12   1.53        16    .96
+  18 097 Marion                   In        10   1.28        22   1.32
+  18 017 Cass                     In        10   1.28        27   1.62
+   Same State                               36   4.60        78   4.68
+   Same Region, Diff. State                 39   4.99       100   6.01
+   Different Region                         79  10.10       157   9.43
+      18 149   County Non-Migrants        7645            18546
+18 151   Steuben Total Migration  In       907             1784
+  18 003 Allen                    In       147  16.21       261  14.63
+  18 033 De Kalb                  In       114  12.57       224  12.56
+  26 023 Branch                   Mi        65   7.17       135   7.57
+  18 087 Lagrange                 In        52   5.73       111   6.22
+  39 171 Williams                 Oh        32   3.53        61   3.42
+  18 113 Noble                    In        28   3.09        61   3.42
+  26 059 Hillsdale                Mi        27   2.98        56   3.14
+  39 095 Lucas                    Oh        16   1.76        37   2.07
+  39 039 Defiance                 Oh        14   1.54        26   1.46
+  18 001 Adams                    In        12   1.32        24   1.35
+  18 039 Elkhart                  In        10   1.10        22   1.23
+   Same State                               91  10.03       176   9.87
+   Region 1:   Northeast                    26   2.87        37   2.07
+   Region 2:   Midwest                     171  18.85       323  18.11
+   Region 3:   South                        70   7.72       158   8.86
+   Region 4:   West                         32   3.53        72   4.04
+      18 151   County Non-Migrants       10122            23416
+18 153   Sullivan Total Migration In       390              850
+  18 167 Vigo                     In        86  22.05       193  22.71
+  18 055 Greene                   In        42  10.77        89  10.47
+  18 083 Knox                     In        27   6.92        52   6.12
+  18 097 Marion                   In        23   5.90        35   4.12
+  18 021 Clay                     In        14   3.59        33   3.88
+   Same State                               80  20.51       196  23.06
+   Same Region, Diff. State                 45  11.54        95  11.18
+   Different Region                         73  18.72       157  18.47
+      18 153   County Non-Migrants        6509            15368
+18 155   Switzerland Total Migrat In       194              441
+  18 077 Jefferson                In        27  13.92        52  11.79
+  39 061 Hamilton                 Oh        23  11.86        39   8.84
+  18 115 Ohio                     In        22  11.34        64  14.51
+  18 029 Dearborn                 In        20  10.31        54  12.24
+  18 137 Ripley                   In        11   5.67        32   7.26
+   Same State                               25  12.89        58  13.15
+   Same Region, Diff. State                 13   6.70        35   7.94
+   Different Region                         53  27.32       107  24.26
+      18 155   County Non-Migrants        2301             5474
+18 157   Tippecanoe Total Migrati In      4099             7000
+  57 001 Foreign / Overseas       FR       367   8.95       441   6.30
+  18 097 Marion                   In       229   5.59       346   4.94
+  18 181 White                    In       162   3.95       302   4.31
+  18 023 Clinton                  In       149   3.64       316   4.51
+  18 015 Carroll                  In       131   3.20       267   3.81
+  18 089 Lake                     In        86   2.10       118   1.69
+  18 007 Benton                   In        83   2.02       152   2.17
+  18 107 Montgomery               In        78   1.90       165   2.36
+  17 031 Cook                     Il        76   1.85       108   1.54
+  18 003 Allen                    In        63   1.54        93   1.33
+  18 067 Howard                   In        59   1.44       102   1.46
+  18 045 Fountain                 In        58   1.41       128   1.83
+  17 143 Peoria                   Il        48   1.17       114   1.63
+  18 171 Warren                   In        47   1.15        94   1.34
+  18 141 St. Joseph               In        43   1.05        59    .84
+  18 073 Jasper                   In        41   1.00        66    .94
+  18 057 Hamilton                 In        37    .90        53    .76
+  18 127 Porter                   In        34    .83        45    .64
+  57 005 APO / FPO Zip Code       FR        33    .81        72   1.03
+  06 037 Los Angeles              Ca        33    .81        51    .73
+  18 105 Monroe                   In        32    .78        47    .67
+  18 095 Madison                  In        30    .73        53    .76
+  18 091 La Porte                 In        28    .68        44    .63
+  18 167 Vigo                     In        27    .66        45    .64
+  18 017 Cass                     In        27    .66        46    .66
+  17 043 Du Page                  Il        25    .61        39    .56
+  18 039 Elkhart                  In        25    .61        38    .54
+  06 073 San Diego                Ca        24    .59        41    .59
+  18 053 Grant                    In        23    .56        35    .50
+  18 035 Delaware                 In        23    .56        33    .47
+  18 081 Johnson                  In        23    .56        43    .61
+  18 103 Miami                    In        22    .54        31    .44
+  18 111 Newton                   In        20    .49        31    .44
+  18 063 Hendricks                In        20    .49        30    .43
+  15 003 Honolulu                 Hi        18    .44        40    .57
+  17 019 Champaign                Il        17    .41        31    .44
+  18 011 Boone                    In        17    .41        33    .47
+  18 131 Pulaski                  In        16    .39        21    .30
+  18 163 Vanderburgh              In        16    .39        21    .30
+  18 177 Wayne                    In        16    .39        25    .36
+  04 013 Maricopa                 Az        15    .37        29    .41
+  26 163 Wayne                    Mi        15    .37        18    .26
+  55 079 Milwaukee                Wi        15    .37        22    .31
+  26 081 Kent                     Mi        15    .37        24    .34
+  17 179 Tazewell                 Il        15    .37        43    .61
+  18 059 Hancock                  In        14    .34        23    .33
+  26 161 Washtenaw                Mi        13    .32        23    .33
+  48 113 Dallas                   Tx        13    .32        21    .30
+  18 005 Bartholomew              In        13    .32        25    .36
+  39 113 Montgomery               Oh        12    .29        20    .29
+  53 033 King                     Wa        12    .29        13    .19
+  26 125 Oakland                  Mi        12    .29        21    .30
+  06 059 Orange                   Ca        12    .29        19    .27
+  06 085 Santa Clara              Ca        12    .29        22    .31
+  55 133 Waukesha                 Wi        12    .29        19    .27
+  39 035 Cuyahoga                 Oh        11    .27        21    .30
+  24 031 Montgomery               Md        11    .27        20    .29
+  18 083 Knox                     In        11    .27        23    .33
+  12 103 Pinellas                 Fl        10    .24        16    .23
+  17 183 Vermilion                Il        10    .24        16    .23
+  39 061 Hamilton                 Oh        10    .24        12    .17
+  48 201 Harris                   Tx        10    .24        18    .26
+  24 033 Prince George's          Md        10    .24        15    .21
+  04 019 Pima                     Az        10    .24        18    .26
+  18 085 Kosciusko                In        10    .24        22    .31
+  17 097 Lake                     Il        10    .24        17    .24
+  06 001 Alameda                  Ca        10    .24        18    .26
+  17 113 McLean                   Il        10    .24        17    .24
+   Same State                              202   4.93       332   4.74
+   Region 1:   Northeast                   238   5.81       362   5.17
+   Region 2:   Midwest                     392   9.56       738  10.54
+   Region 3:   South                       480  11.71       922  13.17
+   Region 4:   West                        148   3.61       252   3.60
+      18 157   County Non-Migrants       39782            88157
+18 159   Tipton Total Migration F In       423              992
+  18 067 Howard                   In       116  27.42       272  27.42
+  18 057 Hamilton                 In        68  16.08       162  16.33
+  18 095 Madison                  In        39   9.22        95   9.58
+  18 097 Marion                   In        30   7.09        65   6.55
+   Same State                               71  16.78       148  14.92
+   Same Region, Diff. State                 33   7.80        95   9.58
+   Different Region                         66  15.60       155  15.63
+      18 159   County Non-Migrants        5850            13730
+18 161   Union Total Migration Fl In       164              359
+  18 177 Wayne                    In        41  25.00        94  26.18
+  39 017 Butler                   Oh        23  14.02        45  12.53
+  39 135 Preble                   Oh        21  12.80        48  13.37
+  18 041 Fayette                  In        16   9.76        29   8.08
+  18 047 Franklin                 In        11   6.71        23   6.41
+   Same State                               17  10.37        40  11.14
+   Same Region, Diff. State                 10   6.10        24   6.69
+   Different Region                         25  15.24        56  15.60
+      18 161   County Non-Migrants        2288             5501
+18 163   Vanderburgh Total Migrat In      3401             6483
+  18 173 Warrick                  In       623  18.32      1172  18.08
+  18 129 Posey                    In       278   8.17       578   8.92
+  18 051 Gibson                   In       159   4.68       305   4.70
+  21 101 Henderson                Ky       128   3.76       213   3.29
+  18 097 Marion                   In        78   2.29       133   2.05
+  18 147 Spencer                  In        69   2.03       114   1.76
+  18 083 Knox                     In        48   1.41        78   1.20
+  18 037 Dubois                   In        47   1.38        64    .99
+  57 005 APO / FPO Zip Code       FR        44   1.29        79   1.22
+  21 059 Daviess                  Ky        40   1.18        66   1.02
+  17 031 Cook                     Il        38   1.12        57    .88
+  47 037 Davidson                 Tn        33    .97        70   1.08
+  29 189 St. Louis                Mo        31    .91        58    .89
+  21 111 Jefferson                Ky        31    .91        56    .86
+  18 105 Monroe                   In        28    .82        50    .77
+  18 167 Vigo                     In        26    .76        49    .76
+  17 185 Wabash                   Il        24    .71        41    .63
+  17 193 White                    Il        21    .62        44    .68
+  21 107 Hopkins                  Ky        20    .59        38    .59
+  21 067 Fayette                  Ky        19    .56        37    .57
+  18 089 Lake                     In        18    .53        31    .48
+  21 233 Webster                  Ky        18    .53        31    .48
+  18 125 Pike                     In        18    .53        26    .40
+  18 123 Perry                    In        17    .50        29    .45
+  57 001 Foreign / Overseas       FR        16    .47        18    .28
+  17 191 Wayne                    Il        15    .44        22    .34
+  39 153 Summit                   Oh        15    .44        35    .54
+  48 201 Harris                   Tx        15    .44        27    .42
+  39 061 Hamilton                 Oh        14    .41        28    .43
+  18 157 Tippecanoe               In        14    .41        20    .31
+  39 151 Stark                    Oh        14    .41        46    .71
+  04 013 Maricopa                 Az        14    .41        21    .32
+  06 037 Los Angeles              Ca        13    .38        22    .34
+  12 011 Broward                  Fl        13    .38        26    .40
+  06 073 San Diego                Ca        13    .38        24    .37
+  12 103 Pinellas                 Fl        13    .38        21    .32
+  06 059 Orange                   Ca        13    .38        36    .56
+  48 113 Dallas                   Tx        12    .35        24    .37
+  21 177 Muhlenberg               Ky        12    .35        17    .26
+  18 019 Clark                    In        12    .35        22    .34
+  39 049 Franklin                 Oh        12    .35        25    .39
+  17 165 Saline                   Il        12    .35        19    .29
+  12 095 Orange                   Fl        11    .32        16    .25
+  12 105 Polk                     Fl        11    .32        18    .28
+  17 199 Williamson               Il        11    .32        15    .23
+  18 027 Daviess                  In        11    .32        23    .35
+  18 081 Johnson                  In        10    .29        29    .45
+  18 003 Allen                    In        10    .29        24    .37
+  17 101 Lawrence                 Il        10    .29        23    .35
+  26 163 Wayne                    Mi        10    .29        13    .20
+  18 141 St. Joseph               In        10    .29        14    .22
+  18 153 Sullivan                 In        10    .29        19    .29
+  21 047 Christian                Ky        10    .29        21    .32
+  21 145 McCracken                Ky        10    .29        13    .20
+  29 510 St. Louis city           Mo        10    .29        18    .28
+  12 071 Lee                      Fl        10    .29        23    .35
+   Same State                              146   4.29       268   4.13
+   Region 1:   Northeast                   106   3.12       221   3.41
+   Region 2:   Midwest                     322   9.47       631   9.73
+   Region 3:   South                       484  14.23      1025  15.81
+   Region 4:   West                        101   2.97       197   3.04
+      18 163   County Non-Migrants       60981           131785
+18 165   Vermillion Total Migrati In       381              826
+  18 167 Vigo                     In        81  21.26       158  19.13
+  18 121 Parke                    In        57  14.96       124  15.01
+  18 045 Fountain                 In        36   9.45        67   8.11
+  17 183 Vermilion                Il        23   6.04        55   6.66
+  18 097 Marion                   In        13   3.41        21   2.54
+   Same State                               47  12.34       112  13.56
+   Same Region, Diff. State                 56  14.70       119  14.41
+   Different Region                         68  17.85       170  20.58
+      18 165   County Non-Migrants        5578            13020
+18 167   Vigo Total Migration Flo In      2449             4605
+  18 021 Clay                     In       167   6.82       344   7.47
+  18 097 Marion                   In       150   6.12       250   5.43
+  18 165 Vermillion               In       118   4.82       213   4.63
+  18 121 Parke                    In       112   4.57       206   4.47
+  18 153 Sullivan                 In       109   4.45       222   4.82
+  57 001 Foreign / Overseas       FR        86   3.51        90   1.95
+  18 055 Greene                   In        46   1.88        68   1.48
+  17 023 Clark                    Il        41   1.67        82   1.78
+  18 089 Lake                     In        40   1.63        53   1.15
+  18 163 Vanderburgh              In        33   1.35        62   1.35
+  57 005 APO / FPO Zip Code       FR        30   1.22        58   1.26
+  17 045 Edgar                    Il        29   1.18        44    .96
+  18 083 Knox                     In        28   1.14        42    .91
+  18 063 Hendricks                In        28   1.14        55   1.19
+  18 105 Monroe                   In        27   1.10        39    .85
+  17 031 Cook                     Il        26   1.06        43    .93
+  18 133 Putnam                   In        26   1.06        44    .96
+  18 057 Hamilton                 In        25   1.02        52   1.13
+  18 003 Allen                    In        22    .90        39    .85
+  18 157 Tippecanoe               In        22    .90        33    .72
+  18 141 St. Joseph               In        18    .73        26    .56
+  18 109 Morgan                   In        16    .65        27    .59
+  17 033 Crawford                 Il        16    .65        31    .67
+  06 037 Los Angeles              Ca        15    .61        24    .52
+  18 127 Porter                   In        15    .61        25    .54
+  18 005 Bartholomew              In        14    .57        29    .63
+  17 183 Vermilion                Il        13    .53        25    .54
+  18 081 Johnson                  In        13    .53        31    .67
+  04 013 Maricopa                 Az        12    .49        22    .48
+  18 119 Owen                     In        12    .49        25    .54
+  21 111 Jefferson                Ky        11    .45        21    .46
+  18 173 Warrick                  In        11    .45        26    .56
+  18 103 Miami                    In        10    .41        19    .41
+  12 011 Broward                  Fl        10    .41        12    .26
+  18 093 Lawrence                 In        10    .41        14    .30
+  18 091 La Porte                 In        10    .41        15    .33
+  06 073 San Diego                Ca        10    .41        21    .46
+  12 095 Orange                   Fl        10    .41        17    .37
+   Same State                              197   8.04       325   7.06
+   Region 1:   Northeast                   107   4.37       240   5.21
+   Region 2:   Midwest                     298  12.17       576  12.51
+   Region 3:   South                       348  14.21       777  16.87
+   Region 4:   West                        108   4.41       238   5.17
+      18 167   County Non-Migrants       34414            76313
+18 169   Wabash Total Migration F In       588             1278
+  18 085 Kosciusko                In        64  10.88       155  12.13
+  18 103 Miami                    In        59  10.03       136  10.64
+  18 053 Grant                    In        58   9.86       131  10.25
+  18 069 Huntington               In        48   8.16       115   9.00
+  18 003 Allen                    In        29   4.93        64   5.01
+  18 049 Fulton                   In        20   3.40        49   3.83
+  18 183 Whitley                  In        12   2.04        28   2.19
+  57 005 APO / FPO Zip Code       FR        12   2.04        23   1.80
+   Same State                              113  19.22       222  17.37
+   Region 1:   Northeast                    16   2.72        29   2.27
+   Region 2:   Midwest                      58   9.86       124   9.70
+   Region 3:   South                        73  12.41       152  11.89
+   Region 4:   West                         26   4.42        50   3.91
+      18 169   County Non-Migrants       12145            28542
+18 171   Warren Total Migration F In       233              503
+  18 045 Fountain                 In        50  21.46       111  22.07
+  18 157 Tippecanoe               In        46  19.74        82  16.30
+  17 183 Vermilion                Il        16   6.87        38   7.55
+  18 007 Benton                   In        16   6.87        33   6.56
+   Same State                               46  19.74       108  21.47
+   Same Region, Diff. State                 14   6.01        29   5.77
+   Different Region                         45  19.31       102  20.28
+      18 171   County Non-Migrants        2778             6795
+18 173   Warrick Total Migration  In      1390             3080
+  18 163 Vanderburgh              In       697  50.14      1484  48.18
+  18 147 Spencer                  In        62   4.46       133   4.32
+  18 051 Gibson                   In        26   1.87        59   1.92
+  21 101 Henderson                Ky        25   1.80        51   1.66
+  18 037 Dubois                   In        24   1.73        42   1.36
+  18 129 Posey                    In        21   1.51        42   1.36
+  18 097 Marion                   In        18   1.29        40   1.30
+  21 059 Daviess                  Ky        15   1.08        34   1.10
+  18 123 Perry                    In        14   1.01        29    .94
+  57 005 APO / FPO Zip Code       FR        12    .86        23    .75
+   Same State                               82   5.90       184   5.97
+   Region 1:   Northeast                    39   2.81       101   3.28
+   Region 2:   Midwest                     123   8.85       303   9.84
+   Region 3:   South                       178  12.81       417  13.54
+   Region 4:   West                         54   3.88       138   4.48
+      18 173   County Non-Migrants       15543            38901
+18 175   Washington Total Migrati In       508             1181
+  18 019 Clark                    In        89  17.52       202  17.10
+  18 043 Floyd                    In        67  13.19       151  12.79
+  21 111 Jefferson                Ky        41   8.07        89   7.54
+  18 061 Harrison                 In        39   7.68        92   7.79
+  18 117 Orange                   In        29   5.71        81   6.86
+  18 143 Scott                    In        26   5.12        63   5.33
+  18 071 Jackson                  In        23   4.53        56   4.74
+  18 025 Crawford                 In        10   1.97        27   2.29
+   Same State                               66  12.99       139  11.77
+   Same Region, Diff. State                 26   5.12        61   5.17
+   Different Region                         92  18.11       220  18.63
+      18 175   County Non-Migrants        7528            18101
+18 177   Wayne Total Migration Fl In      1233             2568
+  18 135 Randolph                 In        85   6.89       184   7.17
+  39 135 Preble                   Oh        79   6.41       187   7.28
+  18 041 Fayette                  In        67   5.43       135   5.26
+  18 097 Marion                   In        55   4.46        99   3.86
+  18 065 Henry                    In        53   4.30       111   4.32
+  39 113 Montgomery               Oh        45   3.65        86   3.35
+  18 161 Union                    In        38   3.08        85   3.31
+  39 037 Darke                    Oh        31   2.51        60   2.34
+  57 005 APO / FPO Zip Code       FR        31   2.51        56   2.18
+  18 035 Delaware                 In        25   2.03        44   1.71
+  39 061 Hamilton                 Oh        15   1.22        24    .93
+  12 103 Pinellas                 Fl        14   1.14        31   1.21
+  39 017 Butler                   Oh        12    .97        27   1.05
+  17 031 Cook                     Il        10    .81        25    .97
+   Same State                              158  12.81       325  12.66
+   Region 1:   Northeast                    67   5.43       138   5.37
+   Region 2:   Midwest                     136  11.03       295  11.49
+   Region 3:   South                       253  20.52       552  21.50
+   Region 4:   West                         59   4.79       104   4.05
+      18 177   County Non-Migrants       24956            56367
+18 179   Wells Total Migration Fl In       558             1212
+  18 003 Allen                    In       183  32.80       375  30.94
+  18 001 Adams                    In        62  11.11       149  12.29
+  18 069 Huntington               In        57  10.22       129  10.64
+  18 009 Blackford                In        34   6.09        78   6.44
+  18 075 Jay                      In        14   2.51        31   2.56
+  18 053 Grant                    In        11   1.97        23   1.90
+   Same State                               78  13.98       175  14.44
+   Region 1:   Northeast                    12   2.15        22   1.82
+   Region 2:   Midwest                      55   9.86       118   9.74
+   Region 3:   South                        36   6.45        76   6.27
+   Region 4:   West                         16   2.87        36   2.97
+      18 179   County Non-Migrants        9095            22128
+18 181   White Total Migration Fl In       749             1627
+  18 157 Tippecanoe               In       159  21.23       348  21.39
+  18 015 Carroll                  In        81  10.81       180  11.06
+  18 017 Cass                     In        43   5.74        79   4.86
+  18 073 Jasper                   In        37   4.94        79   4.86
+  18 089 Lake                     In        33   4.41        65   4.00
+  17 031 Cook                     Il        31   4.14        62   3.81
+  18 097 Marion                   In        22   2.94        45   2.77
+  18 131 Pulaski                  In        15   2.00        42   2.58
+  18 111 Newton                   In        14   1.87        23   1.41
+  18 023 Clinton                  In        12   1.60        28   1.72
+   Same State                              120  16.02       273  16.78
+   Region 1:   Northeast                    11   1.47        17   1.04
+   Region 2:   Midwest                      77  10.28       165  10.14
+   Region 3:   South                        64   8.54       152   9.34
+   Region 4:   West                         30   4.01        69   4.24
+      18 181   County Non-Migrants        8508            19805
+18 183   Whitley Total Migration  In       701             1590
+  18 003 Allen                    In       277  39.51       641  40.31
+  18 085 Kosciusko                In        69   9.84       156   9.81
+  18 113 Noble                    In        66   9.42       149   9.37
+  18 069 Huntington               In        24   3.42        51   3.21
+  18 169 Wabash                   In        13   1.85        32   2.01
+  18 039 Elkhart                  In        11   1.57        27   1.70
+   Same State                               86  12.27       201  12.64
+   Region 1:   Northeast                    14   2.00        24   1.51
+   Region 2:   Midwest                      66   9.42       149   9.37
+   Region 3:   South                        52   7.42       111   6.98
+   Region 4:   West                         23   3.28        49   3.08
+      18 183   County Non-Migrants       10078            24429

@@ -1,0 +1,319 @@
+50 001   Addison Total Migration  Vt       823             1457
+  50 007 Chittenden               Vt       226  27.46       374  25.67
+  50 021 Rutland                  Vt       106  12.88       200  13.73
+  36 031 Essex                    NY        21   2.55        50   3.43
+  50 023 Washington               Vt        20   2.43        27   1.85
+  25 017 Middlesex                Ma        19   2.31        23   1.58
+  50 027 Windsor                  Vt        17   2.07        39   2.68
+  50 011 Franklin                 Vt        16   1.94        38   2.61
+  57 001 Foreign / Overseas       FR        15   1.82        25   1.72
+   Same State                               40   4.86        87   5.97
+   Region 1:   Northeast                   149  18.10       274  18.81
+   Region 2:   Midwest                      25   3.04        37   2.54
+   Region 3:   South                       106  12.88       189  12.97
+   Region 4:   West                         63   7.65        94   6.45
+      50 001   County Non-Migrants       11167            25457
+50 003   Bennington Total Migrati Vt       932             1636
+  50 021 Rutland                  Vt        68   7.30       130   7.95
+  36 083 Rensselaer               NY        57   6.12       115   7.03
+  50 025 Windham                  Vt        56   6.01        97   5.93
+  25 003 Berkshire                Ma        52   5.58        92   5.62
+  50 007 Chittenden               Vt        46   4.94        65   3.97
+  36 115 Washington               NY        43   4.61        82   5.01
+  36 001 Albany                   NY        17   1.82        22   1.34
+  36 091 Saratoga                 NY        16   1.72        27   1.65
+  57 001 Foreign / Overseas       FR        14   1.50        31   1.89
+  50 027 Windsor                  Vt        13   1.39        18   1.10
+  25 025 Suffolk                  Ma        10   1.07        11    .67
+   Same State                               28   3.00        55   3.36
+   Region 1:   Northeast                   217  23.28       377  23.04
+   Region 2:   Midwest                      52   5.58       108   6.60
+   Region 3:   South                       166  17.81       291  17.79
+   Region 4:   West                         77   8.26       115   7.03
+      50 003   County Non-Migrants       13029            28325
+50 005   Caledonia Total Migratio Vt       590             1072
+  50 023 Washington               Vt        45   7.63        86   8.02
+  50 007 Chittenden               Vt        43   7.29        57   5.32
+  33 009 Grafton                  NH        42   7.12        75   7.00
+  50 009 Essex                    Vt        32   5.42        60   5.60
+  50 019 Orleans                  Vt        32   5.42        65   6.06
+  50 017 Orange                   Vt        29   4.92        54   5.04
+  50 015 Lamoille                 Vt        22   3.73        48   4.48
+  50 027 Windsor                  Vt        16   2.71        28   2.61
+  57 001 Foreign / Overseas       FR        11   1.86        19   1.77
+  33 007 Coos                     NH        10   1.69        15   1.40
+   Same State                               22   3.73        39   3.64
+   Region 1:   Northeast                   125  21.19       232  21.64
+   Region 2:   Midwest                      25   4.24        55   5.13
+   Region 3:   South                        94  15.93       174  16.23
+   Region 4:   West                         42   7.12        65   6.06
+      50 005   County Non-Migrants        9683            22144
+50 007   Chittenden Total Migrati Vt      3762             6387
+  50 011 Franklin                 Vt       321   8.53       639  10.00
+  50 001 Addison                  Vt       262   6.96       478   7.48
+  50 023 Washington               Vt       162   4.31       269   4.21
+  50 015 Lamoille                 Vt       129   3.43       215   3.37
+  50 013 Grand Isle               Vt       103   2.74       166   2.60
+  57 001 Foreign / Overseas       FR        74   1.97       133   2.08
+  50 021 Rutland                  Vt        70   1.86       107   1.68
+  25 017 Middlesex                Ma        70   1.86        90   1.41
+  50 027 Windsor                  Vt        50   1.33        78   1.22
+  25 025 Suffolk                  Ma        45   1.20        49    .77
+  50 005 Caledonia                Vt        39   1.04        58    .91
+  33 011 Hillsborough             NH        37    .98        59    .92
+  06 037 Los Angeles              Ca        37    .98        54    .85
+  36 019 Clinton                  NY        37    .98        60    .94
+  53 033 King                     Wa        36    .96        60    .94
+  09 001 Fairfield                Ct        33    .88        49    .77
+  50 019 Orleans                  Vt        33    .88        50    .78
+  50 017 Orange                   Vt        31    .82        39    .61
+  36 061 New York                 NY        31    .82        39    .61
+  50 025 Windham                  Vt        29    .77        37    .58
+  12 011 Broward                  Fl        29    .77        48    .75
+  06 075 San Francisco            Ca        29    .77        37    .58
+  06 073 San Diego                Ca        29    .77        38    .59
+  25 009 Essex                    Ma        29    .77        56    .88
+  25 021 Norfolk                  Ma        27    .72        36    .56
+  09 003 Hartford                 Ct        27    .72        34    .53
+  12 099 Palm Beach               Fl        26    .69        44    .69
+  50 003 Bennington               Vt        26    .69        43    .67
+  36 027 Dutchess                 NY        24    .64        50    .78
+  23 005 Cumberland               Me        24    .64        39    .61
+  04 013 Maricopa                 Az        23    .61        42    .66
+  25 027 Worcester                Ma        22    .58        42    .66
+  12 095 Orange                   Fl        20    .53        26    .41
+  17 031 Cook                     Il        19    .51        20    .31
+  33 009 Grafton                  NH        18    .48        27    .42
+  36 055 Monroe                   NY        18    .48        30    .47
+  06 085 Santa Clara              Ca        17    .45        26    .41
+  48 453 Travis                   Tx        17    .45        38    .59
+  27 053 Hennepin                 Mn        17    .45        35    .55
+  12 115 Sarasota                 Fl        16    .43        23    .36
+  12 103 Pinellas                 Fl        16    .43        28    .44
+  33 015 Rockingham               NH        16    .43        22    .34
+  12 127 Volusia                  Fl        15    .40        27    .42
+  36 067 Onondaga                 NY        15    .40        34    .53
+  42 101 Philadelphia             Pa        15    .40        22    .34
+  49 035 Salt Lake                Ut        14    .37        17    .27
+  36 119 Westchester              NY        14    .37        25    .39
+  36 031 Essex                    NY        14    .37        26    .41
+  39 035 Cuyahoga                 Oh        13    .35        36    .56
+  36 089 St. Lawrence             NY        13    .35        24    .38
+  36 091 Saratoga                 NY        13    .35        30    .47
+  08 013 Boulder                  Co        13    .35        14    .22
+  25 015 Hampshire                Ma        12    .32        14    .22
+  11 001 Wash.,D.C.               DC        12    .32        13    .20
+  51 153 Prince William           Va        12    .32        19    .30
+  04 019 Pima                     Az        12    .32        22    .34
+  33 013 Merrimack                NH        12    .32        24    .38
+  51 059 Fairfax                  Va        12    .32        17    .27
+  37 183 Wake                     NC        12    .32        29    .45
+  36 001 Albany                   NY        12    .32        15    .23
+  13 121 Fulton                   Ga        11    .29        21    .33
+  09 009 New Haven                Ct        11    .29        25    .39
+  09 013 Tolland                  Ct        11    .29        15    .23
+  12 021 Collier                  Fl        11    .29        16    .25
+  25 013 Hampden                  Ma        11    .29        13    .20
+  25 023 Plymouth                 Ma        11    .29        14    .22
+  25 005 Bristol                  Ma        11    .29        15    .23
+  08 031 Denver                   Co        11    .29        15    .23
+  36 103 Suffolk                  NY        11    .29        16    .25
+  42 003 Allegheny                Pa        11    .29        15    .23
+  06 001 Alameda                  Ca        11    .29        12    .19
+  06 067 Sacramento               Ca        11    .29        12    .19
+  06 059 Orange                   Ca        10    .27        14    .22
+  36 113 Warren                   NY        10    .27        18    .28
+  12 009 Brevard                  Fl        10    .27        19    .30
+  36 045 Jefferson                NY        10    .27        25    .39
+  12 071 Lee                      Fl        10    .27        14    .22
+  12 015 Charlotte                Fl        10    .27        24    .38
+   All Migration Flows                    1217  32.35      2163  33.87
+      50 007   County Non-Migrants       48314           102855
+50 009   Essex Total Migration Fl Vt       194              382
+  50 005 Caledonia                Vt        41  21.13        80  20.94
+  33 007 Coos                     NH        38  19.59        73  19.11
+  50 019 Orleans                  Vt        15   7.73        41  10.73
+   Same State                               21  10.82        38   9.95
+   Same Region, Diff. State                 46  23.71        87  22.77
+   Different Region                         33  17.01        63  16.49
+      50 009   County Non-Migrants        2023             4843
+50 011   Franklin Total Migration Vt       726             1370
+  50 007 Chittenden               Vt       246  33.88       413  30.15
+  50 015 Lamoille                 Vt        42   5.79        76   5.55
+  50 013 Grand Isle               Vt        21   2.89        59   4.31
+  57 001 Foreign / Overseas       FR        14   1.93        15   1.09
+  50 023 Washington               Vt        14   1.93        25   1.82
+  50 001 Addison                  Vt        13   1.79        26   1.90
+  50 019 Orleans                  Vt        13   1.79        16   1.17
+  50 017 Orange                   Vt        10   1.38        17   1.24
+  36 019 Clinton                  NY        10   1.38        17   1.24
+  12 127 Volusia                  Fl        10   1.38        26   1.90
+   Same State                               19   2.62        48   3.50
+   Region 1:   Northeast                   128  17.63       244  17.81
+   Region 2:   Midwest                      20   2.75        60   4.38
+   Region 3:   South                       113  15.56       233  17.01
+   Region 4:   West                         53   7.30        95   6.93
+      50 011   County Non-Migrants       13568            31956
+50 013   Grand Isle Total Migrati Vt       184              309
+  50 007 Chittenden               Vt        71  38.59       102  33.01
+  50 011 Franklin                 Vt        28  15.22        60  19.42
+   Same State                               23  12.50        34  11.00
+   Same Region, Diff. State                 28  15.22        49  15.86
+   Different Region                         34  18.48        64  20.71
+      50 013   County Non-Migrants        2006             4582
+50 015   Lamoille Total Migration Vt       579              940
+  50 007 Chittenden               Vt       110  19.00       174  18.51
+  50 023 Washington               Vt        71  12.26       110  11.70
+  50 011 Franklin                 Vt        44   7.60        90   9.57
+  50 005 Caledonia                Vt        24   4.15        59   6.28
+  50 019 Orleans                  Vt        21   3.63        36   3.83
+  25 017 Middlesex                Ma        12   2.07        13   1.38
+  50 027 Windsor                  Vt        11   1.90        18   1.91
+   Same State                               34   5.87        65   6.91
+   Region 1:   Northeast                   105  18.13       168  17.87
+   Region 2:   Midwest                      16   2.76        22   2.34
+   Region 3:   South                        74  12.78       114  12.13
+   Region 4:   West                         57   9.84        71   7.55
+      50 015   County Non-Migrants        7115            15564
+50 017   Orange Total Migration F Vt       781             1411
+  50 023 Washington               Vt       163  20.87       321  22.75
+  50 027 Windsor                  Vt       111  14.21       214  15.17
+  33 009 Grafton                  NH        82  10.50       138   9.78
+  50 007 Chittenden               Vt        48   6.15        61   4.32
+  50 005 Caledonia                Vt        31   3.97        65   4.61
+   Same State                               38   4.87        64   4.54
+   Region 1:   Northeast                   148  18.95       256  18.14
+   Region 2:   Midwest                      18   2.30        37   2.62
+   Region 3:   South                        90  11.52       178  12.62
+   Region 4:   West                         52   6.66        77   5.46
+      50 017   County Non-Migrants        8735            20242
+50 019   Orleans Total Migration  Vt       425              764
+  50 007 Chittenden               Vt        40   9.41        66   8.64
+  50 005 Caledonia                Vt        30   7.06        59   7.72
+  50 015 Lamoille                 Vt        30   7.06        49   6.41
+  50 023 Washington               Vt        20   4.71        33   4.32
+  50 011 Franklin                 Vt        14   3.29        17   2.23
+  50 009 Essex                    Vt        14   3.29        28   3.66
+  57 001 Foreign / Overseas       FR        10   2.35        11   1.44
+   Same State                               26   6.12        62   8.12
+   Region 1:   Northeast                   118  27.76       210  27.49
+   Region 2:   Midwest                      10   2.35        24   3.14
+   Region 3:   South                        75  17.65       133  17.41
+   Region 4:   West                         38   8.94        72   9.42
+      50 019   County Non-Migrants        8397            19454
+50 021   Rutland Total Migration  Vt      1314             2250
+  50 007 Chittenden               Vt       118   8.98       155   6.89
+  50 001 Addison                  Vt        83   6.32       155   6.89
+  50 027 Windsor                  Vt        76   5.78       129   5.73
+  36 115 Washington               NY        68   5.18       145   6.44
+  50 003 Bennington               Vt        61   4.64       101   4.49
+  25 017 Middlesex                Ma        28   2.13        35   1.56
+  50 025 Windham                  Vt        27   2.05        48   2.13
+  57 001 Foreign / Overseas       FR        24   1.83        31   1.38
+  36 091 Saratoga                 NY        19   1.45        37   1.64
+  50 023 Washington               Vt        16   1.22        28   1.24
+  36 113 Warren                   NY        14   1.07        18    .80
+  25 025 Suffolk                  Ma        14   1.07        14    .62
+  33 009 Grafton                  NH        13    .99        24   1.07
+  04 013 Maricopa                 Az        12    .91        16    .71
+  09 003 Hartford                 Ct        12    .91        18    .80
+  36 001 Albany                   NY        11    .84        13    .58
+  50 011 Franklin                 Vt        11    .84        23   1.02
+  36 061 New York                 NY        10    .76        16    .71
+  12 103 Pinellas                 Fl        10    .76        13    .58
+   Same State                               27   2.05        48   2.13
+   Region 1:   Northeast                   264  20.09       465  20.67
+   Region 2:   Midwest                      60   4.57       100   4.44
+   Region 3:   South                       244  18.57       450  20.00
+   Region 4:   West                         92   7.00       168   7.47
+      50 021   County Non-Migrants       23031            49321
+50 023   Washington Total Migrati Vt      1519             2598
+  50 007 Chittenden               Vt       282  18.56       414  15.94
+  50 017 Orange                   Vt       177  11.65       348  13.39
+  50 015 Lamoille                 Vt        69   4.54       127   4.89
+  50 005 Caledonia                Vt        45   2.96       106   4.08
+  50 027 Windsor                  Vt        40   2.63        62   2.39
+  57 001 Foreign / Overseas       FR        26   1.71        55   2.12
+  50 019 Orleans                  Vt        26   1.71        50   1.92
+  50 011 Franklin                 Vt        23   1.51        44   1.69
+  25 017 Middlesex                Ma        22   1.45        32   1.23
+  50 021 Rutland                  Vt        21   1.38        35   1.35
+  50 001 Addison                  Vt        15    .99        23    .89
+  36 061 New York                 NY        13    .86        13    .50
+  25 021 Norfolk                  Ma        12    .79        18    .69
+  33 011 Hillsborough             NH        12    .79        18    .69
+  33 009 Grafton                  NH        12    .79        28   1.08
+  23 005 Cumberland               Me        11    .72        22    .85
+  12 011 Broward                  Fl        11    .72        15    .58
+  25 027 Worcester                Ma        11    .72        18    .69
+  25 025 Suffolk                  Ma        11    .72        12    .46
+  50 025 Windham                  Vt        11    .72        19    .73
+  12 099 Palm Beach               Fl        10    .66        19    .73
+  09 003 Hartford                 Ct        10    .66        16    .62
+   Same State                               11    .72        20    .77
+   Region 1:   Northeast                   229  15.08       412  15.86
+   Region 2:   Midwest                      54   3.55       111   4.27
+   Region 3:   South                       200  13.17       349  13.43
+   Region 4:   West                        155  10.20       212   8.16
+      50 023   County Non-Migrants       20739            44945
+50 025   Windham Total Migration  Vt      1360             2400
+  33 005 Cheshire                 NH       173  12.72       335  13.96
+  50 027 Windsor                  Vt       119   8.75       244  10.17
+  50 007 Chittenden               Vt        52   3.82        71   2.96
+  25 011 Franklin                 Ma        44   3.24        85   3.54
+  50 003 Bennington               Vt        40   2.94        74   3.08
+  50 021 Rutland                  Vt        29   2.13        45   1.88
+  33 019 Sullivan                 NH        25   1.84        46   1.92
+  25 017 Middlesex                Ma        22   1.62        32   1.33
+  33 011 Hillsborough             NH        16   1.18        34   1.42
+  09 003 Hartford                 Ct        16   1.18        22    .92
+  57 001 Foreign / Overseas       FR        15   1.10        28   1.17
+  09 009 New Haven                Ct        15   1.10        20    .83
+  25 027 Worcester                Ma        14   1.03        23    .96
+  50 023 Washington               Vt        12    .88        27   1.13
+  25 015 Hampshire                Ma        12    .88        18    .75
+  09 001 Fairfield                Ct        12    .88        15    .63
+  50 015 Lamoille                 Vt        12    .88        29   1.21
+  36 061 New York                 NY        12    .88        19    .79
+  12 095 Orange                   Fl        11    .81        18    .75
+  25 013 Hampden                  Ma        11    .81        21    .88
+  25 025 Suffolk                  Ma        11    .81        14    .58
+  04 013 Maricopa                 Az        11    .81        15    .63
+  53 033 King                     Wa        10    .74        14    .58
+   Same State                               30   2.21        43   1.79
+   Region 1:   Northeast                   264  19.41       477  19.88
+   Region 2:   Midwest                      52   3.82        85   3.54
+   Region 3:   South                       181  13.31       329  13.71
+   Region 4:   West                        139  10.22       217   9.04
+      50 025   County Non-Migrants       15711            33588
+50 027   Windsor Total Migration  Vt      1709             2937
+  33 009 Grafton                  NH       219  12.81       345  11.75
+  50 017 Orange                   Vt       130   7.61       248   8.44
+  33 019 Sullivan                 NH       113   6.61       208   7.08
+  50 021 Rutland                  Vt        91   5.32       150   5.11
+  50 025 Windham                  Vt        73   4.27       123   4.19
+  50 007 Chittenden               Vt        73   4.27       103   3.51
+  50 023 Washington               Vt        30   1.76        50   1.70
+  25 017 Middlesex                Ma        28   1.64        33   1.12
+  57 001 Foreign / Overseas       FR        22   1.29        36   1.23
+  33 013 Merrimack                NH        21   1.23        40   1.36
+  50 001 Addison                  Vt        17    .99        32   1.09
+  33 011 Hillsborough             NH        16    .94        25    .85
+  50 015 Lamoille                 Vt        15    .88        24    .82
+  09 003 Hartford                 Ct        15    .88        23    .78
+  33 005 Cheshire                 NH        14    .82        27    .92
+  33 015 Rockingham               NH        13    .76        23    .78
+  36 067 Onondaga                 NY        12    .70        24    .82
+  50 003 Bennington               Vt        12    .70        24    .82
+  36 061 New York                 NY        11    .64        14    .48
+  25 027 Worcester                Ma        11    .64        23    .78
+  09 001 Fairfield                Ct        11    .64        16    .54
+  25 009 Essex                    Ma        10    .59        16    .54
+  23 005 Cumberland               Me        10    .59        13    .44
+  50 005 Caledonia                Vt        10    .59        24    .82
+   Same State                               18   1.05        43   1.46
+   Region 1:   Northeast                   251  14.69       436  14.85
+   Region 2:   Midwest                      58   3.39       103   3.51
+   Region 3:   South                       248  14.51       456  15.53
+   Region 4:   West                        157   9.19       255   8.68
+      50 027   County Non-Migrants       20009            43374

@@ -1,0 +1,1544 @@
+41 001   Baker Total Migration Fl Or       447             1024
+  41 061 Union                    Or        33   7.38        84   8.20
+  41 051 Multnomah                Or        22   4.92        37   3.61
+  41 039 Lane                     Or        19   4.25        40   3.91
+  41 023 Grant                    Or        15   3.36        33   3.22
+  41 045 Malheur                  Or        15   3.36        30   2.93
+  41 017 Deschutes                Or        14   3.13        27   2.64
+  41 005 Clackamas                Or        13   2.91        36   3.52
+  41 067 Washington               Or        11   2.46        19   1.86
+  41 059 Umatilla                 Or        10   2.24        23   2.25
+  41 047 Marion                   Or        10   2.24        19   1.86
+   Same State                               61  13.65       129  12.60
+   Same Region, Diff. State                186  41.61       438  42.77
+   Different Region                         38   8.50       109  10.64
+      41 001   County Non-Migrants        4795            11244
+41 003   Benton Total Migration F Or      2906             5137
+  41 043 Linn                     Or       308  10.60       576  11.21
+  41 039 Lane                     Or       201   6.92       352   6.85
+  57 001 Foreign / Overseas       FR       168   5.78       210   4.09
+  41 047 Marion                   Or       143   4.92       243   4.73
+  41 051 Multnomah                Or       105   3.61       139   2.71
+  41 067 Washington               Or        84   2.89       147   2.86
+  53 033 King                     Wa        66   2.27       115   2.24
+  41 041 Lincoln                  Or        64   2.20       140   2.73
+  41 005 Clackamas                Or        64   2.20        92   1.79
+  41 053 Polk                     Or        62   2.13       121   2.36
+  06 037 Los Angeles              Ca        54   1.86       114   2.22
+  06 073 San Diego                Ca        45   1.55        95   1.85
+  41 029 Jackson                  Or        44   1.51        71   1.38
+  41 017 Deschutes                Or        43   1.48        72   1.40
+  06 085 Santa Clara              Ca        43   1.48        93   1.81
+  41 019 Douglas                  Or        38   1.31        78   1.52
+  41 071 Yamhill                  Or        29   1.00        52   1.01
+  53 011 Clark                    Wa        29   1.00        50    .97
+  41 033 Josephine                Or        28    .96        56   1.09
+  57 005 APO / FPO Zip Code       FR        26    .89        44    .86
+  06 001 Alameda                  Ca        26    .89        43    .84
+  08 069 Larimer                  Co        26    .89        82   1.60
+  41 011 Coos                     Or        24    .83        33    .64
+  06 059 Orange                   Ca        24    .83        48    .93
+  53 061 Snohomish                Wa        21    .72        40    .78
+  41 035 Klamath                  Or        19    .65        32    .62
+  15 003 Honolulu                 Hi        19    .65        24    .47
+  04 013 Maricopa                 Az        17    .58        29    .56
+  06 071 San Bernardino           Ca        17    .58        34    .66
+  06 081 San Mateo                Ca        16    .55        37    .72
+  06 067 Sacramento               Ca        16    .55        25    .49
+  06 013 Contra Costa             Ca        14    .48        23    .45
+  41 059 Umatilla                 Or        14    .48        24    .47
+  41 007 Clatsop                  Or        14    .48        20    .39
+  17 031 Cook                     Il        14    .48        22    .43
+  06 097 Sonoma                   Ca        13    .45        25    .49
+  06 083 Santa Barbara            Ca        12    .41        24    .47
+  16 001 Ada                      Id        12    .41        20    .39
+  41 065 Wasco                    Or        11    .38        21    .41
+  53 053 Pierce                   Wa        10    .34        16    .31
+  41 057 Tillamook                Or        10    .34        19    .37
+  06 077 San Joaquin              Ca        10    .34        21    .41
+  06 075 San Francisco            Ca        10    .34        15    .29
+  08 041 El Paso                  Co        10    .34        20    .39
+  06 023 Humboldt                 Ca        10    .34        16    .31
+  53 063 Spokane                  Wa        10    .34        17    .33
+  06 113 Yolo                     Ca        10    .34        20    .39
+   Same State                               59   2.03        93   1.81
+   Region 1:   Northeast                   106   3.65       157   3.06
+   Region 2:   Midwest                     123   4.23       214   4.17
+   Region 3:   South                       167   5.75       323   6.29
+   Region 4:   West                        398  13.70       740  14.41
+      41 003   County Non-Migrants       21522            47611
+41 005   Clackamas Total Migratio Or     11684            22986
+  41 051 Multnomah                Or      4483  38.37      8707  37.88
+  41 067 Washington               Or      1559  13.34      2860  12.44
+  41 047 Marion                   Or       498   4.26       994   4.32
+  06 037 Los Angeles              Ca       287   2.46       627   2.73
+  53 033 King                     Wa       250   2.14       479   2.08
+  53 011 Clark                    Wa       226   1.93       415   1.81
+  41 039 Lane                     Or       222   1.90       406   1.77
+  06 073 San Diego                Ca       144   1.23       297   1.29
+  06 059 Orange                   Ca       136   1.16       301   1.31
+  41 071 Yamhill                  Or       111    .95       232   1.01
+  06 085 Santa Clara              Ca       104    .89       214    .93
+  41 003 Benton                   Or        98    .84       168    .73
+  04 013 Maricopa                 Az        90    .77       170    .74
+  57 005 APO / FPO Zip Code       FR        79    .68       145    .63
+  41 029 Jackson                  Or        72    .62       140    .61
+  41 017 Deschutes                Or        70    .60       129    .56
+  06 001 Alameda                  Ca        68    .58       154    .67
+  06 067 Sacramento               Ca        66    .56       145    .63
+  41 019 Douglas                  Or        59    .50       116    .50
+  53 053 Pierce                   Wa        58    .50       129    .56
+  41 043 Linn                     Or        56    .48       109    .47
+  06 071 San Bernardino           Ca        55    .47       124    .54
+  41 041 Lincoln                  Or        53    .45        98    .43
+  41 053 Polk                     Or        49    .42        80    .35
+  41 007 Clatsop                  Or        49    .42        88    .38
+  15 003 Honolulu                 Hi        48    .41        85    .37
+  06 013 Contra Costa             Ca        43    .37       103    .45
+  17 031 Cook                     Il        41    .35        86    .37
+  57 001 Foreign / Overseas       FR        40    .34        79    .34
+  53 061 Snohomish                Wa        39    .33        86    .37
+  06 065 Riverside                Ca        39    .33       108    .47
+  53 063 Spokane                  Wa        37    .32        73    .32
+  41 065 Wasco                    Or        37    .32        68    .30
+  32 031 Washoe                   Nv        36    .31        63    .27
+  06 111 Ventura                  Ca        35    .30        67    .29
+  41 009 Columbia                 Or        32    .27        58    .25
+  32 003 Clark                    Nv        30    .26        53    .23
+  48 113 Dallas                   Tx        30    .26        71    .31
+  16 001 Ada                      Id        30    .26        67    .29
+  06 097 Sonoma                   Ca        29    .25        59    .26
+  06 083 Santa Barbara            Ca        28    .24        42    .18
+  02 020 Anchorage Borough        Ak        28    .24        47    .20
+  04 019 Pima                     Az        27    .23        62    .27
+  06 081 San Mateo                Ca        27    .23        65    .28
+  41 057 Tillamook                Or        26    .22        55    .24
+  41 035 Klamath                  Or        26    .22        46    .20
+  41 059 Umatilla                 Or        25    .21        38    .17
+  48 201 Harris                   Tx        24    .21        64    .28
+  06 075 San Francisco            Ca        22    .19        44    .19
+  41 011 Coos                     Or        22    .19        45    .20
+  06 053 Monterey                 Ca        21    .18        43    .19
+  49 035 Salt Lake                Ut        21    .18        48    .21
+  41 027 Hood River               Or        20    .17        37    .16
+  06 095 Solano                   Ca        20    .17        56    .24
+  06 019 Fresno                   Ca        19    .16        63    .27
+  25 017 Middlesex                Ma        19    .16        26    .11
+  53 015 Cowlitz                  Wa        19    .16        33    .14
+  53 035 Kitsap                   Wa        18    .15        38    .17
+  53 073 Whatcom                  Wa        18    .15        31    .13
+  53 067 Thurston                 Wa        18    .15        33    .14
+  06 087 Santa Cruz               Ca        18    .15        33    .14
+  06 089 Shasta                   Ca        17    .15        48    .21
+  27 053 Hennepin                 Mn        16    .14        39    .17
+  06 041 Marin                    Ca        16    .14        27    .12
+  06 079 San Luis Obispo          Ca        16    .14        28    .12
+  09 001 Fairfield                Ct        16    .14        39    .17
+  20 091 Johnson                  Ks        16    .14        40    .17
+  41 031 Jefferson                Or        16    .14        36    .16
+  35 001 Bernalillo               NM        15    .13        37    .16
+  53 077 Yakima                   Wa        15    .13        37    .16
+  37 119 Mecklenburg              NC        15    .13        46    .20
+  12 095 Orange                   Fl        14    .12        25    .11
+  06 007 Butte                    Ca        14    .12        25    .11
+  29 189 St. Louis                Mo        13    .11        35    .15
+  41 061 Union                    Or        13    .11        27    .12
+  06 061 Placer                   Ca        12    .10        29    .13
+  30 013 Cascade                  Mt        12    .10        28    .12
+  08 041 El Paso                  Co        12    .10        30    .13
+  08 005 Arapahoe                 Co        12    .10        23    .10
+  51 059 Fairfax                  Va        12    .10        20    .09
+  36 061 New York                 NY        12    .10        20    .09
+  08 031 Denver                   Co        12    .10        22    .10
+  12 011 Broward                  Fl        12    .10        23    .10
+  49 049 Utah                     Ut        12    .10        28    .12
+  26 125 Oakland                  Mi        12    .10        16    .07
+  41 033 Josephine                Or        12    .10        20    .09
+  06 029 Kern                     Ca        11    .09        27    .12
+  53 005 Benton                   Wa        11    .09        25    .11
+  49 011 Davis                    Ut        10    .09        15    .07
+  08 059 Jefferson                Co        10    .09        19    .08
+  08 013 Boulder                  Co        10    .09        17    .07
+  06 077 San Joaquin              Ca        10    .09        26    .11
+  17 043 Du Page                  Il        10    .09        18    .08
+  41 013 Crook                    Or        10    .09        20    .09
+   Same State                               37    .32        74    .32
+   Region 1:   Northeast                   182   1.56       346   1.51
+   Region 2:   Midwest                     308   2.64       628   2.73
+   Region 3:   South                       370   3.17       794   3.45
+   Region 4:   West                        407   3.48       827   3.60
+      41 005   County Non-Migrants       91811           213691
+41 007   Clatsop Total Migration  Or      1106             2185
+  41 051 Multnomah                Or       137  12.39       249  11.40
+  41 067 Washington               Or        85   7.69       152   6.96
+  41 005 Clackamas                Or        45   4.07        78   3.57
+  53 033 King                     Wa        36   3.25        63   2.88
+  41 057 Tillamook                Or        31   2.80        61   2.79
+  41 009 Columbia                 Or        27   2.44        54   2.47
+  53 011 Clark                    Wa        25   2.26        47   2.15
+  41 047 Marion                   Or        24   2.17        46   2.11
+  41 017 Deschutes                Or        20   1.81        33   1.51
+  06 037 Los Angeles              Ca        19   1.72        50   2.29
+  41 039 Lane                     Or        19   1.72        33   1.51
+  53 049 Pacific                  Wa        18   1.63        31   1.42
+  41 071 Yamhill                  Or        17   1.54        39   1.78
+  41 003 Benton                   Or        15   1.36        26   1.19
+  04 013 Maricopa                 Az        13   1.18        33   1.51
+  41 041 Lincoln                  Or        12   1.08        21    .96
+  53 053 Pierce                   Wa        11    .99        18    .82
+  53 063 Spokane                  Wa        10    .90        17    .78
+  53 061 Snohomish                Wa        10    .90        19    .87
+  02 150 Kodiak Island Borough    Ak        10    .90        29   1.33
+  41 011 Coos                     Or        10    .90        28   1.28
+   Same State                               71   6.42       156   7.14
+   Region 1:   Northeast                    25   2.26        41   1.88
+   Region 2:   Midwest                      48   4.34        91   4.16
+   Region 3:   South                        91   8.23       207   9.47
+   Region 4:   West                        264  23.87       535  24.49
+   Foreign                                  13   1.18        28   1.28
+      41 007   County Non-Migrants       10287            22842
+41 009   Columbia Total Migration Or      1076             2301
+  41 051 Multnomah                Or       223  20.72       458  19.90
+  41 067 Washington               Or       165  15.33       374  16.25
+  53 015 Cowlitz                  Wa        88   8.18       192   8.34
+  41 005 Clackamas                Or        57   5.30       133   5.78
+  53 011 Clark                    Wa        26   2.42        77   3.35
+  57 005 APO / FPO Zip Code       FR        22   2.04        36   1.56
+  41 007 Clatsop                  Or        18   1.67        46   2.00
+  41 039 Lane                     Or        17   1.58        31   1.35
+  41 047 Marion                   Or        17   1.58        38   1.65
+  41 019 Douglas                  Or        15   1.39        30   1.30
+  06 037 Los Angeles              Ca        14   1.30        28   1.22
+  06 073 San Diego                Ca        14   1.30        26   1.13
+  04 013 Maricopa                 Az        13   1.21        30   1.30
+  53 033 King                     Wa        13   1.21        23   1.00
+  41 029 Jackson                  Or        10    .93        15    .65
+  53 053 Pierce                   Wa        10    .93        22    .96
+   Same State                               73   6.78       152   6.61
+   Region 1:   Northeast                    16   1.49        36   1.56
+   Region 2:   Midwest                      31   2.88        64   2.78
+   Region 3:   South                        43   4.00        91   3.95
+   Region 4:   West                        191  17.75       399  17.34
+      41 009   County Non-Migrants       12434            30110
+41 011   Coos Total Migration Flo Or      1765             3631
+  41 019 Douglas                  Or       131   7.42       288   7.93
+  41 039 Lane                     Or        96   5.44       187   5.15
+  41 015 Curry                    Or        69   3.91       135   3.72
+  06 037 Los Angeles              Ca        59   3.34       112   3.08
+  41 029 Jackson                  Or        49   2.78        86   2.37
+  53 033 King                     Wa        38   2.15        79   2.18
+  06 073 San Diego                Ca        38   2.15        62   1.71
+  41 051 Multnomah                Or        36   2.04        63   1.74
+  06 059 Orange                   Ca        30   1.70        55   1.51
+  41 067 Washington               Or        30   1.70        64   1.76
+  06 067 Sacramento               Ca        28   1.59        60   1.65
+  41 047 Marion                   Or        25   1.42        61   1.68
+  41 017 Deschutes                Or        23   1.30        40   1.10
+  41 005 Clackamas                Or        21   1.19        40   1.10
+  06 065 Riverside                Ca        20   1.13        28    .77
+  41 035 Klamath                  Or        20   1.13        34    .94
+  06 085 Santa Clara              Ca        20   1.13        40   1.10
+  32 003 Clark                    Nv        19   1.08        34    .94
+  57 005 APO / FPO Zip Code       FR        19   1.08        39   1.07
+  41 033 Josephine                Or        18   1.02        50   1.38
+  06 071 San Bernardino           Ca        18   1.02        36    .99
+  41 041 Lincoln                  Or        18   1.02        36    .99
+  32 031 Washoe                   Nv        17    .96        28    .77
+  06 053 Monterey                 Ca        17    .96        37   1.02
+  41 043 Linn                     Or        16    .91        26    .72
+  06 087 Santa Cruz               Ca        15    .85        22    .61
+  06 089 Shasta                   Ca        14    .79        30    .83
+  06 015 Del Norte                Ca        14    .79        21    .58
+  06 023 Humboldt                 Ca        14    .79        21    .58
+  04 013 Maricopa                 Az        13    .74        22    .61
+  06 097 Sonoma                   Ca        13    .74        24    .66
+  06 079 San Luis Obispo          Ca        13    .74        26    .72
+  06 013 Contra Costa             Ca        13    .74        26    .72
+  41 003 Benton                   Or        13    .74        24    .66
+  53 061 Snohomish                Wa        12    .68        34    .94
+  06 007 Butte                    Ca        11    .62        24    .66
+  06 001 Alameda                  Ca        11    .62        19    .52
+  41 053 Polk                     Or        11    .62        21    .58
+  06 111 Ventura                  Ca        10    .57        23    .63
+  06 081 San Mateo                Ca        10    .57        20    .55
+  49 035 Salt Lake                Ut        10    .57        20    .55
+  15 003 Honolulu                 Hi        10    .57        26    .72
+  06 019 Fresno                   Ca        10    .57        20    .55
+  53 035 Kitsap                   Wa        10    .57        28    .77
+   Same State                               53   3.00       134   3.69
+   Region 1:   Northeast                    36   2.04        72   1.98
+   Region 2:   Midwest                      67   3.80       165   4.54
+   Region 3:   South                       128   7.25       302   8.32
+   Region 4:   West                        379  21.47       787  21.67
+      41 011   County Non-Migrants       18691            42188
+41 013   Crook Total Migration Fl Or       526             1193
+  41 017 Deschutes                Or       104  19.77       243  20.37
+  41 039 Lane                     Or        29   5.51        67   5.62
+  41 051 Multnomah                Or        26   4.94        47   3.94
+  41 005 Clackamas                Or        24   4.56        49   4.11
+  41 031 Jefferson                Or        17   3.23        52   4.36
+  41 067 Washington               Or        15   2.85        37   3.10
+  41 047 Marion                   Or        14   2.66        31   2.60
+  41 003 Benton                   Or        12   2.28        22   1.84
+  41 029 Jackson                  Or        12   2.28        35   2.93
+  41 043 Linn                     Or        11   2.09        34   2.85
+  06 073 San Diego                Ca        11   2.09        18   1.51
+  41 023 Grant                    Or        10   1.90        23   1.93
+   Same State                               93  17.68       230  19.28
+   Same Region, Diff. State                122  23.19       254  21.29
+   Different Region                         26   4.94        51   4.27
+      41 013   County Non-Migrants        4486            10717
+41 015   Curry Total Migration Fl Or       793             1551
+  41 029 Jackson                  Or        52   6.56        95   6.13
+  06 015 Del Norte                Ca        40   5.04        93   6.00
+  41 011 Coos                     Or        33   4.16        63   4.06
+  06 037 Los Angeles              Ca        30   3.78        58   3.74
+  41 039 Lane                     Or        30   3.78        53   3.42
+  06 067 Sacramento               Ca        22   2.77        49   3.16
+  41 033 Josephine                Or        20   2.52        39   2.51
+  41 019 Douglas                  Or        19   2.40        44   2.84
+  06 001 Alameda                  Ca        18   2.27        31   2.00
+  41 051 Multnomah                Or        16   2.02        32   2.06
+  06 059 Orange                   Ca        15   1.89        26   1.68
+  41 035 Klamath                  Or        15   1.89        26   1.68
+  06 071 San Bernardino           Ca        14   1.77        34   2.19
+  53 033 King                     Wa        14   1.77        27   1.74
+  06 085 Santa Clara              Ca        14   1.77        23   1.48
+  41 067 Washington               Or        12   1.51        21   1.35
+  06 073 San Diego                Ca        12   1.51        15    .97
+  32 003 Clark                    Nv        11   1.39        19   1.23
+  41 017 Deschutes                Or        11   1.39        14    .90
+  04 013 Maricopa                 Az        11   1.39        19   1.23
+  32 031 Washoe                   Nv        11   1.39        17   1.10
+  06 023 Humboldt                 Ca        10   1.26        20   1.29
+  06 017 El Dorado                Ca        10   1.26        17   1.10
+   Same State                               48   6.05        96   6.19
+   Same Region, Diff. State                245  30.90       503  32.43
+   Different Region                         60   7.57       117   7.54
+      41 015   County Non-Migrants        6282            13511
+41 017   Deschutes Total Migratio Or      3640             7411
+  41 039 Lane                     Or       212   5.82       420   5.67
+  41 051 Multnomah                Or       180   4.95       348   4.70
+  06 037 Los Angeles              Ca       156   4.29       325   4.39
+  41 047 Marion                   Or       137   3.76       258   3.48
+  41 005 Clackamas                Or       128   3.52       258   3.48
+  41 067 Washington               Or       123   3.38       256   3.45
+  41 013 Crook                    Or       100   2.75       218   2.94
+  06 073 San Diego                Ca        93   2.55       190   2.56
+  41 043 Linn                     Or        80   2.20       172   2.32
+  53 033 King                     Wa        80   2.20       143   1.93
+  06 059 Orange                   Ca        75   2.06       134   1.81
+  41 031 Jefferson                Or        70   1.92       133   1.79
+  06 085 Santa Clara              Ca        66   1.81       120   1.62
+  41 003 Benton                   Or        56   1.54       121   1.63
+  41 029 Jackson                  Or        53   1.46        95   1.28
+  41 035 Klamath                  Or        52   1.43       110   1.48
+  41 019 Douglas                  Or        48   1.32       122   1.65
+  06 067 Sacramento               Ca        45   1.24        93   1.25
+  41 041 Lincoln                  Or        43   1.18        94   1.27
+  06 001 Alameda                  Ca        40   1.10        89   1.20
+  06 065 Riverside                Ca        40   1.10        86   1.16
+  06 071 San Bernardino           Ca        37   1.02        77   1.04
+  06 111 Ventura                  Ca        36    .99        84   1.13
+  04 013 Maricopa                 Az        35    .96        60    .81
+  57 005 APO / FPO Zip Code       FR        35    .96        60    .81
+  53 011 Clark                    Wa        33    .91        64    .86
+  41 011 Coos                     Or        32    .88        71    .96
+  06 013 Contra Costa             Ca        31    .85        66    .89
+  53 053 Pierce                   Wa        27    .74        57    .77
+  06 097 Sonoma                   Ca        27    .74        64    .86
+  41 053 Polk                     Or        27    .74        47    .63
+  06 087 Santa Cruz               Ca        24    .66        48    .65
+  06 053 Monterey                 Ca        24    .66        62    .84
+  41 071 Yamhill                  Or        23    .63        49    .66
+  06 089 Shasta                   Ca        23    .63        51    .69
+  06 019 Fresno                   Ca        21    .58        42    .57
+  41 037 Lake                     Or        21    .58        43    .58
+  41 059 Umatilla                 Or        20    .55        41    .55
+  32 031 Washoe                   Nv        20    .55        33    .45
+  15 003 Honolulu                 Hi        20    .55        43    .58
+  06 079 San Luis Obispo          Ca        20    .55        39    .53
+  41 023 Grant                    Or        19    .52        35    .47
+  53 061 Snohomish                Wa        19    .52        42    .57
+  06 029 Kern                     Ca        19    .52        40    .54
+  41 065 Wasco                    Or        18    .49        33    .45
+  41 025 Harney                   Or        18    .49        29    .39
+  06 061 Placer                   Ca        18    .49        46    .62
+  06 081 San Mateo                Ca        18    .49        32    .43
+  06 083 Santa Barbara            Ca        17    .47        36    .49
+  32 003 Clark                    Nv        17    .47        29    .39
+  16 001 Ada                      Id        17    .47        41    .55
+  41 033 Josephine                Or        17    .47        29    .39
+  41 007 Clatsop                  Or        16    .44        28    .38
+  41 061 Union                    Or        16    .44        32    .43
+  41 057 Tillamook                Or        15    .41        26    .35
+  06 057 Nevada                   Ca        14    .38        33    .45
+  02 020 Anchorage Borough        Ak        13    .36        28    .38
+  06 075 San Francisco            Ca        13    .36        23    .31
+  41 015 Curry                    Or        12    .33        24    .32
+  53 063 Spokane                  Wa        12    .33        16    .22
+  15 009 Maui                     Hi        12    .33        28    .38
+  53 077 Yakima                   Wa        12    .33        31    .42
+  06 007 Butte                    Ca        11    .30        28    .38
+  49 035 Salt Lake                Ut        11    .30        23    .31
+  41 009 Columbia                 Or        11    .30        15    .20
+  53 035 Kitsap                   Wa        10    .27        28    .38
+  06 023 Humboldt                 Ca        10    .27        17    .23
+  53 067 Thurston                 Wa        10    .27        28    .38
+  53 073 Whatcom                  Wa        10    .27        21    .28
+  06 041 Marin                    Ca        10    .27        21    .28
+  06 107 Tulare                   Ca        10    .27        24    .32
+   Same State                               29    .80        73    .99
+   Region 1:   Northeast                    82   2.25       138   1.86
+   Region 2:   Midwest                     105   2.88       244   3.29
+   Region 3:   South                       175   4.81       360   4.86
+   Region 4:   West                        411  11.29       844  11.39
+      41 017   County Non-Migrants       27158            61286
+41 019   Douglas Total Migration  Or      2286             4794
+  41 039 Lane                     Or       194   8.49       397   8.28
+  06 037 Los Angeles              Ca       115   5.03       232   4.84
+  41 011 Coos                     Or       100   4.37       217   4.53
+  41 029 Jackson                  Or        79   3.46       157   3.27
+  41 051 Multnomah                Or        63   2.76       120   2.50
+  41 047 Marion                   Or        54   2.36       100   2.09
+  06 073 San Diego                Ca        44   1.92        89   1.86
+  06 067 Sacramento               Ca        43   1.88        85   1.77
+  57 005 APO / FPO Zip Code       FR        42   1.84        55   1.15
+  06 085 Santa Clara              Ca        41   1.79        77   1.61
+  41 033 Josephine                Or        40   1.75        95   1.98
+  41 067 Washington               Or        40   1.75        78   1.63
+  53 033 King                     Wa        38   1.66        78   1.63
+  06 059 Orange                   Ca        36   1.57        78   1.63
+  06 071 San Bernardino           Ca        34   1.49        73   1.52
+  41 005 Clackamas                Or        34   1.49        67   1.40
+  41 035 Klamath                  Or        34   1.49        84   1.75
+  06 013 Contra Costa             Ca        33   1.44        66   1.38
+  06 065 Riverside                Ca        29   1.27        66   1.38
+  41 017 Deschutes                Or        28   1.22        57   1.19
+  41 003 Benton                   Or        28   1.22        50   1.04
+  32 031 Washoe                   Nv        27   1.18        49   1.02
+  41 015 Curry                    Or        27   1.18        52   1.08
+  41 043 Linn                     Or        22    .96        54   1.13
+  04 013 Maricopa                 Az        21    .92        49   1.02
+  53 053 Pierce                   Wa        20    .87        43    .90
+  06 001 Alameda                  Ca        19    .83        38    .79
+  06 099 Stanislaus               Ca        19    .83        53   1.11
+  41 071 Yamhill                  Or        17    .74        41    .86
+  06 111 Ventura                  Ca        17    .74        38    .79
+  53 061 Snohomish                Wa        16    .70        38    .79
+  06 007 Butte                    Ca        16    .70        24    .50
+  06 089 Shasta                   Ca        15    .66        32    .67
+  32 003 Clark                    Nv        15    .66        32    .67
+  06 077 San Joaquin              Ca        15    .66        26    .54
+  41 007 Clatsop                  Or        15    .66        31    .65
+  53 011 Clark                    Wa        14    .61        34    .71
+  06 023 Humboldt                 Ca        14    .61        28    .58
+  06 053 Monterey                 Ca        13    .57        31    .65
+  06 029 Kern                     Ca        13    .57        23    .48
+  41 041 Lincoln                  Or        13    .57        19    .40
+  06 045 Mendocino                Ca        13    .57        24    .50
+  53 063 Spokane                  Wa        12    .52        31    .65
+  06 097 Sonoma                   Ca        12    .52        22    .46
+  06 081 San Mateo                Ca        11    .48        23    .48
+  06 061 Placer                   Ca        11    .48        23    .48
+  53 067 Thurston                 Wa        10    .44        22    .46
+  02 020 Anchorage Borough        Ak        10    .44        22    .46
+  41 053 Polk                     Or        10    .44        24    .50
+   Same State                               60   2.62       133   2.77
+   Region 1:   Northeast                    26   1.14        43    .90
+   Region 2:   Midwest                      85   3.72       171   3.57
+   Region 3:   South                       132   5.77       310   6.47
+   Region 4:   West                        397  17.37       890  18.56
+      41 019   County Non-Migrants       29530            69592
+41 021   Gilliam Total Migration  Or        64              130
+   All Migration Flows                      64 100.00       130 100.00
+      41 021   County Non-Migrants         584             1333
+41 023   Grant Total Migration Fl Or       261              536
+  41 017 Deschutes                Or        16   6.13        33   6.16
+  41 001 Baker                    Or        15   5.75        22   4.10
+  41 059 Umatilla                 Or        14   5.36        25   4.66
+  41 047 Marion                   Or        14   5.36        28   5.22
+  41 013 Crook                    Or        12   4.60        36   6.72
+  41 051 Multnomah                Or        10   3.83        15   2.80
+   Same State                               90  34.48       195  36.38
+   Same Region, Diff. State                 79  30.27       167  31.16
+   Different Region                         11   4.21        15   2.80
+      41 023   County Non-Migrants        2527             6014
+41 025   Harney Total Migration F Or       221              475
+  41 017 Deschutes                Or        20   9.05        36   7.58
+  41 045 Malheur                  Or        17   7.69        35   7.37
+  41 039 Lane                     Or        15   6.79        31   6.53
+   Same State                               67  30.32       137  28.84
+   Same Region, Diff. State                 83  37.56       191  40.21
+   Different Region                         19   8.60        45   9.47
+      41 025   County Non-Migrants        2228             5385
+41 027   Hood River Total Migrati Or       587             1198
+  41 051 Multnomah                Or        56   9.54       102   8.51
+  53 039 Klickitat                Wa        38   6.47        87   7.26
+  41 065 Wasco                    Or        36   6.13        75   6.26
+  06 037 Los Angeles              Ca        22   3.75        55   4.59
+  53 059 Skamania                 Wa        16   2.73        31   2.59
+  53 011 Clark                    Wa        14   2.39        35   2.92
+  53 033 King                     Wa        14   2.39        19   1.59
+  41 067 Washington               Or        13   2.21        29   2.42
+  41 005 Clackamas                Or        13   2.21        24   2.00
+  41 039 Lane                     Or        12   2.04        18   1.50
+   Same State                               69  11.75       127  10.60
+   Region 1:   Northeast                    24   4.09        33   2.75
+   Region 2:   Midwest                      33   5.62        65   5.43
+   Region 3:   South                        33   5.62        71   5.93
+   Region 4:   West                        184  31.35       415  34.64
+   Foreign                                  10   1.70        12   1.00
+      41 027   County Non-Migrants        5951            15018
+41 029   Jackson Total Migration  Or      4380             8761
+  41 033 Josephine                Or       317   7.24       622   7.10
+  06 037 Los Angeles              Ca       282   6.44       558   6.37
+  41 039 Lane                     Or       168   3.84       300   3.42
+  06 073 San Diego                Ca       127   2.90       294   3.36
+  06 059 Orange                   Ca       124   2.83       245   2.80
+  06 085 Santa Clara              Ca       118   2.69       223   2.55
+  41 051 Multnomah                Or       116   2.65       215   2.45
+  41 035 Klamath                  Or       104   2.37       211   2.41
+  06 067 Sacramento               Ca        96   2.19       197   2.25
+  41 019 Douglas                  Or        93   2.12       218   2.49
+  41 067 Washington               Or        80   1.83       133   1.52
+  53 033 King                     Wa        78   1.78       134   1.53
+  06 013 Contra Costa             Ca        71   1.62       149   1.70
+  06 001 Alameda                  Ca        70   1.60       130   1.48
+  41 005 Clackamas                Or        68   1.55       120   1.37
+  41 047 Marion                   Or        68   1.55       150   1.71
+  06 093 Siskiyou                 Ca        67   1.53       131   1.50
+  57 005 APO / FPO Zip Code       FR        58   1.32       100   1.14
+  06 071 San Bernardino           Ca        57   1.30       131   1.50
+  06 097 Sonoma                   Ca        48   1.10        93   1.06
+  41 017 Deschutes                Or        45   1.03        95   1.08
+  32 003 Clark                    Nv        45   1.03        97   1.11
+  06 065 Riverside                Ca        45   1.03        93   1.06
+  04 013 Maricopa                 Az        43    .98        85    .97
+  06 075 San Francisco            Ca        43    .98        63    .72
+  32 031 Washoe                   Nv        40    .91        81    .92
+  41 015 Curry                    Or        37    .84        69    .79
+  06 081 San Mateo                Ca        36    .82        71    .81
+  06 053 Monterey                 Ca        35    .80        63    .72
+  06 111 Ventura                  Ca        35    .80        72    .82
+  06 087 Santa Cruz               Ca        35    .80        77    .88
+  41 011 Coos                     Or        34    .78        68    .78
+  06 077 San Joaquin              Ca        34    .78        76    .87
+  53 053 Pierce                   Wa        31    .71        68    .78
+  41 003 Benton                   Or        31    .71        55    .63
+  06 023 Humboldt                 Ca        30    .68        73    .83
+  06 019 Fresno                   Ca        30    .68        82    .94
+  06 089 Shasta                   Ca        29    .66        67    .76
+  06 095 Solano                   Ca        29    .66        72    .82
+  06 099 Stanislaus               Ca        29    .66        61    .70
+  15 003 Honolulu                 Hi        28    .64        66    .75
+  53 011 Clark                    Wa        25    .57        54    .62
+  06 029 Kern                     Ca        25    .57        63    .72
+  06 041 Marin                    Ca        25    .57        42    .48
+  41 043 Linn                     Or        24    .55        55    .63
+  06 083 Santa Barbara            Ca        24    .55        49    .56
+  06 007 Butte                    Ca        22    .50        39    .45
+  06 079 San Luis Obispo          Ca        21    .48        34    .39
+  53 061 Snohomish                Wa        18    .41        35    .40
+  57 001 Foreign / Overseas       FR        18    .41        36    .41
+  06 045 Mendocino                Ca        17    .39        34    .39
+  41 053 Polk                     Or        17    .39        34    .39
+  02 020 Anchorage Borough        Ak        17    .39        28    .32
+  06 061 Placer                   Ca        17    .39        37    .42
+  06 113 Yolo                     Ca        16    .37        43    .49
+  17 031 Cook                     Il        15    .34        29    .33
+  06 017 El Dorado                Ca        15    .34        30    .34
+  06 057 Nevada                   Ca        15    .34        34    .39
+  53 063 Spokane                  Wa        14    .32        25    .29
+  49 035 Salt Lake                Ut        14    .32        36    .41
+  08 041 El Paso                  Co        13    .30        30    .34
+  06 107 Tulare                   Ca        13    .30        39    .45
+  41 071 Yamhill                  Or        13    .30        34    .39
+  15 009 Maui                     Hi        12    .27        29    .33
+  41 007 Clatsop                  Or        12    .27        19    .22
+  16 001 Ada                      Id        11    .25        18    .21
+  04 019 Pima                     Az        11    .25        17    .19
+  06 015 Del Norte                Ca        11    .25        26    .30
+  08 013 Boulder                  Co        10    .23        12    .14
+  06 033 Lake                     Ca        10    .23        19    .22
+   Same State                               66   1.51       139   1.59
+   Region 1:   Northeast                   105   2.40       183   2.09
+   Region 2:   Midwest                     148   3.38       279   3.18
+   Region 3:   South                       237   5.41       456   5.20
+   Region 4:   West                        395   9.02       816   9.31
+      41 029   County Non-Migrants       48833           109732
+41 031   Jefferson Total Migratio Or       392              894
+  41 017 Deschutes                Or        61  15.56       138  15.44
+  41 051 Multnomah                Or        27   6.89        49   5.48
+  41 005 Clackamas                Or        16   4.08        48   5.37
+  41 039 Lane                     Or        12   3.06        30   3.36
+  41 065 Wasco                    Or        10   2.55        18   2.01
+  41 013 Crook                    Or        10   2.55        27   3.02
+   Same State                               98  25.00       212  23.71
+   Same Region, Diff. State                126  32.14       291  32.55
+   Different Region                         32   8.16        81   9.06
+      41 031   County Non-Migrants        3920            10125
+41 033   Josephine Total Migratio Or      1931             3930
+  41 029 Jackson                  Or       242  12.53       500  12.72
+  06 037 Los Angeles              Ca       167   8.65       333   8.47
+  06 073 San Diego                Ca        89   4.61       191   4.86
+  06 085 Santa Clara              Ca        70   3.63       125   3.18
+  06 059 Orange                   Ca        58   3.00       122   3.10
+  06 071 San Bernardino           Ca        51   2.64       125   3.18
+  06 065 Riverside                Ca        44   2.28        90   2.29
+  41 039 Lane                     Or        43   2.23        94   2.39
+  41 019 Douglas                  Or        39   2.02        81   2.06
+  06 111 Ventura                  Ca        39   2.02        82   2.09
+  41 051 Multnomah                Or        35   1.81        64   1.63
+  06 001 Alameda                  Ca        30   1.55        70   1.78
+  06 013 Contra Costa             Ca        27   1.40        58   1.48
+  32 003 Clark                    Nv        25   1.29        44   1.12
+  06 067 Sacramento               Ca        25   1.29        50   1.27
+  06 089 Shasta                   Ca        23   1.19        42   1.07
+  06 081 San Mateo                Ca        23   1.19        38    .97
+  57 005 APO / FPO Zip Code       FR        22   1.14        49   1.25
+  06 097 Sonoma                   Ca        21   1.09        43   1.09
+  41 047 Marion                   Or        21   1.09        35    .89
+  32 031 Washoe                   Nv        19    .98        34    .87
+  41 035 Klamath                  Or        19    .98        44   1.12
+  41 005 Clackamas                Or        19    .98        33    .84
+  53 033 King                     Wa        19    .98        40   1.02
+  06 077 San Joaquin              Ca        18    .93        30    .76
+  41 067 Washington               Or        18    .93        26    .66
+  06 083 Santa Barbara            Ca        16    .83        40   1.02
+  06 079 San Luis Obispo          Ca        16    .83        26    .66
+  06 087 Santa Cruz               Ca        16    .83        25    .64
+  06 029 Kern                     Ca        15    .78        30    .76
+  41 017 Deschutes                Or        15    .78        31    .79
+  06 023 Humboldt                 Ca        15    .78        43   1.09
+  41 015 Curry                    Or        14    .73        30    .76
+  04 013 Maricopa                 Az        14    .73        26    .66
+  06 095 Solano                   Ca        14    .73        29    .74
+  06 015 Del Norte                Ca        14    .73        24    .61
+  41 011 Coos                     Or        12    .62        30    .76
+  06 061 Placer                   Ca        12    .62        25    .64
+  06 019 Fresno                   Ca        12    .62        28    .71
+  53 011 Clark                    Wa        11    .57        21    .53
+  53 063 Spokane                  Wa        11    .57        18    .46
+  06 107 Tulare                   Ca        11    .57        19    .48
+  53 053 Pierce                   Wa        10    .52        23    .59
+  15 003 Honolulu                 Hi        10    .52        15    .38
+   Same State                               49   2.54       102   2.60
+   Region 1:   Northeast                    23   1.19        49   1.25
+   Region 2:   Midwest                      61   3.16       137   3.49
+   Region 3:   South                        69   3.57       138   3.51
+   Region 4:   West                        285  14.76       578  14.71
+      41 033   County Non-Migrants       20017            44431
+41 035   Klamath Total Migration  Or      1508             3252
+  41 029 Jackson                  Or        85   5.64       177   5.44
+  41 039 Lane                     Or        78   5.17       128   3.94
+  41 051 Multnomah                Or        56   3.71       104   3.20
+  06 037 Los Angeles              Ca        47   3.12       112   3.44
+  06 093 Siskiyou                 Ca        45   2.98       107   3.29
+  41 017 Deschutes                Or        36   2.39        79   2.43
+  06 073 San Diego                Ca        35   2.32        87   2.68
+  06 067 Sacramento               Ca        35   2.32        87   2.68
+  41 067 Washington               Or        34   2.25        64   1.97
+  41 033 Josephine                Or        29   1.92        82   2.52
+  41 019 Douglas                  Or        28   1.86        60   1.85
+  41 047 Marion                   Or        26   1.72        55   1.69
+  41 037 Lake                     Or        25   1.66        50   1.54
+  06 085 Santa Clara              Ca        24   1.59        45   1.38
+  06 065 Riverside                Ca        23   1.53        56   1.72
+  53 033 King                     Wa        22   1.46        46   1.41
+  41 005 Clackamas                Or        22   1.46        39   1.20
+  06 071 San Bernardino           Ca        22   1.46        52   1.60
+  57 005 APO / FPO Zip Code       FR        21   1.39        47   1.45
+  41 011 Coos                     Or        18   1.19        40   1.23
+  32 031 Washoe                   Nv        16   1.06        20    .62
+  06 099 Stanislaus               Ca        15    .99        38   1.17
+  41 003 Benton                   Or        14    .93        27    .83
+  06 013 Contra Costa             Ca        13    .86        29    .89
+  04 013 Maricopa                 Az        13    .86        23    .71
+  41 043 Linn                     Or        13    .86        18    .55
+  06 089 Shasta                   Ca        12    .80        28    .86
+  06 077 San Joaquin              Ca        11    .73        33   1.01
+  41 053 Polk                     Or        11    .73        18    .55
+  06 029 Kern                     Ca        11    .73        20    .62
+  06 059 Orange                   Ca        11    .73        25    .77
+  53 053 Pierce                   Wa        11    .73        35   1.08
+  06 111 Ventura                  Ca        11    .73        21    .65
+  41 015 Curry                    Or        10    .66        24    .74
+  06 019 Fresno                   Ca        10    .66        24    .74
+  06 001 Alameda                  Ca        10    .66        24    .74
+   Same State                               73   4.84       166   5.10
+   Region 1:   Northeast                    21   1.39        45   1.38
+   Region 2:   Midwest                      52   3.45       103   3.17
+   Region 3:   South                        85   5.64       180   5.54
+   Region 4:   West                        374  24.80       834  25.65
+      41 035   County Non-Migrants       17958            41782
+41 037   Lake Total Migration Flo Or       250              553
+  41 017 Deschutes                Or        14   5.60        32   5.79
+  41 035 Klamath                  Or        12   4.80        26   4.70
+  06 049 Modoc                    Ca        12   4.80        29   5.24
+  41 051 Multnomah                Or        10   4.00        16   2.89
+   Same State                               87  34.80       206  37.25
+   Same Region, Diff. State                 91  36.40       200  36.17
+   Different Region                         24   9.60        44   7.96
+      41 037   County Non-Migrants        2224             5465
+41 039   Lane Total Migration Flo Or      7788            14255
+  06 037 Los Angeles              Ca       374   4.80       707   4.96
+  41 019 Douglas                  Or       315   4.04       587   4.12
+  41 051 Multnomah                Or       315   4.04       501   3.51
+  53 033 King                     Wa       242   3.11       396   2.78
+  41 043 Linn                     Or       231   2.97       449   3.15
+  41 067 Washington               Or       221   2.84       401   2.81
+  41 047 Marion                   Or       211   2.71       375   2.63
+  06 073 San Diego                Ca       185   2.38       379   2.66
+  41 017 Deschutes                Or       169   2.17       306   2.15
+  41 029 Jackson                  Or       166   2.13       311   2.18
+  41 003 Benton                   Or       164   2.11       275   1.93
+  57 001 Foreign / Overseas       FR       156   2.00       207   1.45
+  41 011 Coos                     Or       142   1.82       283   1.99
+  41 005 Clackamas                Or       141   1.81       237   1.66
+  06 085 Santa Clara              Ca       132   1.69       235   1.65
+  06 059 Orange                   Ca       124   1.59       236   1.66
+  41 035 Klamath                  Or       103   1.32       198   1.39
+  41 041 Lincoln                  Or       102   1.31       188   1.32
+  04 013 Maricopa                 Az        97   1.25       190   1.33
+  06 001 Alameda                  Ca        96   1.23       152   1.07
+  57 005 APO / FPO Zip Code       FR        94   1.21       160   1.12
+  06 067 Sacramento               Ca        84   1.08       185   1.30
+  53 053 Pierce                   Wa        76    .98       145   1.02
+  06 065 Riverside                Ca        70    .90       148   1.04
+  41 033 Josephine                Or        66    .85       117    .82
+  06 075 San Francisco            Ca        61    .78        70    .49
+  06 013 Contra Costa             Ca        59    .76       107    .75
+  53 011 Clark                    Wa        57    .73       117    .82
+  06 071 San Bernardino           Ca        56    .72       126    .88
+  15 003 Honolulu                 Hi        55    .71        99    .69
+  32 003 Clark                    Nv        53    .68        86    .60
+  06 081 San Mateo                Ca        52    .67        93    .65
+  02 020 Anchorage Borough        Ak        52    .67        97    .68
+  32 031 Washoe                   Nv        48    .62        95    .67
+  06 083 Santa Barbara            Ca        45    .58        82    .58
+  06 111 Ventura                  Ca        45    .58       105    .74
+  53 063 Spokane                  Wa        44    .56        90    .63
+  53 061 Snohomish                Wa        42    .54        72    .51
+  41 015 Curry                    Or        42    .54        89    .62
+  06 097 Sonoma                   Ca        40    .51        80    .56
+  17 031 Cook                     Il        39    .50        59    .41
+  06 087 Santa Cruz               Ca        38    .49        59    .41
+  04 019 Pima                     Az        34    .44        64    .45
+  06 053 Monterey                 Ca        33    .42        65    .46
+  06 089 Shasta                   Ca        33    .42        56    .39
+  41 071 Yamhill                  Or        31    .40        65    .46
+  06 077 San Joaquin              Ca        31    .40        67    .47
+  06 019 Fresno                   Ca        31    .40        55    .39
+  06 041 Marin                    Ca        31    .40        52    .36
+  06 023 Humboldt                 Ca        30    .39        49    .34
+  16 001 Ada                      Id        30    .39        47    .33
+  06 007 Butte                    Ca        29    .37        65    .46
+  53 067 Thurston                 Wa        29    .37        52    .36
+  41 059 Umatilla                 Or        27    .35        49    .34
+  41 053 Polk                     Or        27    .35        48    .34
+  49 035 Salt Lake                Ut        26    .33        44    .31
+  06 099 Stanislaus               Ca        25    .32        59    .41
+  06 095 Solano                   Ca        25    .32        61    .43
+  06 079 San Luis Obispo          Ca        24    .31        51    .36
+  06 061 Placer                   Ca        24    .31        51    .36
+  41 009 Columbia                 Or        24    .31        46    .32
+  06 029 Kern                     Ca        23    .30        49    .34
+  06 017 El Dorado                Ca        22    .28        41    .29
+  41 007 Clatsop                  Or        22    .28        43    .30
+  27 053 Hennepin                 Mn        22    .28        30    .21
+  53 077 Yakima                   Wa        21    .27        49    .34
+  53 035 Kitsap                   Wa        20    .26        44    .31
+  41 045 Malheur                  Or        19    .24        34    .24
+  36 061 New York                 NY        19    .24        24    .17
+  06 113 Yolo                     Ca        18    .23        33    .23
+  15 001 Hawaii                   Hi        17    .22        30    .21
+  48 113 Dallas                   Tx        17    .22        33    .23
+  06 107 Tulare                   Ca        17    .22        40    .28
+  41 013 Crook                    Or        17    .22        40    .28
+  25 017 Middlesex                Ma        17    .22        23    .16
+  53 073 Whatcom                  Wa        16    .21        29    .20
+  08 041 El Paso                  Co        16    .21        32    .22
+  53 005 Benton                   Wa        16    .21        35    .25
+  30 063 Missoula                 Mt        15    .19        21    .15
+  48 201 Harris                   Tx        15    .19        25    .18
+  53 057 Skagit                   Wa        15    .19        28    .20
+  41 065 Wasco                    Or        15    .19        32    .22
+  02 110 Juneau Borough           Ak        15    .19        26    .18
+  48 439 Tarrant                  Tx        15    .19        27    .19
+  41 001 Baker                    Or        15    .19        24    .17
+  41 057 Tillamook                Or        15    .19        37    .26
+  02 130 Ketchikan Gateway Boroug Ak        15    .19        35    .25
+  35 001 Bernalillo               NM        14    .18        31    .22
+  15 009 Maui                     Hi        14    .18        19    .13
+  48 141 El Paso                  Tx        14    .18        27    .19
+  49 049 Utah                     Ut        13    .17        33    .23
+  41 061 Union                    Or        13    .17        23    .16
+  06 093 Siskiyou                 Ca        13    .17        28    .20
+  08 059 Jefferson                Co        13    .17        22    .15
+  51 059 Fairfax                  Va        13    .17        17    .12
+  02 090 Fairbanks North Star Bor Ak        13    .17        16    .11
+  49 057 Weber                    Ut        12    .15        25    .18
+  24 031 Montgomery               Md        12    .15        20    .14
+  30 031 Gallatin                 Mt        12    .15        19    .13
+  16 027 Canyon                   Id        12    .15        21    .15
+  04 027 Yuma                     Az        12    .15        27    .19
+  37 051 Cumberland               NC        12    .15        23    .16
+  06 045 Mendocino                Ca        11    .14        16    .11
+  26 125 Oakland                  Mi        11    .14        19    .13
+  02 122 Kenai Peninsula Borough  Ak        11    .14        21    .15
+  06 033 Lake                     Ca        11    .14        14    .10
+  04 015 Mohave                   Az        11    .14        20    .14
+  16 057 Latah                    Id        11    .14        16    .11
+  53 015 Cowlitz                  Wa        11    .14        27    .19
+  08 013 Boulder                  Co        11    .14        27    .19
+  36 103 Suffolk                  NY        10    .13        13    .09
+  48 029 Bexar                    Tx        10    .13        25    .18
+  34 035 Somerset                 NJ        10    .13        11    .08
+  41 027 Hood River               Or        10    .13        12    .08
+  48 453 Travis                   Tx        10    .13        21    .15
+  23 005 Cumberland               Me        10    .13        18    .13
+  19 153 Polk                     Ia        10    .13        15    .11
+  08 031 Denver                   Co        10    .13        15    .11
+  53 041 Lewis                    Wa        10    .13        26    .18
+   Same State                               37    .48        72    .51
+   Region 1:   Northeast                   247   3.17       387   2.71
+   Region 2:   Midwest                     364   4.67       662   4.64
+   Region 3:   South                       435   5.59       824   5.78
+   Region 4:   West                        433   5.56       839   5.89
+      41 039   County Non-Migrants       94013           203900
+41 041   Lincoln Total Migration  Or      1642             3138
+  41 051 Multnomah                Or       124   7.55       220   7.01
+  41 039 Lane                     Or        99   6.03       207   6.60
+  41 067 Washington               Or        75   4.57       133   4.24
+  41 047 Marion                   Or        70   4.26       151   4.81
+  41 003 Benton                   Or        67   4.08       127   4.05
+  06 037 Los Angeles              Ca        53   3.23        87   2.77
+  41 005 Clackamas                Or        49   2.98        85   2.71
+  53 033 King                     Wa        46   2.80        74   2.36
+  41 043 Linn                     Or        43   2.62        82   2.61
+  06 073 San Diego                Ca        31   1.89        67   2.14
+  41 019 Douglas                  Or        27   1.64        64   2.04
+  41 057 Tillamook                Or        26   1.58        38   1.21
+  41 053 Polk                     Or        24   1.46        52   1.66
+  41 071 Yamhill                  Or        23   1.40        37   1.18
+  06 059 Orange                   Ca        23   1.40        42   1.34
+  53 011 Clark                    Wa        23   1.40        46   1.47
+  04 013 Maricopa                 Az        20   1.22        38   1.21
+  41 017 Deschutes                Or        19   1.16        39   1.24
+  57 005 APO / FPO Zip Code       FR        16    .97        26    .83
+  06 067 Sacramento               Ca        15    .91        31    .99
+  53 053 Pierce                   Wa        14    .85        23    .73
+  41 035 Klamath                  Or        14    .85        34   1.08
+  16 001 Ada                      Id        14    .85        22    .70
+  06 061 Placer                   Ca        14    .85        26    .83
+  06 071 San Bernardino           Ca        14    .85        35   1.12
+  06 085 Santa Clara              Ca        13    .79        20    .64
+  04 019 Pima                     Az        13    .79        19    .61
+  41 029 Jackson                  Or        13    .79        20    .64
+  53 077 Yakima                   Wa        13    .79        29    .92
+  41 007 Clatsop                  Or        12    .73        27    .86
+  06 045 Mendocino                Ca        12    .73        21    .67
+  06 001 Alameda                  Ca        12    .73        18    .57
+  41 011 Coos                     Or        10    .61        22    .70
+  15 003 Honolulu                 Hi        10    .61        20    .64
+  06 081 San Mateo                Ca        10    .61        16    .51
+   Same State                               55   3.35       116   3.70
+   Region 1:   Northeast                    34   2.07        52   1.66
+   Region 2:   Midwest                      65   3.96       117   3.73
+   Region 3:   South                        82   4.99       156   4.97
+   Region 4:   West                        345  21.01       699  22.28
+      41 041   County Non-Migrants       12499            26623
+41 043   Linn Total Migration Flo Or      2491             5313
+  41 003 Benton                   Or       361  14.49       715  13.46
+  41 047 Marion                   Or       340  13.65       749  14.10
+  41 039 Lane                     Or       216   8.67       491   9.24
+  41 051 Multnomah                Or        96   3.85       185   3.48
+  41 017 Deschutes                Or        59   2.37       114   2.15
+  06 037 Los Angeles              Ca        50   2.01       114   2.15
+  41 053 Polk                     Or        46   1.85       109   2.05
+  57 005 APO / FPO Zip Code       FR        46   1.85        87   1.64
+  41 041 Lincoln                  Or        45   1.81        73   1.37
+  41 067 Washington               Or        43   1.73        77   1.45
+  06 073 San Diego                Ca        32   1.28        77   1.45
+  41 005 Clackamas                Or        31   1.24        74   1.39
+  41 019 Douglas                  Or        30   1.20        85   1.60
+  06 059 Orange                   Ca        30   1.20        57   1.07
+  53 033 King                     Wa        29   1.16        48    .90
+  06 067 Sacramento               Ca        28   1.12        60   1.13
+  06 085 Santa Clara              Ca        25   1.00        53   1.00
+  53 053 Pierce                   Wa        24    .96        70   1.32
+  41 059 Umatilla                 Or        21    .84        53   1.00
+  53 011 Clark                    Wa        20    .80        33    .62
+  04 013 Maricopa                 Az        18    .72        40    .75
+  06 065 Riverside                Ca        18    .72        36    .68
+  41 029 Jackson                  Or        17    .68        38    .72
+  06 071 San Bernardino           Ca        17    .68        46    .87
+  41 035 Klamath                  Or        16    .64        37    .70
+  41 011 Coos                     Or        16    .64        46    .87
+  41 071 Yamhill                  Or        15    .60        29    .55
+  06 029 Kern                     Ca        15    .60        43    .81
+  32 031 Washoe                   Nv        14    .56        30    .56
+  32 003 Clark                    Nv        11    .44        14    .26
+  41 033 Josephine                Or        11    .44        23    .43
+  04 019 Pima                     Az        11    .44        28    .53
+  06 089 Shasta                   Ca        10    .40        20    .38
+  53 063 Spokane                  Wa        10    .40        25    .47
+   Same State                               70   2.81       133   2.50
+   Region 1:   Northeast                    31   1.24        51    .96
+   Region 2:   Midwest                      74   2.97       141   2.65
+   Region 3:   South                       129   5.18       287   5.40
+   Region 4:   West                        416  16.70       922  17.35
+      41 043   County Non-Migrants       29191            68654
+41 045   Malheur Total Migration  Or       768             1888
+  16 075 Payette                  Id       116  15.10       257  13.61
+  16 027 Canyon                   Id        52   6.77       125   6.62
+  16 001 Ada                      Id        35   4.56        70   3.71
+  41 001 Baker                    Or        27   3.52        62   3.28
+  41 061 Union                    Or        23   2.99        45   2.38
+  16 087 Washington               Id        20   2.60        56   2.97
+  04 013 Maricopa                 Az        18   2.34        50   2.65
+  06 037 Los Angeles              Ca        16   2.08        49   2.60
+  41 039 Lane                     Or        15   1.95        29   1.54
+  41 047 Marion                   Or        15   1.95        38   2.01
+  41 025 Harney                   Or        14   1.82        29   1.54
+  41 051 Multnomah                Or        13   1.69        22   1.17
+  41 059 Umatilla                 Or        12   1.56        34   1.80
+   Same State                               90  11.72       223  11.81
+   Same Region, Diff. State                206  26.82       510  27.01
+   Different Region                         96  12.50       289  15.31
+      41 045   County Non-Migrants        7783            19764
+41 047   Marion Total Migration F Or      6940            14569
+  41 053 Polk                     Or       783  11.28      1561  10.71
+  41 005 Clackamas                Or       503   7.25      1139   7.82
+  41 051 Multnomah                Or       421   6.07       785   5.39
+  41 043 Linn                     Or       396   5.71       817   5.61
+  41 067 Washington               Or       306   4.41       594   4.08
+  41 039 Lane                     Or       255   3.67       508   3.49
+  41 071 Yamhill                  Or       216   3.11       489   3.36
+  06 037 Los Angeles              Ca       215   3.10       489   3.36
+  41 003 Benton                   Or       190   2.74       348   2.39
+  06 073 San Diego                Ca       127   1.83       279   1.92
+  53 033 King                     Wa       120   1.73       198   1.36
+  41 017 Deschutes                Or       105   1.51       207   1.42
+  41 041 Lincoln                  Or        94   1.35       170   1.17
+  41 029 Jackson                  Or        85   1.22       184   1.26
+  04 013 Maricopa                 Az        85   1.22       191   1.31
+  06 059 Orange                   Ca        80   1.15       191   1.31
+  57 005 APO / FPO Zip Code       FR        67    .97       115    .79
+  06 085 Santa Clara              Ca        67    .97       143    .98
+  06 071 San Bernardino           Ca        61    .88       142    .97
+  41 019 Douglas                  Or        61    .88       129    .89
+  06 001 Alameda                  Ca        58    .84       127    .87
+  53 011 Clark                    Wa        56    .81       108    .74
+  06 065 Riverside                Ca        53    .76       139    .95
+  53 053 Pierce                   Wa        52    .75       102    .70
+  06 067 Sacramento               Ca        51    .73       108    .74
+  41 035 Klamath                  Or        50    .72       101    .69
+  41 011 Coos                     Or        46    .66        98    .67
+  32 003 Clark                    Nv        44    .63        99    .68
+  06 107 Tulare                   Ca        36    .52       150   1.03
+  53 063 Spokane                  Wa        36    .52        70    .48
+  06 097 Sonoma                   Ca        35    .50        86    .59
+  06 019 Fresno                   Ca        35    .50        92    .63
+  15 003 Honolulu                 Hi        35    .50        67    .46
+  57 001 Foreign / Overseas       FR        35    .50        78    .54
+  32 031 Washoe                   Nv        34    .49        69    .47
+  41 059 Umatilla                 Or        34    .49        80    .55
+  41 033 Josephine                Or        33    .48        69    .47
+  06 077 San Joaquin              Ca        28    .40        72    .49
+  41 007 Clatsop                  Or        28    .40        51    .35
+  16 001 Ada                      Id        27    .39        60    .41
+  53 061 Snohomish                Wa        27    .39        46    .32
+  06 111 Ventura                  Ca        27    .39        67    .46
+  41 057 Tillamook                Or        26    .37        49    .34
+  02 020 Anchorage Borough        Ak        26    .37        47    .32
+  06 083 Santa Barbara            Ca        25    .36        47    .32
+  06 099 Stanislaus               Ca        24    .35        54    .37
+  53 073 Whatcom                  Wa        22    .32        51    .35
+  06 081 San Mateo                Ca        21    .30        45    .31
+  06 013 Contra Costa             Ca        21    .30        36    .25
+  41 009 Columbia                 Or        20    .29        36    .25
+  53 077 Yakima                   Wa        20    .29        44    .30
+  06 095 Solano                   Ca        18    .26        44    .30
+  06 007 Butte                    Ca        17    .24        34    .23
+  06 053 Monterey                 Ca        17    .24        41    .28
+  53 067 Thurston                 Wa        17    .24        37    .25
+  49 035 Salt Lake                Ut        17    .24        35    .24
+  02 122 Kenai Peninsula Borough  Ak        17    .24        57    .39
+  06 079 San Luis Obispo          Ca        16    .23        29    .20
+  06 089 Shasta                   Ca        16    .23        42    .29
+  04 019 Pima                     Az        16    .23        33    .23
+  35 001 Bernalillo               NM        15    .22        30    .21
+  41 061 Union                    Or        15    .22        32    .22
+  53 035 Kitsap                   Wa        14    .20        30    .21
+  16 027 Canyon                   Id        14    .20        23    .16
+  48 439 Tarrant                  Tx        13    .19        30    .21
+  06 029 Kern                     Ca        13    .19        38    .26
+  48 113 Dallas                   Tx        12    .17        26    .18
+  06 023 Humboldt                 Ca        12    .17        26    .18
+  41 045 Malheur                  Or        12    .17        33    .23
+  06 075 San Francisco            Ca        12    .17        13    .09
+  41 015 Curry                    Or        12    .17        21    .14
+  49 049 Utah                     Ut        12    .17        26    .18
+  41 031 Jefferson                Or        12    .17        25    .17
+  48 201 Harris                   Tx        11    .16        30    .21
+  37 051 Cumberland               NC        11    .16        16    .11
+  16 055 Kootenai                 Id        11    .16        20    .14
+  06 087 Santa Cruz               Ca        11    .16        29    .20
+  41 065 Wasco                    Or        11    .16        24    .16
+  53 015 Cowlitz                  Wa        10    .14        18    .12
+  41 013 Crook                    Or        10    .14        22    .15
+  04 015 Mohave                   Az        10    .14        19    .13
+  41 001 Baker                    Or        10    .14        21    .14
+   Same State                               33    .48        65    .45
+   Region 1:   Northeast                   103   1.48       230   1.58
+   Region 2:   Midwest                     249   3.59       520   3.57
+   Region 3:   South                       302   4.35       671   4.61
+   Region 4:   West                        537   7.74      1152   7.91
+      41 047   County Non-Migrants       76507           177484
+41 049   Morrow Total Migration F Or       245              621
+  41 059 Umatilla                 Or        70  28.57       180  28.99
+   Same State                               76  31.02       182  29.31
+   Same Region, Diff. State                 88  35.92       233  37.52
+   Different Region                         11   4.49        26   4.19
+      41 049   County Non-Migrants        2379             6150
+41 051   Multnomah Total Migratio Or     20920            34493
+  41 005 Clackamas                Or      3769  18.02      6423  18.62
+  41 067 Washington               Or      3707  17.72      5933  17.20
+  53 011 Clark                    Wa      1050   5.02      1748   5.07
+  41 039 Lane                     Or       674   3.22       944   2.74
+  53 033 King                     Wa       643   3.07       981   2.84
+  06 037 Los Angeles              Ca       618   2.95      1077   3.12
+  41 047 Marion                   Or       495   2.37       763   2.21
+  06 073 San Diego                Ca       302   1.44       546   1.58
+  41 009 Columbia                 Or       208    .99       336    .97
+  06 059 Orange                   Ca       203    .97       378   1.10
+  57 005 APO / FPO Zip Code       FR       203    .97       334    .97
+  41 003 Benton                   Or       199    .95       266    .77
+  06 075 San Francisco            Ca       196    .94       274    .79
+  04 013 Maricopa                 Az       188    .90       346   1.00
+  57 001 Foreign / Overseas       FR       187    .89       275    .80
+  06 001 Alameda                  Ca       176    .84       295    .86
+  41 029 Jackson                  Or       171    .82       261    .76
+  41 071 Yamhill                  Or       155    .74       237    .69
+  06 085 Santa Clara              Ca       153    .73       240    .70
+  41 017 Deschutes                Or       141    .67       231    .67
+  53 053 Pierce                   Wa       131    .63       212    .61
+  06 067 Sacramento               Ca       117    .56       210    .61
+  41 007 Clatsop                  Or       115    .55       198    .57
+  17 031 Cook                     Il       114    .54       202    .59
+  41 043 Linn                     Or       109    .52       172    .50
+  15 003 Honolulu                 Hi       109    .52       178    .52
+  41 059 Umatilla                 Or       107    .51       156    .45
+  41 019 Douglas                  Or       104    .50       165    .48
+  53 061 Snohomish                Wa       103    .49       175    .51
+  41 041 Lincoln                  Or        93    .44       140    .41
+  06 013 Contra Costa             Ca        88    .42       164    .48
+  53 063 Spokane                  Wa        88    .42       147    .43
+  41 053 Polk                     Or        84    .40       120    .35
+  06 065 Riverside                Ca        79    .38       148    .43
+  53 067 Thurston                 Wa        78    .37       127    .37
+  32 003 Clark                    Nv        78    .37       132    .38
+  25 017 Middlesex                Ma        78    .37       101    .29
+  41 057 Tillamook                Or        76    .36       128    .37
+  06 071 San Bernardino           Ca        74    .35       159    .46
+  48 201 Harris                   Tx        73    .35       128    .37
+  16 001 Ada                      Id        72    .34       111    .32
+  36 061 New York                 NY        71    .34        96    .28
+  53 015 Cowlitz                  Wa        68    .33        97    .28
+  49 035 Salt Lake                Ut        67    .32       127    .37
+  41 065 Wasco                    Or        67    .32        95    .28
+  41 011 Coos                     Or        66    .32       105    .30
+  02 020 Anchorage Borough        Ak        65    .31        91    .26
+  48 113 Dallas                   Tx        61    .29       115    .33
+  41 027 Hood River               Or        58    .28        95    .28
+  06 111 Ventura                  Ca        56    .27       127    .37
+  32 031 Washoe                   Nv        55    .26        80    .23
+  06 081 San Mateo                Ca        53    .25        93    .27
+  41 035 Klamath                  Or        53    .25        89    .26
+  06 083 Santa Barbara            Ca        47    .22        74    .21
+  41 033 Josephine                Or        47    .22        82    .24
+  27 053 Hennepin                 Mn        46    .22        61    .18
+  53 077 Yakima                   Wa        44    .21        82    .24
+  53 035 Kitsap                   Wa        44    .21        91    .26
+  06 019 Fresno                   Ca        44    .21        91    .26
+  11 001 Wash.,D.C.               DC        44    .21        55    .16
+  04 019 Pima                     Az        43    .21        87    .25
+  06 041 Marin                    Ca        43    .21        75    .22
+  08 041 El Paso                  Co        41    .20        78    .23
+  06 097 Sonoma                   Ca        39    .19        83    .24
+  53 071 Walla Walla              Wa        38    .18        56    .16
+  08 031 Denver                   Co        38    .18        47    .14
+  51 059 Fairfax                  Va        37    .18        61    .18
+  48 439 Tarrant                  Tx        37    .18        72    .21
+  06 053 Monterey                 Ca        35    .17        71    .21
+  41 061 Union                    Or        35    .17        54    .16
+  25 025 Suffolk                  Ma        34    .16        53    .15
+  06 029 Kern                     Ca        34    .16        75    .22
+  53 073 Whatcom                  Wa        33    .16        62    .18
+  06 023 Humboldt                 Ca        33    .16        58    .17
+  06 087 Santa Cruz               Ca        33    .16        43    .12
+  08 013 Boulder                  Co        32    .15        46    .13
+  53 005 Benton                   Wa        32    .15        51    .15
+  30 063 Missoula                 Mt        29    .14        36    .10
+  41 031 Jefferson                Or        28    .13        43    .12
+  30 111 Yellowstone              Mt        28    .13        41    .12
+  24 031 Montgomery               Md        28    .13        45    .13
+  36 047 Kings                    NY        28    .13        48    .14
+  48 029 Bexar                    Tx        27    .13        53    .15
+  08 005 Arapahoe                 Co        26    .12        40    .12
+  48 453 Travis                   Tx        25    .12        44    .13
+  36 081 Queens                   NY        25    .12        45    .13
+  06 079 San Luis Obispo          Ca        25    .12        36    .10
+  06 095 Solano                   Ca        24    .11        46    .13
+  35 001 Bernalillo               NM        24    .11        40    .12
+  53 041 Lewis                    Wa        24    .11        34    .10
+  39 035 Cuyahoga                 Oh        23    .11        33    .10
+  12 025 Dade                     Fl        23    .11        44    .13
+  26 161 Washtenaw                Mi        23    .11        38    .11
+  55 025 Dane                     Wi        23    .11        34    .10
+  15 001 Hawaii                   Hi        22    .11        43    .12
+  09 001 Fairfield                Ct        22    .11        31    .09
+  13 121 Fulton                   Ga        22    .11        26    .08
+  49 049 Utah                     Ut        22    .11        55    .16
+  06 007 Butte                    Ca        21    .10        40    .12
+  26 125 Oakland                  Mi        21    .10        28    .08
+  19 153 Polk                     Ia        20    .10        30    .09
+  06 077 San Joaquin              Ca        20    .10        42    .12
+  39 061 Hamilton                 Oh        20    .10        27    .08
+  06 099 Stanislaus               Ca        20    .10        42    .12
+  29 189 St. Louis                Mo        19    .09        40    .12
+  41 013 Crook                    Or        19    .09        28    .08
+  06 113 Yolo                     Ca        19    .09        33    .10
+  53 049 Pacific                  Wa        19    .09        30    .09
+  13 089 De Kalb                  Ga        19    .09        30    .09
+  02 090 Fairbanks North Star Bor Ak        19    .09        35    .10
+  48 141 El Paso                  Tx        19    .09        43    .12
+  23 005 Cumberland               Me        18    .09        24    .07
+  09 003 Hartford                 Ct        18    .09        29    .08
+  42 101 Philadelphia             Pa        18    .09        29    .08
+  12 031 Duval                    Fl        18    .09        35    .10
+  53 029 Island                   Wa        18    .09        47    .14
+  35 049 Santa Fe                 NM        18    .09        23    .07
+  15 009 Maui                     Hi        18    .09        29    .08
+  41 015 Curry                    Or        18    .09        29    .08
+  55 079 Milwaukee                Wi        18    .09        28    .08
+  53 059 Skamania                 Wa        18    .09        31    .09
+  30 013 Cascade                  Mt        17    .08        37    .11
+  27 123 Ramsey                   Mn        17    .08        31    .09
+  12 103 Pinellas                 Fl        17    .08        27    .08
+  41 045 Malheur                  Or        17    .08        28    .08
+  08 059 Jefferson                Co        16    .08        38    .11
+  42 091 Montgomery               Pa        16    .08        24    .07
+  12 011 Broward                  Fl        16    .08        24    .07
+  53 057 Skagit                   Wa        16    .08        37    .11
+  29 095 Jackson                  Mo        16    .08        21    .06
+  06 061 Placer                   Ca        16    .08        38    .11
+  37 119 Mecklenburg              NC        16    .08        30    .09
+  16 057 Latah                    Id        15    .07        20    .06
+  31 055 Douglas                  Ne        15    .07        34    .10
+  02 122 Kenai Peninsula Borough  Ak        15    .07        27    .08
+  09 009 New Haven                Ct        15    .07        23    .07
+  24 033 Prince George's          Md        15    .07        27    .08
+  53 039 Klickitat                Wa        15    .07        27    .08
+  02 110 Juneau Borough           Ak        15    .07        28    .08
+  25 021 Norfolk                  Ma        14    .07        20    .06
+  47 157 Shelby                   Tn        14    .07        24    .07
+  06 089 Shasta                   Ca        14    .07        24    .07
+  34 003 Bergen                   NJ        14    .07        19    .06
+  16 055 Kootenai                 Id        13    .06        24    .07
+  41 023 Grant                    Or        13    .06        25    .07
+  04 027 Yuma                     Az        13    .06        24    .07
+  08 069 Larimer                  Co        13    .06        15    .04
+  33 011 Hillsborough             NH        13    .06        28    .08
+  06 017 El Dorado                Ca        13    .06        23    .07
+  36 103 Suffolk                  NY        13    .06        26    .08
+  41 001 Baker                    Or        13    .06        19    .06
+  25 027 Worcester                Ma        13    .06        15    .04
+  49 057 Weber                    Ut        13    .06        19    .06
+  51 013 Arlington                Va        12    .06        21    .06
+  25 013 Hampden                  Ma        12    .06        25    .07
+  12 099 Palm Beach               Fl        12    .06        16    .05
+  50 007 Chittenden               Vt        12    .06        22    .06
+  36 055 Monroe                   NY        12    .06        14    .04
+  17 043 Du Page                  Il        12    .06        20    .06
+  31 109 Lancaster                Ne        12    .06        17    .05
+  16 005 Bannock                  Id        12    .06        19    .06
+  53 009 Clallam                  Wa        12    .06        20    .06
+  41 025 Harney                   Or        12    .06        14    .04
+  06 047 Merced                   Ca        12    .06        25    .07
+  08 001 Adams                    Co        12    .06        24    .07
+  53 025 Grant                    Wa        12    .06        17    .05
+  17 097 Lake                     Il        11    .05        26    .08
+  48 027 Bell                     Tx        11    .05        24    .07
+  53 075 Whitman                  Wa        11    .05        13    .04
+  36 067 Onondaga                 NY        11    .05        19    .06
+  36 059 Nassau                   NY        11    .05        14    .04
+  25 009 Essex                    Ma        11    .05        22    .06
+  12 057 Hillsborough             Fl        11    .05        16    .05
+  26 163 Wayne                    Mi        11    .05        16    .05
+  51 810 Virginia Beach city      Va        11    .05        21    .06
+  20 091 Johnson                  Ks        11    .05        25    .07
+  12 095 Orange                   Fl        11    .05        13    .04
+  04 015 Mohave                   Az        11    .05        21    .06
+  36 119 Westchester              NY        11    .05        20    .06
+  39 049 Franklin                 Oh        11    .05        13    .04
+  34 027 Morris                   NJ        10    .05        10    .03
+  06 045 Mendocino                Ca        10    .05        24    .07
+  06 055 Napa                     Ca        10    .05        19    .06
+  53 027 Grays Harbor             Wa        10    .05        18    .05
+  28 047 Harrison                 Ms        10    .05        18    .05
+  26 081 Kent                     Mi        10    .05        12    .03
+  04 021 Pinal                    Az        10    .05        16    .05
+  37 133 Onslow                   NC        10    .05        24    .07
+  18 097 Marion                   In        10    .05        21    .06
+  56 021 Laramie                  Wy        10    .05        19    .06
+  44 007 Providence               RI        10    .05        17    .05
+  49 005 Cache                    Ut        10    .05        16    .05
+  45 019 Charleston               SC        10    .05        17    .05
+  34 013 Essex                    NJ        10    .05        15    .04
+  25 015 Hampshire                Ma        10    .05        12    .03
+  22 071 Orleans                  La        10    .05        17    .05
+   Same State                               31    .15        64    .19
+   Region 1:   Northeast                   311   1.49       478   1.39
+   Region 2:   Midwest                     495   2.37       819   2.37
+   Region 3:   South                       624   2.98      1090   3.16
+   Region 4:   West                        481   2.30       838   2.43
+      41 051   County Non-Migrants      213098           429694
+41 053   Polk Total Migration Flo Or      1992             4381
+  41 047 Marion                   Or       734  36.85      1600  36.52
+  41 071 Yamhill                  Or       107   5.37       289   6.60
+  41 051 Multnomah                Or        71   3.56       123   2.81
+  41 003 Benton                   Or        71   3.56       156   3.56
+  41 043 Linn                     Or        50   2.51       103   2.35
+  41 039 Lane                     Or        49   2.46        89   2.03
+  06 037 Los Angeles              Ca        48   2.41       118   2.69
+  41 005 Clackamas                Or        46   2.31        81   1.85
+  41 067 Washington               Or        37   1.86        65   1.48
+  53 033 King                     Wa        30   1.51        54   1.23
+  41 041 Lincoln                  Or        27   1.36        60   1.37
+  06 073 San Diego                Ca        27   1.36        50   1.14
+  41 017 Deschutes                Or        23   1.15        46   1.05
+  06 107 Tulare                   Ca        21   1.05       106   2.42
+  57 005 APO / FPO Zip Code       FR        20   1.00        38    .87
+  41 019 Douglas                  Or        18    .90        35    .80
+  06 071 San Bernardino           Ca        18    .90        41    .94
+  06 065 Riverside                Ca        17    .85        56   1.28
+  41 029 Jackson                  Or        16    .80        26    .59
+  06 085 Santa Clara              Ca        15    .75        40    .91
+  04 013 Maricopa                 Az        14    .70        29    .66
+  41 007 Clatsop                  Or        13    .65        21    .48
+  41 035 Klamath                  Or        11    .55        28    .64
+  41 011 Coos                     Or        10    .50        19    .43
+   Same State                               73   3.66       137   3.13
+   Region 1:   Northeast                    16    .80        33    .75
+   Region 2:   Midwest                      53   2.66       111   2.53
+   Region 3:   South                        54   2.71       136   3.10
+   Region 4:   West                        303  15.21       691  15.77
+      41 053   County Non-Migrants       14994            35652
+41 055   Sherman Total Migration  Or        54              116
+  41 065 Wasco                    Or        10  18.52        24  20.69
+   All Migration Flows                      44  81.48        92  79.31
+      41 055   County Non-Migrants         610             1440
+41 057   Tillamook Total Migratio Or       681             1358
+  41 051 Multnomah                Or       104  15.27       176  12.96
+  41 067 Washington               Or        75  11.01       135   9.94
+  41 005 Clackamas                Or        46   6.75        90   6.63
+  41 007 Clatsop                  Or        29   4.26        80   5.89
+  41 039 Lane                     Or        19   2.79        37   2.72
+  41 047 Marion                   Or        19   2.79        39   2.87
+  41 041 Lincoln                  Or        18   2.64        46   3.39
+  53 011 Clark                    Wa        16   2.35        31   2.28
+  41 071 Yamhill                  Or        13   1.91        33   2.43
+  53 033 King                     Wa        13   1.91        21   1.55
+  06 037 Los Angeles              Ca        13   1.91        27   1.99
+  41 017 Deschutes                Or        10   1.47        20   1.47
+  06 073 San Diego                Ca        10   1.47        21   1.55
+   Same State                               55   8.08       122   8.98
+   Region 1:   Northeast                    20   2.94        28   2.06
+   Region 2:   Midwest                      18   2.64        38   2.80
+   Region 3:   South                        22   3.23        56   4.12
+   Region 4:   West                        181  26.58       358  26.36
+      41 057   County Non-Migrants        6890            15431
+41 059   Umatilla Total Migration Or      1585             3642
+  53 071 Walla Walla              Wa       111   7.00       295   8.10
+  41 049 Morrow                   Or        88   5.55       219   6.01
+  41 061 Union                    Or        68   4.29       161   4.42
+  41 051 Multnomah                Or        65   4.10       134   3.68
+  53 005 Benton                   Wa        48   3.03       109   2.99
+  41 047 Marion                   Or        41   2.59        82   2.25
+  06 037 Los Angeles              Ca        37   2.33        95   2.61
+  53 033 King                     Wa        37   2.33        72   1.98
+  41 005 Clackamas                Or        33   2.08        64   1.76
+  41 017 Deschutes                Or        31   1.96        64   1.76
+  53 077 Yakima                   Wa        29   1.83        76   2.09
+  41 067 Washington               Or        27   1.70        54   1.48
+  53 021 Franklin                 Wa        23   1.45        57   1.57
+  41 001 Baker                    Or        22   1.39        45   1.24
+  04 013 Maricopa                 Az        21   1.32        44   1.21
+  57 005 APO / FPO Zip Code       FR        21   1.32        42   1.15
+  41 003 Benton                   Or        20   1.26        37   1.02
+  41 065 Wasco                    Or        20   1.26        47   1.29
+  41 045 Malheur                  Or        19   1.20        40   1.10
+  41 039 Lane                     Or        18   1.14        41   1.13
+  41 023 Grant                    Or        18   1.14        52   1.43
+  53 063 Spokane                  Wa        18   1.14        41   1.13
+  06 073 San Diego                Ca        16   1.01        39   1.07
+  53 011 Clark                    Wa        16   1.01        36    .99
+  53 061 Snohomish                Wa        15    .95        30    .82
+  53 053 Pierce                   Wa        13    .82        32    .88
+  32 003 Clark                    Nv        13    .82        32    .88
+  41 063 Wallowa                  Or        12    .76        21    .58
+  41 009 Columbia                 Or        12    .76        21    .58
+  41 019 Douglas                  Or        12    .76        24    .66
+  06 071 San Bernardino           Ca        12    .76        23    .63
+  41 041 Lincoln                  Or        11    .69        21    .58
+  41 053 Polk                     Or        11    .69        17    .47
+  16 027 Canyon                   Id        11    .69        32    .88
+  16 001 Ada                      Id        10    .63        14    .38
+  06 059 Orange                   Ca        10    .63        27    .74
+  41 043 Linn                     Or        10    .63        26    .71
+  53 025 Grant                    Wa        10    .63        20    .55
+   Same State                               75   4.73       183   5.02
+   Region 1:   Northeast                    20   1.26        40   1.10
+   Region 2:   Midwest                      67   4.23       162   4.45
+   Region 3:   South                        83   5.24       213   5.85
+   Region 4:   West                        331  20.88       758  20.81
+      41 059   County Non-Migrants       19199            46293
+41 061   Union Total Migration Fl Or       677             1394
+  41 059 Umatilla                 Or        54   7.98        96   6.89
+  41 001 Baker                    Or        36   5.32        79   5.67
+  41 051 Multnomah                Or        26   3.84        44   3.16
+  41 039 Lane                     Or        23   3.40        50   3.59
+  41 023 Grant                    Or        19   2.81        44   3.16
+  41 047 Marion                   Or        16   2.36        44   3.16
+  41 017 Deschutes                Or        16   2.36        23   1.65
+  16 001 Ada                      Id        15   2.22        37   2.65
+  41 063 Wallowa                  Or        14   2.07        33   2.37
+  41 045 Malheur                  Or        13   1.92        35   2.51
+  41 067 Washington               Or        12   1.77        30   2.15
+  41 005 Clackamas                Or        12   1.77        23   1.65
+  53 033 King                     Wa        10   1.48        16   1.15
+   Same State                               80  11.82       172  12.34
+   Region 1:   Northeast                    11   1.62        17   1.22
+   Region 2:   Midwest                      23   3.40        53   3.80
+   Region 3:   South                        30   4.43        54   3.87
+   Region 4:   West                        252  37.22       514  36.87
+   Foreign                                  15   2.22        30   2.15
+      41 061   County Non-Migrants        7348            17851
+41 063   Wallowa Total Migration  Or       234              526
+  41 061 Union                    Or        23   9.83        48   9.13
+  41 039 Lane                     Or        16   6.84        34   6.46
+  41 005 Clackamas                Or        13   5.56        31   5.89
+  41 059 Umatilla                 Or        11   4.70        21   3.99
+  41 047 Marion                   Or        11   4.70        23   4.37
+   Same State                               66  28.21       160  30.42
+   Same Region, Diff. State                 79  33.76       181  34.41
+   Different Region                         15   6.41        28   5.32
+      41 063   County Non-Migrants        2323             5537
+41 065   Wasco Total Migration Fl Or       615             1324
+  41 051 Multnomah                Or        64  10.41       123   9.29
+  53 039 Klickitat                Wa        48   7.80        82   6.19
+  41 027 Hood River               Or        36   5.85        70   5.29
+  41 005 Clackamas                Or        20   3.25        55   4.15
+  41 067 Washington               Or        19   3.09        41   3.10
+  41 047 Marion                   Or        19   3.09        50   3.78
+  53 033 King                     Wa        16   2.60        22   1.66
+  41 017 Deschutes                Or        15   2.44        42   3.17
+  41 059 Umatilla                 Or        14   2.28        27   2.04
+  06 073 San Diego                Ca        13   2.11        32   2.42
+  53 011 Clark                    Wa        12   1.95        26   1.96
+  57 005 APO / FPO Zip Code       FR        11   1.79        23   1.74
+  41 039 Lane                     Or        11   1.79        28   2.11
+   Same State                               84  13.66       197  14.88
+   Region 1:   Northeast                    18   2.93        38   2.87
+   Region 2:   Midwest                      14   2.28        39   2.95
+   Region 3:   South                        25   4.07        48   3.63
+   Region 4:   West                        176  28.62       381  28.78
+      41 065   County Non-Migrants        6935            16287
+41 067   Washington Total Migrati Or     14548            27015
+  41 051 Multnomah                Or      4045  27.80      6794  25.15
+  41 005 Clackamas                Or      1483  10.19      2642   9.78
+  06 037 Los Angeles              Ca       445   3.06       929   3.44
+  41 039 Lane                     Or       391   2.69       632   2.34
+  41 047 Marion                   Or       377   2.59       641   2.37
+  53 033 King                     Wa       351   2.41       612   2.27
+  53 011 Clark                    Wa       329   2.26       586   2.17
+  41 071 Yamhill                  Or       329   2.26       619   2.29
+  06 059 Orange                   Ca       203   1.40       413   1.53
+  06 085 Santa Clara              Ca       200   1.37       430   1.59
+  06 073 San Diego                Ca       191   1.31       379   1.40
+  04 013 Maricopa                 Az       188   1.29       423   1.57
+  41 003 Benton                   Or       174   1.20       260    .96
+  41 009 Columbia                 Or       137    .94       274   1.01
+  41 029 Jackson                  Or       125    .86       209    .77
+  57 001 Foreign / Overseas       FR       120    .82       217    .80
+  15 003 Honolulu                 Hi       118    .81       220    .81
+  06 001 Alameda                  Ca       107    .74       239    .88
+  41 017 Deschutes                Or       106    .73       196    .73
+  57 005 APO / FPO Zip Code       FR       100    .69       187    .69
+  06 067 Sacramento               Ca        91    .63       177    .66
+  53 053 Pierce                   Wa        89    .61       144    .53
+  41 019 Douglas                  Or        87    .60       150    .56
+  41 007 Clatsop                  Or        85    .58       143    .53
+  53 063 Spokane                  Wa        78    .54       152    .56
+  06 071 San Bernardino           Ca        76    .52       179    .66
+  06 013 Contra Costa             Ca        73    .50       142    .53
+  41 043 Linn                     Or        71    .49       123    .46
+  41 041 Lincoln                  Or        70    .48       121    .45
+  41 053 Polk                     Or        70    .48       120    .44
+  53 061 Snohomish                Wa        69    .47       153    .57
+  41 057 Tillamook                Or        64    .44       107    .40
+  06 065 Riverside                Ca        61    .42       131    .48
+  16 001 Ada                      Id        61    .42       143    .53
+  06 111 Ventura                  Ca        59    .41       133    .49
+  49 035 Salt Lake                Ut        58    .40       156    .58
+  32 003 Clark                    Nv        56    .38       117    .43
+  06 081 San Mateo                Ca        54    .37       104    .38
+  41 035 Klamath                  Or        54    .37       103    .38
+  41 011 Coos                     Or        53    .36       103    .38
+  37 119 Mecklenburg              NC        53    .36       132    .49
+  32 031 Washoe                   Nv        49    .34       106    .39
+  06 075 San Francisco            Ca        47    .32        65    .24
+  48 113 Dallas                   Tx        47    .32       107    .40
+  02 020 Anchorage Borough        Ak        46    .32        97    .36
+  41 059 Umatilla                 Or        43    .30        78    .29
+  49 049 Utah                     Ut        41    .28       100    .37
+  08 041 El Paso                  Co        41    .28       100    .37
+  17 031 Cook                     Il        41    .28        73    .27
+  48 201 Harris                   Tx        40    .27        93    .34
+  04 019 Pima                     Az        40    .27        73    .27
+  06 019 Fresno                   Ca        38    .26        99    .37
+  06 083 Santa Barbara            Ca        37    .25        65    .24
+  53 077 Yakima                   Wa        36    .25        73    .27
+  41 065 Wasco                    Or        33    .23        56    .21
+  06 053 Monterey                 Ca        33    .23        65    .24
+  53 035 Kitsap                   Wa        33    .23        67    .25
+  41 033 Josephine                Or        33    .23        56    .21
+  06 095 Solano                   Ca        33    .23        77    .29
+  53 015 Cowlitz                  Wa        32    .22        63    .23
+  53 067 Thurston                 Wa        29    .20        65    .24
+  06 097 Sonoma                   Ca        29    .20        62    .23
+  35 001 Bernalillo               NM        28    .19        57    .21
+  06 077 San Joaquin              Ca        28    .19        60    .22
+  25 017 Middlesex                Ma        27    .19        57    .21
+  06 087 Santa Cruz               Ca        27    .19        57    .21
+  27 053 Hennepin                 Mn        26    .18        59    .22
+  06 041 Marin                    Ca        25    .17        47    .17
+  53 005 Benton                   Wa        24    .16        49    .18
+  08 031 Denver                   Co        24    .16        40    .15
+  51 059 Fairfax                  Va        23    .16        48    .18
+  15 009 Maui                     Hi        22    .15        38    .14
+  48 439 Tarrant                  Tx        22    .15        59    .22
+  06 029 Kern                     Ca        22    .15        44    .16
+  53 071 Walla Walla              Wa        21    .14        41    .15
+  48 453 Travis                   Tx        21    .14        38    .14
+  08 059 Jefferson                Co        20    .14        37    .14
+  08 005 Arapahoe                 Co        19    .13        36    .13
+  53 073 Whatcom                  Wa        19    .13        36    .13
+  31 055 Douglas                  Ne        18    .12        35    .13
+  30 063 Missoula                 Mt        18    .12        34    .13
+  48 141 El Paso                  Tx        18    .12        46    .17
+  41 027 Hood River               Or        17    .12        30    .11
+  17 043 Du Page                  Il        17    .12        37    .14
+  12 095 Orange                   Fl        17    .12        38    .14
+  49 011 Davis                    Ut        16    .11        33    .12
+  09 001 Fairfield                Ct        16    .11        39    .14
+  08 013 Boulder                  Co        15    .10        25    .09
+  06 107 Tulare                   Ca        15    .10        41    .15
+  41 061 Union                    Or        15    .10        29    .11
+  48 029 Bexar                    Tx        15    .10        27    .10
+  06 023 Humboldt                 Ca        15    .10        36    .13
+  16 055 Kootenai                 Id        15    .10        21    .08
+  40 143 Tulsa                    Ok        14    .10        33    .12
+  16 027 Canyon                   Id        14    .10        29    .11
+  11 001 Wash.,D.C.               DC        14    .10        20    .07
+  39 035 Cuyahoga                 Oh        14    .10        29    .11
+  41 045 Malheur                  Or        14    .10        23    .09
+  53 041 Lewis                    Wa        14    .10        27    .10
+  41 031 Jefferson                Or        13    .09        14    .05
+  06 099 Stanislaus               Ca        13    .09        36    .13
+  30 049 Lewis and Clark          Mt        13    .09        29    .11
+  06 039 Madera                   Ca        13    .09        37    .14
+  26 125 Oakland                  Mi        13    .09        20    .07
+  53 027 Grays Harbor             Wa        13    .09        28    .10
+  20 091 Johnson                  Ks        13    .09        28    .10
+  42 003 Allegheny                Pa        13    .09        27    .10
+  29 189 St. Louis                Mo        12    .08        25    .09
+  12 025 Dade                     Fl        12    .08        27    .10
+  53 075 Whitman                  Wa        12    .08        23    .09
+  41 015 Curry                    Or        12    .08        23    .09
+  09 009 New Haven                Ct        12    .08        18    .07
+  16 057 Latah                    Id        12    .08        15    .06
+  40 109 Oklahoma                 Ok        12    .08        21    .08
+  12 099 Palm Beach               Fl        12    .08        19    .07
+  30 111 Yellowstone              Mt        12    .08        25    .09
+  36 081 Queens                   NY        12    .08        23    .09
+  06 017 El Dorado                Ca        11    .08        21    .08
+  53 057 Skagit                   Wa        11    .08        20    .07
+  12 031 Duval                    Fl        11    .08        24    .09
+  08 069 Larimer                  Co        11    .08        25    .09
+  55 025 Dane                     Wi        11    .08        19    .07
+  30 031 Gallatin                 Mt        11    .08        24    .09
+  13 121 Fulton                   Ga        11    .08        22    .08
+  16 005 Bannock                  Id        11    .08        30    .11
+  15 007 Kauai                    Hi        11    .08        21    .08
+  36 103 Suffolk                  NY        11    .08        16    .06
+  25 025 Suffolk                  Ma        10    .07        19    .07
+  12 011 Broward                  Fl        10    .07        22    .08
+  27 123 Ramsey                   Mn        10    .07        17    .06
+  12 103 Pinellas                 Fl        10    .07        21    .08
+  12 057 Hillsborough             Fl        10    .07        20    .07
+  36 061 New York                 NY        10    .07        15    .06
+  06 113 Yolo                     Ca        10    .07        22    .08
+  02 110 Juneau Borough           Ak        10    .07        24    .09
+  15 001 Hawaii                   Hi        10    .07        18    .07
+   Same State                               47    .32        79    .29
+   Region 1:   Northeast                   263   1.81       492   1.82
+   Region 2:   Midwest                     441   3.03       879   3.25
+   Region 3:   South                       419   2.88       895   3.31
+   Region 4:   West                        493   3.39      1022   3.78
+      41 067   County Non-Migrants      109527           252079
+41 069   Wheeler Total Migration  Or        62              115
+  41 017 Deschutes                Or        11  17.74        19  16.52
+   All Migration Flows                      51  82.26        96  83.48
+      41 069   County Non-Migrants         423              937
+41 071   Yamhill Total Migration  Or      2004             4469
+  41 067 Washington               Or       387  19.31       901  20.16
+  41 051 Multnomah                Or       166   8.28       331   7.41
+  41 047 Marion                   Or       147   7.34       357   7.99
+  41 005 Clackamas                Or       122   6.09       255   5.71
+  41 053 Polk                     Or       103   5.14       241   5.39
+  06 037 Los Angeles              Ca        49   2.45       130   2.91
+  53 033 King                     Wa        34   1.70        58   1.30
+  41 039 Lane                     Or        32   1.60        76   1.70
+  06 073 San Diego                Ca        25   1.25        51   1.14
+  41 003 Benton                   Or        25   1.25        44    .98
+  41 057 Tillamook                Or        24   1.20        46   1.03
+  41 041 Lincoln                  Or        24   1.20        52   1.16
+  57 005 APO / FPO Zip Code       FR        23   1.15        37    .83
+  06 085 Santa Clara              Ca        22   1.10        45   1.01
+  41 017 Deschutes                Or        21   1.05        49   1.10
+  53 011 Clark                    Wa        20   1.00        63   1.41
+  06 065 Riverside                Ca        19    .95        41    .92
+  06 059 Orange                   Ca        17    .85        41    .92
+  41 009 Columbia                 Or        16    .80        36    .81
+  06 067 Sacramento               Ca        16    .80        32    .72
+  53 053 Pierce                   Wa        16    .80        37    .83
+  41 043 Linn                     Or        15    .75        28    .63
+  57 001 Foreign / Overseas       FR        14    .70        31    .69
+  53 063 Spokane                  Wa        14    .70        20    .45
+  41 029 Jackson                  Or        13    .65        19    .43
+  41 011 Coos                     Or        12    .60        29    .65
+  04 013 Maricopa                 Az        12    .60        27    .60
+  41 019 Douglas                  Or        12    .60        22    .49
+  06 071 San Bernardino           Ca        12    .60        27    .60
+  06 001 Alameda                  Ca        10    .50        17    .38
+  06 111 Ventura                  Ca        10    .50        23    .51
+   Same State                               68   3.39       157   3.51
+   Region 1:   Northeast                    28   1.40        64   1.43
+   Region 2:   Midwest                      77   3.84       177   3.96
+   Region 3:   South                        67   3.34       150   3.36
+   Region 4:   West                        332  16.57       755  16.89
+      41 071   County Non-Migrants       19577            48314

@@ -1,0 +1,2419 @@
+47 001   Anderson Total Migration Tn      1873             3979
+  47 093 Knox                     Tn       473  25.25       956  24.03
+  47 145 Roane                    Tn       113   6.03       252   6.33
+  47 013 Campbell                 Tn        67   3.58       156   3.92
+  47 129 Morgan                   Tn        55   2.94       113   2.84
+  47 009 Blount                   Tn        24   1.28        53   1.33
+  47 173 Union                    Tn        21   1.12        53   1.33
+  47 065 Hamilton                 Tn        19   1.01        43   1.08
+  47 037 Davidson                 Tn        18    .96        29    .73
+  57 005 APO / FPO Zip Code       FR        17    .91        41   1.03
+  47 105 Loudon                   Tn        16    .85        31    .78
+  13 089 De Kalb                  Ga        14    .75        20    .50
+  13 067 Cobb                     Ga        13    .69        25    .63
+  47 151 Scott                    Tn        13    .69        22    .55
+  57 001 Foreign / Overseas       FR        12    .64        18    .45
+  08 059 Jefferson                Co        11    .59        37    .93
+  47 141 Putnam                   Tn        11    .59        20    .50
+  45 003 Aiken                    SC        11    .59        27    .68
+  47 157 Shelby                   Tn        10    .53        15    .38
+   Same State                              119   6.35       253   6.36
+   Region 1:   Northeast                    83   4.43       150   3.77
+   Region 2:   Midwest                     183   9.77       381   9.58
+   Region 3:   South                       453  24.19      1008  25.33
+   Region 4:   West                        117   6.25       276   6.94
+      47 001   County Non-Migrants       23474            53064
+47 003   Bedford Total Migration  Tn       752             1717
+  47 149 Rutherford               Tn       113  15.03       230  13.40
+  47 031 Coffee                   Tn        96  12.77       210  12.23
+  47 037 Davidson                 Tn        61   8.11       110   6.41
+  47 117 Marshall                 Tn        52   6.91       136   7.92
+  47 051 Franklin                 Tn        30   3.99        72   4.19
+  47 103 Lincoln                  Tn        19   2.53        49   2.85
+  47 119 Maury                    Tn        18   2.39        55   3.20
+  47 187 Williamson               Tn        17   2.26        33   1.92
+  26 163 Wayne                    Mi        14   1.86        34   1.98
+   Same State                               98  13.03       251  14.62
+   Region 1:   Northeast                    17   2.26        44   2.56
+   Region 2:   Midwest                      74   9.84       178  10.37
+   Region 3:   South                       117  15.56       252  14.68
+   Region 4:   West                         26   3.46        63   3.67
+      47 003   County Non-Migrants       10664            24754
+47 005   Benton Total Migration F Tn       370              787
+  47 017 Carroll                  Tn        37  10.00        87  11.05
+  47 085 Humphreys                Tn        21   5.68        50   6.35
+  47 037 Davidson                 Tn        21   5.68        38   4.83
+  47 079 Henry                    Tn        17   4.59        38   4.83
+  47 039 Decatur                  Tn        15   4.05        37   4.70
+  47 157 Shelby                   Tn        14   3.78        25   3.18
+  17 031 Cook                     Il        12   3.24        17   2.16
+   Same State                               67  18.11       145  18.42
+   Region 1:   Northeast                    11   2.97        22   2.80
+   Region 2:   Midwest                      72  19.46       158  20.08
+   Region 3:   South                        59  15.95       127  16.14
+   Region 4:   West                         24   6.49        43   5.46
+      47 005   County Non-Migrants        4786            10973
+47 007   Bledsoe Total Migration  Tn       134              308
+  47 143 Rhea                     Tn        26  19.40        66  21.43
+  47 065 Hamilton                 Tn        18  13.43        41  13.31
+  47 153 Sequatchie               Tn        14  10.45        32  10.39
+   Same State                               36  26.87        81  26.30
+   Same Region, Diff. State                 25  18.66        56  18.18
+   Different Region                         15  11.19        32  10.39
+      47 007   County Non-Migrants        2606             6165
+47 009   Blount Total Migration F Tn      2294             4883
+  47 093 Knox                     Tn       589  25.68      1143  23.41
+  47 105 Loudon                   Tn       100   4.36       215   4.40
+  47 155 Sevier                   Tn        96   4.18       205   4.20
+  47 123 Monroe                   Tn        47   2.05        89   1.82
+  57 005 APO / FPO Zip Code       FR        34   1.48        60   1.23
+  47 065 Hamilton                 Tn        28   1.22        59   1.21
+  47 001 Anderson                 Tn        24   1.05        45    .92
+  47 179 Washington               Tn        23   1.00        44    .90
+  57 001 Foreign / Overseas       FR        21    .92        57   1.17
+  47 037 Davidson                 Tn        19    .83        32    .66
+  47 163 Sullivan                 Tn        19    .83        39    .80
+  47 089 Jefferson                Tn        18    .78        37    .76
+  12 011 Broward                  Fl        18    .78        34    .70
+  13 067 Cobb                     Ga        17    .74        36    .74
+  47 063 Hamblen                  Tn        17    .74        38    .78
+  17 031 Cook                     Il        17    .74        31    .63
+  12 057 Hillsborough             Fl        17    .74        38    .78
+  47 145 Roane                    Tn        14    .61        29    .59
+  47 149 Rutherford               Tn        14    .61        33    .68
+  12 009 Brevard                  Fl        13    .57        30    .61
+  12 103 Pinellas                 Fl        12    .52        27    .55
+  13 089 De Kalb                  Ga        12    .52        27    .55
+  47 157 Shelby                   Tn        12    .52        28    .57
+  47 013 Campbell                 Tn        11    .48        23    .47
+  26 163 Wayne                    Mi        11    .48        19    .39
+  47 011 Bradley                  Tn        11    .48        16    .33
+  26 125 Oakland                  Mi        10    .44        25    .51
+  47 107 McMinn                   Tn        10    .44        16    .33
+  12 025 Dade                     Fl        10    .44        22    .45
+   Same State                              112   4.88       261   5.35
+   Region 1:   Northeast                   107   4.66       227   4.65
+   Region 2:   Midwest                     183   7.98       428   8.77
+   Region 3:   South                       549  23.93      1267  25.95
+   Region 4:   West                         99   4.32       203   4.16
+      47 009   County Non-Migrants       30248            68067
+47 011   Bradley Total Migration  Tn      1758             3827
+  47 065 Hamilton                 Tn       291  16.55       610  15.94
+  47 139 Polk                     Tn       124   7.05       296   7.73
+  47 107 McMinn                   Tn       105   5.97       214   5.59
+  13 313 Whitfield                Ga        56   3.19       111   2.90
+  47 121 Meigs                    Tn        35   1.99        71   1.86
+  47 037 Davidson                 Tn        29   1.65        55   1.44
+  13 047 Catoosa                  Ga        28   1.59        75   1.96
+  47 093 Knox                     Tn        25   1.42        50   1.31
+  57 005 APO / FPO Zip Code       FR        22   1.25        43   1.12
+  47 123 Monroe                   Tn        19   1.08        51   1.33
+  13 213 Murray                   Ga        18   1.02        36    .94
+  13 067 Cobb                     Ga        17    .97        36    .94
+  13 295 Walker                   Ga        16    .91        39   1.02
+  47 157 Shelby                   Tn        15    .85        37    .97
+  47 009 Blount                   Tn        10    .57        18    .47
+  47 155 Sevier                   Tn        10    .57        17    .44
+   Same State                               89   5.06       196   5.12
+   Region 1:   Northeast                    75   4.27       183   4.78
+   Region 2:   Midwest                     177  10.07       392  10.24
+   Region 3:   South                       518  29.47      1109  28.98
+   Region 4:   West                         79   4.49       188   4.91
+      47 011   County Non-Migrants       25774            59063
+47 013   Campbell Total Migration Tn       541             1200
+  47 001 Anderson                 Tn        58  10.72       122  10.17
+  47 093 Knox                     Tn        57  10.54       111   9.25
+  47 025 Claiborne                Tn        34   6.28        85   7.08
+  21 235 Whitley                  Ky        24   4.44        62   5.17
+  47 151 Scott                    Tn        20   3.70        50   4.17
+  39 113 Montgomery               Oh        10   1.85        20   1.67
+   Same State                               55  10.17       124  10.33
+   Region 1:   Northeast                    16   2.96        39   3.25
+   Region 2:   Midwest                      92  17.01       199  16.58
+   Region 3:   South                       164  30.31       366  30.50
+   Region 4:   West                         11   2.03        22   1.83
+      47 013   County Non-Migrants        9972            23442
+47 015   Cannon Total Migration F Tn       260              588
+  47 149 Rutherford               Tn        99  38.08       229  38.95
+  47 177 Warren                   Tn        32  12.31        81  13.78
+  47 037 Davidson                 Tn        18   6.92        35   5.95
+  47 041 De Kalb                  Tn        14   5.38        28   4.76
+   Same State                               35  13.46        78  13.27
+   Same Region, Diff. State                 31  11.92        71  12.07
+   Different Region                         31  11.92        66  11.22
+      47 015   County Non-Migrants        3567             8318
+47 017   Carroll Total Migration  Tn       616             1387
+  47 053 Gibson                   Tn        67  10.88       165  11.90
+  47 183 Weakley                  Tn        52   8.44       109   7.86
+  47 079 Henry                    Tn        47   7.63       106   7.64
+  47 113 Madison                  Tn        39   6.33        72   5.19
+  47 005 Benton                   Tn        37   6.01        81   5.84
+  47 077 Henderson                Tn        35   5.68        83   5.98
+  47 157 Shelby                   Tn        25   4.06        65   4.69
+  47 037 Davidson                 Tn        22   3.57        38   2.74
+  17 031 Cook                     Il        13   2.11        26   1.87
+   Same State                               67  10.88       155  11.18
+   Same Region, Diff. State                129  20.94       292  21.05
+   Different Region                         83  13.47       195  14.06
+      47 017   County Non-Migrants        9379            21625
+47 019   Carter Total Migration F Tn       920             1895
+  47 179 Washington               Tn       302  32.83       613  32.35
+  47 163 Sullivan                 Tn        64   6.96       115   6.07
+  47 091 Johnson                  Tn        29   3.15        60   3.17
+  37 011 Avery                    NC        26   2.83        61   3.22
+  47 171 Unicoi                   Tn        25   2.72        48   2.53
+  47 093 Knox                     Tn        13   1.41        31   1.64
+  57 005 APO / FPO Zip Code       FR        11   1.20        26   1.37
+  37 027 Caldwell                 NC        10   1.09        19   1.00
+   Same State                               55   5.98       115   6.07
+   Region 1:   Northeast                    33   3.59        55   2.90
+   Region 2:   Midwest                      67   7.28       137   7.23
+   Region 3:   South                       254  27.61       548  28.92
+   Region 4:   West                         31   3.37        67   3.54
+      47 019   County Non-Migrants       15763            35275
+47 021   Cheatham Total Migration Tn      1002             2192
+  47 037 Davidson                 Tn       513  51.20      1132  51.64
+  47 125 Montgomery               Tn        49   4.89       111   5.06
+  47 043 Dickson                  Tn        44   4.39        89   4.06
+  47 165 Sumner                   Tn        36   3.59        70   3.19
+  47 147 Robertson                Tn        31   3.09        58   2.65
+  47 187 Williamson               Tn        23   2.30        47   2.14
+  47 149 Rutherford               Tn        17   1.70        45   2.05
+  47 189 Wilson                   Tn        15   1.50        41   1.87
+   Same State                               41   4.09        81   3.70
+   Region 1:   Northeast                    17   1.70        36   1.64
+   Region 2:   Midwest                      47   4.69        83   3.79
+   Region 3:   South                       139  13.87       307  14.01
+   Region 4:   West                         30   2.99        92   4.20
+      47 021   County Non-Migrants        8893            21350
+47 023   Chester Total Migration  Tn       330              744
+  47 113 Madison                  Tn        89  26.97       192  25.81
+  47 109 McNairy                  Tn        33  10.00        83  11.16
+  47 157 Shelby                   Tn        23   6.97        54   7.26
+  47 077 Henderson                Tn        21   6.36        73   9.81
+  47 069 Hardeman                 Tn        10   3.03        26   3.49
+   Same State                               57  17.27       116  15.59
+   Same Region, Diff. State                 60  18.18       135  18.15
+   Different Region                         37  11.21        65   8.74
+      47 023   County Non-Migrants        3590             8605
+47 025   Claiborne Total Migratio Tn       573             1230
+  21 013 Bell                     Ky       141  24.61       308  25.04
+  47 013 Campbell                 Tn        36   6.28        76   6.18
+  47 093 Knox                     Tn        28   4.89        42   3.41
+  51 105 Lee                      Va        22   3.84        45   3.66
+  26 115 Monroe                   Mi        14   2.44        27   2.20
+  47 057 Grainger                 Tn        13   2.27        29   2.36
+  47 173 Union                    Tn        11   1.92        23   1.87
+  21 095 Harlan                   Ky        11   1.92        26   2.11
+  26 163 Wayne                    Mi        10   1.75        28   2.28
+  26 125 Oakland                  Mi        10   1.75        26   2.11
+   Same State                               52   9.08       125  10.16
+   Region 1:   Northeast                    15   2.62        35   2.85
+   Region 2:   Midwest                      62  10.82       122   9.92
+   Region 3:   South                       129  22.51       281  22.85
+   Region 4:   West                         19   3.32        37   3.01
+      47 025   County Non-Migrants        8396            19548
+47 027   Clay Total Migration Flo Tn       139              291
+  21 171 Monroe                   Ky        16  11.51        39  13.40
+  47 133 Overton                  Tn        15  10.79        36  12.37
+  47 141 Putnam                   Tn        12   8.63        25   8.59
+  47 087 Jackson                  Tn        12   8.63        21   7.22
+  21 057 Cumberland               Ky        10   7.19        23   7.90
+   Same State                               30  21.58        57  19.59
+   Same Region, Diff. State                 24  17.27        49  16.84
+   Different Region                         20  14.39        41  14.09
+      47 027   County Non-Migrants        2371             5190
+47 029   Cocke Total Migration Fl Tn       471              972
+  47 063 Hamblen                  Tn        58  12.31       115  11.83
+  47 155 Sevier                   Tn        57  12.10       112  11.52
+  47 089 Jefferson                Tn        43   9.13        77   7.92
+  47 059 Greene                   Tn        18   3.82        29   2.98
+  47 093 Knox                     Tn        18   3.82        26   2.67
+   Same State                               38   8.07        95   9.77
+   Region 1:   Northeast                    24   5.10        54   5.56
+   Region 2:   Midwest                      42   8.92        81   8.33
+   Region 3:   South                       157  33.33       352  36.21
+   Region 4:   West                         16   3.40        31   3.19
+      47 029   County Non-Migrants       10290            22501
+47 031   Coffee Total Migration F Tn      1127             2497
+  47 051 Franklin                 Tn       191  16.95       430  17.22
+  47 003 Bedford                  Tn        79   7.01       169   6.77
+  47 149 Rutherford               Tn        66   5.86       130   5.21
+  47 177 Warren                   Tn        61   5.41       143   5.73
+  47 037 Davidson                 Tn        48   4.26        97   3.88
+  47 127 Moore                    Tn        23   2.04        52   2.08
+  47 065 Hamilton                 Tn        22   1.95        46   1.84
+  57 005 APO / FPO Zip Code       FR        21   1.86        47   1.88
+  47 061 Grundy                   Tn        18   1.60        29   1.16
+  47 103 Lincoln                  Tn        12   1.06        27   1.08
+  47 015 Cannon                   Tn        11    .98        32   1.28
+  06 037 Los Angeles              Ca        11    .98        22    .88
+  26 163 Wayne                    Mi        10    .89        18    .72
+  01 089 Madison                  Al        10    .89        25   1.00
+   Same State                               88   7.81       208   8.33
+   Region 1:   Northeast                    25   2.22        66   2.64
+   Region 2:   Midwest                     115  10.20       259  10.37
+   Region 3:   South                       263  23.34       571  22.87
+   Region 4:   West                         53   4.70       126   5.05
+      47 031   County Non-Migrants       14402            33939
+47 033   Crockett Total Migration Tn       278              622
+  47 113 Madison                  Tn        37  13.31        75  12.06
+  47 045 Dyer                     Tn        37  13.31        82  13.18
+  47 075 Haywood                  Tn        36  12.95        90  14.47
+  47 053 Gibson                   Tn        31  11.15        81  13.02
+  47 097 Lauderdale               Tn        23   8.27        58   9.32
+  47 157 Shelby                   Tn        14   5.04        20   3.22
+   Same State                               36  12.95        69  11.09
+   Same Region, Diff. State                 41  14.75        89  14.31
+   Different Region                         23   8.27        58   9.32
+      47 033   County Non-Migrants        4553            10272
+47 035   Cumberland Total Migrati Tn       873             1853
+  47 141 Putnam                   Tn        36   4.12        92   4.96
+  47 049 Fentress                 Tn        29   3.32        52   2.81
+  47 093 Knox                     Tn        29   3.32        61   3.29
+  47 037 Davidson                 Tn        26   2.98        60   3.24
+  47 185 White                    Tn        23   2.63        57   3.08
+  47 145 Roane                    Tn        23   2.63        52   2.81
+  26 163 Wayne                    Mi        22   2.52        43   2.32
+  47 065 Hamilton                 Tn        20   2.29        38   2.05
+  26 125 Oakland                  Mi        18   2.06        38   2.05
+  47 143 Rhea                     Tn        18   2.06        26   1.40
+  47 129 Morgan                   Tn        16   1.83        32   1.73
+   Same State                              110  12.60       240  12.95
+   Region 1:   Northeast                    47   5.38        84   4.53
+   Region 2:   Midwest                     183  20.96       361  19.48
+   Region 3:   South                       233  26.69       530  28.60
+   Region 4:   West                         40   4.58        87   4.70
+      47 035   County Non-Migrants       11568            26412
+47 037   Davidson Total Migration Tn     17296            30746
+  47 187 Williamson               Tn      1047   6.05      1910   6.21
+  47 165 Sumner                   Tn      1017   5.88      1850   6.02
+  47 149 Rutherford               Tn      1000   5.78      1783   5.80
+  47 189 Wilson                   Tn       822   4.75      1600   5.20
+  47 157 Shelby                   Tn       409   2.36       680   2.21
+  47 021 Cheatham                 Tn       388   2.24       816   2.65
+  47 147 Robertson                Tn       366   2.12       695   2.26
+  47 125 Montgomery               Tn       279   1.61       529   1.72
+  47 093 Knox                     Tn       262   1.51       408   1.33
+  57 001 Foreign / Overseas       FR       202   1.17       362   1.18
+  06 037 Los Angeles              Ca       183   1.06       324   1.05
+  47 043 Dickson                  Tn       183   1.06       335   1.09
+  47 119 Maury                    Tn       172    .99       305    .99
+  47 065 Hamilton                 Tn       168    .97       299    .97
+  17 031 Cook                     Il       145    .84       212    .69
+  57 005 APO / FPO Zip Code       FR       144    .83       273    .89
+  13 121 Fulton                   Ga       134    .77       229    .74
+  48 113 Dallas                   Tx       129    .75       218    .71
+  26 163 Wayne                    Mi       117    .68       183    .60
+  21 111 Jefferson                Ky       116    .67       205    .67
+  13 089 De Kalb                  Ga       114    .66       184    .60
+  48 201 Harris                   Tx       112    .65       215    .70
+  01 073 Jefferson                Al       110    .64       198    .64
+  47 141 Putnam                   Tn       109    .63       171    .56
+  21 227 Warren                   Ky        95    .55       148    .48
+  13 067 Cobb                     Ga        92    .53       172    .56
+  21 047 Christian                Ky        91    .53       177    .58
+  12 011 Broward                  Fl        83    .48       153    .50
+  06 073 San Diego                Ca        82    .47       155    .50
+  01 089 Madison                  Al        81    .47       140    .46
+  12 031 Duval                    Fl        77    .45       152    .49
+  47 113 Madison                  Tn        77    .45       142    .46
+  39 153 Summit                   Oh        77    .45       204    .66
+  47 081 Hickman                  Tn        72    .42       122    .40
+  18 097 Marion                   In        70    .40       131    .43
+  48 439 Tarrant                  Tx        69    .40       113    .37
+  12 095 Orange                   Fl        68    .39       114    .37
+  21 067 Fayette                  Ky        67    .39       106    .34
+  06 059 Orange                   Ca        65    .38       137    .45
+  12 103 Pinellas                 Fl        62    .36       118    .38
+  12 057 Hillsborough             Fl        62    .36       110    .36
+  37 119 Mecklenburg              NC        60    .35       122    .40
+  12 025 Dade                     Fl        60    .35       109    .35
+  26 125 Oakland                  Mi        59    .34       121    .39
+  47 003 Bedford                  Tn        58    .34        92    .30
+  37 183 Wake                     NC        56    .32       112    .36
+  39 035 Cuyahoga                 Oh        56    .32        92    .30
+  36 061 New York                 NY        54    .31        71    .23
+  39 049 Franklin                 Oh        53    .31        97    .32
+  28 049 Hinds                    Ms        53    .31        79    .26
+  05 119 Pulaski                  Ar        51    .29        85    .28
+  04 013 Maricopa                 Az        50    .29       106    .34
+  47 163 Sullivan                 Tn        49    .28        81    .26
+  47 031 Coffee                   Tn        49    .28        89    .29
+  13 135 Gwinnett                 Ga        48    .28        85    .28
+  47 177 Warren                   Tn        47    .27       101    .33
+  39 061 Hamilton                 Oh        45    .26        73    .24
+  42 003 Allegheny                Pa        44    .25        70    .23
+  29 189 St. Louis                Mo        44    .25        73    .24
+  12 099 Palm Beach               Fl        42    .24        68    .22
+  47 117 Marshall                 Tn        42    .24        82    .27
+  47 085 Humphreys                Tn        40    .23        60    .20
+  17 043 Du Page                  Il        40    .23        64    .21
+  47 055 Giles                    Tn        38    .22        56    .18
+  25 017 Middlesex                Ma        37    .21        62    .20
+  26 049 Genesee                  Mi        37    .21        80    .26
+  48 453 Travis                   Tx        36    .21        61    .20
+  40 109 Oklahoma                 Ok        35    .20        52    .17
+  12 033 Escambia                 Fl        34    .20        55    .18
+  40 143 Tulsa                    Ok        34    .20        65    .21
+  22 033 East Baton Rouge         La        34    .20        61    .20
+  17 143 Peoria                   Il        34    .20        68    .22
+  51 059 Fairfax                  Va        34    .20        58    .19
+  47 051 Franklin                 Tn        34    .20        57    .19
+  21 145 McCracken                Ky        33    .19        54    .18
+  47 159 Smith                    Tn        33    .19        60    .20
+  47 179 Washington               Tn        32    .19        48    .16
+  12 127 Volusia                  Fl        32    .19        52    .17
+  06 065 Riverside                Ca        32    .19        52    .17
+  01 101 Montgomery               Al        32    .19        58    .19
+  12 117 Seminole                 Fl        32    .19        71    .23
+  22 071 Orleans                  La        32    .19        58    .19
+  47 053 Gibson                   Tn        31    .18        46    .15
+  22 051 Jefferson                La        30    .17        47    .15
+  47 103 Lincoln                  Tn        30    .17        59    .19
+  24 031 Montgomery               Md        29    .17        56    .18
+  53 033 King                     Wa        29    .17        47    .15
+  45 045 Greenville               SC        29    .17        48    .16
+  47 079 Henry                    Tn        28    .16        49    .16
+  26 099 Macomb                   Mi        28    .16        46    .15
+  45 019 Charleston               SC        28    .16        52    .17
+  09 003 Hartford                 Ct        28    .16        47    .15
+  47 009 Blount                   Tn        28    .16        50    .16
+  48 029 Bexar                    Tx        27    .16        52    .17
+  39 113 Montgomery               Oh        27    .16        47    .15
+  37 081 Guilford                 NC        27    .16        43    .14
+  12 071 Lee                      Fl        27    .16        45    .15
+  27 053 Hennepin                 Mn        27    .16        39    .13
+  51 810 Virginia Beach city      Va        27    .16        50    .16
+  21 059 Daviess                  Ky        27    .16        37    .12
+  06 085 Santa Clara              Ca        27    .16        39    .13
+  29 510 St. Louis city           Mo        27    .16        35    .11
+  34 003 Bergen                   NJ        26    .15        44    .14
+  36 081 Queens                   NY        26    .15        38    .12
+  32 003 Clark                    Nv        25    .14        35    .11
+  15 003 Honolulu                 Hi        25    .14        51    .17
+  28 047 Harrison                 Ms        25    .14        44    .14
+  01 103 Morgan                   Al        25    .14        45    .15
+  47 017 Carroll                  Tn        25    .14        48    .16
+  37 063 Durham                   NC        25    .14        45    .15
+  01 097 Mobile                   Al        24    .14        48    .16
+  37 067 Forsyth                  NC        24    .14        38    .12
+  12 115 Sarasota                 Fl        24    .14        47    .15
+  47 099 Lawrence                 Tn        24    .14        39    .13
+  47 183 Weakley                  Tn        24    .14        43    .14
+  47 001 Anderson                 Tn        23    .13        34    .11
+  12 009 Brevard                  Fl        23    .13        41    .13
+  01 077 Lauderdale               Al        23    .13        43    .14
+  47 035 Cumberland               Tn        23    .13        37    .12
+  37 133 Onslow                   NC        23    .13        46    .15
+  12 105 Polk                     Fl        23    .13        43    .14
+  21 035 Calloway                 Ky        23    .13        35    .11
+  01 125 Tuscaloosa               Al        22    .13        41    .13
+  18 089 Lake                     In        22    .13        39    .13
+  29 095 Jackson                  Mo        22    .13        38    .12
+  42 101 Philadelphia             Pa        22    .13        25    .08
+  08 005 Arapahoe                 Co        22    .13        44    .14
+  11 001 Wash.,D.C.               DC        22    .13        35    .11
+  36 047 Kings                    NY        22    .13        39    .13
+  47 185 White                    Tn        22    .13        32    .10
+  47 011 Bradley                  Tn        21    .12        35    .11
+  47 155 Sevier                   Tn        21    .12        29    .09
+  51 087 Henrico                  Va        21    .12        30    .10
+  18 163 Vanderburgh              In        21    .12        28    .09
+  47 111 Macon                    Tn        21    .12        39    .13
+  55 079 Milwaukee                Wi        21    .12        34    .11
+  47 041 De Kalb                  Tn        21    .12        27    .09
+  51 013 Arlington                Va        21    .12        29    .09
+  18 003 Allen                    In        21    .12        35    .11
+  09 001 Fairfield                Ct        20    .12        42    .14
+  13 215 Muscogee                 Ga        20    .12        37    .12
+  12 001 Alachua                  Fl        20    .12        34    .11
+  10 003 New Castle               De        19    .11        31    .10
+  08 041 El Paso                  Co        19    .11        34    .11
+  47 045 Dyer                     Tn        19    .11        35    .11
+  12 081 Manatee                  Fl        19    .11        40    .13
+  17 019 Champaign                Il        19    .11        33    .11
+  20 091 Johnson                  Ks        19    .11        32    .10
+  17 089 Kane                     Il        19    .11        32    .10
+  47 131 Obion                    Tn        19    .11        24    .08
+  45 079 Richland                 SC        19    .11        27    .09
+  06 071 San Bernardino           Ca        19    .11        33    .11
+  26 161 Washtenaw                Mi        18    .10        33    .11
+  09 009 New Haven                Ct        18    .10        24    .08
+  47 015 Cannon                   Tn        18    .10        38    .12
+  42 091 Montgomery               Pa        18    .10        30    .10
+  47 069 Hardeman                 Tn        18    .10        32    .10
+  22 017 Caddo                    La        18    .10        40    .13
+  47 083 Houston                  Tn        18    .10        32    .10
+  25 025 Suffolk                  Ma        17    .10        21    .07
+  04 019 Pima                     Az        17    .10        28    .09
+  39 017 Butler                   Oh        17    .10        31    .10
+  08 031 Denver                   Co        17    .10        26    .08
+  06 001 Alameda                  Ca        17    .10        37    .12
+  06 075 San Francisco            Ca        17    .10        20    .07
+  20 173 Sedgwick                 Ks        17    .10        35    .11
+  24 033 Prince George's          Md        17    .10        29    .09
+  22 103 St. Tammany              La        17    .10        31    .10
+  13 063 Clayton                  Ga        17    .10        35    .11
+  48 027 Bell                     Tx        17    .10        40    .13
+  36 103 Suffolk                  NY        16    .09        34    .11
+  32 031 Washoe                   Nv        16    .09        27    .09
+  01 083 Limestone                Al        16    .09        35    .11
+  48 441 Taylor                   Tx        16    .09        31    .10
+  25 021 Norfolk                  Ma        16    .09        28    .09
+  37 135 Orange                   NC        16    .09        27    .09
+  06 067 Sacramento               Ca        16    .09        26    .08
+  51 153 Prince William           Va        16    .09        31    .10
+  28 075 Lauderdale               Ms        16    .09        23    .07
+  47 071 Hardin                   Tn        16    .09        26    .08
+  12 005 Bay                      Fl        16    .09        21    .07
+  48 141 El Paso                  Tx        15    .09        30    .10
+  27 123 Ramsey                   Mn        15    .09        19    .06
+  26 081 Kent                     Mi        15    .09        33    .11
+  21 107 Hopkins                  Ky        15    .09        24    .08
+  26 065 Ingham                   Mi        15    .09        37    .12
+  26 145 Saginaw                  Mi        15    .09        27    .09
+  54 039 Kanawha                  WV        15    .09        31    .10
+  35 001 Bernalillo               NM        15    .09        22    .07
+  48 121 Denton                   Tx        15    .09        32    .10
+  48 085 Collin                   Tx        15    .09        40    .13
+  47 005 Benton                   Tn        14    .08        22    .07
+  28 089 Madison                  Ms        14    .08        27    .09
+  36 027 Dutchess                 NY        14    .08        22    .07
+  36 029 Erie                     NY        14    .08        30    .10
+  47 075 Haywood                  Tn        14    .08        22    .07
+  55 025 Dane                     Wi        14    .08        20    .07
+  06 013 Contra Costa             Ca        14    .08        18    .06
+  06 111 Ventura                  Ca        14    .08        23    .07
+  36 067 Onondaga                 NY        14    .08        27    .09
+  17 097 Lake                     Il        14    .08        26    .08
+  49 035 Salt Lake                Ut        14    .08        40    .13
+  39 095 Lucas                    Oh        14    .08        22    .07
+  47 135 Perry                    Tn        14    .08        21    .07
+  17 115 Macon                    Il        14    .08        23    .07
+  12 111 St. Lucie                Fl        14    .08        18    .06
+  29 019 Boone                    Mo        14    .08        23    .07
+  37 051 Cumberland               NC        14    .08        31    .10
+  01 081 Lee                      Al        14    .08        17    .06
+  12 091 Okaloosa                 Fl        14    .08        30    .10
+  36 055 Monroe                   NY        13    .08        24    .08
+  37 021 Buncombe                 NC        13    .08        21    .07
+  01 069 Houston                  Al        13    .08        18    .06
+  36 001 Albany                   NY        13    .08        19    .06
+  28 121 Rankin                   Ms        13    .08        22    .07
+  21 213 Simpson                  Ky        13    .08        19    .06
+  12 073 Leon                     Fl        13    .08        22    .07
+  37 071 Gaston                   NC        13    .08        19    .06
+  47 107 McMinn                   Tn        13    .08        21    .07
+  39 151 Stark                    Oh        13    .08        23    .07
+  47 145 Roane                    Tn        13    .08        19    .06
+  51 710 Norfolk city             Va        13    .08        30    .10
+  08 059 Jefferson                Co        13    .08        27    .09
+  06 081 San Mateo                Ca        13    .08        18    .06
+  34 017 Hudson                   NJ        13    .08        17    .06
+  13 245 Richmond                 Ga        13    .08        21    .07
+  47 047 Fayette                  Tn        12    .07        22    .07
+  17 201 Winnebago                Il        12    .07        28    .09
+  17 167 Sangamon                 Il        12    .07        20    .07
+  40 027 Cleveland                Ok        12    .07        17    .06
+  06 083 Santa Barbara            Ca        12    .07        23    .07
+  06 053 Monterey                 Ca        12    .07        29    .09
+  28 105 Oktibbeha                Ms        12    .07        20    .07
+  21 177 Muhlenberg               Ky        12    .07        19    .06
+  13 051 Chatham                  Ga        12    .07        20    .07
+  18 167 Vigo                     In        12    .07        15    .05
+  24 003 Anne Arundel             Md        12    .07        25    .08
+  17 077 Jackson                  Il        12    .07        19    .06
+  39 133 Portage                  Oh        12    .07        21    .07
+  48 423 Smith                    Tx        12    .07        27    .09
+  29 077 Greene                   Mo        11    .06        21    .07
+  21 093 Hardin                   Ky        11    .06        17    .06
+  34 023 Middlesex                NJ        11    .06        22    .07
+  17 163 St. Clair                Il        11    .06        20    .07
+  36 119 Westchester              NY        11    .06        23    .07
+  18 141 St. Joseph               In        11    .06        17    .06
+  29 183 St. Charles              Mo        11    .06        24    .08
+  22 073 Ouachita                 La        11    .06        22    .07
+  12 021 Collier                  Fl        11    .06        19    .06
+  19 153 Polk                     Ia        11    .06        18    .06
+  12 101 Pasco                    Fl        11    .06        19    .06
+  42 029 Chester                  Pa        11    .06        18    .06
+  01 117 Shelby                   Al        11    .06        30    .10
+  47 161 Stewart                  Tn        11    .06        18    .06
+  47 039 Decatur                  Tn        11    .06        24    .08
+  47 059 Greene                   Tn        11    .06        15    .05
+  54 011 Cabell                   WV        11    .06        17    .06
+  51 760 Richmond city            Va        11    .06        22    .07
+  45 063 Lexington                SC        11    .06        25    .08
+  18 105 Monroe                   In        10    .06        21    .07
+  17 197 Will                     Il        10    .06        19    .06
+  26 115 Monroe                   Mi        10    .06        23    .07
+  28 151 Washington               Ms        10    .06        26    .08
+  47 073 Hawkins                  Tn        10    .06        18    .06
+  01 033 Colbert                  Al        10    .06        16    .05
+  25 009 Essex                    Ma        10    .06        15    .05
+  42 017 Bucks                    Pa        10    .06        19    .06
+  21 003 Allen                    Ky        10    .06        16    .05
+  22 055 Lafayette                La        10    .06        17    .06
+  47 109 McNairy                  Tn        10    .06        15    .05
+  45 083 Spartanburg              SC        10    .06        14    .05
+  26 077 Kalamazoo                Mi        10    .06        12    .04
+  51 161 Roanoke                  Va        10    .06        16    .05
+  42 045 Delaware                 Pa        10    .06        19    .06
+  39 057 Greene                   Oh        10    .06        22    .07
+  28 087 Lowndes                  Ms        10    .06        25    .08
+  29 031 Cape Girardeau           Mo        10    .06        21    .07
+  13 185 Lowndes                  Ga        10    .06        14    .05
+  12 019 Clay                     Fl        10    .06        18    .06
+  21 157 Marshall                 Ky        10    .06        14    .05
+  47 101 Lewis                    Tn        10    .06        13    .04
+  47 167 Tipton                   Tn        10    .06        14    .05
+   Same State                              150    .87       233    .76
+   Region 1:   Northeast                   420   2.43       683   2.22
+   Region 2:   Midwest                     724   4.19      1207   3.93
+   Region 3:   South                      1575   9.11      2817   9.16
+   Region 4:   West                        285   1.65       506   1.65
+      47 037   County Non-Migrants      187806           386087
+47 039   Decatur Total Migration  Tn       198              417
+  47 077 Henderson                Tn        37  18.69        85  20.38
+  47 113 Madison                  Tn        17   8.59        36   8.63
+  47 005 Benton                   Tn        16   8.08        32   7.67
+  47 157 Shelby                   Tn        10   5.05        15   3.60
+   Same State                               49  24.75       110  26.38
+   Same Region, Diff. State                 38  19.19        81  19.42
+   Different Region                         31  15.66        58  13.91
+      47 039   County Non-Migrants        3480             7980
+47 041   De Kalb Total Migration  Tn       308              651
+  47 177 Warren                   Tn        47  15.26       113  17.36
+  47 189 Wilson                   Tn        28   9.09        53   8.14
+  47 037 Davidson                 Tn        25   8.12        54   8.29
+  47 185 White                    Tn        22   7.14        46   7.07
+  47 015 Cannon                   Tn        17   5.52        38   5.84
+  47 149 Rutherford               Tn        14   4.55        26   3.99
+  47 159 Smith                    Tn        11   3.57        30   4.61
+   Same State                               45  14.61        99  15.21
+   Same Region, Diff. State                 58  18.83       120  18.43
+   Different Region                         41  13.31        72  11.06
+      47 041   County Non-Migrants        4867            11202
+47 043   Dickson Total Migration  Tn       880             2010
+  47 037 Davidson                 Tn       201  22.84       458  22.79
+  47 081 Hickman                  Tn        63   7.16       145   7.21
+  47 125 Montgomery               Tn        57   6.48       136   6.77
+  47 021 Cheatham                 Tn        45   5.11       109   5.42
+  47 085 Humphreys                Tn        43   4.89       100   4.98
+  47 187 Williamson               Tn        41   4.66       102   5.07
+  47 149 Rutherford               Tn        16   1.82        32   1.59
+  26 163 Wayne                    Mi        12   1.36        22   1.09
+  47 083 Houston                  Tn        11   1.25        23   1.14
+  47 165 Sumner                   Tn        10   1.14        24   1.19
+  57 005 APO / FPO Zip Code       FR        10   1.14        26   1.29
+   Same State                               94  10.68       209  10.40
+   Region 1:   Northeast                    26   2.95        58   2.89
+   Region 2:   Midwest                      63   7.16       141   7.01
+   Region 3:   South                       147  16.70       335  16.67
+   Region 4:   West                         41   4.66        90   4.48
+      47 043   County Non-Migrants       11772            27773
+47 045   Dyer Total Migration Flo Tn       662             1478
+  47 131 Obion                    Tn        73  11.03       146   9.88
+  47 097 Lauderdale               Tn        60   9.06       131   8.86
+  47 157 Shelby                   Tn        52   7.85       104   7.04
+  47 053 Gibson                   Tn        39   5.89        73   4.94
+  47 033 Crockett                 Tn        35   5.29        69   4.67
+  47 095 Lake                     Tn        34   5.14        74   5.01
+  17 031 Cook                     Il        16   2.42        39   2.64
+  29 155 Pemiscot                 Mo        11   1.66        27   1.83
+  47 037 Davidson                 Tn        10   1.51        17   1.15
+   Same State                               68  10.27       153  10.35
+   Same Region, Diff. State                121  18.28       287  19.42
+   Different Region                        143  21.60       358  24.22
+      47 045   County Non-Migrants       11787            27796
+47 047   Fayette Total Migration  Tn       569             1282
+  47 157 Shelby                   Tn       338  59.40       758  59.13
+  47 167 Tipton                   Tn        28   4.92        84   6.55
+  47 069 Hardeman                 Tn        26   4.57        57   4.45
+  47 075 Haywood                  Tn        12   2.11        32   2.50
+   Same State                               31   5.45        62   4.84
+   Same Region, Diff. State                 86  15.11       187  14.59
+   Different Region                         48   8.44       102   7.96
+      47 047   County Non-Migrants        7365            17782
+47 049   Fentress Total Migration Tn       258              568
+  47 035 Cumberland               Tn        28  10.85        61  10.74
+  47 137 Pickett                  Tn        18   6.98        42   7.39
+  47 129 Morgan                   Tn        15   5.81        45   7.92
+  47 141 Putnam                   Tn        12   4.65        23   4.05
+  18 035 Delaware                 In        10   3.88        21   3.70
+   Same State                               50  19.38        99  17.43
+   Same Region, Diff. State                 70  27.13       158  27.82
+   Different Region                         55  21.32       119  20.95
+      47 049   County Non-Migrants        4508            10527
+47 051   Franklin Total Migration Tn       712             1541
+  47 031 Coffee                   Tn       142  19.94       305  19.79
+  47 103 Lincoln                  Tn        25   3.51        51   3.31
+  47 037 Davidson                 Tn        25   3.51        47   3.05
+  57 005 APO / FPO Zip Code       FR        22   3.09        56   3.63
+  47 149 Rutherford               Tn        20   2.81        38   2.47
+  01 089 Madison                  Al        19   2.67        45   2.92
+  47 061 Grundy                   Tn        18   2.53        40   2.60
+  47 115 Marion                   Tn        17   2.39        39   2.53
+  47 065 Hamilton                 Tn        16   2.25        30   1.95
+  47 003 Bedford                  Tn        15   2.11        29   1.88
+  17 031 Cook                     Il        14   1.97        33   2.14
+  47 127 Moore                    Tn        10   1.40        23   1.49
+   Same State                               39   5.48        76   4.93
+   Region 1:   Northeast                    25   3.51        57   3.70
+   Region 2:   Midwest                      58   8.15       131   8.50
+   Region 3:   South                       209  29.35       461  29.92
+   Region 4:   West                         38   5.34        80   5.19
+      47 051   County Non-Migrants       11325            26557
+47 053   Gibson Total Migration F Tn       913             2033
+  47 113 Madison                  Tn       195  21.36       436  21.45
+  47 017 Carroll                  Tn        70   7.67       163   8.02
+  47 033 Crockett                 Tn        53   5.81       118   5.80
+  47 131 Obion                    Tn        50   5.48        95   4.67
+  47 045 Dyer                     Tn        46   5.04        93   4.57
+  47 157 Shelby                   Tn        34   3.72        62   3.05
+  47 183 Weakley                  Tn        34   3.72        80   3.94
+  47 037 Davidson                 Tn        23   2.52        46   2.26
+  17 031 Cook                     Il        14   1.53        35   1.72
+  47 077 Henderson                Tn        11   1.20        22   1.08
+   Same State                               86   9.42       206  10.13
+   Region 1:   Northeast                    17   1.86        41   2.02
+   Region 2:   Midwest                      70   7.67       166   8.17
+   Region 3:   South                       185  20.26       420  20.66
+   Region 4:   West                         25   2.74        50   2.46
+      47 053   County Non-Migrants       16241            37157
+47 055   Giles Total Migration Fl Tn       583             1326
+  01 083 Limestone                Al        63  10.81       149  11.24
+  47 119 Maury                    Tn        59  10.12       129   9.73
+  01 089 Madison                  Al        50   8.58       113   8.52
+  47 099 Lawrence                 Tn        49   8.40       122   9.20
+  47 037 Davidson                 Tn        37   6.35        73   5.51
+  47 103 Lincoln                  Tn        37   6.35       100   7.54
+  47 117 Marshall                 Tn        33   5.66        62   4.68
+   Same State                               64  10.98       142  10.71
+   Region 1:   Northeast                    11   1.89        19   1.43
+   Region 2:   Midwest                      51   8.75       128   9.65
+   Region 3:   South                       108  18.52       242  18.25
+   Region 4:   West                         21   3.60        47   3.54
+      47 055   County Non-Migrants        8648            20114
+47 057   Grainger Total Migration Tn       439              998
+  47 093 Knox                     Tn       100  22.78       229  22.95
+  47 063 Hamblen                  Tn        86  19.59       201  20.14
+  47 089 Jefferson                Tn        37   8.43        79   7.92
+  47 073 Hawkins                  Tn        28   6.38        68   6.81
+  47 173 Union                    Tn        12   2.73        23   2.30
+   Same State                               52  11.85       116  11.62
+   Same Region, Diff. State                 65  14.81       157  15.73
+   Different Region                         59  13.44       125  12.53
+      47 057   County Non-Migrants        5441            12588
+47 059   Greene Total Migration F Tn       911             1978
+  47 179 Washington               Tn       179  19.65       394  19.92
+  47 163 Sullivan                 Tn        51   5.60       125   6.32
+  47 073 Hawkins                  Tn        47   5.16       106   5.36
+  47 063 Hamblen                  Tn        46   5.05       100   5.06
+  47 029 Cocke                    Tn        28   3.07        70   3.54
+  47 093 Knox                     Tn        24   2.63        46   2.33
+  47 019 Carter                   Tn        18   1.98        38   1.92
+  47 089 Jefferson                Tn        15   1.65        31   1.57
+  42 071 Lancaster                Pa        11   1.21        25   1.26
+  37 021 Buncombe                 NC        11   1.21        21   1.06
+  57 005 APO / FPO Zip Code       FR        10   1.10        33   1.67
+   Same State                               71   7.79       159   8.04
+   Region 1:   Northeast                    32   3.51        68   3.44
+   Region 2:   Midwest                      81   8.89       181   9.15
+   Region 3:   South                       259  28.43       527  26.64
+   Region 4:   West                         28   3.07        54   2.73
+      47 059   County Non-Migrants       19800            43168
+47 061   Grundy Total Migration F Tn       179              404
+  47 115 Marion                   Tn        31  17.32        63  15.59
+  47 177 Warren                   Tn        14   7.82        23   5.69
+  47 065 Hamilton                 Tn        13   7.26        41  10.15
+  47 031 Coffee                   Tn        10   5.59        27   6.68
+   Same State                               45  25.14        92  22.77
+   Same Region, Diff. State                 39  21.79        91  22.52
+   Different Region                         27  15.08        67  16.58
+      47 061   County Non-Migrants        3768             9456
+47 063   Hamblen Total Migration  Tn      1253             2701
+  47 089 Jefferson                Tn       208  16.60       447  16.55
+  47 073 Hawkins                  Tn        90   7.18       196   7.26
+  47 057 Grainger                 Tn        89   7.10       199   7.37
+  47 093 Knox                     Tn        85   6.78       165   6.11
+  47 029 Cocke                    Tn        47   3.75        86   3.18
+  47 059 Greene                   Tn        45   3.59        88   3.26
+  47 155 Sevier                   Tn        17   1.36        31   1.15
+  47 067 Hancock                  Tn        16   1.28        35   1.30
+  47 025 Claiborne                Tn        15   1.20        39   1.44
+  47 179 Washington               Tn        14   1.12        28   1.04
+  57 005 APO / FPO Zip Code       FR        13   1.04        25    .93
+  47 009 Blount                   Tn        12    .96        27   1.00
+  47 037 Davidson                 Tn        11    .88        19    .70
+  47 163 Sullivan                 Tn        10    .80        35   1.30
+   Same State                               76   6.07       162   6.00
+   Region 1:   Northeast                    45   3.59        98   3.63
+   Region 2:   Midwest                     107   8.54       244   9.03
+   Region 3:   South                       320  25.54       705  26.10
+   Region 4:   West                         33   2.63        72   2.67
+      47 063   County Non-Migrants       17794            39551
+47 065   Hamilton Total Migration Tn      6183            12528
+  13 295 Walker                   Ga       512   8.28       992   7.92
+  13 047 Catoosa                  Ga       416   6.73       780   6.23
+  47 011 Bradley                  Tn       303   4.90       559   4.46
+  47 093 Knox                     Tn       211   3.41       468   3.74
+  47 115 Marion                   Tn       134   2.17       264   2.11
+  47 143 Rhea                     Tn       128   2.07       247   1.97
+  47 037 Davidson                 Tn       126   2.04       223   1.78
+  13 313 Whitfield                Ga        94   1.52       194   1.55
+  13 083 Dade                     Ga        93   1.50       194   1.55
+  13 067 Cobb                     Ga        91   1.47       197   1.57
+  13 121 Fulton                   Ga        86   1.39       146   1.17
+  47 157 Shelby                   Tn        74   1.20       153   1.22
+  57 005 APO / FPO Zip Code       FR        74   1.20       126   1.01
+  13 089 De Kalb                  Ga        62   1.00       117    .93
+  47 153 Sequatchie               Tn        54    .87       119    .95
+  47 107 McMinn                   Tn        49    .79        91    .73
+  01 071 Jackson                  Al        47    .76        82    .65
+  12 095 Orange                   Fl        40    .65        77    .61
+  01 073 Jefferson                Al        40    .65        79    .63
+  12 057 Hillsborough             Fl        38    .61        81    .65
+  01 089 Madison                  Al        37    .60        66    .53
+  04 013 Maricopa                 Az        36    .58        86    .69
+  06 037 Los Angeles              Ca        34    .55        70    .56
+  48 201 Harris                   Tx        32    .52        67    .53
+  12 103 Pinellas                 Fl        31    .50        62    .49
+  47 121 Meigs                    Tn        31    .50        67    .53
+  13 135 Gwinnett                 Ga        31    .50        65    .52
+  17 031 Cook                     Il        30    .49        58    .46
+  01 049 De Kalb                  Al        30    .49        53    .42
+  12 011 Broward                  Fl        29    .47        43    .34
+  12 099 Palm Beach               Fl        29    .47        68    .54
+  12 031 Duval                    Fl        27    .44        51    .41
+  47 163 Sullivan                 Tn        27    .44        45    .36
+  37 119 Mecklenburg              NC        26    .42        55    .44
+  57 001 Foreign / Overseas       FR        26    .42        56    .45
+  47 149 Rutherford               Tn        26    .42        51    .41
+  48 113 Dallas                   Tx        25    .40        51    .41
+  12 025 Dade                     Fl        24    .39        57    .45
+  47 165 Sumner                   Tn        23    .37        47    .38
+  48 439 Tarrant                  Tx        23    .37        51    .41
+  47 009 Blount                   Tn        22    .36        49    .39
+  47 125 Montgomery               Tn        22    .36        55    .44
+  06 073 San Diego                Ca        21    .34        50    .40
+  47 051 Franklin                 Tn        20    .32        31    .25
+  13 245 Richmond                 Ga        20    .32        38    .30
+  47 141 Putnam                   Tn        20    .32        34    .27
+  47 145 Roane                    Tn        20    .32        44    .35
+  47 179 Washington               Tn        19    .31        37    .30
+  21 111 Jefferson                Ky        19    .31        35    .28
+  47 155 Sevier                   Tn        19    .31        28    .22
+  13 115 Floyd                    Ga        19    .31        34    .27
+  45 045 Greenville               SC        19    .31        44    .35
+  13 129 Gordon                   Ga        19    .31        41    .33
+  26 163 Wayne                    Mi        18    .29        47    .38
+  47 061 Grundy                   Tn        17    .27        28    .22
+  47 007 Bledsoe                  Tn        17    .27        27    .22
+  06 059 Orange                   Ca        16    .26        31    .25
+  45 079 Richland                 SC        16    .26        32    .26
+  01 101 Montgomery               Al        16    .26        32    .26
+  13 213 Murray                   Ga        16    .26        28    .22
+  12 009 Brevard                  Fl        16    .26        44    .35
+  01 097 Mobile                   Al        15    .24        29    .23
+  12 127 Volusia                  Fl        15    .24        31    .25
+  13 059 Clarke                   Ga        15    .24        28    .22
+  01 125 Tuscaloosa               Al        15    .24        30    .24
+  37 067 Forsyth                  NC        14    .23        25    .20
+  39 061 Hamilton                 Oh        14    .23        24    .19
+  47 139 Polk                     Tn        14    .23        27    .22
+  01 103 Morgan                   Al        14    .23        22    .18
+  40 109 Oklahoma                 Ok        14    .23        24    .19
+  37 081 Guilford                 NC        14    .23        21    .17
+  21 047 Christian                Ky        13    .21        29    .23
+  37 021 Buncombe                 NC        13    .21        21    .17
+  39 035 Cuyahoga                 Oh        13    .21        33    .26
+  47 189 Wilson                   Tn        12    .19        29    .23
+  13 055 Chattooga                Ga        12    .19        23    .18
+  47 001 Anderson                 Tn        12    .19        20    .16
+  48 029 Bexar                    Tx        12    .19        32    .26
+  37 183 Wake                     NC        12    .19        22    .18
+  45 019 Charleston               SC        12    .19        26    .21
+  13 153 Houston                  Ga        12    .19        23    .18
+  37 133 Onslow                   NC        12    .19        30    .24
+  12 083 Marion                   Fl        12    .19        25    .20
+  39 049 Franklin                 Oh        12    .19        21    .17
+  28 049 Hinds                    Ms        11    .18        25    .20
+  12 115 Sarasota                 Fl        11    .18        24    .19
+  51 059 Fairfax                  Va        11    .18        29    .23
+  01 055 Etowah                   Al        11    .18        20    .16
+  01 077 Lauderdale               Al        11    .18        31    .25
+  06 071 San Bernardino           Ca        11    .18        32    .26
+  47 113 Madison                  Tn        11    .18        21    .17
+  47 187 Williamson               Tn        11    .18        27    .22
+  01 095 Marshall                 Al        11    .18        21    .17
+  13 021 Bibb                     Ga        11    .18        20    .16
+  01 015 Calhoun                  Al        11    .18        18    .14
+  12 073 Leon                     Fl        11    .18        17    .14
+  48 027 Bell                     Tx        10    .16        21    .17
+  12 005 Bay                      Fl        10    .16        19    .15
+  13 063 Clayton                  Ga        10    .16        16    .13
+  53 053 Pierce                   Wa        10    .16        19    .15
+  26 125 Oakland                  Mi        10    .16        24    .19
+  12 081 Manatee                  Fl        10    .16        25    .20
+  13 051 Chatham                  Ga        10    .16        26    .21
+  47 123 Monroe                   Tn        10    .16        20    .16
+  12 033 Escambia                 Fl        10    .16        16    .13
+   Same State                              140   2.26       274   2.19
+   Region 1:   Northeast                   310   5.01       614   4.90
+   Region 2:   Midwest                     374   6.05       792   6.32
+   Region 3:   South                      1004  16.24      2244  17.91
+   Region 4:   West                        190   3.07       391   3.12
+      47 065   County Non-Migrants      105985           235841
+47 067   Hancock Total Migration  Tn       112              235
+  47 073 Hawkins                  Tn        18  16.07        43  18.30
+  47 025 Claiborne                Tn        15  13.39        35  14.89
+  47 063 Hamblen                  Tn        12  10.71        22   9.36
+   Same State                               15  13.39        25  10.64
+   Same Region, Diff. State                 31  27.68        62  26.38
+   Different Region                         21  18.75        48  20.43
+      47 067   County Non-Migrants        1708             4056
+47 069   Hardeman Total Migration Tn       418              958
+  47 157 Shelby                   Tn        84  20.10       168  17.54
+  47 113 Madison                  Tn        46  11.00        99  10.33
+  47 047 Fayette                  Tn        37   8.85        78   8.14
+  47 109 McNairy                  Tn        28   6.70        75   7.83
+  47 023 Chester                  Tn        15   3.59        36   3.76
+  47 075 Haywood                  Tn        12   2.87        34   3.55
+  28 139 Tippah                   Ms        11   2.63        32   3.34
+  47 037 Davidson                 Tn        11   2.63        23   2.40
+   Same State                               36   8.61        81   8.46
+   Same Region, Diff. State                 85  20.33       205  21.40
+   Different Region                         53  12.68       127  13.26
+      47 069   County Non-Migrants        7810            18729
+47 071   Hardin Total Migration F Tn       446             1003
+  47 109 McNairy                  Tn        79  17.71       175  17.45
+  47 181 Wayne                    Tn        26   5.83        56   5.58
+  47 157 Shelby                   Tn        26   5.83        52   5.18
+  28 003 Alcorn                   Ms        17   3.81        43   4.29
+  28 141 Tishomingo               Ms        14   3.14        37   3.69
+  47 113 Madison                  Tn        13   2.91        29   2.89
+  47 077 Henderson                Tn        12   2.69        21   2.09
+   Same State                               62  13.90       133  13.26
+   Same Region, Diff. State                111  24.89       269  26.82
+   Different Region                         86  19.28       188  18.74
+      47 071   County Non-Migrants        7158            16644
+47 073   Hawkins Total Migration  Tn       960             2185
+  47 163 Sullivan                 Tn       308  32.08       712  32.59
+  47 063 Hamblen                  Tn        85   8.85       181   8.28
+  47 059 Greene                   Tn        42   4.38       107   4.90
+  47 179 Washington               Tn        41   4.27        81   3.71
+  47 057 Grainger                 Tn        31   3.23        69   3.16
+  51 169 Scott                    Va        31   3.23        55   2.52
+  57 005 APO / FPO Zip Code       FR        14   1.46        29   1.33
+  47 067 Hancock                  Tn        13   1.35        32   1.46
+  51 195 Wise                     Va        10   1.04        23   1.05
+  47 089 Jefferson                Tn        10   1.04        18    .82
+   Same State                               52   5.42       126   5.77
+   Region 1:   Northeast                    26   2.71        58   2.65
+   Region 2:   Midwest                      65   6.77       161   7.37
+   Region 3:   South                       206  21.46       491  22.47
+   Region 4:   West                         26   2.71        42   1.92
+      47 073   County Non-Migrants       14649            33797
+47 075   Haywood Total Migration  Tn       362              788
+  47 157 Shelby                   Tn        43  11.88        91  11.55
+  47 113 Madison                  Tn        43  11.88        89  11.29
+  47 033 Crockett                 Tn        38  10.50        84  10.66
+  47 167 Tipton                   Tn        35   9.67        80  10.15
+  47 097 Lauderdale               Tn        33   9.12        71   9.01
+  47 047 Fayette                  Tn        25   6.91        57   7.23
+  47 053 Gibson                   Tn        12   3.31        22   2.79
+  57 005 APO / FPO Zip Code       FR        10   2.76        16   2.03
+   Same State                               43  11.88        89  11.29
+   Same Region, Diff. State                 47  12.98       115  14.59
+   Different Region                         33   9.12        74   9.39
+      47 075   County Non-Migrants        6349            14852
+47 077   Henderson Total Migratio Tn       441              958
+  47 113 Madison                  Tn        48  10.88       104  10.86
+  47 039 Decatur                  Tn        45  10.20       112  11.69
+  47 017 Carroll                  Tn        39   8.84        89   9.29
+  47 023 Chester                  Tn        32   7.26        77   8.04
+  47 157 Shelby                   Tn        27   6.12        64   6.68
+  47 053 Gibson                   Tn        25   5.67        44   4.59
+  47 071 Hardin                   Tn        13   2.95        31   3.24
+   Same State                               54  12.24       109  11.38
+   Same Region, Diff. State                 84  19.05       179  18.68
+   Different Region                         74  16.78       149  15.55
+      47 077   County Non-Migrants        7300            17168
+47 079   Henry Total Migration Fl Tn       636             1447
+  47 017 Carroll                  Tn        60   9.43       142   9.81
+  47 183 Weakley                  Tn        47   7.39       110   7.60
+  47 005 Benton                   Tn        34   5.35        80   5.53
+  47 157 Shelby                   Tn        29   4.56        63   4.35
+  21 035 Calloway                 Ky        27   4.25        52   3.59
+  47 037 Davidson                 Tn        23   3.62        48   3.32
+  17 031 Cook                     Il        19   2.99        45   3.11
+  57 005 APO / FPO Zip Code       FR        13   2.04        36   2.49
+  47 045 Dyer                     Tn        12   1.89        30   2.07
+  47 125 Montgomery               Tn        12   1.89        32   2.21
+   Same State                               69  10.85       152  10.50
+   Region 1:   Northeast                    28   4.40        52   3.59
+   Region 2:   Midwest                      84  13.21       198  13.68
+   Region 3:   South                       151  23.74       332  22.94
+   Region 4:   West                         28   4.40        75   5.18
+      47 079   County Non-Migrants        9572            21514
+47 081   Hickman Total Migration  Tn       428              986
+  47 037 Davidson                 Tn        81  18.93       171  17.34
+  47 043 Dickson                  Tn        71  16.59       168  17.04
+  47 187 Williamson               Tn        46  10.75       109  11.05
+  47 119 Maury                    Tn        35   8.18        81   8.22
+  47 101 Lewis                    Tn        21   4.91        45   4.56
+   Same State                               66  15.42       146  14.81
+   Same Region, Diff. State                 55  12.85       122  12.37
+   Different Region                         53  12.38       144  14.60
+      47 081   County Non-Migrants        5407            12625
+47 083   Houston Total Migration  Tn       178              396
+  47 125 Montgomery               Tn        28  15.73        80  20.20
+  47 161 Stewart                  Tn        24  13.48        52  13.13
+  47 085 Humphreys                Tn        13   7.30        32   8.08
+  47 037 Davidson                 Tn        12   6.74        19   4.80
+  47 043 Dickson                  Tn        11   6.18        21   5.30
+   Same State                               19  10.67        39   9.85
+   Same Region, Diff. State                 33  18.54        74  18.69
+   Different Region                         38  21.35        79  19.95
+      47 083   County Non-Migrants        2217             5175
+47 085   Humphreys Total Migratio Tn       343              757
+  47 037 Davidson                 Tn        41  11.95        81  10.70
+  47 043 Dickson                  Tn        32   9.33        86  11.36
+  57 001 Foreign / Overseas       FR        28   8.16        31   4.10
+  47 005 Benton                   Tn        18   5.25        41   5.42
+  47 081 Hickman                  Tn        14   4.08        37   4.89
+   Same State                               85  24.78       195  25.76
+   Same Region, Diff. State                 69  20.12       153  20.21
+   Different Region                         56  16.33       133  17.57
+      47 085   County Non-Migrants        5317            12580
+47 087   Jackson Total Migration  Tn       166              347
+  47 141 Putnam                   Tn        56  33.73       115  33.14
+  47 037 Davidson                 Tn        10   6.02        18   5.19
+   Same State                               38  22.89        69  19.88
+   Same Region, Diff. State                 38  22.89        82  23.63
+   Different Region                         24  14.46        63  18.16
+      47 087   County Non-Migrants        2622             6018
+47 089   Jefferson Total Migratio Tn      1083             2357
+  47 063 Hamblen                  Tn       233  21.51       558  23.67
+  47 093 Knox                     Tn       218  20.13       475  20.15
+  47 029 Cocke                    Tn        87   8.03       174   7.38
+  47 155 Sevier                   Tn        79   7.29       168   7.13
+  47 057 Grainger                 Tn        35   3.23        76   3.22
+  47 009 Blount                   Tn        17   1.57        40   1.70
+  47 059 Greene                   Tn        10    .92        19    .81
+   Same State                               76   7.02       158   6.70
+   Region 1:   Northeast                    30   2.77        67   2.84
+   Region 2:   Midwest                      63   5.82       129   5.47
+   Region 3:   South                       190  17.54       414  17.56
+   Region 4:   West                         35   3.23        61   2.59
+   Foreign                                  10    .92        18    .76
+      47 089   County Non-Migrants       11519            25854
+47 091   Johnson Total Migration  Tn       265              574
+  47 019 Carter                   Tn        29  10.94        55   9.58
+  37 189 Watauga                  NC        23   8.68        52   9.06
+  51 191 Washington               Va        11   4.15        19   3.31
+  47 163 Sullivan                 Tn        11   4.15        23   4.01
+  37 027 Caldwell                 NC        10   3.77        22   3.83
+  37 009 Ashe                     NC        10   3.77        21   3.66
+   Same State                               32  12.08        89  15.51
+   Same Region, Diff. State                112  42.26       233  40.59
+   Different Region                         27  10.19        60  10.45
+      47 091   County Non-Migrants        4573            10215
+47 093   Knox Total Migration Flo Tn      9290            18062
+  47 001 Anderson                 Tn       601   6.47      1164   6.44
+  47 009 Blount                   Tn       524   5.64       940   5.20
+  47 155 Sevier                   Tn       377   4.06       729   4.04
+  47 037 Davidson                 Tn       247   2.66       387   2.14
+  47 105 Loudon                   Tn       221   2.38       434   2.40
+  47 065 Hamilton                 Tn       215   2.31       420   2.33
+  47 089 Jefferson                Tn       202   2.17       372   2.06
+  47 145 Roane                    Tn       157   1.69       291   1.61
+  47 157 Shelby                   Tn       153   1.65       268   1.48
+  47 173 Union                    Tn       148   1.59       355   1.97
+  57 001 Foreign / Overseas       FR       141   1.52       193   1.07
+  47 163 Sullivan                 Tn       129   1.39       215   1.19
+  47 179 Washington               Tn       102   1.10       150    .83
+  47 063 Hamblen                  Tn        92    .99       150    .83
+  57 005 APO / FPO Zip Code       FR        89    .96       185   1.02
+  13 089 De Kalb                  Ga        84    .90       138    .76
+  47 057 Grainger                 Tn        75    .81       158    .87
+  47 013 Campbell                 Tn        73    .79       146    .81
+  13 067 Cobb                     Ga        69    .74       137    .76
+  13 121 Fulton                   Ga        67    .72       129    .71
+  06 037 Los Angeles              Ca        65    .70       125    .69
+  17 031 Cook                     Il        62    .67       104    .58
+  12 011 Broward                  Fl        59    .64       121    .67
+  37 119 Mecklenburg              NC        58    .62       124    .69
+  47 107 McMinn                   Tn        50    .54        79    .44
+  13 135 Gwinnett                 Ga        49    .53       106    .59
+  48 201 Harris                   Tx        49    .53       104    .58
+  47 187 Williamson               Tn        46    .50        86    .48
+  12 095 Orange                   Fl        45    .48       108    .60
+  47 011 Bradley                  Tn        45    .48        75    .42
+  12 103 Pinellas                 Fl        44    .47        92    .51
+  47 059 Greene                   Tn        43    .46        68    .38
+  51 059 Fairfax                  Va        42    .45        86    .48
+  12 099 Palm Beach               Fl        42    .45        73    .40
+  47 165 Sumner                   Tn        41    .44        66    .37
+  48 113 Dallas                   Tx        41    .44       106    .59
+  12 057 Hillsborough             Fl        41    .44        90    .50
+  47 149 Rutherford               Tn        40    .43        65    .36
+  06 073 San Diego                Ca        38    .41        91    .50
+  47 123 Monroe                   Tn        38    .41        58    .32
+  47 035 Cumberland               Tn        37    .40        62    .34
+  01 073 Jefferson                Al        36    .39        71    .39
+  47 125 Montgomery               Tn        34    .37        59    .33
+  37 021 Buncombe                 NC        34    .37        62    .34
+  45 019 Charleston               SC        34    .37        64    .35
+  47 141 Putnam                   Tn        34    .37        60    .33
+  21 067 Fayette                  Ky        33    .36        57    .32
+  42 003 Allegheny                Pa        32    .34        73    .40
+  12 031 Duval                    Fl        31    .33        65    .36
+  04 013 Maricopa                 Az        31    .33        74    .41
+  48 439 Tarrant                  Tx        31    .33        57    .32
+  21 111 Jefferson                Ky        30    .32        61    .34
+  01 089 Madison                  Al        30    .32        70    .39
+  47 025 Claiborne                Tn        29    .31        52    .29
+  39 061 Hamilton                 Oh        29    .31        67    .37
+  12 127 Volusia                  Fl        28    .30        53    .29
+  26 163 Wayne                    Mi        28    .30        45    .25
+  45 003 Aiken                    SC        28    .30        62    .34
+  47 073 Hawkins                  Tn        26    .28        46    .25
+  06 059 Orange                   Ca        25    .27        50    .28
+  26 125 Oakland                  Mi        24    .26        53    .29
+  45 045 Greenville               SC        24    .26        64    .35
+  39 113 Montgomery               Oh        23    .25        46    .25
+  47 031 Coffee                   Tn        23    .25        43    .24
+  24 031 Montgomery               Md        23    .25        46    .25
+  37 183 Wake                     NC        23    .25        41    .23
+  08 059 Jefferson                Co        23    .25        66    .37
+  47 029 Cocke                    Tn        23    .25        37    .20
+  39 049 Franklin                 Oh        23    .25        55    .30
+  12 009 Brevard                  Fl        22    .24        35    .19
+  39 035 Cuyahoga                 Oh        22    .24        34    .19
+  47 151 Scott                    Tn        22    .24        43    .24
+  12 025 Dade                     Fl        21    .23        39    .22
+  47 113 Madison                  Tn        21    .23        34    .19
+  12 001 Alachua                  Fl        21    .23        43    .24
+  08 005 Arapahoe                 Co        20    .22        57    .32
+  20 091 Johnson                  Ks        20    .22        49    .27
+  47 189 Wilson                   Tn        20    .22        31    .17
+  45 079 Richland                 SC        20    .22        33    .18
+  12 117 Seminole                 Fl        20    .22        54    .30
+  47 019 Carter                   Tn        20    .22        33    .18
+  25 017 Middlesex                Ma        19    .20        32    .18
+  12 071 Lee                      Fl        18    .19        39    .22
+  06 085 Santa Clara              Ca        18    .19        43    .24
+  45 083 Spartanburg              SC        18    .19        36    .20
+  37 081 Guilford                 NC        18    .19        30    .17
+  47 129 Morgan                   Tn        18    .19        38    .21
+  17 043 Du Page                  Il        18    .19        34    .19
+  47 143 Rhea                     Tn        17    .18        25    .14
+  22 033 East Baton Rouge         La        17    .18        43    .24
+  29 189 St. Louis                Mo        17    .18        31    .17
+  09 003 Hartford                 Ct        16    .17        31    .17
+  12 073 Leon                     Fl        16    .17        26    .14
+  37 051 Cumberland               NC        16    .17        29    .16
+  06 071 San Bernardino           Ca        15    .16        30    .17
+  35 001 Bernalillo               NM        15    .16        32    .18
+  26 021 Berrien                  Mi        15    .16        41    .23
+  54 039 Kanawha                  WV        15    .16        26    .14
+  12 105 Polk                     Fl        15    .16        35    .19
+  08 041 El Paso                  Co        15    .16        43    .24
+  17 097 Lake                     Il        15    .16        26    .14
+  04 019 Pima                     Az        15    .16        23    .13
+  13 215 Muscogee                 Ga        14    .15        29    .16
+  13 245 Richmond                 Ga        14    .15        26    .14
+  21 013 Bell                     Ky        14    .15        27    .15
+  51 153 Prince William           Va        14    .15        31    .17
+  37 067 Forsyth                  NC        14    .15        34    .19
+  45 063 Lexington                SC        14    .15        36    .20
+  37 129 New Hanover              NC        14    .15        30    .17
+  39 095 Lucas                    Oh        14    .15        30    .17
+  13 059 Clarke                   Ga        14    .15        18    .10
+  53 033 King                     Wa        14    .15        22    .12
+  51 810 Virginia Beach city      Va        14    .15        31    .17
+  47 119 Maury                    Tn        14    .15        25    .14
+  13 051 Chatham                  Ga        13    .14        17    .09
+  05 119 Pulaski                  Ar        13    .14        28    .16
+  18 097 Marion                   In        13    .14        26    .14
+  13 021 Bibb                     Ga        13    .14        30    .17
+  45 051 Horry                    SC        13    .14        22    .12
+  12 115 Sarasota                 Fl        13    .14        18    .10
+  15 003 Honolulu                 Hi        12    .13        30    .17
+  12 085 Martin                   Fl        12    .13        22    .12
+  51 191 Washington               Va        12    .13        16    .09
+  18 089 Lake                     In        12    .13        29    .16
+  34 005 Burlington               NJ        12    .13        31    .17
+  51 121 Montgomery               Va        12    .13        25    .14
+  26 099 Macomb                   Mi        12    .13        26    .14
+  12 081 Manatee                  Fl        12    .13        17    .09
+  09 001 Fairfield                Ct        12    .13        25    .14
+  09 009 New Haven                Ct        12    .13        28    .16
+  34 023 Middlesex                NJ        12    .13        24    .13
+  01 103 Morgan                   Al        12    .13        37    .20
+  24 005 Baltimore                Md        12    .13        20    .11
+  36 061 New York                 NY        12    .13        15    .08
+  11 001 Wash.,D.C.               DC        12    .13        19    .11
+  36 081 Queens                   NY        11    .12        19    .11
+  51 510 Alexandria city          Va        11    .12        15    .08
+  42 029 Chester                  Pa        11    .12        27    .15
+  06 067 Sacramento               Ca        11    .12        19    .11
+  40 143 Tulsa                    Ok        11    .12        19    .11
+  21 095 Harlan                   Ky        11    .12        15    .08
+  17 019 Champaign                Il        11    .12        24    .13
+  08 031 Denver                   Co        11    .12        17    .09
+  51 013 Arlington                Va        11    .12        13    .07
+  01 015 Calhoun                  Al        11    .12        22    .12
+  42 101 Philadelphia             Pa        11    .12        21    .12
+  24 033 Prince George's          Md        10    .11        23    .13
+  37 089 Henderson                NC        10    .11        32    .18
+  45 015 Berkeley                 SC        10    .11        25    .14
+  17 089 Kane                     Il        10    .11        19    .11
+  47 049 Fentress                 Tn        10    .11        15    .08
+  06 111 Ventura                  Ca        10    .11        23    .13
+  55 079 Milwaukee                Wi        10    .11        24    .13
+  36 029 Erie                     NY        10    .11        13    .07
+  48 029 Bexar                    Tx        10    .11        25    .14
+  45 007 Anderson                 SC        10    .11        16    .09
+  06 001 Alameda                  Ca        10    .11        26    .14
+  48 453 Travis                   Tx        10    .11        23    .13
+  13 073 Columbia                 Ga        10    .11        32    .18
+  12 097 Osceola                  Fl        10    .11        21    .12
+  01 097 Mobile                   Al        10    .11        25    .14
+  21 125 Laurel                   Ky        10    .11        16    .09
+  51 710 Norfolk city             Va        10    .11        17    .09
+  44 007 Providence               RI        10    .11        20    .11
+  51 105 Lee                      Va        10    .11        18    .10
+  51 087 Henrico                  Va        10    .11        17    .09
+  40 109 Oklahoma                 Ok        10    .11        24    .13
+   Same State                              139   1.50       246   1.36
+   Region 1:   Northeast                   340   3.66       670   3.71
+   Region 2:   Midwest                     520   5.60      1062   5.88
+   Region 3:   South                      1229  13.23      2565  14.20
+   Region 4:   West                        177   1.91       383   2.12
+      47 093   County Non-Migrants      118821           258498
+47 095   Lake Total Migration Flo Tn       133              278
+  47 131 Obion                    Tn        34  25.56        78  28.06
+  47 045 Dyer                     Tn        23  17.29        57  20.50
+   Same State                               31  23.31        52  18.71
+   Same Region, Diff. State                 32  24.06        72  25.90
+   Different Region                         13   9.77        19   6.83
+      47 095   County Non-Migrants        1957             4474
+47 097   Lauderdale Total Migrati Tn       385              902
+  47 045 Dyer                     Tn        76  19.74       175  19.40
+  47 075 Haywood                  Tn        39  10.13       103  11.42
+  47 167 Tipton                   Tn        33   8.57        82   9.09
+  47 157 Shelby                   Tn        32   8.31        73   8.09
+  47 033 Crockett                 Tn        24   6.23        67   7.43
+  17 031 Cook                     Il        10   2.60        26   2.88
+   Same State                               47  12.21        86   9.53
+   Same Region, Diff. State                 63  16.36       147  16.30
+   Different Region                         61  15.84       143  15.85
+      47 097   County Non-Migrants        7427            18049
+47 099   Lawrence Total Migration Tn       606             1343
+  47 119 Maury                    Tn        71  11.72       171  12.73
+  47 181 Wayne                    Tn        53   8.75       124   9.23
+  47 055 Giles                    Tn        45   7.43        94   7.00
+  01 077 Lauderdale               Al        36   5.94        75   5.58
+  47 037 Davidson                 Tn        32   5.28        62   4.62
+  47 101 Lewis                    Tn        26   4.29        51   3.80
+  26 163 Wayne                    Mi        15   2.48        27   2.01
+  47 149 Rutherford               Tn        15   2.48        27   2.01
+  47 117 Marshall                 Tn        10   1.65        20   1.49
+   Same State                               65  10.73       155  11.54
+   Same Region, Diff. State                137  22.61       300  22.34
+   Different Region                        101  16.67       237  17.65
+      47 099   County Non-Migrants       12201            29029
+47 101   Lewis Total Migration Fl Tn       217              518
+  47 119 Maury                    Tn        27  12.44        64  12.36
+  47 081 Hickman                  Tn        22  10.14        49   9.46
+  47 099 Lawrence                 Tn        19   8.76        43   8.30
+  47 135 Perry                    Tn        14   6.45        40   7.72
+   Same State                               44  20.28       107  20.66
+   Same Region, Diff. State                 35  16.13        73  14.09
+   Different Region                         56  25.81       142  27.41
+      47 101   County Non-Migrants        2714             6603
+47 103   Lincoln Total Migration  Tn       518             1222
+  01 089 Madison                  Al       118  22.78       295  24.14
+  47 117 Marshall                 Tn        36   6.95        81   6.63
+  47 051 Franklin                 Tn        26   5.02        66   5.40
+  47 055 Giles                    Tn        25   4.83        61   4.99
+  01 083 Limestone                Al        18   3.47        40   3.27
+  47 031 Coffee                   Tn        17   3.28        38   3.11
+  47 003 Bedford                  Tn        13   2.51        32   2.62
+  47 149 Rutherford               Tn        13   2.51        22   1.80
+  47 037 Davidson                 Tn        12   2.32        35   2.86
+   Same State                               37   7.14        82   6.71
+   Region 1:   Northeast                    15   2.90        30   2.45
+   Region 2:   Midwest                      35   6.76        84   6.87
+   Region 3:   South                       133  25.68       314  25.70
+   Region 4:   West                         20   3.86        42   3.44
+      47 103   County Non-Migrants        9772            22771
+47 105   Loudon Total Migration F Tn      1035             2318
+  47 093 Knox                     Tn       289  27.92       629  27.14
+  47 009 Blount                   Tn        95   9.18       231   9.97
+  47 123 Monroe                   Tn        71   6.86       172   7.42
+  47 145 Roane                    Tn        49   4.73       127   5.48
+  47 001 Anderson                 Tn        26   2.51        54   2.33
+  47 107 McMinn                   Tn        24   2.32        49   2.11
+  47 155 Sevier                   Tn        11   1.06        27   1.16
+   Same State                               87   8.41       175   7.55
+   Region 1:   Northeast                    31   3.00        60   2.59
+   Region 2:   Midwest                      79   7.63       172   7.42
+   Region 3:   South                       218  21.06       505  21.79
+   Region 4:   West                         44   4.25        98   4.23
+   Foreign                                  11   1.06        19    .82
+      47 105   County Non-Migrants       11265            25639
+47 107   McMinn Total Migration F Tn       910             2070
+  47 123 Monroe                   Tn       122  13.41       271  13.09
+  47 011 Bradley                  Tn       119  13.08       256  12.37
+  47 065 Hamilton                 Tn        60   6.59       149   7.20
+  47 121 Meigs                    Tn        48   5.27       115   5.56
+  47 093 Knox                     Tn        35   3.85        73   3.53
+  47 139 Polk                     Tn        31   3.41        78   3.77
+  47 145 Roane                    Tn        16   1.76        41   1.98
+  47 105 Loudon                   Tn        14   1.54        28   1.35
+  57 005 APO / FPO Zip Code       FR        11   1.21        23   1.11
+   Same State                               72   7.91       154   7.44
+   Region 1:   Northeast                    30   3.30        70   3.38
+   Region 2:   Midwest                      58   6.37       131   6.33
+   Region 3:   South                       255  28.02       601  29.03
+   Region 4:   West                         39   4.29        80   3.86
+      47 107   County Non-Migrants       14079            32529
+47 109   McNairy Total Migration  Tn       465             1000
+  47 071 Hardin                   Tn        75  16.13       155  15.50
+  28 003 Alcorn                   Ms        53  11.40       101  10.10
+  47 157 Shelby                   Tn        36   7.74        68   6.80
+  47 023 Chester                  Tn        32   6.88        74   7.40
+  47 113 Madison                  Tn        30   6.45        61   6.10
+  47 069 Hardeman                 Tn        29   6.24        75   7.50
+  57 005 APO / FPO Zip Code       FR        10   2.15        20   2.00
+   Same State                               55  11.83       119  11.90
+   Same Region, Diff. State                100  21.51       224  22.40
+   Different Region                         45   9.68       103  10.30
+      47 109   County Non-Migrants        7456            17374
+47 111   Macon Total Migration Fl Tn       306              703
+  47 165 Sumner                   Tn        60  19.61       156  22.19
+  47 037 Davidson                 Tn        30   9.80        69   9.82
+  47 027 Clay                     Tn        24   7.84        43   6.12
+  47 189 Wilson                   Tn        20   6.54        44   6.26
+  47 169 Trousdale                Tn        18   5.88        41   5.83
+  47 159 Smith                    Tn        15   4.90        42   5.97
+  21 171 Monroe                   Ky        10   3.27        21   2.99
+   Same State                               33  10.78        67   9.53
+   Same Region, Diff. State                 49  16.01       111  15.79
+   Different Region                         47  15.36       109  15.50
+      47 111   County Non-Migrants        5035            11772
+47 113   Madison Total Migration  Tn      1951             4143
+  47 053 Gibson                   Tn       197  10.10       415  10.02
+  47 157 Shelby                   Tn       176   9.02       335   8.09
+  47 023 Chester                  Tn        93   4.77       177   4.27
+  47 069 Hardeman                 Tn        81   4.15       159   3.84
+  47 033 Crockett                 Tn        60   3.08       163   3.93
+  47 075 Haywood                  Tn        58   2.97       125   3.02
+  47 037 Davidson                 Tn        58   2.97       110   2.66
+  47 077 Henderson                Tn        52   2.67       116   2.80
+  47 017 Carroll                  Tn        44   2.26        97   2.34
+  47 045 Dyer                     Tn        33   1.69        76   1.83
+  17 031 Cook                     Il        29   1.49        58   1.40
+  47 109 McNairy                  Tn        25   1.28        61   1.47
+  47 183 Weakley                  Tn        24   1.23        46   1.11
+  57 005 APO / FPO Zip Code       FR        21   1.08        46   1.11
+  47 131 Obion                    Tn        19    .97        31    .75
+  47 079 Henry                    Tn        19    .97        27    .65
+  47 071 Hardin                   Tn        18    .92        32    .77
+  47 005 Benton                   Tn        16    .82        24    .58
+  47 167 Tipton                   Tn        15    .77        33    .80
+  47 093 Knox                     Tn        14    .72        29    .70
+  47 065 Hamilton                 Tn        14    .72        30    .72
+  47 039 Decatur                  Tn        14    .72        30    .72
+  48 113 Dallas                   Tx        13    .67        26    .63
+  28 033 De Soto                  Ms        12    .62        30    .72
+  47 149 Rutherford               Tn        12    .62        26    .63
+  47 097 Lauderdale               Tn        11    .56        20    .48
+   Same State                               86   4.41       180   4.34
+   Region 1:   Northeast                    49   2.51       114   2.75
+   Region 2:   Midwest                     202  10.35       463  11.18
+   Region 3:   South                       424  21.73       934  22.54
+   Region 4:   West                         62   3.18       130   3.14
+      47 113   County Non-Migrants       26799            62151
+47 115   Marion Total Migration F Tn       465             1054
+  47 065 Hamilton                 Tn       138  29.68       299  28.37
+  01 071 Jackson                  Al        41   8.82        87   8.25
+  47 061 Grundy                   Tn        35   7.53        84   7.97
+  47 153 Sequatchie               Tn        22   4.73        47   4.46
+  13 295 Walker                   Ga        12   2.58        38   3.61
+   Same State                               53  11.40       123  11.67
+   Same Region, Diff. State                125  26.88       286  27.13
+   Different Region                         39   8.39        90   8.54
+      47 115   County Non-Migrants        8173            19255
+47 117   Marshall Total Migration Tn       694             1631
+  47 119 Maury                    Tn       148  21.33       353  21.64
+  47 003 Bedford                  Tn        49   7.06       112   6.87
+  47 103 Lincoln                  Tn        47   6.77       101   6.19
+  47 037 Davidson                 Tn        42   6.05        85   5.21
+  47 187 Williamson               Tn        34   4.90        87   5.33
+  47 055 Giles                    Tn        29   4.18        57   3.49
+  47 149 Rutherford               Tn        22   3.17        52   3.19
+  26 125 Oakland                  Mi        17   2.45        45   2.76
+  01 089 Madison                  Al        12   1.73        21   1.29
+  47 031 Coffee                   Tn        12   1.73        18   1.10
+  26 049 Genesee                  Mi        12   1.73        41   2.51
+   Same State                               46   6.63        99   6.07
+   Region 1:   Northeast                    18   2.59        32   1.96
+   Region 2:   Midwest                      87  12.54       258  15.82
+   Region 3:   South                       106  15.27       239  14.65
+   Region 4:   West                         13   1.87        31   1.90
+      47 117   County Non-Migrants        7921            18073
+47 119   Maury Total Migration Fl Tn      1660             3982
+  47 187 Williamson               Tn       155   9.34       352   8.84
+  47 117 Marshall                 Tn       142   8.55       329   8.26
+  47 037 Davidson                 Tn       129   7.77       256   6.43
+  26 163 Wayne                    Mi        90   5.42       258   6.48
+  26 049 Genesee                  Mi        69   4.16       183   4.60
+  26 125 Oakland                  Mi        64   3.86       170   4.27
+  47 099 Lawrence                 Tn        37   2.23        89   2.24
+  47 081 Hickman                  Tn        37   2.23        89   2.24
+  47 055 Giles                    Tn        35   2.11        80   2.01
+  47 149 Rutherford               Tn        28   1.69        72   1.81
+  47 101 Lewis                    Tn        24   1.45        40   1.00
+  26 065 Ingham                   Mi        21   1.27        61   1.53
+  26 099 Macomb                   Mi        21   1.27        53   1.33
+  26 087 Lapeer                   Mi        15    .90        47   1.18
+  29 095 Jackson                  Mo        11    .66        31    .78
+  39 017 Butler                   Oh        10    .60        17    .43
+  26 045 Eaton                    Mi        10    .60        38    .95
+  01 103 Morgan                   Al        10    .60        28    .70
+  47 003 Bedford                  Tn        10    .60        30    .75
+  25 027 Worcester                Ma        10    .60        36    .90
+   Same State                              124   7.47       262   6.58
+   Region 1:   Northeast                    67   4.04       185   4.65
+   Region 2:   Midwest                     209  12.59       490  12.31
+   Region 3:   South                       300  18.07       720  18.08
+   Region 4:   West                         32   1.93        66   1.66
+      47 119   County Non-Migrants       20021            47111
+47 121   Meigs Total Migration Fl Tn       264              593
+  47 011 Bradley                  Tn        53  20.08       131  22.09
+  47 107 McMinn                   Tn        51  19.32       109  18.38
+  47 065 Hamilton                 Tn        31  11.74        69  11.64
+  47 145 Roane                    Tn        15   5.68        35   5.90
+  47 123 Monroe                   Tn        11   4.17        29   4.89
+   Same State                               30  11.36        71  11.97
+   Same Region, Diff. State                 49  18.56        98  16.53
+   Different Region                         24   9.09        51   8.60
+      47 121   County Non-Migrants        2570             6056
+47 123   Monroe Total Migration F Tn       695             1489
+  47 107 McMinn                   Tn       100  14.39       228  15.31
+  47 105 Loudon                   Tn        84  12.09       201  13.50
+  47 093 Knox                     Tn        43   6.19        87   5.84
+  47 009 Blount                   Tn        38   5.47        83   5.57
+  57 001 Foreign / Overseas       FR        38   5.47        49   3.29
+  47 011 Bradley                  Tn        22   3.17        58   3.90
+  47 145 Roane                    Tn        15   2.16        31   2.08
+  47 065 Hamilton                 Tn        11   1.58        25   1.68
+   Same State                               62   8.92       131   8.80
+   Region 1:   Northeast                    21   3.02        41   2.75
+   Region 2:   Midwest                      52   7.48       108   7.25
+   Region 3:   South                       192  27.63       413  27.74
+   Region 4:   West                         17   2.45        34   2.28
+      47 123   County Non-Migrants       10160            23971
+47 125   Montgomery Total Migrati Tn      5588            14046
+  57 005 APO / FPO Zip Code       FR      1077  19.27      3267  23.26
+  21 047 Christian                Ky       878  15.71      2036  14.50
+  47 037 Davidson                 Tn       155   2.77       279   1.99
+  48 027 Bell                     Tx        73   1.31       230   1.64
+  37 051 Cumberland               NC        60   1.07       172   1.22
+  15 003 Honolulu                 Hi        57   1.02       181   1.29
+  47 161 Stewart                  Tn        53    .95       110    .78
+  47 043 Dickson                  Tn        51    .91        99    .70
+  47 147 Robertson                Tn        50    .89       102    .73
+  01 045 Dale                     Al        46    .82       130    .93
+  53 053 Pierce                   Wa        38    .68        98    .70
+  01 031 Coffee                   Al        33    .59        85    .61
+  48 141 El Paso                  Tx        32    .57        95    .68
+  48 029 Bexar                    Tx        31    .55        85    .61
+  47 021 Cheatham                 Tn        30    .54        72    .51
+  21 219 Todd                     Ky        29    .52        56    .40
+  47 157 Shelby                   Tn        29    .52        59    .42
+  02 090 Fairbanks North Star Bor Ak        28    .50        81    .58
+  47 165 Sumner                   Tn        27    .48        52    .37
+  17 031 Cook                     Il        24    .43        59    .42
+  45 079 Richland                 SC        23    .41        62    .44
+  26 163 Wayne                    Mi        23    .41        39    .28
+  47 083 Houston                  Tn        22    .39        48    .34
+  20 103 Leavenworth              Ks        21    .38        70    .50
+  40 031 Comanche                 Ok        21    .38        53    .38
+  47 149 Rutherford               Tn        21    .38        49    .35
+  06 037 Los Angeles              Ca        21    .38        48    .34
+  06 053 Monterey                 Ca        21    .38        54    .38
+  51 059 Fairfax                  Va        21    .38        69    .49
+  13 215 Muscogee                 Ga        21    .38        57    .41
+  08 041 El Paso                  Co        20    .36        57    .41
+  21 093 Hardin                   Ky        20    .36        68    .48
+  18 097 Marion                   In        19    .34        44    .31
+  06 071 San Bernardino           Ca        19    .34        55    .39
+  21 111 Jefferson                Ky        18    .32        56    .40
+  21 227 Warren                   Ky        18    .32        42    .30
+  12 095 Orange                   Fl        17    .30        36    .26
+  48 201 Harris                   Tx        17    .30        35    .25
+  06 073 San Diego                Ca        16    .29        31    .22
+  04 013 Maricopa                 Az        16    .29        40    .28
+  36 071 Orange                   NY        16    .29        31    .22
+  22 115 Vernon                   La        15    .27        46    .33
+  13 245 Richmond                 Ga        15    .27        39    .28
+  47 065 Hamilton                 Tn        15    .27        39    .28
+  47 187 Williamson               Tn        15    .27        29    .21
+  48 099 Coryell                  Tx        14    .25        44    .31
+  12 031 Duval                    Fl        14    .25        27    .19
+  48 439 Tarrant                  Tx        13    .23        25    .18
+  24 033 Prince George's          Md        13    .23        30    .21
+  55 079 Milwaukee                Wi        13    .23        29    .21
+  48 113 Dallas                   Tx        13    .23        31    .22
+  29 169 Pulaski                  Mo        12    .21        35    .25
+  01 089 Madison                  Al        12    .21        21    .15
+  47 093 Knox                     Tn        12    .21        25    .18
+  26 125 Oakland                  Mi        11    .20        29    .21
+  34 025 Monmouth                 NJ        11    .20        41    .29
+  06 059 Orange                   Ca        11    .20        21    .15
+  01 097 Mobile                   Al        11    .20        27    .19
+  47 189 Wilson                   Tn        11    .20        24    .17
+  12 057 Hillsborough             Fl        10    .18        21    .15
+  24 031 Montgomery               Md        10    .18        22    .16
+  21 107 Hopkins                  Ky        10    .18        19    .14
+  57 001 Foreign / Overseas       FR        10    .18        30    .21
+  02 020 Anchorage Borough        Ak        10    .18        30    .21
+  42 003 Allegheny                Pa        10    .18        26    .19
+  29 189 St. Louis                Mo        10    .18        25    .18
+   Same State                              105   1.88       221   1.57
+   Region 1:   Northeast                   258   4.62       563   4.01
+   Region 2:   Midwest                     558   9.99      1319   9.39
+   Region 3:   South                       945  16.91      2300  16.37
+   Region 4:   West                        209   3.74       516   3.67
+      47 125   County Non-Migrants       28417            67929
+47 127   Moore Total Migration Fl Tn        91              198
+  47 031 Coffee                   Tn        24  26.37        50  25.25
+  47 103 Lincoln                  Tn        17  18.68        40  20.20
+  47 051 Franklin                 Tn        15  16.48        37  18.69
+   All Migration Flows                      35  38.46        71  35.86
+      47 127   County Non-Migrants         941             2182
+47 129   Morgan Total Migration F Tn       355              820
+  47 145 Roane                    Tn        73  20.56       180  21.95
+  47 001 Anderson                 Tn        44  12.39        88  10.73
+  47 093 Knox                     Tn        23   6.48        48   5.85
+  47 049 Fentress                 Tn        13   3.66        35   4.27
+   Same State                               69  19.44       165  20.12
+   Region 1:   Northeast                    12   3.38        18   2.20
+   Region 2:   Midwest                      30   8.45        81   9.88
+   Region 3:   South                        78  21.97       177  21.59
+   Region 4:   West                         13   3.66        28   3.41
+      47 129   County Non-Migrants        4862            11785
+47 131   Obion Total Migration Fl Tn       615             1352
+  21 075 Fulton                   Ky        78  12.68       167  12.35
+  47 183 Weakley                  Tn        73  11.87       144  10.65
+  47 045 Dyer                     Tn        52   8.46       110   8.14
+  47 053 Gibson                   Tn        38   6.18        80   5.92
+  47 157 Shelby                   Tn        23   3.74        41   3.03
+  47 095 Lake                     Tn        20   3.25        44   3.25
+  21 083 Graves                   Ky        19   3.09        39   2.88
+  21 105 Hickman                  Ky        13   2.11        28   2.07
+  47 017 Carroll                  Tn        12   1.95        25   1.85
+  47 037 Davidson                 Tn        10   1.63        20   1.48
+   Same State                               53   8.62       134   9.91
+   Region 1:   Northeast                    10   1.63        20   1.48
+   Region 2:   Midwest                      61   9.92       132   9.76
+   Region 3:   South                       133  21.63       317  23.45
+   Region 4:   West                         20   3.25        51   3.77
+      47 131   County Non-Migrants       10899            25457
+47 133   Overton Total Migration  Tn       296              663
+  47 141 Putnam                   Tn        75  25.34       163  24.59
+  47 049 Fentress                 Tn        19   6.42        50   7.54
+  47 027 Clay                     Tn        16   5.41        32   4.83
+  47 137 Pickett                  Tn        13   4.39        28   4.22
+  47 037 Davidson                 Tn        10   3.38        18   2.71
+   Same State                               50  16.89       114  17.19
+   Same Region, Diff. State                 60  20.27       147  22.17
+   Different Region                         53  17.91       111  16.74
+      47 133   County Non-Migrants        5522            12946
+47 135   Perry Total Migration Fl Tn       161              362
+  47 039 Decatur                  Tn        13   8.07        30   8.29
+  47 037 Davidson                 Tn        10   6.21        24   6.63
+  47 101 Lewis                    Tn        10   6.21        24   6.63
+   Same State                               65  40.37       148  40.88
+   Same Region, Diff. State                 41  25.47        94  25.97
+   Different Region                         22  13.66        42  11.60
+      47 135   County Non-Migrants        2072             4855
+47 137   Pickett Total Migration  Tn        91              203
+  47 133 Overton                  Tn        12  13.19        30  14.78
+  47 049 Fentress                 Tn        10  10.99        24  11.82
+   Same State                               14  15.38        19   9.36
+   Same Region, Diff. State                 24  26.37        66  32.51
+   Different Region                         31  34.07        64  31.53
+      47 137   County Non-Migrants        1266             3000
+47 139   Polk Total Migration Flo Tn       390              832
+  47 011 Bradley                  Tn       144  36.92       299  35.94
+  13 111 Fannin                   Ga        32   8.21        72   8.65
+  47 107 McMinn                   Tn        30   7.69        72   8.65
+  13 213 Murray                   Ga        12   3.08        24   2.88
+  47 065 Hamilton                 Tn        12   3.08        22   2.64
+  13 135 Gwinnett                 Ga        10   2.56        23   2.76
+   Same State                               27   6.92        52   6.25
+   Same Region, Diff. State                 94  24.10       210  25.24
+   Different Region                         29   7.44        58   6.97
+      47 139   County Non-Migrants        4627            10690
+47 141   Putnam Total Migration F Tn      1458             3012
+  47 133 Overton                  Tn       123   8.44       265   8.80
+  47 037 Davidson                 Tn        78   5.35       144   4.78
+  47 185 White                    Tn        75   5.14       149   4.95
+  47 087 Jackson                  Tn        61   4.18       142   4.71
+  47 035 Cumberland               Tn        52   3.57       102   3.39
+  47 049 Fentress                 Tn        38   2.61        81   2.69
+  47 189 Wilson                   Tn        28   1.92        54   1.79
+  47 093 Knox                     Tn        27   1.85        47   1.56
+  47 065 Hamilton                 Tn        26   1.78        44   1.46
+  47 149 Rutherford               Tn        24   1.65        43   1.43
+  26 163 Wayne                    Mi        24   1.65        54   1.79
+  47 177 Warren                   Tn        20   1.37        44   1.46
+  47 041 De Kalb                  Tn        20   1.37        42   1.39
+  47 137 Pickett                  Tn        18   1.23        51   1.69
+  47 159 Smith                    Tn        18   1.23        38   1.26
+  47 165 Sumner                   Tn        16   1.10        28    .93
+  39 113 Montgomery               Oh        15   1.03        35   1.16
+  57 005 APO / FPO Zip Code       FR        14    .96        20    .66
+  26 099 Macomb                   Mi        14    .96        30   1.00
+  47 145 Roane                    Tn        14    .96        29    .96
+  57 001 Foreign / Overseas       FR        13    .89        22    .73
+  47 031 Coffee                   Tn        13    .89        19    .63
+  47 027 Clay                     Tn        13    .89        33   1.10
+  47 157 Shelby                   Tn        13    .89        43   1.43
+  47 143 Rhea                     Tn        12    .82        27    .90
+  47 163 Sullivan                 Tn        11    .75        18    .60
+   Same State                              150  10.29       289   9.59
+   Region 1:   Northeast                    48   3.29        98   3.25
+   Region 2:   Midwest                     121   8.30       236   7.84
+   Region 3:   South                       302  20.71       659  21.88
+   Region 4:   West                         57   3.91       126   4.18
+      47 141   County Non-Migrants       17533            39799
+47 143   Rhea Total Migration Flo Tn       621             1393
+  47 065 Hamilton                 Tn       137  22.06       296  21.25
+  47 007 Bledsoe                  Tn        21   3.38        45   3.23
+  47 035 Cumberland               Tn        16   2.58        39   2.80
+  47 011 Bradley                  Tn        15   2.42        28   2.01
+  47 145 Roane                    Tn        14   2.25        42   3.02
+  47 121 Meigs                    Tn        13   2.09        28   2.01
+  48 221 Hood                     Tx        10   1.61        30   2.15
+  47 093 Knox                     Tn        10   1.61        17   1.22
+   Same State                               56   9.02       138   9.91
+   Region 1:   Northeast                    26   4.19        51   3.66
+   Region 2:   Midwest                      79  12.72       153  10.98
+   Region 3:   South                       186  29.95       435  31.23
+   Region 4:   West                         28   4.51        63   4.52
+   Foreign                                  10   1.61        28   2.01
+      47 143   County Non-Migrants        7996            18604
+47 145   Roane Total Migration Fl Tn       974             2093
+  47 001 Anderson                 Tn       123  12.63       272  13.00
+  47 093 Knox                     Tn       117  12.01       232  11.08
+  47 129 Morgan                   Tn        87   8.93       219  10.46
+  47 105 Loudon                   Tn        45   4.62       103   4.92
+  47 035 Cumberland               Tn        29   2.98        59   2.82
+  47 143 Rhea                     Tn        23   2.36        57   2.72
+  47 065 Hamilton                 Tn        20   2.05        39   1.86
+  47 037 Davidson                 Tn        17   1.75        30   1.43
+  47 009 Blount                   Tn        13   1.33        31   1.48
+  47 123 Monroe                   Tn        11   1.13        29   1.39
+  47 121 Meigs                    Tn        11   1.13        23   1.10
+   Same State                               96   9.86       211  10.08
+   Region 1:   Northeast                    34   3.49        75   3.58
+   Region 2:   Midwest                      70   7.19       130   6.21
+   Region 3:   South                       222  22.79       480  22.93
+   Region 4:   West                         43   4.41        80   3.82
+   Foreign                                  13   1.33        23   1.10
+      47 145   County Non-Migrants       15387            35302
+47 147   Robertson Total Migratio Tn      1243             2805
+  47 037 Davidson                 Tn       420  33.79       912  32.51
+  47 165 Sumner                   Tn       204  16.41       463  16.51
+  47 125 Montgomery               Tn        76   6.11       175   6.24
+  47 021 Cheatham                 Tn        40   3.22        96   3.42
+  21 141 Logan                    Ky        24   1.93        51   1.82
+  47 189 Wilson                   Tn        16   1.29        35   1.25
+  47 187 Williamson               Tn        15   1.21        32   1.14
+  47 149 Rutherford               Tn        15   1.21        31   1.11
+  21 047 Christian                Ky        11    .88        21    .75
+  21 227 Warren                   Ky        10    .80        22    .78
+   Same State                               72   5.79       191   6.81
+   Region 1:   Northeast                    18   1.45        41   1.46
+   Region 2:   Midwest                      73   5.87       157   5.60
+   Region 3:   South                       191  15.37       442  15.76
+   Region 4:   West                         48   3.86       110   3.92
+   Foreign                                  10    .80        26    .93
+      47 147   County Non-Migrants       14366            34157
+47 149   Rutherford Total Migrati Tn      4553             9601
+  47 037 Davidson                 Tn      1452  31.89      3037  31.63
+  47 187 Williamson               Tn       172   3.78       338   3.52
+  47 189 Wilson                   Tn       149   3.27       303   3.16
+  47 003 Bedford                  Tn       110   2.42       213   2.22
+  47 015 Cannon                   Tn        97   2.13       197   2.05
+  47 031 Coffee                   Tn        77   1.69       149   1.55
+  47 165 Sumner                   Tn        73   1.60       147   1.53
+  47 157 Shelby                   Tn        55   1.21       114   1.19
+  47 065 Hamilton                 Tn        51   1.12        99   1.03
+  47 119 Maury                    Tn        50   1.10        96   1.00
+  47 093 Knox                     Tn        39    .86        70    .73
+  47 177 Warren                   Tn        35    .77        71    .74
+  47 051 Franklin                 Tn        34    .75        63    .66
+  47 141 Putnam                   Tn        33    .72        62    .65
+  57 005 APO / FPO Zip Code       FR        32    .70        72    .75
+  47 147 Robertson                Tn        27    .59        51    .53
+  57 001 Foreign / Overseas       FR        26    .57        47    .49
+  47 117 Marshall                 Tn        25    .55        53    .55
+  47 043 Dickson                  Tn        24    .53        48    .50
+  47 125 Montgomery               Tn        21    .46        38    .40
+  01 089 Madison                  Al        21    .46        42    .44
+  47 021 Cheatham                 Tn        21    .46        38    .40
+  47 099 Lawrence                 Tn        20    .44        45    .47
+  47 041 De Kalb                  Tn        19    .42        26    .27
+  26 163 Wayne                    Mi        18    .40        54    .56
+  06 037 Los Angeles              Ca        18    .40        31    .32
+  48 201 Harris                   Tx        18    .40        45    .47
+  17 031 Cook                     Il        18    .40        43    .45
+  12 011 Broward                  Fl        16    .35        35    .36
+  17 167 Sangamon                 Il        16    .35        48    .50
+  47 055 Giles                    Tn        14    .31        21    .22
+  48 113 Dallas                   Tx        14    .31        34    .35
+  47 163 Sullivan                 Tn        14    .31        24    .25
+  47 011 Bradley                  Tn        13    .29        23    .24
+  21 227 Warren                   Ky        13    .29        27    .28
+  12 095 Orange                   Fl        13    .29        26    .27
+  21 111 Jefferson                Ky        13    .29        27    .28
+  04 013 Maricopa                 Az        13    .29        32    .33
+  26 099 Macomb                   Mi        12    .26        25    .26
+  47 107 McMinn                   Tn        12    .26        25    .26
+  06 059 Orange                   Ca        12    .26        27    .28
+  12 103 Pinellas                 Fl        12    .26        27    .28
+  13 067 Cobb                     Ga        12    .26        21    .22
+  12 031 Duval                    Fl        12    .26        28    .29
+  26 125 Oakland                  Mi        12    .26        27    .28
+  47 103 Lincoln                  Tn        12    .26        16    .17
+  13 135 Gwinnett                 Ga        11    .24        33    .34
+  06 073 San Diego                Ca        11    .24        20    .21
+  47 113 Madison                  Tn        11    .24        22    .23
+  06 071 San Bernardino           Ca        10    .22        27    .28
+  47 053 Gibson                   Tn        10    .22        19    .20
+  47 181 Wayne                    Tn        10    .22        15    .16
+  48 439 Tarrant                  Tx        10    .22        23    .24
+  12 057 Hillsborough             Fl        10    .22        21    .22
+  51 059 Fairfax                  Va        10    .22        20    .21
+   Same State                              211   4.63       414   4.31
+   Region 1:   Northeast                   113   2.48       262   2.73
+   Region 2:   Midwest                     345   7.58       829   8.63
+   Region 3:   South                       728  15.99      1606  16.73
+   Region 4:   West                         93   2.04       205   2.14
+      47 149   County Non-Migrants       39942            95207
+47 151   Scott Total Migration Fl Tn       280              607
+  21 147 McCreary                 Ky        29  10.36        63  10.38
+  47 013 Campbell                 Tn        28  10.00        75  12.36
+  47 093 Knox                     Tn        17   6.07        29   4.78
+  13 313 Whitfield                Ga        13   4.64        25   4.12
+   Same State                               57  20.36       111  18.29
+   Same Region, Diff. State                 71  25.36       166  27.35
+   Different Region                         65  23.21       138  22.73
+      47 151   County Non-Migrants        5099            12763
+47 153   Sequatchie Total Migrati Tn       189              445
+  47 065 Hamilton                 Tn        59  31.22       144  32.36
+  47 007 Bledsoe                  Tn        21  11.11        49  11.01
+  47 115 Marion                   Tn        18   9.52        39   8.76
+   Same State                               22  11.64        67  15.06
+   Same Region, Diff. State                 46  24.34       100  22.47
+   Different Region                         23  12.17        46  10.34
+      47 153   County Non-Migrants        2677             6262
+47 155   Sevier Total Migration F Tn      1757             3675
+  47 093 Knox                     Tn       402  22.88       876  23.84
+  47 009 Blount                   Tn        83   4.72       162   4.41
+  47 089 Jefferson                Tn        69   3.93       137   3.73
+  47 029 Cocke                    Tn        66   3.76       134   3.65
+  12 103 Pinellas                 Fl        28   1.59        54   1.47
+  47 063 Hamblen                  Tn        21   1.20        38   1.03
+  47 037 Davidson                 Tn        20   1.14        40   1.09
+  12 011 Broward                  Fl        16    .91        31    .84
+  57 005 APO / FPO Zip Code       FR        14    .80        25    .68
+  47 001 Anderson                 Tn        13    .74        23    .63
+  26 125 Oakland                  Mi        12    .68        18    .49
+  12 105 Polk                     Fl        12    .68        22    .60
+  12 095 Orange                   Fl        12    .68        21    .57
+  47 065 Hamilton                 Tn        11    .63        17    .46
+  47 179 Washington               Tn        11    .63        15    .41
+  47 163 Sullivan                 Tn        10    .57        16    .44
+  12 115 Sarasota                 Fl        10    .57        15    .41
+  47 157 Shelby                   Tn        10    .57        21    .57
+  13 067 Cobb                     Ga        10    .57        22    .60
+   Same State                              119   6.77       264   7.18
+   Region 1:   Northeast                    81   4.61       180   4.90
+   Region 2:   Midwest                     191  10.87       405  11.02
+   Region 3:   South                       471  26.81       991  26.97
+   Region 4:   West                         65   3.70       148   4.03
+      47 155   County Non-Migrants       19490            43083
+47 157   Shelby Total Migration F Tn     16386            33106
+  28 033 De Soto                  Ms       898   5.48      1682   5.08
+  57 005 APO / FPO Zip Code       FR       553   3.37      1100   3.32
+  47 167 Tipton                   Tn       458   2.80      1034   3.12
+  05 035 Crittenden               Ar       364   2.22       743   2.24
+  47 037 Davidson                 Tn       324   1.98       578   1.75
+  47 047 Fayette                  Tn       303   1.85       633   1.91
+  17 031 Cook                     Il       258   1.57       524   1.58
+  28 093 Marshall                 Ms       228   1.39       459   1.39
+  05 119 Pulaski                  Ar       218   1.33       391   1.18
+  06 073 San Diego                Ca       204   1.24       500   1.51
+  06 037 Los Angeles              Ca       202   1.23       403   1.22
+  47 113 Madison                  Tn       195   1.19       329    .99
+  48 113 Dallas                   Tx       184   1.12       369   1.11
+  12 031 Duval                    Fl       155    .95       372   1.12
+  48 201 Harris                   Tx       150    .92       287    .87
+  57 001 Foreign / Overseas       FR       121    .74       191    .58
+  47 093 Knox                     Tn       111    .68       200    .60
+  28 049 Hinds                    Ms       111    .68       203    .61
+  51 810 Virginia Beach city      Va       108    .66       303    .92
+  29 189 St. Louis                Mo       107    .65       219    .66
+  01 073 Jefferson                Al       103    .63       222    .67
+  48 439 Tarrant                  Tx       101    .62       216    .65
+  28 137 Tate                     Ms       101    .62       187    .56
+  05 031 Craighead                Ar        94    .57       165    .50
+  13 089 De Kalb                  Ga        93    .57       177    .53
+  13 121 Fulton                   Ga        88    .54       173    .52
+  28 107 Panola                   Ms        80    .49       157    .47
+  13 067 Cobb                     Ga        80    .49       175    .53
+  28 081 Lee                      Ms        75    .46       140    .42
+  15 003 Honolulu                 Hi        74    .45       191    .58
+  47 045 Dyer                     Tn        74    .45       144    .43
+  06 059 Orange                   Ca        74    .45       157    .47
+  12 011 Broward                  Fl        70    .43       139    .42
+  22 051 Jefferson                La        69    .42       133    .40
+  47 069 Hardeman                 Tn        69    .42       113    .34
+  04 013 Maricopa                 Az        68    .41       141    .43
+  28 027 Coahoma                  Ms        68    .41       136    .41
+  47 053 Gibson                   Tn        67    .41       112    .34
+  28 071 Lafayette                Ms        66    .40       121    .37
+  26 163 Wayne                    Mi        66    .40       118    .36
+  05 093 Mississippi              Ar        65    .40       121    .37
+  51 710 Norfolk city             Va        63    .38       138    .42
+  28 011 Bolivar                  Ms        62    .38       120    .36
+  29 510 St. Louis city           Mo        62    .38       113    .34
+  28 151 Washington               Ms        62    .38       159    .48
+  37 133 Onslow                   NC        60    .37       144    .43
+  12 095 Orange                   Fl        60    .37       113    .34
+  06 071 San Bernardino           Ca        59    .36       134    .40
+  47 065 Hamilton                 Tn        59    .36       112    .34
+  12 057 Hillsborough             Fl        59    .36       125    .38
+  48 029 Bexar                    Tx        57    .35       105    .32
+  05 123 St. Francis              Ar        56    .34       108    .33
+  37 119 Mecklenburg              NC        55    .34       135    .41
+  47 075 Haywood                  Tn        55    .34        99    .30
+  47 097 Lauderdale               Tn        53    .32       104    .31
+  12 025 Dade                     Fl        52    .32       121    .37
+  13 135 Gwinnett                 Ga        52    .32       118    .36
+  06 001 Alameda                  Ca        51    .31        91    .27
+  12 033 Escambia                 Fl        49    .30        98    .30
+  22 033 East Baton Rouge         La        49    .30       106    .32
+  22 071 Orleans                  La        47    .29        78    .24
+  55 079 Milwaukee                Wi        46    .28       102    .31
+  40 109 Oklahoma                 Ok        46    .28       101    .31
+  39 049 Franklin                 Oh        46    .28       105    .32
+  18 097 Marion                   In        45    .27        84    .25
+  27 053 Hennepin                 Mn        44    .27        92    .28
+  47 131 Obion                    Tn        44    .27        68    .21
+  39 061 Hamilton                 Oh        43    .26        86    .26
+  28 089 Madison                  Ms        43    .26        86    .26
+  28 143 Tunica                   Ms        43    .26       116    .35
+  21 111 Jefferson                Ky        42    .26        82    .25
+  17 043 Du Page                  Il        41    .25       100    .30
+  29 095 Jackson                  Mo        40    .24        85    .26
+  01 089 Madison                  Al        39    .24        65    .20
+  12 103 Pinellas                 Fl        39    .24        57    .17
+  47 109 McNairy                  Tn        38    .23        71    .21
+  01 097 Mobile                   Al        37    .23        65    .20
+  47 187 Williamson               Tn        37    .23        64    .19
+  28 047 Harrison                 Ms        37    .23        70    .21
+  47 149 Rutherford               Tn        37    .23        64    .19
+  22 017 Caddo                    La        36    .22        73    .22
+  39 035 Cuyahoga                 Oh        35    .21        80    .24
+  26 125 Oakland                  Mi        34    .21        57    .17
+  47 125 Montgomery               Tn        34    .21        68    .21
+  28 043 Grenada                  Ms        34    .21        70    .21
+  06 085 Santa Clara              Ca        34    .21        82    .25
+  45 019 Charleston               SC        33    .20        66    .20
+  36 061 New York                 NY        33    .20        47    .14
+  13 063 Clayton                  Ga        32    .20        59    .18
+  40 143 Tulsa                    Ok        32    .20        75    .23
+  34 029 Ocean                    NJ        32    .20       113    .34
+  47 017 Carroll                  Tn        31    .19        48    .14
+  48 453 Travis                   Tx        31    .19        51    .15
+  45 045 Greenville               SC        31    .19        55    .17
+  37 049 Craven                   NC        31    .19        87    .26
+  24 033 Prince George's          Md        31    .19        54    .16
+  53 033 King                     Wa        31    .19        56    .17
+  42 101 Philadelphia             Pa        31    .19        71    .21
+  04 019 Pima                     Az        31    .19        68    .21
+  12 099 Palm Beach               Fl        30    .18        62    .19
+  05 069 Jefferson                Ar        30    .18        64    .19
+  06 013 Contra Costa             Ca        30    .18        55    .17
+  47 077 Henderson                Tn        30    .18        49    .15
+  48 027 Bell                     Tx        30    .18        61    .18
+  28 105 Oktibbeha                Ms        29    .18        43    .13
+  17 163 St. Clair                Il        29    .18        61    .18
+  17 097 Lake                     Il        29    .18        64    .19
+  28 087 Lowndes                  Ms        29    .18        58    .18
+  28 003 Alcorn                   Ms        29    .18        56    .17
+  32 003 Clark                    Nv        29    .18        57    .17
+  06 067 Sacramento               Ca        28    .17        65    .20
+  48 121 Denton                   Tx        28    .17        68    .21
+  29 077 Greene                   Mo        28    .17        46    .14
+  28 121 Rankin                   Ms        28    .17        63    .19
+  21 047 Christian                Ky        28    .17        69    .21
+  47 183 Weakley                  Tn        28    .17        43    .13
+  05 107 Phillips                 Ar        27    .16        53    .16
+  48 141 El Paso                  Tx        27    .16        57    .17
+  47 165 Sumner                   Tn        27    .16        66    .20
+  05 131 Sebastian                Ar        27    .16        57    .17
+  37 183 Wake                     NC        27    .16        59    .18
+  17 089 Kane                     Il        26    .16        62    .19
+  01 125 Tuscaloosa               Al        26    .16        40    .12
+  08 005 Arapahoe                 Co        26    .16        54    .16
+  11 001 Wash.,D.C.               DC        26    .16        37    .11
+  28 135 Tallahatchie             Ms        26    .16        51    .15
+  01 101 Montgomery               Al        26    .16        53    .16
+  29 031 Cape Girardeau           Mo        26    .16        39    .12
+  42 003 Allegheny                Pa        26    .16        56    .17
+  18 089 Lake                     In        25    .15        58    .18
+  37 051 Cumberland               NC        25    .15        51    .15
+  48 085 Collin                   Tx        25    .15        64    .19
+  06 111 Ventura                  Ca        25    .15        60    .18
+  51 059 Fairfax                  Va        25    .15        54    .16
+  53 029 Island                   Wa        25    .15        75    .23
+  29 155 Pemiscot                 Mo        25    .15        62    .19
+  06 031 Kings                    Ca        25    .15        56    .17
+  12 073 Leon                     Fl        25    .15        43    .13
+  31 055 Douglas                  Ne        25    .15        38    .11
+  28 083 Leflore                  Ms        25    .15        57    .17
+  13 215 Muscogee                 Ga        24    .15        51    .15
+  28 009 Benton                   Ms        24    .15        46    .14
+  22 103 St. Tammany              La        24    .15        62    .19
+  05 145 White                    Ar        24    .15        46    .14
+  26 099 Macomb                   Mi        24    .15        44    .13
+  25 017 Middlesex                Ma        24    .15        47    .14
+  28 075 Lauderdale               Ms        23    .14        59    .18
+  48 355 Nueces                   Tx        23    .14        56    .17
+  28 117 Prentiss                 Ms        23    .14        34    .10
+  13 051 Chatham                  Ga        23    .14        53    .16
+  12 127 Volusia                  Fl        23    .14        37    .11
+  24 031 Montgomery               Md        23    .14        31    .09
+  08 059 Jefferson                Co        23    .14        42    .13
+  22 073 Ouachita                 La        23    .14        44    .13
+  06 075 San Francisco            Ca        23    .14        44    .13
+  28 139 Tippah                   Ms        23    .14        41    .12
+  39 095 Lucas                    Oh        22    .13        49    .15
+  12 019 Clay                     Fl        22    .13        68    .21
+  25 025 Suffolk                  Ma        22    .13        35    .11
+  22 115 Vernon                   La        22    .13        60    .18
+  36 071 Orange                   NY        22    .13        41    .12
+  36 029 Erie                     NY        22    .13        52    .16
+  27 037 Dakota                   Mn        22    .13        41    .12
+  45 013 Beaufort                 SC        22    .13        55    .17
+  12 117 Seminole                 Fl        22    .13        41    .12
+  12 009 Brevard                  Fl        21    .13        40    .12
+  29 183 St. Charles              Mo        21    .13        53    .16
+  05 037 Cross                    Ar        21    .13        44    .13
+  28 119 Quitman                  Ms        21    .13        47    .14
+  20 091 Johnson                  Ks        20    .12        37    .11
+  01 077 Lauderdale               Al        20    .12        33    .10
+  05 143 Washington               Ar        20    .12        38    .11
+  47 071 Hardin                   Tn        20    .12        27    .08
+  45 015 Berkeley                 SC        20    .12        62    .19
+  12 005 Bay                      Fl        20    .12        42    .13
+  47 119 Maury                    Tn        20    .12        38    .11
+  36 081 Queens                   NY        20    .12        45    .14
+  51 153 Prince William           Va        20    .12        54    .16
+  28 035 Forrest                  Ms        20    .12        37    .11
+  08 041 El Paso                  Co        19    .12        49    .15
+  05 095 Monroe                   Ar        19    .12        47    .14
+  45 079 Richland                 SC        19    .12        35    .11
+  06 065 Riverside                Ca        19    .12        51    .15
+  47 023 Chester                  Tn        19    .12        35    .11
+  51 087 Henrico                  Va        19    .12        33    .10
+  09 001 Fairfield                Ct        19    .12        41    .12
+  36 055 Monroe                   NY        18    .11        32    .10
+  42 091 Montgomery               Pa        18    .11        38    .11
+  29 201 Scott                    Mo        18    .11        34    .10
+  12 091 Okaloosa                 Fl        18    .11        39    .12
+  47 079 Henry                    Tn        18    .11        37    .11
+  12 081 Manatee                  Fl        18    .11        21    .06
+  36 047 Kings                    NY        18    .11        29    .09
+  05 045 Faulkner                 Ar        17    .10        30    .09
+  28 059 Jackson                  Ms        17    .10        50    .15
+  12 105 Polk                     Fl        17    .10        33    .10
+  34 003 Bergen                   NJ        17    .10        40    .12
+  39 017 Butler                   Oh        17    .10        38    .11
+  01 033 Colbert                  Al        17    .10        35    .11
+  21 227 Warren                   Ky        17    .10        24    .07
+  20 173 Sedgwick                 Ks        17    .10        45    .14
+  05 051 Garland                  Ar        17    .10        28    .08
+  13 245 Richmond                 Ga        17    .10        30    .09
+  24 510 Baltimore city           Md        17    .10        24    .07
+  05 111 Poinsett                 Ar        17    .10        27    .08
+  12 071 Lee                      Fl        16    .10        31    .09
+  24 005 Baltimore                Md        16    .10        38    .11
+  53 035 Kitsap                   Wa        16    .10        44    .13
+  08 031 Denver                   Co        16    .10        31    .09
+  01 103 Morgan                   Al        16    .10        35    .11
+  28 133 Sunflower                Ms        16    .10        35    .11
+  05 125 Saline                   Ar        16    .10        29    .09
+  28 141 Tishomingo               Ms        16    .10        23    .07
+  51 700 Newport News city        Va        16    .10        39    .12
+  28 145 Union                    Ms        15    .09        24    .07
+  02 020 Anchorage Borough        Ak        15    .09        30    .09
+  17 119 Madison                  Il        15    .09        27    .08
+  17 197 Will                     Il        15    .09        25    .08
+  13 021 Bibb                     Ga        15    .09        28    .08
+  37 081 Guilford                 NC        15    .09        29    .09
+  12 001 Alachua                  Fl        15    .09        36    .11
+  09 003 Hartford                 Ct        15    .09        32    .10
+  47 179 Washington               Tn        15    .09        34    .10
+  17 019 Champaign                Il        15    .09        26    .08
+  06 029 Kern                     Ca        15    .09        31    .09
+  01 003 Baldwin                  Al        15    .09        25    .08
+  48 037 Bowie                    Tx        15    .09        31    .09
+  23 005 Cumberland               Me        15    .09        39    .12
+  12 115 Sarasota                 Fl        15    .09        40    .12
+  40 031 Comanche                 Ok        15    .09        29    .09
+  21 145 McCracken                Ky        14    .09        31    .09
+  24 003 Anne Arundel             Md        14    .09        24    .07
+  39 113 Montgomery               Oh        14    .09        33    .10
+  36 119 Westchester              NY        14    .09        38    .11
+  53 053 Pierce                   Wa        14    .09        28    .08
+  21 067 Fayette                  Ky        14    .09        25    .08
+  29 019 Boone                    Mo        14    .09        27    .08
+  47 141 Putnam                   Tn        14    .09        29    .09
+  19 153 Polk                     Ia        14    .09        32    .10
+  21 093 Hardin                   Ky        14    .09        33    .10
+  05 055 Greene                   Ar        14    .09        26    .08
+  12 113 Santa Rosa               Fl        14    .09        26    .08
+  18 003 Allen                    In        14    .09        37    .11
+  47 189 Wilson                   Tn        14    .09        20    .06
+  26 081 Kent                     Mi        14    .09        30    .09
+  06 053 Monterey                 Ca        14    .09        39    .12
+  17 167 Sangamon                 Il        14    .09        22    .07
+  05 077 Lee                      Ar        13    .08        24    .07
+  29 099 Jefferson                Mo        13    .08        32    .10
+  26 077 Kalamazoo                Mi        13    .08        27    .08
+  34 025 Monmouth                 NJ        13    .08        29    .09
+  01 069 Houston                  Al        13    .08        18    .05
+  36 059 Nassau                   NY        13    .08        28    .08
+  28 095 Monroe                   Ms        13    .08        25    .08
+  12 111 St. Lucie                Fl        13    .08        26    .08
+  51 013 Arlington                Va        13    .08        23    .07
+  51 550 Chesapeake city          Va        12    .07        25    .08
+  05 007 Benton                   Ar        12    .07        24    .07
+  47 033 Crockett                 Tn        12    .07        18    .05
+  26 021 Berrien                  Mi        12    .07        25    .08
+  28 161 Yalobusha                Ms        12    .07        19    .06
+  49 035 Salt Lake                Ut        12    .07        27    .08
+  47 163 Sullivan                 Tn        12    .07        26    .08
+  28 163 Yazoo                    Ms        12    .07        25    .08
+  28 001 Adams                    Ms        12    .07        18    .05
+  06 019 Fresno                   Ca        12    .07        21    .06
+  51 740 Portsmouth city          Va        12    .07        31    .09
+  47 095 Lake                     Tn        12    .07        21    .06
+  26 049 Genesee                  Mi        12    .07        25    .08
+  36 045 Jefferson                NY        12    .07        26    .08
+  36 103 Suffolk                  NY        12    .07        18    .05
+  42 029 Chester                  Pa        12    .07        26    .08
+  42 017 Bucks                    Pa        12    .07        31    .09
+  18 163 Vanderburgh              In        12    .07        20    .06
+  06 099 Stanislaus               Ca        11    .07        31    .09
+  34 013 Essex                    NJ        11    .07        25    .08
+  19 113 Linn                     Ia        11    .07        26    .08
+  39 153 Summit                   Oh        11    .07        26    .08
+  29 069 Dunklin                  Mo        11    .07        23    .07
+  28 149 Warren                   Ms        11    .07        22    .07
+  25 021 Norfolk                  Ma        11    .07        32    .10
+  37 021 Buncombe                 NC        11    .07        20    .06
+  34 005 Burlington               NJ        11    .07        19    .06
+  22 015 Bossier                  La        11    .07        22    .07
+  28 051 Holmes                   Ms        11    .07        21    .06
+  39 057 Greene                   Oh        11    .07        23    .07
+  31 153 Sarpy                    Ne        11    .07        29    .09
+  48 039 Brazoria                 Tx        11    .07        19    .06
+  29 143 New Madrid               Mo        11    .07        22    .07
+  51 760 Richmond city            Va        11    .07        17    .05
+  09 011 New London               Ct        11    .07        19    .06
+  12 087 Monroe                   Fl        11    .07        20    .06
+  12 109 St. Johns                Fl        11    .07        20    .06
+  22 079 Rapides                  La        11    .07        29    .09
+  04 027 Yuma                     Az        11    .07        30    .09
+  47 009 Blount                   Tn        11    .07        22    .07
+  47 001 Anderson                 Tn        11    .07        27    .08
+  47 043 Dickson                  Tn        11    .07        29    .09
+  01 117 Shelby                   Al        10    .06        21    .06
+  37 067 Forsyth                  NC        10    .06        22    .07
+  21 059 Daviess                  Ky        10    .06        18    .05
+  48 485 Wichita                  Tx        10    .06        16    .05
+  21 117 Kenton                   Ky        10    .06        24    .07
+  13 073 Columbia                 Ga        10    .06        37    .11
+  13 095 Dougherty                Ga        10    .06        18    .05
+  22 055 Lafayette                La        10    .06        16    .05
+  48 303 Lubbock                  Tx        10    .06        23    .07
+  28 067 Jones                    Ms        10    .06        21    .06
+  19 163 Scott                    Ia        10    .06        27    .08
+  51 510 Alexandria city          Va        10    .06        19    .06
+  05 063 Independence             Ar        10    .06        18    .05
+  28 015 Carroll                  Ms        10    .06        27    .08
+  25 013 Hampden                  Ma        10    .06        24    .07
+  24 027 Howard                   Md        10    .06        20    .06
+  47 085 Humphreys                Tn        10    .06        17    .05
+  28 115 Pontotoc                 Ms        10    .06        15    .05
+  05 139 Union                    Ar        10    .06        24    .07
+  41 051 Multnomah                Or        10    .06        14    .04
+  17 201 Winnebago                Il        10    .06        16    .05
+  08 069 Larimer                  Co        10    .06        17    .05
+   Same State                              143    .87       261    .79
+   Region 1:   Northeast                   398   2.43       801   2.42
+   Region 2:   Midwest                     806   4.92      1566   4.73
+   Region 3:   South                      1415   8.64      2910   8.79
+   Region 4:   West                        320   1.95       647   1.95
+   Foreign                                  13    .08        36    .11
+      47 157   County Non-Migrants      296322           666333
+47 159   Smith Total Migration Fl Tn       283              634
+  47 189 Wilson                   Tn        54  19.08       119  18.77
+  47 037 Davidson                 Tn        26   9.19        50   7.89
+  47 141 Putnam                   Tn        19   6.71        45   7.10
+  47 111 Macon                    Tn        17   6.01        39   6.15
+  47 087 Jackson                  Tn        14   4.95        32   5.05
+  47 169 Trousdale                Tn        13   4.59        30   4.73
+  47 165 Sumner                   Tn        10   3.53        13   2.05
+   Same State                               49  17.31       109  17.19
+   Same Region, Diff. State                 48  16.96       115  18.14
+   Different Region                         33  11.66        82  12.93
+      47 159   County Non-Migrants        4832            11136
+47 161   Stewart Total Migration  Tn       362              839
+  47 125 Montgomery               Tn        85  23.48       196  23.36
+  47 083 Houston                  Tn        28   7.73        72   8.58
+  57 005 APO / FPO Zip Code       FR        26   7.18        74   8.82
+  48 027 Bell                     Tx        10   2.76        26   3.10
+  47 037 Davidson                 Tn        10   2.76        26   3.10
+   Same State                               34   9.39        88  10.49
+   Region 1:   Northeast                    12   3.31        25   2.98
+   Region 2:   Midwest                      61  16.85       120  14.30
+   Region 3:   South                        80  22.10       175  20.86
+   Region 4:   West                         16   4.42        37   4.41
+      47 161   County Non-Migrants        3117             7232
+47 163   Sullivan Total Migration Tn      3253             6742
+  47 179 Washington               Tn       408  12.54       789  11.70
+  47 073 Hawkins                  Tn       293   9.01       613   9.09
+  51 520 Bristol city             Va       238   7.32       511   7.58
+  51 191 Washington               Va       170   5.23       358   5.31
+  51 169 Scott                    Va       133   4.09       254   3.77
+  47 093 Knox                     Tn        79   2.43       138   2.05
+  47 019 Carter                   Tn        68   2.09       143   2.12
+  57 005 APO / FPO Zip Code       FR        34   1.05        77   1.14
+  51 195 Wise                     Va        33   1.01        68   1.01
+  47 059 Greene                   Tn        33   1.01        72   1.07
+  51 167 Russell                  Va        26    .80        45    .67
+  47 037 Davidson                 Tn        26    .80        40    .59
+  47 065 Hamilton                 Tn        21    .65        46    .68
+  45 045 Greenville               SC        20    .61        36    .53
+  47 171 Unicoi                   Tn        19    .58        37    .55
+  51 810 Virginia Beach city      Va        16    .49        29    .43
+  47 063 Hamblen                  Tn        16    .49        25    .37
+  12 031 Duval                    Fl        15    .46        37    .55
+  06 037 Los Angeles              Ca        15    .46        34    .50
+  51 173 Smyth                    Va        15    .46        26    .39
+  51 105 Lee                      Va        15    .46        24    .36
+  37 035 Catawba                  NC        15    .46        28    .42
+  12 099 Palm Beach               Fl        14    .43        32    .47
+  57 001 Foreign / Overseas       FR        14    .43        26    .39
+  48 201 Harris                   Tx        14    .43        36    .53
+  12 103 Pinellas                 Fl        13    .40        25    .37
+  51 027 Buchanan                 Va        12    .37        29    .43
+  37 081 Guilford                 NC        12    .37        21    .31
+  39 061 Hamilton                 Oh        11    .34        27    .40
+  12 057 Hillsborough             Fl        11    .34        28    .42
+  37 119 Mecklenburg              NC        11    .34        21    .31
+  06 073 San Diego                Ca        11    .34        21    .31
+  12 105 Polk                     Fl        11    .34        26    .39
+  47 009 Blount                   Tn        10    .31        21    .31
+  37 183 Wake                     NC        10    .31        18    .27
+  45 063 Lexington                SC        10    .31        20    .30
+  24 031 Montgomery               Md        10    .31        25    .37
+  48 183 Gregg                    Tx        10    .31        24    .36
+  51 157 Rappahannock             Va        10    .31        27    .40
+  13 067 Cobb                     Ga        10    .31        20    .30
+  13 089 De Kalb                  Ga        10    .31        18    .27
+   Same State                              108   3.32       209   3.10
+   Region 1:   Northeast                   121   3.72       266   3.95
+   Region 2:   Midwest                     197   6.06       435   6.45
+   Region 3:   South                       798  24.53      1693  25.11
+   Region 4:   West                        107   3.29       244   3.62
+      47 163   County Non-Migrants       52194           116712
+47 165   Sumner Total Migration F Tn      3389             7391
+  47 037 Davidson                 Tn      1251  36.91      2546  34.45
+  47 147 Robertson                Tn       162   4.78       373   5.05
+  47 189 Wilson                   Tn       128   3.78       285   3.86
+  47 149 Rutherford               Tn        51   1.50       118   1.60
+  47 111 Macon                    Tn        50   1.48       119   1.61
+  21 213 Simpson                  Ky        46   1.36       102   1.38
+  21 227 Warren                   Ky        44   1.30        89   1.20
+  47 169 Trousdale                Tn        42   1.24        93   1.26
+  47 157 Shelby                   Tn        40   1.18        80   1.08
+  47 187 Williamson               Tn        33    .97        66    .89
+  47 125 Montgomery               Tn        32    .94        73    .99
+  47 065 Hamilton                 Tn        28    .83        66    .89
+  47 093 Knox                     Tn        28    .83        51    .69
+  47 021 Cheatham                 Tn        27    .80        53    .72
+  57 005 APO / FPO Zip Code       FR        27    .80        57    .77
+  21 003 Allen                    Ky        23    .68        56    .76
+  21 111 Jefferson                Ky        18    .53        48    .65
+  12 031 Duval                    Fl        18    .53        31    .42
+  06 037 Los Angeles              Ca        16    .47        32    .43
+  26 163 Wayne                    Mi        15    .44        28    .38
+  17 031 Cook                     Il        15    .44        26    .35
+  47 141 Putnam                   Tn        15    .44        22    .30
+  18 097 Marion                   In        15    .44        37    .50
+  13 135 Gwinnett                 Ga        14    .41        34    .46
+  47 159 Smith                    Tn        13    .38        24    .32
+  26 125 Oakland                  Mi        11    .32        18    .24
+  48 439 Tarrant                  Tx        10    .30        21    .28
+  57 001 Foreign / Overseas       FR        10    .30        26    .35
+  13 089 De Kalb                  Ga        10    .30        19    .26
+  01 089 Madison                  Al        10    .30        21    .28
+  12 011 Broward                  Fl        10    .30        26    .35
+   Same State                              138   4.07       300   4.06
+   Region 1:   Northeast                   112   3.30       263   3.56
+   Region 2:   Midwest                     234   6.90       528   7.14
+   Region 3:   South                       576  17.00      1362  18.43
+   Region 4:   West                        117   3.45       298   4.03
+      47 165   County Non-Migrants       35376            84437
+47 167   Tipton Total Migration F Tn       974             2478
+  47 157 Shelby                   Tn       469  48.15      1158  46.73
+  47 047 Fayette                  Tn        38   3.90        97   3.91
+  47 097 Lauderdale               Tn        34   3.49        76   3.07
+  47 075 Haywood                  Tn        26   2.67        63   2.54
+  57 005 APO / FPO Zip Code       FR        17   1.75        59   2.38
+  06 073 San Diego                Ca        13   1.33        38   1.53
+  51 810 Virginia Beach city      Va        12   1.23        40   1.61
+  15 003 Honolulu                 Hi        10   1.03        34   1.37
+  12 031 Duval                    Fl        10   1.03        29   1.17
+   Same State                               50   5.13        99   4.00
+   Region 1:   Northeast                    20   2.05        56   2.26
+   Region 2:   Midwest                      64   6.57       159   6.42
+   Region 3:   South                       165  16.94       432  17.43
+   Region 4:   West                         46   4.72       138   5.57
+      47 167   County Non-Migrants       11616            28590
+47 169   Trousdale Total Migratio Tn       174              369
+  47 165 Sumner                   Tn        50  28.74       103  27.91
+  47 111 Macon                    Tn        29  16.67        63  17.07
+  47 189 Wilson                   Tn        22  12.64        46  12.47
+  47 037 Davidson                 Tn        18  10.34        42  11.38
+  47 159 Smith                    Tn        14   8.05        33   8.94
+   Same State                               15   8.62        29   7.86
+   Same Region, Diff. State                 16   9.20        34   9.21
+   Different Region                         10   5.75        19   5.15
+      47 169   County Non-Migrants        1941             4473
+47 171   Unicoi Total Migration F Tn       350              793
+  47 179 Washington               Tn        97  27.71       207  26.10
+  47 019 Carter                   Tn        29   8.29        70   8.83
+  47 059 Greene                   Tn        11   3.14        21   2.65
+  47 163 Sullivan                 Tn        11   3.14        24   3.03
+   Same State                               15   4.29        42   5.30
+   Same Region, Diff. State                133  38.00       324  40.86
+   Different Region                         54  15.43       105  13.24
+      47 171   County Non-Migrants        5655            12603
+47 173   Union Total Migration Fl Tn       294              620
+  47 093 Knox                     Tn       154  52.38       332  53.55
+  47 001 Anderson                 Tn        19   6.46        39   6.29
+  47 057 Grainger                 Tn        15   5.10        34   5.48
+  47 025 Claiborne                Tn        10   3.40        16   2.58
+   Same State                               31  10.54        53   8.55
+   Same Region, Diff. State                 37  12.59        78  12.58
+   Different Region                         28   9.52        68  10.97
+      47 173   County Non-Migrants        3739             9024
+47 175   Van Buren Total Migratio Tn        84              194
+  47 185 White                    Tn        20  23.81        42  21.65
+  47 177 Warren                   Tn        12  14.29        27  13.92
+   Same State                               27  32.14        69  35.57
+   Same Region, Diff. State                 12  14.29        29  14.95
+   Different Region                         13  15.48        27  13.92
+      47 175   County Non-Migrants        1421             3335
+47 177   Warren Total Migration F Tn       554             1229
+  47 031 Coffee                   Tn        45   8.12       102   8.30
+  47 037 Davidson                 Tn        35   6.32        77   6.27
+  47 149 Rutherford               Tn        32   5.78        58   4.72
+  47 041 De Kalb                  Tn        27   4.87        68   5.53
+  47 015 Cannon                   Tn        27   4.87        67   5.45
+  47 175 Van Buren                Tn        25   4.51        61   4.96
+  47 061 Grundy                   Tn        25   4.51        55   4.48
+  47 185 White                    Tn        19   3.43        49   3.99
+  47 141 Putnam                   Tn        14   2.53        23   1.87
+  47 003 Bedford                  Tn        12   2.17        23   1.87
+   Same State                               77  13.90       162  13.18
+   Region 1:   Northeast                    17   3.07        41   3.34
+   Region 2:   Midwest                      47   8.48        90   7.32
+   Region 3:   South                       135  24.37       317  25.79
+   Region 4:   West                         17   3.07        36   2.93
+      47 177   County Non-Migrants       11418            26259
+47 179   Washington Total Migrati Tn      2682             5348
+  47 163 Sullivan                 Tn       448  16.70       881  16.47
+  47 019 Carter                   Tn       334  12.45       678  12.68
+  47 059 Greene                   Tn       177   6.60       375   7.01
+  47 171 Unicoi                   Tn        97   3.62       201   3.76
+  47 093 Knox                     Tn        72   2.68       111   2.08
+  47 073 Hawkins                  Tn        49   1.83        78   1.46
+  57 005 APO / FPO Zip Code       FR        26    .97        63   1.18
+  47 037 Davidson                 Tn        25    .93        44    .82
+  47 065 Hamilton                 Tn        25    .93        37    .69
+  47 063 Hamblen                  Tn        21    .78        35    .65
+  47 157 Shelby                   Tn        19    .71        37    .69
+  51 520 Bristol city             Va        17    .63        21    .39
+  37 021 Buncombe                 NC        16    .60        31    .58
+  12 095 Orange                   Fl        16    .60        32    .60
+  51 169 Scott                    Va        16    .60        30    .56
+  57 001 Foreign / Overseas       FR        16    .60        26    .49
+  47 091 Johnson                  Tn        15    .56        22    .41
+  47 155 Sevier                   Tn        15    .56        28    .52
+  17 031 Cook                     Il        15    .56        47    .88
+  45 045 Greenville               SC        14    .52        28    .52
+  51 195 Wise                     Va        14    .52        25    .47
+  51 191 Washington               Va        14    .52        29    .54
+  51 059 Fairfax                  Va        14    .52        23    .43
+  13 067 Cobb                     Ga        12    .45        24    .45
+  01 073 Jefferson                Al        12    .45        23    .43
+  47 089 Jefferson                Tn        11    .41        13    .24
+  51 810 Virginia Beach city      Va        11    .41        15    .28
+  12 127 Volusia                  Fl        10    .37        20    .37
+  12 011 Broward                  Fl        10    .37        17    .32
+  51 167 Russell                  Va        10    .37        23    .43
+  12 031 Duval                    Fl        10    .37        15    .28
+   Same State                              102   3.80       222   4.15
+   Region 1:   Northeast                    86   3.21       180   3.37
+   Region 2:   Midwest                     158   5.89       353   6.60
+   Region 3:   South                       668  24.91      1332  24.91
+   Region 4:   West                        107   3.99       229   4.28
+      47 179   County Non-Migrants       33205            72382
+47 181   Wayne Total Migration Fl Tn       243              558
+  47 099 Lawrence                 Tn        53  21.81       127  22.76
+  01 077 Lauderdale               Al        19   7.82        48   8.60
+   Same State                               65  26.75       151  27.06
+   Same Region, Diff. State                 58  23.87       124  22.22
+   Different Region                         48  19.75       108  19.35
+      47 181   County Non-Migrants        4440            10396
+47 183   Weakley Total Migration  Tn       557             1156
+  47 131 Obion                    Tn        75  13.46       171  14.79
+  47 017 Carroll                  Tn        42   7.54        96   8.30
+  47 053 Gibson                   Tn        41   7.36        71   6.14
+  47 079 Henry                    Tn        32   5.75        73   6.31
+  47 157 Shelby                   Tn        31   5.57        57   4.93
+  47 113 Madison                  Tn        19   3.41        42   3.63
+  17 031 Cook                     Il        14   2.51        27   2.34
+  47 037 Davidson                 Tn        12   2.15        18   1.56
+  21 075 Fulton                   Ky        10   1.80        20   1.73
+   Same State                               72  12.93       131  11.33
+   Region 1:   Northeast                    14   2.51        25   2.16
+   Region 2:   Midwest                      60  10.77       139  12.02
+   Region 3:   South                       118  21.18       254  21.97
+   Region 4:   West                         17   3.05        32   2.77
+      47 183   County Non-Migrants        9980            22799
+47 185   White Total Migration Fl Tn       393              875
+  47 141 Putnam                   Tn        89  22.65       186  21.26
+  47 177 Warren                   Tn        32   8.14        74   8.46
+  47 175 Van Buren                Tn        29   7.38        71   8.11
+  47 035 Cumberland               Tn        17   4.33        37   4.23
+  47 037 Davidson                 Tn        17   4.33        35   4.00
+  47 041 De Kalb                  Tn        15   3.82        38   4.34
+   Same State                               52  13.23       133  15.20
+   Region 1:   Northeast                    16   4.07        32   3.66
+   Region 2:   Midwest                      44  11.20        84   9.60
+   Region 3:   South                        68  17.30       156  17.83
+   Region 4:   West                         14   3.56        29   3.31
+      47 185   County Non-Migrants        6947            16062
+47 187   Williamson Total Migrati Tn      3447             8062
+  47 037 Davidson                 Tn      1096  31.80      2324  28.83
+  47 119 Maury                    Tn       137   3.97       292   3.62
+  47 149 Rutherford               Tn       112   3.25       253   3.14
+  26 125 Oakland                  Mi        89   2.58       233   2.89
+  26 163 Wayne                    Mi        87   2.52       239   2.96
+  47 157 Shelby                   Tn        47   1.36       103   1.28
+  26 049 Genesee                  Mi        46   1.33        88   1.09
+  26 099 Macomb                   Mi        44   1.28       105   1.30
+  47 117 Marshall                 Tn        33    .96        83   1.03
+  47 043 Dickson                  Tn        31    .90        67    .83
+  47 081 Hickman                  Tn        29    .84        80    .99
+  47 189 Wilson                   Tn        27    .78        59    .73
+  06 037 Los Angeles              Ca        27    .78        73    .91
+  47 165 Sumner                   Tn        26    .75        53    .66
+  01 073 Jefferson                Al        24    .70        54    .67
+  12 011 Broward                  Fl        23    .67        62    .77
+  47 065 Hamilton                 Tn        20    .58        51    .63
+  39 153 Summit                   Oh        20    .58        53    .66
+  47 021 Cheatham                 Tn        20    .58        34    .42
+  17 031 Cook                     Il        20    .58        41    .51
+  48 113 Dallas                   Tx        18    .52        36    .45
+  13 067 Cobb                     Ga        17    .49        45    .56
+  13 121 Fulton                   Ga        17    .49        49    .61
+  57 005 APO / FPO Zip Code       FR        16    .46        35    .43
+  57 001 Foreign / Overseas       FR        15    .44        46    .57
+  47 093 Knox                     Tn        15    .44        40    .50
+  48 201 Harris                   Tx        14    .41        42    .52
+  04 013 Maricopa                 Az        14    .41        38    .47
+  21 111 Jefferson                Ky        14    .41        30    .37
+  48 439 Tarrant                  Tx        14    .41        31    .38
+  26 161 Washtenaw                Mi        14    .41        35    .43
+  06 073 San Diego                Ca        14    .41        32    .40
+  47 125 Montgomery               Tn        14    .41        24    .30
+  13 135 Gwinnett                 Ga        13    .38        44    .55
+  47 003 Bedford                  Tn        13    .38        20    .25
+  01 089 Madison                  Al        13    .38        37    .46
+  09 001 Fairfield                Ct        12    .35        40    .50
+  13 089 De Kalb                  Ga        12    .35        28    .35
+  39 049 Franklin                 Oh        12    .35        40    .50
+  29 189 St. Louis                Mo        12    .35        29    .36
+  17 043 Du Page                  Il        12    .35        36    .45
+  37 119 Mecklenburg              NC        12    .35        35    .43
+  47 141 Putnam                   Tn        12    .35        26    .32
+  06 059 Orange                   Ca        12    .35        35    .43
+  17 143 Peoria                   Il        11    .32        32    .40
+  26 145 Saginaw                  Mi        11    .32        23    .29
+  42 003 Allegheny                Pa        11    .32        25    .31
+  20 091 Johnson                  Ks        11    .32        27    .33
+  26 065 Ingham                   Mi        11    .32        29    .36
+  18 003 Allen                    In        10    .29        30    .37
+  29 095 Jackson                  Mo        10    .29        24    .30
+   Same State                              110   3.19       217   2.69
+   Region 1:   Northeast                   138   4.00       345   4.28
+   Region 2:   Midwest                     253   7.34       642   7.96
+   Region 3:   South                       495  14.36      1264  15.68
+   Region 4:   West                         87   2.52       204   2.53
+      47 187   County Non-Migrants       27585            68792
+47 189   Wilson Total Migration F Tn      2393             5203
+  47 037 Davidson                 Tn      1077  45.01      2347  45.11
+  47 165 Sumner                   Tn       123   5.14       265   5.09
+  47 149 Rutherford               Tn       119   4.97       254   4.88
+  47 159 Smith                    Tn        52   2.17       117   2.25
+  47 041 De Kalb                  Tn        26   1.09        58   1.11
+  47 187 Williamson               Tn        23    .96        46    .88
+  47 147 Robertson                Tn        22    .92        48    .92
+  57 005 APO / FPO Zip Code       FR        20    .84        41    .79
+  47 093 Knox                     Tn        19    .79        35    .67
+  47 157 Shelby                   Tn        19    .79        37    .71
+  47 169 Trousdale                Tn        18    .75        40    .77
+  47 141 Putnam                   Tn        18    .75        38    .73
+  47 125 Montgomery               Tn        17    .71        41    .79
+  47 021 Cheatham                 Tn        16    .67        26    .50
+  06 037 Los Angeles              Ca        15    .63        20    .38
+  47 065 Hamilton                 Tn        15    .63        26    .50
+  48 113 Dallas                   Tx        10    .42        23    .44
+  48 439 Tarrant                  Tx        10    .42        23    .44
+   Same State                              142   5.93       290   5.57
+   Region 1:   Northeast                    59   2.47       117   2.25
+   Region 2:   Midwest                     156   6.52       345   6.63
+   Region 3:   South                       348  14.54       819  15.74
+   Region 4:   West                         69   2.88       147   2.83
+      47 189   County Non-Migrants       24108            57277

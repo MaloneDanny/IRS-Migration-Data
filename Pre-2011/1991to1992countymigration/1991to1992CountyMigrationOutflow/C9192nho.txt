@@ -1,0 +1,501 @@
+33 001   Belknap Total Migration  NH      1574             2833
+  33 013 Merrimack                NH       358  22.74       648  22.87
+  33 009 Grafton                  NH        94   5.97       202   7.13
+  33 011 Hillsborough             NH        82   5.21       144   5.08
+  33 015 Rockingham               NH        74   4.70       131   4.62
+  33 003 Carroll                  NH        63   4.00       119   4.20
+  33 017 Strafford                NH        59   3.75       114   4.02
+  25 017 Middlesex                Ma        47   2.99        76   2.68
+  25 025 Suffolk                  Ma        20   1.27        23    .81
+  25 021 Norfolk                  Ma        18   1.14        33   1.16
+  25 009 Essex                    Ma        17   1.08        31   1.09
+  57 005 APO / FPO Zip Code       FR        17   1.08        22    .78
+  06 037 Los Angeles              Ca        17   1.08        21    .74
+  23 031 York                     Me        17   1.08        33   1.16
+  23 005 Cumberland               Me        13    .83        14    .49
+  12 099 Palm Beach               Fl        13    .83        20    .71
+  12 115 Sarasota                 Fl        13    .83        22    .78
+  33 005 Cheshire                 NH        12    .76        21    .74
+  04 013 Maricopa                 Az        11    .70        21    .74
+  12 021 Collier                  Fl        10    .64        17    .60
+  53 033 King                     Wa        10    .64        14    .49
+   Same State                               12    .76        18    .64
+   Region 1:   Northeast                   189  12.01       364  12.85
+   Region 2:   Midwest                      47   2.99        84   2.97
+   Region 3:   South                       247  15.69       451  15.92
+   Region 4:   West                        114   7.24       190   6.71
+      33 001   County Non-Migrants       18505            40577
+33 003   Carroll Total Migration  NH      1116             1892
+  33 017 Strafford                NH       109   9.77       221  11.68
+  33 001 Belknap                  NH        62   5.56       100   5.29
+  33 015 Rockingham               NH        54   4.84        83   4.39
+  23 017 Oxford                   Me        49   4.39       112   5.92
+  25 017 Middlesex                Ma        48   4.30        71   3.75
+  25 009 Essex                    Ma        46   4.12        66   3.49
+  33 011 Hillsborough             NH        32   2.87        50   2.64
+  23 005 Cumberland               Me        32   2.87        44   2.33
+  23 031 York                     Me        31   2.78        54   2.85
+  33 013 Merrimack                NH        30   2.69        51   2.70
+  33 009 Grafton                  NH        29   2.60        38   2.01
+  25 025 Suffolk                  Ma        19   1.70        29   1.53
+  33 007 Coos                     NH        15   1.34        20   1.06
+  12 099 Palm Beach               Fl        13   1.16        25   1.32
+  25 001 Barnstable               Ma        13   1.16        18    .95
+  25 023 Plymouth                 Ma        12   1.08        24   1.27
+  53 033 King                     Wa        12   1.08        14    .74
+   All Migration Flows                     510  45.70       872  46.09
+      33 003   County Non-Migrants       14640            30803
+33 005   Cheshire Total Migration NH      1668             2971
+  33 011 Hillsborough             NH       233  13.97       441  14.84
+  50 025 Windham                  Vt       157   9.41       283   9.53
+  25 027 Worcester                Ma        63   3.78       136   4.58
+  33 019 Sullivan                 NH        54   3.24        96   3.23
+  33 015 Rockingham               NH        36   2.16        52   1.75
+  25 017 Middlesex                Ma        35   2.10        59   1.99
+  25 011 Franklin                 Ma        32   1.92        61   2.05
+  33 013 Merrimack                NH        31   1.86        47   1.58
+  25 025 Suffolk                  Ma        26   1.56        36   1.21
+  09 003 Hartford                 Ct        24   1.44        38   1.28
+  50 027 Windsor                  Vt        23   1.38        53   1.78
+  33 017 Strafford                NH        22   1.32        28    .94
+  04 013 Maricopa                 Az        20   1.20        27    .91
+  25 013 Hampden                  Ma        15    .90        27    .91
+  33 009 Grafton                  NH        14    .84        36   1.21
+  09 009 New Haven                Ct        14    .84        16    .54
+  25 015 Hampshire                Ma        14    .84        19    .64
+  23 005 Cumberland               Me        13    .78        22    .74
+  57 005 APO / FPO Zip Code       FR        13    .78        16    .54
+  25 021 Norfolk                  Ma        12    .72        21    .71
+  33 001 Belknap                  NH        12    .72        16    .54
+  09 001 Fairfield                Ct        10    .60        11    .37
+  25 023 Plymouth                 Ma        10    .60        20    .67
+  50 007 Chittenden               Vt        10    .60        18    .61
+   Same State                               11    .66        15    .50
+   Region 1:   Northeast                   223  13.37       377  12.69
+   Region 2:   Midwest                      84   5.04       179   6.02
+   Region 3:   South                       313  18.76       567  19.08
+   Region 4:   West                        144   8.63       254   8.55
+      33 005   County Non-Migrants       25189            55502
+33 007   Coos Total Migration Flo NH       758             1365
+  33 009 Grafton                  NH        89  11.74       158  11.58
+  33 011 Hillsborough             NH        58   7.65        98   7.18
+  50 009 Essex                    Vt        46   6.07       103   7.55
+  33 013 Merrimack                NH        34   4.49        56   4.10
+  33 003 Carroll                  NH        28   3.69        50   3.66
+  33 015 Rockingham               NH        21   2.77        32   2.34
+  33 017 Strafford                NH        19   2.51        23   1.68
+  25 017 Middlesex                Ma        17   2.24        22   1.61
+  57 005 APO / FPO Zip Code       FR        15   1.98        19   1.39
+  33 001 Belknap                  NH        15   1.98        24   1.76
+  50 007 Chittenden               Vt        14   1.85        15   1.10
+  50 005 Caledonia                Vt        11   1.45        21   1.54
+  23 005 Cumberland               Me        10   1.32        17   1.25
+   Same State                               15   1.98        26   1.90
+   Region 1:   Northeast                   154  20.32       295  21.61
+   Region 2:   Midwest                      21   2.77        43   3.15
+   Region 3:   South                       127  16.75       243  17.80
+   Region 4:   West                         64   8.44       120   8.79
+      33 007   County Non-Migrants       12813            28504
+33 009   Grafton Total Migration  NH      2458             4100
+  50 027 Windsor                  Vt       200   8.14       348   8.49
+  33 013 Merrimack                NH       126   5.13       194   4.73
+  33 001 Belknap                  NH       113   4.60       214   5.22
+  33 019 Sullivan                 NH        97   3.95       188   4.59
+  33 011 Hillsborough             NH        88   3.58       135   3.29
+  50 017 Orange                   Vt        77   3.13       147   3.59
+  33 007 Coos                     NH        72   2.93       137   3.34
+  25 017 Middlesex                Ma        67   2.73       103   2.51
+  33 015 Rockingham               NH        64   2.60       108   2.63
+  50 005 Caledonia                Vt        44   1.79        77   1.88
+  25 025 Suffolk                  Ma        37   1.51        41   1.00
+  33 017 Strafford                NH        35   1.42        60   1.46
+  33 003 Carroll                  NH        27   1.10        64   1.56
+  53 033 King                     Wa        25   1.02        38    .93
+  25 027 Worcester                Ma        25   1.02        48   1.17
+  09 001 Fairfield                Ct        25   1.02        50   1.22
+  36 061 New York                 NY        24    .98        26    .63
+  25 021 Norfolk                  Ma        23    .94        32    .78
+  33 005 Cheshire                 NH        23    .94        44   1.07
+  06 037 Los Angeles              Ca        23    .94        35    .85
+  57 001 Foreign / Overseas       FR        21    .85        30    .73
+  12 099 Palm Beach               Fl        20    .81        32    .78
+  23 005 Cumberland               Me        20    .81        33    .80
+  57 005 APO / FPO Zip Code       FR        20    .81        20    .49
+  50 007 Chittenden               Vt        19    .77        27    .66
+  25 009 Essex                    Ma        18    .73        31    .76
+  50 023 Washington               Vt        17    .69        25    .61
+  24 031 Montgomery               Md        15    .61        19    .46
+  17 031 Cook                     Il        14    .57        14    .34
+  09 003 Hartford                 Ct        14    .57        21    .51
+  04 013 Maricopa                 Az        13    .53        20    .49
+  25 005 Bristol                  Ma        12    .49        20    .49
+  06 085 Santa Clara              Ca        12    .49        15    .37
+  50 009 Essex                    Vt        11    .45        25    .61
+  11 001 Wash.,D.C.               DC        11    .45        12    .29
+  25 023 Plymouth                 Ma        11    .45        19    .46
+  12 103 Pinellas                 Fl        11    .45        20    .49
+  06 075 San Francisco            Ca        11    .45        12    .29
+  08 013 Boulder                  Co        11    .45        12    .29
+   Region 1:   Northeast                   303  12.33       503  12.27
+   Region 2:   Midwest                     126   5.13       220   5.37
+   Region 3:   South                       337  13.71       567  13.83
+   Region 4:   West                        196   7.97       314   7.66
+      33 009   County Non-Migrants       26757            57584
+33 011   Hillsborough Total Migra NH      9063            16335
+  33 015 Rockingham               NH      1179  13.01      2099  12.85
+  25 017 Middlesex                Ma       994  10.97      1701  10.41
+  33 013 Merrimack                NH       950  10.48      1787  10.94
+  25 009 Essex                    Ma       218   2.41       359   2.20
+  33 005 Cheshire                 NH       202   2.23       388   2.38
+  25 027 Worcester                Ma       162   1.79       280   1.71
+  25 025 Suffolk                  Ma       145   1.60       178   1.09
+  33 017 Strafford                NH       144   1.59       215   1.32
+  33 001 Belknap                  NH       126   1.39       228   1.40
+  25 021 Norfolk                  Ma       111   1.22       168   1.03
+  57 005 APO / FPO Zip Code       FR        87    .96       139    .85
+  33 009 Grafton                  NH        83    .92       127    .78
+  12 011 Broward                  Fl        72    .79       136    .83
+  12 103 Pinellas                 Fl        68    .75       116    .71
+  04 013 Maricopa                 Az        65    .72       123    .75
+  23 005 Cumberland               Me        64    .71        99    .61
+  57 001 Foreign / Overseas       FR        59    .65       117    .72
+  06 037 Los Angeles              Ca        58    .64        97    .59
+  09 003 Hartford                 Ct        56    .62        94    .58
+  06 073 San Diego                Ca        55    .61        78    .48
+  23 031 York                     Me        50    .55        77    .47
+  51 059 Fairfax                  Va        45    .50       102    .62
+  12 009 Brevard                  Fl        44    .49        92    .56
+  33 007 Coos                     NH        43    .47        71    .43
+  25 023 Plymouth                 Ma        42    .46        78    .48
+  12 095 Orange                   Fl        42    .46        64    .39
+  17 031 Cook                     Il        41    .45        63    .39
+  06 059 Orange                   Ca        41    .45        59    .36
+  53 033 King                     Wa        39    .43        63    .39
+  33 003 Carroll                  NH        39    .43        75    .46
+  12 099 Palm Beach               Fl        38    .42        71    .43
+  50 007 Chittenden               Vt        37    .41        67    .41
+  09 009 New Haven                Ct        35    .39        63    .39
+  36 061 New York                 NY        34    .38        42    .26
+  12 127 Volusia                  Fl        34    .38        50    .31
+  48 113 Dallas                   Tx        34    .38        71    .43
+  12 057 Hillsborough             Fl        34    .38        65    .40
+  25 005 Bristol                  Ma        33    .36        60    .37
+  06 085 Santa Clara              Ca        33    .36        68    .42
+  37 183 Wake                     NC        33    .36        67    .41
+  25 001 Barnstable               Ma        33    .36        59    .36
+  33 019 Sullivan                 NH        32    .35        60    .37
+  12 071 Lee                      Fl        32    .35        57    .35
+  12 115 Sarasota                 Fl        29    .32        48    .29
+  23 019 Penobscot                Me        28    .31        53    .32
+  37 133 Onslow                   NC        28    .31        45    .28
+  09 001 Fairfield                Ct        28    .31        53    .32
+  44 007 Providence               RI        27    .30        58    .36
+  06 075 San Francisco            Ca        25    .28        30    .18
+  08 041 El Paso                  Co        25    .28        46    .28
+  36 029 Erie                     NY        25    .28        39    .24
+  23 011 Kennebec                 Me        24    .26        49    .30
+  24 031 Montgomery               Md        24    .26        32    .20
+  12 117 Seminole                 Fl        24    .26        45    .28
+  25 015 Hampshire                Ma        24    .26        41    .25
+  12 015 Charlotte                Fl        24    .26        45    .28
+  12 101 Pasco                    Fl        23    .25        42    .26
+  36 055 Monroe                   NY        23    .25        43    .26
+  04 019 Pima                     Az        23    .25        40    .24
+  42 003 Allegheny                Pa        22    .24        45    .28
+  12 105 Polk                     Fl        22    .24        33    .20
+  36 091 Saratoga                 NY        22    .24        37    .23
+  36 103 Suffolk                  NY        22    .24        47    .29
+  32 003 Clark                    Nv        22    .24        36    .22
+  11 001 Wash.,D.C.               DC        22    .24        23    .14
+  15 003 Honolulu                 Hi        21    .23        37    .23
+  48 201 Harris                   Tx        21    .23        57    .35
+  25 013 Hampden                  Ma        21    .23        37    .23
+  12 031 Duval                    Fl        21    .23        33    .20
+  49 035 Salt Lake                Ut        20    .22        32    .20
+  48 453 Travis                   Tx        20    .22        38    .23
+  17 043 Du Page                  Il        19    .21        47    .29
+  12 021 Collier                  Fl        19    .21        26    .16
+  42 029 Chester                  Pa        18    .20        39    .24
+  51 810 Virginia Beach city      Va        18    .20        35    .21
+  48 029 Bexar                    Tx        18    .20        34    .21
+  42 091 Montgomery               Pa        17    .19        29    .18
+  36 067 Onondaga                 NY        17    .19        28    .17
+  12 017 Citrus                   Fl        17    .19        30    .18
+  50 021 Rutland                  Vt        17    .19        29    .18
+  06 081 San Mateo                Ca        17    .19        35    .21
+  08 005 Arapahoe                 Co        17    .19        39    .24
+  36 001 Albany                   NY        17    .19        31    .19
+  34 027 Morris                   NJ        16    .18        32    .20
+  36 081 Queens                   NY        16    .18        24    .15
+  12 025 Dade                     Fl        16    .18        32    .20
+  08 013 Boulder                  Co        16    .18        28    .17
+  27 053 Hennepin                 Mn        16    .18        33    .20
+  51 013 Arlington                Va        16    .18        20    .12
+  13 067 Cobb                     Ga        16    .18        29    .18
+  45 019 Charleston               SC        15    .17        30    .18
+  39 035 Cuyahoga                 Oh        15    .17        35    .21
+  36 119 Westchester              NY        15    .17        25    .15
+  02 020 Anchorage Borough        Ak        14    .15        30    .18
+  37 119 Mecklenburg              NC        14    .15        27    .17
+  40 109 Oklahoma                 Ok        14    .15        25    .15
+  25 011 Franklin                 Ma        14    .15        34    .21
+  12 097 Osceola                  Fl        14    .15        17    .10
+  36 059 Nassau                   NY        14    .15        23    .14
+  23 003 Aroostook                Me        14    .15        31    .19
+  13 135 Gwinnett                 Ga        14    .15        34    .21
+  34 003 Bergen                   NJ        14    .15        29    .18
+  09 007 Middlesex                Ct        13    .14        22    .13
+  09 011 New London               Ct        13    .14        21    .13
+  24 003 Anne Arundel             Md        13    .14        24    .15
+  41 051 Multnomah                Or        13    .14        28    .17
+  12 081 Manatee                  Fl        13    .14        21    .13
+  12 111 St. Lucie                Fl        13    .14        34    .21
+  12 069 Lake                     Fl        13    .14        24    .15
+  39 049 Franklin                 Oh        12    .13        17    .10
+  08 031 Denver                   Co        12    .13        19    .12
+  12 083 Marion                   Fl        12    .13        19    .12
+  44 003 Kent                     RI        12    .13        20    .12
+  36 047 Kings                    NY        12    .13        13    .08
+  10 003 New Castle               De        12    .13        18    .11
+  50 025 Windham                  Vt        12    .13        26    .16
+  09 013 Tolland                  Ct        12    .13        15    .09
+  37 081 Guilford                 NC        12    .13        27    .17
+  13 121 Fulton                   Ga        12    .13        21    .13
+  26 161 Washtenaw                Mi        12    .13        27    .17
+  48 439 Tarrant                  Tx        12    .13        42    .26
+  44 005 Newport                  RI        11    .12        15    .09
+  01 089 Madison                  Al        11    .12        28    .17
+  36 069 Ontario                  NY        11    .12        25    .15
+  53 011 Clark                    Wa        11    .12        20    .12
+  29 189 St. Louis                Mo        11    .12        19    .12
+  06 067 Sacramento               Ca        11    .12        20    .12
+  26 163 Wayne                    Mi        11    .12        17    .10
+  35 001 Bernalillo               NM        10    .11        16    .10
+  09 005 Litchfield               Ct        10    .11        13    .08
+  25 003 Berkshire                Ma        10    .11        14    .09
+  12 033 Escambia                 Fl        10    .11        14    .09
+  34 007 Camden                   NJ        10    .11        20    .12
+  50 027 Windsor                  Vt        10    .11        17    .10
+  50 023 Washington               Vt        10    .11        17    .10
+  17 097 Lake                     Il        10    .11        17    .10
+  37 051 Cumberland               NC        10    .11        12    .07
+  06 111 Ventura                  Ca        10    .11        20    .12
+  08 069 Larimer                  Co        10    .11        13    .08
+   Region 1:   Northeast                   425   4.69       790   4.84
+   Region 2:   Midwest                     361   3.98       791   4.84
+   Region 3:   South                       630   6.95      1285   7.87
+   Region 4:   West                        305   3.37       537   3.29
+      33 011   County Non-Migrants      124405           276154
+33 013   Merrimack Total Migratio NH      3826             7091
+  33 011 Hillsborough             NH      1136  29.69      2236  31.53
+  33 001 Belknap                  NH       323   8.44       632   8.91
+  33 015 Rockingham               NH       244   6.38       440   6.21
+  33 009 Grafton                  NH       141   3.69       239   3.37
+  25 017 Middlesex                Ma       112   2.93       199   2.81
+  33 017 Strafford                NH        73   1.91       139   1.96
+  33 019 Sullivan                 NH        59   1.54       111   1.57
+  25 009 Essex                    Ma        36    .94        69    .97
+  33 003 Carroll                  NH        32    .84        53    .75
+  25 025 Suffolk                  Ma        31    .81        39    .55
+  57 005 APO / FPO Zip Code       FR        29    .76        42    .59
+  23 005 Cumberland               Me        29    .76        47    .66
+  33 005 Cheshire                 NH        28    .73        36    .51
+  23 031 York                     Me        28    .73        54    .76
+  33 007 Coos                     NH        26    .68        54    .76
+  25 021 Norfolk                  Ma        23    .60        36    .51
+  04 013 Maricopa                 Az        22    .58        41    .58
+  50 007 Chittenden               Vt        21    .55        33    .47
+  25 027 Worcester                Ma        21    .55        42    .59
+  09 009 New Haven                Ct        20    .52        35    .49
+  36 061 New York                 NY        20    .52        21    .30
+  09 001 Fairfield                Ct        18    .47        24    .34
+  12 103 Pinellas                 Fl        16    .42        30    .42
+  53 033 King                     Wa        16    .42        23    .32
+  12 071 Lee                      Fl        16    .42        37    .52
+  12 099 Palm Beach               Fl        15    .39        22    .31
+  12 127 Volusia                  Fl        15    .39        38    .54
+  51 059 Fairfax                  Va        14    .37        27    .38
+  12 057 Hillsborough             Fl        14    .37        25    .35
+  15 003 Honolulu                 Hi        14    .37        25    .35
+  09 003 Hartford                 Ct        14    .37        23    .32
+  23 019 Penobscot                Me        13    .34        28    .39
+  06 037 Los Angeles              Ca        13    .34        17    .24
+  25 023 Plymouth                 Ma        13    .34        24    .34
+  06 073 San Diego                Ca        13    .34        16    .23
+  36 059 Nassau                   NY        12    .31        19    .27
+  11 001 Wash.,D.C.               DC        12    .31        12    .17
+  12 031 Duval                    Fl        12    .31        23    .32
+  06 085 Santa Clara              Ca        11    .29        13    .18
+  12 011 Broward                  Fl        11    .29        13    .18
+  57 001 Foreign / Overseas       FR        11    .29        22    .31
+  12 083 Marion                   Fl        10    .26        20    .28
+  12 095 Orange                   Fl        10    .26        14    .20
+  12 009 Brevard                  Fl        10    .26        25    .35
+  17 031 Cook                     Il        10    .26        14    .20
+  06 059 Orange                   Ca        10    .26        15    .21
+   Region 1:   Northeast                   356   9.30       651   9.18
+   Region 2:   Midwest                     120   3.14       252   3.55
+   Region 3:   South                       362   9.46       681   9.60
+   Region 4:   West                        211   5.51       360   5.08
+      33 013   County Non-Migrants       43172            96239
+33 015   Rockingham Total Migrati NH      8213            14710
+  33 011 Hillsborough             NH      1333  16.23      2244  15.25
+  25 009 Essex                    Ma       974  11.86      1762  11.98
+  33 017 Strafford                NH       827  10.07      1418   9.64
+  25 017 Middlesex                Ma       566   6.89       974   6.62
+  23 031 York                     Me       308   3.75       536   3.64
+  33 013 Merrimack                NH       287   3.49       556   3.78
+  25 025 Suffolk                  Ma       142   1.73       197   1.34
+  23 005 Cumberland               Me        84   1.02       142    .97
+  25 021 Norfolk                  Ma        84   1.02       139    .94
+  57 005 APO / FPO Zip Code       FR        74    .90       118    .80
+  33 001 Belknap                  NH        73    .89       136    .92
+  33 009 Grafton                  NH        70    .85       109    .74
+  25 027 Worcester                Ma        64    .78       117    .80
+  12 103 Pinellas                 Fl        64    .78       110    .75
+  33 003 Carroll                  NH        63    .77       134    .91
+  12 011 Broward                  Fl        50    .61        87    .59
+  25 023 Plymouth                 Ma        42    .51        77    .52
+  04 013 Maricopa                 Az        42    .51        66    .45
+  06 037 Los Angeles              Ca        42    .51        62    .42
+  25 001 Barnstable               Ma        40    .49        79    .54
+  06 073 San Diego                Ca        37    .45        55    .37
+  12 009 Brevard                  Fl        37    .45        82    .56
+  12 057 Hillsborough             Fl        36    .44        64    .44
+  33 005 Cheshire                 NH        36    .44        59    .40
+  12 071 Lee                      Fl        32    .39        59    .40
+  06 059 Orange                   Ca        32    .39        46    .31
+  12 127 Volusia                  Fl        31    .38        57    .39
+  09 011 New London               Ct        29    .35        55    .37
+  09 003 Hartford                 Ct        28    .34        52    .35
+  09 001 Fairfield                Ct        27    .33        45    .31
+  12 115 Sarasota                 Fl        27    .33        55    .37
+  51 059 Fairfax                  Va        26    .32        49    .33
+  12 099 Palm Beach               Fl        26    .32        35    .24
+  12 095 Orange                   Fl        26    .32        37    .25
+  17 031 Cook                     Il        26    .32        43    .29
+  57 001 Foreign / Overseas       FR        25    .30        63    .43
+  36 061 New York                 NY        24    .29        37    .25
+  53 033 King                     Wa        24    .29        34    .23
+  06 085 Santa Clara              Ca        24    .29        35    .24
+  09 009 New Haven                Ct        24    .29        45    .31
+  23 019 Penobscot                Me        23    .28        33    .22
+  23 003 Aroostook                Me        22    .27        53    .36
+  33 019 Sullivan                 NH        21    .26        38    .26
+  50 007 Chittenden               Vt        21    .26        37    .25
+  25 005 Bristol                  Ma        20    .24        27    .18
+  12 025 Dade                     Fl        19    .23        28    .19
+  33 007 Coos                     NH        19    .23        30    .20
+  25 013 Hampden                  Ma        18    .22        34    .23
+  06 075 San Francisco            Ca        18    .22        22    .15
+  37 183 Wake                     NC        17    .21        39    .27
+  12 021 Collier                  Fl        17    .21        23    .16
+  15 003 Honolulu                 Hi        17    .21        29    .20
+  37 051 Cumberland               NC        16    .19        29    .20
+  48 439 Tarrant                  Tx        16    .19        40    .27
+  44 007 Providence               RI        16    .19        23    .16
+  23 011 Kennebec                 Me        16    .19        32    .22
+  12 117 Seminole                 Fl        16    .19        34    .23
+  42 003 Allegheny                Pa        15    .18        26    .18
+  12 097 Osceola                  Fl        15    .18        34    .23
+  12 015 Charlotte                Fl        15    .18        24    .16
+  12 081 Manatee                  Fl        15    .18        28    .19
+  04 019 Pima                     Az        15    .18        30    .20
+  17 043 Du Page                  Il        15    .18        40    .27
+  24 031 Montgomery               Md        15    .18        22    .15
+  48 201 Harris                   Tx        14    .17        29    .20
+  51 810 Virginia Beach city      Va        14    .17        31    .21
+  51 013 Arlington                Va        14    .17        19    .13
+  32 003 Clark                    Nv        14    .17        23    .16
+  45 019 Charleston               SC        14    .17        24    .16
+  12 101 Pasco                    Fl        13    .16        24    .16
+  12 083 Marion                   Fl        13    .16        22    .15
+  02 020 Anchorage Borough        Ak        12    .15        22    .15
+  36 055 Monroe                   NY        12    .15        28    .19
+  37 119 Mecklenburg              NC        12    .15        16    .11
+  36 103 Suffolk                  NY        12    .15        20    .14
+  48 113 Dallas                   Tx        12    .15        28    .19
+  13 121 Fulton                   Ga        12    .15        19    .13
+  12 031 Duval                    Fl        12    .15        19    .13
+  10 003 New Castle               De        11    .13        20    .14
+  50 027 Windsor                  Vt        11    .13        23    .16
+  37 133 Onslow                   NC        11    .13        17    .12
+  42 029 Chester                  Pa        11    .13        22    .15
+  12 069 Lake                     Fl        10    .12        18    .12
+  34 005 Burlington               NJ        10    .12        17    .12
+  39 049 Franklin                 Oh        10    .12        13    .09
+  12 105 Polk                     Fl        10    .12        18    .12
+  23 017 Oxford                   Me        10    .12        15    .10
+  36 001 Albany                   NY        10    .12        14    .10
+  13 067 Cobb                     Ga        10    .12        22    .15
+  44 005 Newport                  RI        10    .12        21    .14
+  09 007 Middlesex                Ct        10    .12        17    .12
+  08 013 Boulder                  Co        10    .12        15    .10
+  34 027 Morris                   NJ        10    .12        29    .20
+  23 001 Androscoggin             Me        10    .12        16    .11
+  23 009 Hancock                  Me        10    .12        19    .13
+  48 029 Bexar                    Tx        10    .12        21    .14
+  11 001 Wash.,D.C.               DC        10    .12        10    .07
+  39 153 Summit                   Oh        10    .12        17    .12
+   Region 1:   Northeast                   439   5.35       832   5.66
+   Region 2:   Midwest                     277   3.37       587   3.99
+   Region 3:   South                       598   7.28      1235   8.40
+   Region 4:   West                        292   3.56       543   3.69
+      33 015   County Non-Migrants       90693           203025
+33 017   Strafford Total Migratio NH      3129             5564
+  33 015 Rockingham               NH       700  22.37      1147  20.61
+  23 031 York                     Me       352  11.25       737  13.25
+  33 011 Hillsborough             NH       134   4.28       212   3.81
+  33 003 Carroll                  NH        98   3.13       192   3.45
+  25 017 Middlesex                Ma        82   2.62       118   2.12
+  33 001 Belknap                  NH        77   2.46       141   2.53
+  33 013 Merrimack                NH        72   2.30       139   2.50
+  25 009 Essex                    Ma        68   2.17       120   2.16
+  57 005 APO / FPO Zip Code       FR        36   1.15        60   1.08
+  25 025 Suffolk                  Ma        35   1.12        43    .77
+  33 009 Grafton                  NH        33   1.05        47    .84
+  25 021 Norfolk                  Ma        30    .96        47    .84
+  23 005 Cumberland               Me        27    .86        48    .86
+  33 005 Cheshire                 NH        21    .67        36    .65
+  33 007 Coos                     NH        20    .64        34    .61
+  06 073 San Diego                Ca        20    .64        26    .47
+  12 103 Pinellas                 Fl        18    .58        33    .59
+  12 071 Lee                      Fl        18    .58        27    .49
+  25 027 Worcester                Ma        17    .54        41    .74
+  57 001 Foreign / Overseas       FR        17    .54        25    .45
+  51 810 Virginia Beach city      Va        15    .48        34    .61
+  06 037 Los Angeles              Ca        15    .48        20    .36
+  15 003 Honolulu                 Hi        15    .48        20    .36
+  51 059 Fairfax                  Va        14    .45        28    .50
+  25 001 Barnstable               Ma        13    .42        16    .29
+  09 003 Hartford                 Ct        13    .42        20    .36
+  09 011 New London               Ct        13    .42        34    .61
+  12 011 Broward                  Fl        12    .38        14    .25
+  23 019 Penobscot                Me        12    .38        27    .49
+  12 099 Palm Beach               Fl        11    .35        14    .25
+  12 097 Osceola                  Fl        11    .35        15    .27
+  09 001 Fairfield                Ct        11    .35        20    .36
+  53 033 King                     Wa        10    .32        15    .27
+  25 013 Hampden                  Ma        10    .32        19    .34
+  12 057 Hillsborough             Fl        10    .32        20    .36
+   All Migration Flows                    1069  34.16      1975  35.50
+      33 017   County Non-Migrants       35297            76677
+33 019   Sullivan Total Migration NH      1018             1877
+  33 009 Grafton                  NH       115  11.30       230  12.25
+  33 005 Cheshire                 NH       102  10.02       193  10.28
+  50 027 Windsor                  Vt        94   9.23       166   8.84
+  33 013 Merrimack                NH        73   7.17       128   6.82
+  33 011 Hillsborough             NH        66   6.48       112   5.97
+  50 025 Windham                  Vt        17   1.67        34   1.81
+  33 015 Rockingham               NH        15   1.47        23   1.23
+  33 017 Strafford                NH        13   1.28        17    .91
+  57 005 APO / FPO Zip Code       FR        13   1.28        15    .80
+  25 017 Middlesex                Ma        12   1.18        14    .75
+  33 001 Belknap                  NH        12   1.18        21   1.12
+  04 013 Maricopa                 Az        10    .98        14    .75
+   Same State                               11   1.08        26   1.39
+   Region 1:   Northeast                   193  18.96       384  20.46
+   Region 2:   Midwest                      32   3.14        58   3.09
+   Region 3:   South                       173  16.99       339  18.06
+   Region 4:   West                         67   6.58       103   5.49
+      33 019   County Non-Migrants       14042            30907

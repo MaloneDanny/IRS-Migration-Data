@@ -1,0 +1,872 @@
+32 001   Churchill Total Migratio Nv       954             2214
+  32 031 Washoe                   Nv        87   9.12       164   7.41
+  57 001 Foreign / Overseas       FR        85   8.91       190   8.58
+  06 073 San Diego                Ca        39   4.09       106   4.79
+  32 021 Mineral                  Nv        35   3.67        79   3.57
+  32 019 Lyon                     Nv        31   3.25        79   3.57
+  15 003 Honolulu                 Hi        28   2.94        78   3.52
+  32 510 Carson City city         Nv        25   2.62        57   2.57
+  06 037 Los Angeles              Ca        24   2.52        58   2.62
+  06 031 Kings                    Ca        19   1.99        55   2.48
+  32 023 Nye                      Nv        19   1.99        52   2.35
+  32 003 Clark                    Nv        17   1.78        31   1.40
+  12 031 Duval                    Fl        14   1.47        38   1.72
+  06 111 Ventura                  Ca        14   1.47        36   1.63
+  06 071 San Bernardino           Ca        13   1.36        39   1.76
+  53 029 Island                   Wa        12   1.26        45   2.03
+  32 033 White Pine               Nv        12   1.26        32   1.45
+  47 157 Shelby                   Tn        11   1.15        16    .72
+  51 810 Virginia Beach city      Va        10   1.05        25   1.13
+   Same State                               35   3.67        57   2.57
+   Region 1:   Northeast                    24   2.52        53   2.39
+   Region 2:   Midwest                      52   5.45       111   5.01
+   Region 3:   South                       103  10.80       243  10.98
+   Region 4:   West                        245  25.68       570  25.75
+      32 001   County Non-Migrants        5534            13092
+32 003   Clark Total Migration Fl Nv     35695            69675
+  06 037 Los Angeles              Ca      4494  12.59      8965  12.87
+  04 013 Maricopa                 Az      1698   4.76      3492   5.01
+  06 059 Orange                   Ca      1259   3.53      2421   3.47
+  06 073 San Diego                Ca      1166   3.27      2242   3.22
+  57 001 Foreign / Overseas       FR      1165   3.26      2567   3.68
+  06 071 San Bernardino           Ca       793   2.22      1661   2.38
+  32 031 Washoe                   Nv       747   2.09      1370   1.97
+  17 031 Cook                     Il       718   2.01      1399   2.01
+  04 015 Mohave                   Az       615   1.72      1123   1.61
+  06 065 Riverside                Ca       548   1.54      1137   1.63
+  15 003 Honolulu                 Hi       488   1.37      1037   1.49
+  06 111 Ventura                  Ca       458   1.28       923   1.32
+  04 019 Pima                     Az       446   1.25       879   1.26
+  49 035 Salt Lake                Ut       399   1.12       891   1.28
+  35 001 Bernalillo               NM       294    .82       583    .84
+  06 085 Santa Clara              Ca       260    .73       515    .74
+  32 023 Nye                      Nv       253    .71       468    .67
+  08 041 El Paso                  Co       247    .69       467    .67
+  48 141 El Paso                  Tx       240    .67       565    .81
+  48 113 Dallas                   Tx       198    .55       354    .51
+  53 033 King                     Wa       193    .54       346    .50
+  06 001 Alameda                  Ca       189    .53       350    .50
+  48 201 Harris                   Tx       184    .52       344    .49
+  08 031 Denver                   Co       176    .49       295    .42
+  06 029 Kern                     Ca       167    .47       366    .53
+  26 163 Wayne                    Mi       166    .47       267    .38
+  48 029 Bexar                    Tx       166    .47       347    .50
+  06 067 Sacramento               Ca       160    .45       305    .44
+  12 011 Broward                  Fl       157    .44       243    .35
+  36 103 Suffolk                  NY       153    .43       310    .44
+  06 083 Santa Barbara            Ca       152    .43       308    .44
+  12 025 Dade                     Fl       152    .43       267    .38
+  08 005 Arapahoe                 Co       146    .41       299    .43
+  08 059 Jefferson                Co       142    .40       269    .39
+  49 053 Washington               Ut       141    .40       360    .52
+  34 001 Atlantic                 NJ       139    .39       275    .39
+  39 035 Cuyahoga                 Oh       138    .39       233    .33
+  48 439 Tarrant                  Tx       138    .39       251    .36
+  49 049 Utah                     Ut       137    .38       376    .54
+  36 047 Kings                    NY       129    .36       250    .36
+  36 059 Nassau                   NY       126    .35       236    .34
+  55 079 Milwaukee                Wi       119    .33       194    .28
+  36 081 Queens                   NY       118    .33       226    .32
+  27 053 Hennepin                 Mn       112    .31       172    .25
+  08 001 Adams                    Co       105    .29       217    .31
+  04 025 Yavapai                  Az       105    .29       210    .30
+  40 109 Oklahoma                 Ok       105    .29       200    .29
+  48 453 Travis                   Tx       100    .28       192    .28
+  26 125 Oakland                  Mi        98    .27       149    .21
+  17 043 Du Page                  Il        98    .27       178    .26
+  49 057 Weber                    Ut        96    .27       206    .30
+  49 011 Davis                    Ut        95    .27       224    .32
+  06 017 El Dorado                Ca        92    .26       190    .27
+  06 081 San Mateo                Ca        90    .25       143    .21
+  36 029 Erie                     NY        88    .25       147    .21
+  12 057 Hillsborough             Fl        88    .25       173    .25
+  06 013 Contra Costa             Ca        88    .25       158    .23
+  04 005 Coconino                 Az        87    .24       190    .27
+  06 053 Monterey                 Ca        85    .24       186    .27
+  25 017 Middlesex                Ma        84    .24       140    .20
+  31 055 Douglas                  Ne        82    .23       149    .21
+  06 019 Fresno                   Ca        82    .23       196    .28
+  02 020 Anchorage Borough        Ak        81    .23       165    .24
+  06 075 San Francisco            Ca        81    .23       134    .19
+  12 103 Pinellas                 Fl        81    .23       140    .20
+  36 061 New York                 NY        81    .23       123    .18
+  29 095 Jackson                  Mo        79    .22       149    .21
+  18 089 Lake                     In        79    .22       136    .20
+  32 005 Douglas                  Nv        78    .22       178    .26
+  32 007 Elko                     Nv        76    .21       149    .21
+  12 095 Orange                   Fl        75    .21       124    .18
+  04 021 Pinal                    Az        75    .21       152    .22
+  32 510 Carson City city         Nv        75    .21       136    .20
+  04 027 Yuma                     Az        75    .21       176    .25
+  12 099 Palm Beach               Fl        75    .21       137    .20
+  53 053 Pierce                   Wa        74    .21       131    .19
+  41 051 Multnomah                Or        73    .20       133    .19
+  26 099 Macomb                   Mi        73    .20       120    .17
+  17 097 Lake                     Il        72    .20       132    .19
+  39 095 Lucas                    Oh        69    .19       115    .17
+  08 013 Boulder                  Co        69    .19       107    .15
+  34 003 Bergen                   NJ        69    .19       129    .19
+  06 079 San Luis Obispo          Ca        69    .19       118    .17
+  08 069 Larimer                  Co        67    .19       109    .16
+  06 107 Tulare                   Ca        63    .18       125    .18
+  39 049 Franklin                 Oh        63    .18       118    .17
+  49 021 Iron                     Ut        62    .17       146    .21
+  06 095 Solano                   Ca        60    .17       115    .17
+  42 003 Allegheny                Pa        59    .17        91    .13
+  41 039 Lane                     Or        58    .16       115    .17
+  06 097 Sonoma                   Ca        58    .16       110    .16
+  16 001 Ada                      Id        58    .16       111    .16
+  34 023 Middlesex                NJ        57    .16       134    .19
+  36 055 Monroe                   NY        57    .16       101    .14
+  35 013 Dona Ana                 NM        56    .16       109    .16
+  12 091 Okaloosa                 Fl        52    .15       133    .19
+  29 189 St. Louis                Mo        51    .14        81    .12
+  09 003 Hartford                 Ct        50    .14        94    .13
+  04 003 Cochise                  Az        50    .14       125    .18
+  44 007 Providence               RI        49    .14        94    .13
+  53 063 Spokane                  Wa        49    .14       103    .15
+  51 059 Fairfax                  Va        49    .14        92    .13
+  18 097 Marion                   In        48    .13        72    .10
+  36 005 Bronx                    NY        48    .13        98    .14
+  06 077 San Joaquin              Ca        48    .13       110    .16
+  40 143 Tulsa                    Ok        48    .13        86    .12
+  20 173 Sedgwick                 Ks        47    .13       108    .16
+  15 001 Hawaii                   Hi        46    .13        83    .12
+  08 077 Mesa                     Co        46    .13        67    .10
+  36 119 Westchester              NY        46    .13        89    .13
+  53 061 Snohomish                Wa        46    .13        83    .12
+  08 123 Weld                     Co        46    .13       109    .16
+  08 101 Pueblo                   Co        45    .13        74    .11
+  25 009 Essex                    Ma        45    .13        73    .10
+  06 025 Imperial                 Ca        44    .12       127    .18
+  41 067 Washington               Or        44    .12        87    .12
+  42 101 Philadelphia             Pa        44    .12        81    .12
+  41 029 Jackson                  Or        44    .12        83    .12
+  12 009 Brevard                  Fl        44    .12        80    .11
+  34 013 Essex                    NJ        43    .12        82    .12
+  34 025 Monmouth                 NJ        43    .12        72    .10
+  09 009 New Haven                Ct        43    .12        76    .11
+  26 049 Genesee                  Mi        43    .12        79    .11
+  09 001 Fairfield                Ct        43    .12        75    .11
+  35 045 San Juan                 NM        42    .12        98    .14
+  24 031 Montgomery               Md        42    .12        81    .12
+  19 153 Polk                     Ia        41    .11        65    .09
+  25 023 Plymouth                 Ma        41    .11        78    .11
+  04 017 Navajo                   Az        41    .11       123    .18
+  24 033 Prince George's          Md        41    .11        99    .14
+  25 021 Norfolk                  Ma        40    .11        65    .09
+  32 033 White Pine               Nv        40    .11        77    .11
+  25 027 Worcester                Ma        40    .11        66    .09
+  12 071 Lee                      Fl        40    .11        75    .11
+  48 027 Bell                     Tx        40    .11        74    .11
+  12 031 Duval                    Fl        39    .11        84    .12
+  34 007 Camden                   NJ        39    .11        67    .10
+  46 103 Pennington               SD        39    .11        92    .13
+  20 091 Johnson                  Ks        39    .11        72    .10
+  31 153 Sarpy                    Ne        39    .11        79    .11
+  39 113 Montgomery               Oh        39    .11        82    .12
+  47 157 Shelby                   Tn        38    .11        71    .10
+  29 510 St. Louis city           Mo        38    .11        63    .09
+  33 015 Rockingham               NH        38    .11        68    .10
+  27 123 Ramsey                   Mn        38    .11        56    .08
+  35 035 Otero                    NM        38    .11        84    .12
+  39 061 Hamilton                 Oh        38    .11        70    .10
+  32 017 Lincoln                  Nv        38    .11        66    .09
+  25 025 Suffolk                  Ma        38    .11        67    .10
+  17 197 Will                     Il        37    .10        85    .12
+  06 099 Stanislaus               Ca        37    .10        93    .13
+  51 810 Virginia Beach city      Va        37    .10        78    .11
+  34 031 Passaic                  NJ        36    .10        57    .08
+  12 127 Volusia                  Fl        35    .10        57    .08
+  56 021 Laramie                  Wy        35    .10        86    .12
+  37 051 Cumberland               NC        35    .10        57    .08
+  22 051 Jefferson                La        34    .10        53    .08
+  30 111 Yellowstone              Mt        34    .10        55    .08
+  30 013 Cascade                  Mt        34    .10        62    .09
+  34 005 Burlington               NJ        33    .09        83    .12
+  48 303 Lubbock                  Tx        33    .09        57    .08
+  15 009 Maui                     Hi        33    .09        50    .07
+  28 047 Harrison                 Ms        33    .09        68    .10
+  31 109 Lancaster                Ne        33    .09        59    .08
+  17 089 Kane                     Il        33    .09        68    .10
+  05 119 Pulaski                  Ar        32    .09        69    .10
+  35 043 Sandoval                 NM        32    .09        72    .10
+  06 087 Santa Cruz               Ca        32    .09        70    .10
+  41 047 Marion                   Or        32    .09        47    .07
+  36 085 Richmond                 NY        31    .09        64    .09
+  33 011 Hillsborough             NH        31    .09        60    .09
+  25 005 Bristol                  Ma        31    .09        70    .10
+  48 121 Denton                   Tx        31    .09        65    .09
+  48 355 Nueces                   Tx        31    .09        60    .09
+  34 017 Hudson                   NJ        30    .08        49    .07
+  36 067 Onondaga                 NY        30    .08        54    .08
+  48 375 Potter                   Tx        30    .08        57    .08
+  22 017 Caddo                    La        29    .08        53    .08
+  39 153 Summit                   Oh        29    .08        55    .08
+  48 485 Wichita                  Tx        29    .08        63    .09
+  35 049 Santa Fe                 NM        29    .08        43    .06
+  53 011 Clark                    Wa        28    .08        58    .08
+  06 089 Shasta                   Ca        28    .08        54    .08
+  24 003 Anne Arundel             Md        28    .08        49    .07
+  06 047 Merced                   Ca        28    .08        76    .11
+  47 037 Davidson                 Tn        28    .08        49    .07
+  56 025 Natrona                  Wy        28    .08        45    .06
+  46 099 Minnehaha                SD        27    .08        42    .06
+  27 037 Dakota                   Mn        27    .08        43    .06
+  32 019 Lyon                     Nv        27    .08        55    .08
+  12 115 Sarasota                 Fl        27    .08        50    .07
+  48 441 Taylor                   Tx        27    .08        52    .07
+  34 021 Mercer                   NJ        27    .08        50    .07
+  17 163 St. Clair                Il        27    .08        56    .08
+  17 019 Champaign                Il        27    .08        56    .08
+  26 081 Kent                     Mi        27    .08        38    .05
+  36 001 Albany                   NY        26    .07        36    .05
+  21 111 Jefferson                Ky        26    .07        49    .07
+  34 029 Ocean                    NJ        26    .07        49    .07
+  06 041 Marin                    Ca        26    .07        41    .06
+  26 161 Washtenaw                Mi        26    .07        40    .06
+  12 101 Pasco                    Fl        26    .07        44    .06
+  39 085 Lake                     Oh        26    .07        41    .06
+  13 067 Cobb                     Ga        26    .07        43    .06
+  11 001 Wash.,D.C.               DC        26    .07        45    .06
+  53 035 Kitsap                   Wa        26    .07        63    .09
+  34 039 Union                    NJ        25    .07        35    .05
+  42 045 Delaware                 Pa        25    .07        41    .06
+  38 035 Grand Forks              ND        25    .07        57    .08
+  45 085 Sumter                   SC        25    .07        68    .10
+  34 027 Morris                   NJ        25    .07        46    .07
+  41 005 Clackamas                Or        25    .07        50    .07
+  39 093 Lorain                   Oh        25    .07        44    .06
+  26 021 Berrien                  Mi        25    .07        41    .06
+  12 105 Polk                     Fl        24    .07        46    .07
+  27 137 St. Louis                Mn        24    .07        39    .06
+  13 121 Fulton                   Ga        24    .07        34    .05
+  56 037 Sweetwater               Wy        24    .07        61    .09
+  38 101 Ward                     ND        24    .07        41    .06
+  22 071 Orleans                  La        24    .07        42    .06
+  49 005 Cache                    Ut        24    .07        63    .09
+  42 017 Bucks                    Pa        24    .07        54    .08
+  13 089 De Kalb                  Ga        24    .07        35    .05
+  17 111 McHenry                  Il        23    .06        39    .06
+  40 027 Cleveland                Ok        23    .06        46    .07
+  06 007 Butte                    Ca        23    .06        36    .05
+  36 063 Niagara                  NY        23    .06        41    .06
+  39 151 Stark                    Oh        23    .06        32    .05
+  08 067 La Plata                 Co        23    .06        41    .06
+  06 023 Humboldt                 Ca        23    .06        31    .04
+  30 063 Missoula                 Mt        22    .06        42    .06
+  04 001 Apache                   Az        22    .06        52    .07
+  42 091 Montgomery               Pa        22    .06        40    .06
+  16 005 Bannock                  Id        22    .06        59    .08
+  02 090 Fairbanks North Star Bor Ak        22    .06        51    .07
+  09 011 New London               Ct        21    .06        32    .05
+  48 135 Ector                    Tx        21    .06        51    .07
+  48 167 Galveston                Tx        21    .06        43    .06
+  48 061 Cameron                  Tx        21    .06        43    .06
+  55 025 Dane                     Wi        21    .06        39    .06
+  25 013 Hampden                  Ma        21    .06        35    .05
+  36 071 Orange                   NY        21    .06        35    .05
+  35 009 Curry                    NM        21    .06        52    .07
+  38 017 Cass                     ND        21    .06        32    .05
+  35 061 Valencia                 NM        20    .06        45    .06
+  56 001 Albany                   Wy        20    .06        32    .05
+  51 153 Prince William           Va        20    .06        35    .05
+  39 099 Mahoning                 Oh        20    .06        27    .04
+  27 003 Anoka                    Mn        20    .06        40    .06
+  30 029 Flathead                 Mt        20    .06        26    .04
+  48 381 Randall                  Tx        20    .06        37    .05
+  55 133 Waukesha                 Wi        20    .06        40    .06
+  06 055 Napa                     Ca        20    .06        36    .05
+  22 033 East Baton Rouge         La        20    .06        46    .07
+  53 077 Yakima                   Wa        20    .06        39    .06
+  45 051 Horry                    SC        20    .06        43    .06
+  06 115 Yuba                     Ca        20    .06        53    .08
+  17 201 Winnebago                Il        20    .06        40    .06
+  53 073 Whatcom                  Wa        19    .05        32    .05
+  30 031 Gallatin                 Mt        19    .05        26    .04
+  22 065 Madison                  La        19    .05        42    .06
+  06 061 Placer                   Ca        19    .05        30    .04
+  40 031 Comanche                 Ok        19    .05        39    .06
+  18 141 St. Joseph               In        19    .05        36    .05
+  29 183 St. Charles              Mo        19    .05        33    .05
+  04 012 La Paz                   Az        19    .05        38    .05
+  55 101 Racine                   Wi        18    .05        32    .05
+  49 041 Sevier                   Ut        18    .05        46    .07
+  35 006 Cibola                   NM        18    .05        39    .06
+  32 001 Churchill                Nv        18    .05        32    .05
+  12 033 Escambia                 Fl        18    .05        27    .04
+  41 019 Douglas                  Or        18    .05        37    .05
+  36 087 Rockland                 NY        18    .05        28    .04
+  12 083 Marion                   Fl        18    .05        44    .06
+  29 047 Clay                     Mo        18    .05        34    .05
+  16 055 Kootenai                 Id        18    .05        42    .06
+  48 085 Collin                   Tx        18    .05        42    .06
+  29 077 Greene                   Mo        18    .05        27    .04
+  35 031 McKinley                 NM        17    .05        38    .05
+  37 119 Mecklenburg              NC        17    .05        30    .04
+  41 011 Coos                     Or        17    .05        29    .04
+  06 031 Kings                    Ca        17    .05        39    .06
+  28 049 Hinds                    Ms        17    .05        34    .05
+  12 005 Bay                      Fl        17    .05        47    .07
+  12 117 Seminole                 Fl        17    .05        33    .05
+  16 019 Bonneville               Id        17    .05        44    .06
+  12 081 Manatee                  Fl        17    .05        21    .03
+  39 057 Greene                   Oh        17    .05        47    .07
+  41 035 Klamath                  Or        16    .04        40    .06
+  20 209 Wyandotte                Ks        16    .04        22    .03
+  01 073 Jefferson                Al        16    .04        33    .05
+  06 027 Inyo                     Ca        16    .04        24    .03
+  53 005 Benton                   Wa        16    .04        28    .04
+  42 129 Westmoreland             Pa        16    .04        27    .04
+  51 710 Norfolk city             Va        16    .04        34    .05
+  36 027 Dutchess                 NY        16    .04        24    .03
+  24 027 Howard                   Md        16    .04        43    .06
+  22 073 Ouachita                 La        16    .04        37    .05
+  26 075 Jackson                  Mi        16    .04        30    .04
+  04 007 Gila                     Az        15    .04        29    .04
+  44 003 Kent                     RI        15    .04        29    .04
+  53 067 Thurston                 Wa        15    .04        30    .04
+  06 057 Nevada                   Ca        15    .04        29    .04
+  22 015 Bossier                  La        15    .04        39    .06
+  55 009 Brown                    Wi        15    .04        28    .04
+  48 451 Tom Green                Tx        15    .04        26    .04
+  22 079 Rapides                  La        15    .04        45    .06
+  25 001 Barnstable               Ma        15    .04        27    .04
+  32 021 Mineral                  Nv        15    .04        19    .03
+  49 045 Tooele                   Ut        15    .04        27    .04
+  48 309 McLennan                 Tx        15    .04        24    .03
+  48 491 Williamson               Tx        15    .04        28    .04
+  37 183 Wake                     NC        15    .04        35    .05
+  39 081 Jefferson                Oh        15    .04        32    .05
+  19 113 Linn                     Ia        15    .04        25    .04
+  35 017 Grant                    NM        15    .04        37    .05
+  48 339 Montgomery               Tx        15    .04        38    .05
+  06 045 Mendocino                Ca        14    .04        27    .04
+  48 329 Midland                  Tx        14    .04        34    .05
+  42 049 Erie                     Pa        14    .04        18    .03
+  20 045 Douglas                  Ks        14    .04        31    .04
+  12 087 Monroe                   Fl        14    .04        22    .03
+  36 065 Oneida                   NY        14    .04        28    .04
+  17 161 Rock Island              Il        14    .04        23    .03
+  51 510 Alexandria city          Va        14    .04        27    .04
+  12 097 Osceola                  Fl        14    .04        20    .03
+  46 081 Lawrence                 SD        14    .04        20    .03
+  18 003 Allen                    In        14    .04        21    .03
+  42 125 Washington               Pa        14    .04        22    .03
+  24 025 Harford                  Md        14    .04        30    .04
+  10 003 New Castle               De        14    .04        22    .03
+  55 059 Kenosha                  Wi        14    .04        29    .04
+  24 005 Baltimore                Md        14    .04        28    .04
+  42 095 Northampton              Pa        14    .04        18    .03
+  13 135 Gwinnett                 Ga        14    .04        34    .05
+  37 133 Onslow                   NC        13    .04        35    .05
+  53 057 Skagit                   Wa        13    .04        20    .03
+  18 127 Porter                   In        13    .04        26    .04
+  39 133 Portage                  Oh        13    .04        25    .04
+  40 047 Garfield                 Ok        13    .04        22    .03
+  42 029 Chester                  Pa        13    .04        14    .02
+  42 007 Beaver                   Pa        13    .04        21    .03
+  35 005 Chaves                   NM        13    .04        26    .04
+  42 011 Berks                    Pa        13    .04        23    .03
+  06 113 Yolo                     Ca        13    .04        25    .04
+  39 155 Trumbull                 Oh        13    .04        23    .03
+  26 069 Iosco                    Mi        13    .04        36    .05
+  26 147 St. Clair                Mi        13    .04        19    .03
+  18 163 Vanderburgh              In        13    .04        26    .04
+  34 015 Gloucester               NJ        13    .04        15    .02
+  27 163 Washington               Mn        13    .04        19    .03
+  26 145 Saginaw                  Mi        13    .04        19    .03
+  23 005 Cumberland               Me        13    .04        20    .03
+  51 650 Hampton city             Va        13    .04        18    .03
+  15 007 Kauai                    Hi        13    .04        26    .04
+  55 139 Winnebago                Wi        13    .04        23    .03
+  01 101 Montgomery               Al        13    .04        38    .05
+  05 051 Garland                  Ar        13    .04        28    .04
+  12 021 Collier                  Fl        13    .04        21    .03
+  25 003 Berkshire                Ma        13    .04        22    .03
+  36 111 Ulster                   NY        13    .04        14    .02
+  47 093 Knox                     Tn        12    .03        15    .02
+  36 091 Saratoga                 NY        12    .03        26    .04
+  26 065 Ingham                   Mi        12    .03        22    .03
+  26 139 Ottawa                   Mi        12    .03        18    .03
+  16 027 Canyon                   Id        12    .03        22    .03
+  48 215 Hidalgo                  Tx        12    .03        18    .03
+  42 073 Lawrence                 Pa        12    .03        35    .05
+  24 510 Baltimore city           Md        12    .03        19    .03
+  17 167 Sangamon                 Il        12    .03        22    .03
+  08 085 Montrose                 Co        12    .03        20    .03
+  48 423 Smith                    Tx        12    .03        32    .05
+  34 009 Cape May                 NJ        12    .03        16    .02
+  33 017 Strafford                NH        12    .03        16    .02
+  41 017 Deschutes                Or        12    .03        25    .04
+  47 065 Hamilton                 Tn        12    .03        20    .03
+  32 015 Lander                   Nv        11    .03        25    .04
+  45 019 Charleston               SC        11    .03        21    .03
+  42 079 Luzerne                  Pa        11    .03        18    .03
+  48 157 Fort Bend                Tx        11    .03        26    .04
+  41 003 Benton                   Or        11    .03        22    .03
+  42 043 Dauphin                  Pa        11    .03        17    .02
+  12 015 Charlotte                Fl        11    .03        23    .03
+  53 025 Grant                    Wa        11    .03        32    .05
+  36 007 Broome                   NY        11    .03        18    .03
+  16 039 Elmore                   Id        11    .03        36    .05
+  26 103 Marquette                Mi        11    .03        33    .05
+  35 039 Rio Arriba               NM        11    .03        18    .03
+  55 131 Washington               Wi        11    .03        20    .03
+  19 013 Black Hawk               Ia        11    .03        14    .02
+  56 029 Park                     Wy        11    .03        19    .03
+  17 099 La Salle                 Il        11    .03        23    .03
+  08 083 Montezuma                Co        11    .03        21    .03
+  18 039 Elkhart                  In        11    .03        18    .03
+  42 089 Monroe                   Pa        11    .03        27    .04
+  12 085 Martin                   Fl        11    .03        16    .02
+  36 009 Cattaraugus              NY        11    .03        25    .04
+  17 115 Macon                    Il        11    .03        21    .03
+  17 119 Madison                  Il        11    .03        20    .03
+  26 077 Kalamazoo                Mi        11    .03        24    .03
+  48 041 Brazos                   Tx        11    .03        27    .04
+  32 013 Humboldt                 Nv        11    .03        25    .04
+  23 003 Aroostook                Me        11    .03        29    .04
+  48 181 Grayson                  Tx        11    .03        24    .03
+  20 161 Riley                    Ks        11    .03        14    .02
+  19 103 Johnson                  Ia        11    .03        16    .02
+  45 079 Richland                 SC        11    .03        20    .03
+  09 007 Middlesex                Ct        10    .03        16    .02
+  24 021 Frederick                Md        10    .03        16    .02
+  35 015 Eddy                     NM        10    .03        22    .03
+  35 028 Los Alamos               NM        10    .03        13    .02
+  20 177 Shawnee                  Ks        10    .03        18    .03
+  26 121 Muskegon                 Mi        10    .03        23    .03
+  27 145 Stearns                  Mn        10    .03        16    .02
+  17 143 Peoria                   Il        10    .03        15    .02
+  22 115 Vernon                   La        10    .03        21    .03
+  29 099 Jefferson                Mo        10    .03        24    .03
+  22 103 St. Tammany              La        10    .03        18    .03
+  36 093 Schenectady              NY        10    .03        16    .02
+  41 043 Linn                     Or        10    .03        18    .03
+  41 041 Lincoln                  Or        10    .03        19    .03
+  29 021 Buchanan                 Mo        10    .03        18    .03
+  40 013 Bryan                    Ok        10    .03        21    .03
+  40 065 Jackson                  Ok        10    .03        29    .04
+  40 101 Muskogee                 Ok        10    .03        13    .02
+  22 019 Calcasieu                La        10    .03        25    .04
+  35 053 Socorro                  NM        10    .03        23    .03
+  39 043 Erie                     Oh        10    .03        17    .02
+  39 103 Medina                   Oh        10    .03        19    .03
+  16 083 Twin Falls               Id        10    .03        23    .03
+  10 001 Kent                     De        10    .03        31    .04
+  13 051 Chatham                  Ga        10    .03        18    .03
+  48 213 Henderson                Tx        10    .03        17    .02
+  02 122 Kenai Peninsula Borough  Ak        10    .03        19    .03
+  49 017 Garfield                 Ut        10    .03        22    .03
+  48 039 Brazoria                 Tx        10    .03        26    .04
+  56 039 Teton                    Wy        10    .03        21    .03
+  13 063 Clayton                  Ga        10    .03        16    .02
+  06 051 Mono                     Ca        10    .03        19    .03
+  08 029 Delta                    Co        10    .03        22    .03
+  55 035 Eau Claire               Wi        10    .03        21    .03
+  44 005 Newport                  RI        10    .03        18    .03
+  13 185 Lowndes                  Ga        10    .03        17    .02
+  01 097 Mobile                   Al        10    .03        17    .02
+  48 209 Hays                     Tx        10    .03        25    .04
+  12 111 St. Lucie                Fl        10    .03        21    .03
+  51 700 Newport News city        Va        10    .03        24    .03
+  09 005 Litchfield               Ct        10    .03        16    .02
+  57 005 APO / FPO Zip Code       FR        10    .03        19    .03
+  12 017 Citrus                   Fl        10    .03        17    .02
+   Same State                               14    .04        33    .05
+   Region 1:   Northeast                   413   1.16       722   1.04
+   Region 2:   Midwest                    1343   3.76      2323   3.33
+   Region 3:   South                      1417   3.97      2802   4.02
+   Region 4:   West                        734   2.06      1460   2.10
+      32 003   County Non-Migrants      263390           551053
+32 005   Douglas Total Migration  Nv      2049             4095
+  06 017 El Dorado                Ca       279  13.62       535  13.06
+  32 510 Carson City city         Nv       207  10.10       449  10.96
+  06 037 Los Angeles              Ca       179   8.74       382   9.33
+  32 031 Washoe                   Nv       139   6.78       251   6.13
+  06 085 Santa Clara              Ca        65   3.17       143   3.49
+  06 059 Orange                   Ca        63   3.07       147   3.59
+  32 003 Clark                    Nv        60   2.93       106   2.59
+  06 073 San Diego                Ca        55   2.68       112   2.74
+  06 067 Sacramento               Ca        55   2.68       112   2.74
+  32 019 Lyon                     Nv        39   1.90       107   2.61
+  04 013 Maricopa                 Az        37   1.81        60   1.47
+  06 013 Contra Costa             Ca        28   1.37        67   1.64
+  06 071 San Bernardino           Ca        28   1.37        73   1.78
+  06 065 Riverside                Ca        28   1.37        55   1.34
+  06 001 Alameda                  Ca        27   1.32        59   1.44
+  06 111 Ventura                  Ca        24   1.17        55   1.34
+  06 081 San Mateo                Ca        23   1.12        36    .88
+  06 051 Mono                     Ca        19    .93        34    .83
+  06 061 Placer                   Ca        19    .93        36    .88
+  06 079 San Luis Obispo          Ca        18    .88        40    .98
+  06 077 San Joaquin              Ca        17    .83        32    .78
+  06 075 San Francisco            Ca        17    .83        22    .54
+  53 033 King                     Wa        17    .83        27    .66
+  06 097 Sonoma                   Ca        14    .68        20    .49
+  57 001 Foreign / Overseas       FR        14    .68        25    .61
+  06 087 Santa Cruz               Ca        13    .63        19    .46
+  06 053 Monterey                 Ca        12    .59        26    .63
+  15 003 Honolulu                 Hi        12    .59        21    .51
+  06 003 Alpine                   Ca        11    .54        19    .46
+  06 099 Stanislaus               Ca        11    .54        26    .63
+  06 041 Marin                    Ca        10    .49        13    .32
+  06 095 Solano                   Ca        10    .49        18    .44
+   Same State                               32   1.56        82   2.00
+   Region 1:   Northeast                    60   2.93        87   2.12
+   Region 2:   Midwest                      58   2.83       102   2.49
+   Region 3:   South                        93   4.54       174   4.25
+   Region 4:   West                        256  12.49       523  12.77
+      32 005   County Non-Migrants       10215            22023
+32 007   Elko Total Migration Flo Nv      1751             4018
+  32 031 Washoe                   Nv        87   4.97       179   4.45
+  49 035 Salt Lake                Ut        82   4.68       221   5.50
+  32 003 Clark                    Nv        59   3.37       134   3.33
+  49 045 Tooele                   Ut        54   3.08       146   3.63
+  32 023 Nye                      Nv        43   2.46       119   2.96
+  32 033 White Pine               Nv        42   2.40       111   2.76
+  16 083 Twin Falls               Id        40   2.28        81   2.02
+  16 001 Ada                      Id        37   2.11        79   1.97
+  04 013 Maricopa                 Az        33   1.88        72   1.79
+  32 015 Lander                   Nv        32   1.83        89   2.22
+  32 013 Humboldt                 Nv        31   1.77        80   1.99
+  04 019 Pima                     Az        28   1.60        73   1.82
+  06 037 Los Angeles              Ca        28   1.60        64   1.59
+  56 013 Fremont                  Wy        21   1.20        53   1.32
+  30 093 Silver Bow               Mt        21   1.20        46   1.14
+  49 049 Utah                     Ut        20   1.14        59   1.47
+  32 021 Mineral                  Nv        20   1.14        50   1.24
+  32 510 Carson City city         Nv        18   1.03        39    .97
+  57 001 Foreign / Overseas       FR        17    .97        46   1.14
+  32 011 Eureka                   Nv        16    .91        40   1.00
+  16 005 Bannock                  Id        13    .74        34    .85
+  04 025 Yavapai                  Az        13    .74        27    .67
+  56 037 Sweetwater               Wy        13    .74        34    .85
+  56 021 Laramie                  Wy        12    .69        28    .70
+  49 057 Weber                    Ut        11    .63        20    .50
+  30 029 Flathead                 Mt        11    .63        25    .62
+  32 019 Lyon                     Nv        11    .63        32    .80
+  56 005 Campbell                 Wy        11    .63        33    .82
+  49 053 Washington               Ut        11    .63        35    .87
+  30 111 Yellowstone              Mt        10    .57        16    .40
+  56 041 Uinta                    Wy        10    .57        27    .67
+  08 059 Jefferson                Co        10    .57        15    .37
+  56 007 Carbon                   Wy        10    .57        27    .67
+  56 033 Sheridan                 Wy        10    .57        18    .45
+   Same State                               20   1.14        33    .82
+   Region 1:   Northeast                    18   1.03        43   1.07
+   Region 2:   Midwest                     120   6.85       233   5.80
+   Region 3:   South                        99   5.65       211   5.25
+   Region 4:   West                        609  34.78      1346  33.50
+      32 007   County Non-Migrants       10504            26595
+32 009   Esmeralda Total Migratio Nv        65              112
+  32 023 Nye                      Nv        12  18.46        19  16.96
+   All Migration Flows                      53  81.54        93  83.04
+      32 009   County Non-Migrants         325              709
+32 011   Eureka Total Migration F Nv        95              234
+  32 007 Elko                     Nv        14  14.74        46  19.66
+   Same State                               24  25.26        55  23.50
+   Same Region, Diff. State                 45  47.37       107  45.73
+   Different Region                         12  12.63        26  11.11
+      32 011   County Non-Migrants         461             1088
+32 013   Humboldt Total Migration Nv       660             1510
+  32 031 Washoe                   Nv        52   7.88       101   6.69
+  32 007 Elko                     Nv        33   5.00        69   4.57
+  32 023 Nye                      Nv        29   4.39        76   5.03
+  32 015 Lander                   Nv        29   4.39        64   4.24
+  32 027 Pershing                 Nv        17   2.58        44   2.91
+  32 003 Clark                    Nv        17   2.58        31   2.05
+  04 013 Maricopa                 Az        14   2.12        19   1.26
+  06 037 Los Angeles              Ca        14   2.12        44   2.91
+  32 019 Lyon                     Nv        11   1.67        32   2.12
+  32 033 White Pine               Nv        10   1.52        30   1.99
+  16 001 Ada                      Id        10   1.52        23   1.52
+  32 021 Mineral                  Nv        10   1.52        37   2.45
+  35 006 Cibola                   NM        10   1.52        31   2.05
+  41 019 Douglas                  Or        10   1.52        25   1.66
+   Same State                               19   2.88        43   2.85
+   Same Region, Diff. State                294  44.55       667  44.17
+   Different Region                         81  12.27       174  11.52
+      32 013   County Non-Migrants        4249            10790
+32 015   Lander Total Migration F Nv       333              760
+  32 007 Elko                     Nv        24   7.21        54   7.11
+  35 006 Cibola                   NM        16   4.80        44   5.79
+  32 013 Humboldt                 Nv        16   4.80        41   5.39
+  32 023 Nye                      Nv        11   3.30        27   3.55
+  06 037 Los Angeles              Ca        10   3.00        28   3.68
+  32 031 Washoe                   Nv        10   3.00        23   3.03
+   Same State                               33   9.91        68   8.95
+   Same Region, Diff. State                165  49.55       374  49.21
+   Different Region                         48  14.41       101  13.29
+      32 015   County Non-Migrants        1735             4768
+32 017   Lincoln Total Migration  Nv       111              257
+  32 003 Clark                    Nv        41  36.94        99  38.52
+   Same State                               19  17.12        45  17.51
+   Same Region, Diff. State                 37  33.33        81  31.52
+   Different Region                         14  12.61        32  12.45
+      32 017   County Non-Migrants         999             2668
+32 019   Lyon Total Migration Flo Nv      1207             2648
+  32 031 Washoe                   Nv       247  20.46       520  19.64
+  32 510 Carson City city         Nv       196  16.24       419  15.82
+  32 005 Douglas                  Nv        64   5.30       152   5.74
+  06 037 Los Angeles              Ca        47   3.89       100   3.78
+  32 001 Churchill                Nv        40   3.31        95   3.59
+  06 085 Santa Clara              Ca        23   1.91        46   1.74
+  06 067 Sacramento               Ca        21   1.74        39   1.47
+  32 023 Nye                      Nv        21   1.74        46   1.74
+  32 003 Clark                    Nv        20   1.66        40   1.51
+  06 017 El Dorado                Ca        20   1.66        36   1.36
+  06 073 San Diego                Ca        17   1.41        36   1.36
+  04 013 Maricopa                 Az        12    .99        27   1.02
+  32 021 Mineral                  Nv        12    .99        26    .98
+  06 071 San Bernardino           Ca        11    .91        22    .83
+  32 007 Elko                     Nv        11    .91        21    .79
+  06 059 Orange                   Ca        11    .91        23    .87
+  32 029 Storey                   Nv        11    .91        22    .83
+  06 065 Riverside                Ca        10    .83        22    .83
+  06 095 Solano                   Ca        10    .83        18    .68
+  06 013 Contra Costa             Ca        10    .83        21    .79
+   Same State                               29   2.40        68   2.57
+   Region 1:   Northeast                    15   1.24        41   1.55
+   Region 2:   Midwest                      33   2.73        76   2.87
+   Region 3:   South                        55   4.56       140   5.29
+   Region 4:   West                        261  21.62       592  22.36
+      32 019   County Non-Migrants        6434            14895
+32 021   Mineral Total Migration  Nv       188              432
+  32 031 Washoe                   Nv        23  12.23        39   9.03
+  32 003 Clark                    Nv        11   5.85        21   4.86
+   Same State                               40  21.28       103  23.84
+   Same Region, Diff. State                 83  44.15       207  47.92
+   Different Region                         31  16.49        62  14.35
+      32 021   County Non-Migrants        2066             4701
+32 023   Nye Total Migration Flow Nv      1149             2535
+  32 003 Clark                    Nv       377  32.81       816  32.19
+  06 037 Los Angeles              Ca        41   3.57        96   3.79
+  32 031 Washoe                   Nv        38   3.31        70   2.76
+  06 071 San Bernardino           Ca        31   2.70        80   3.16
+  06 073 San Diego                Ca        23   2.00        56   2.21
+  06 059 Orange                   Ca        18   1.57        32   1.26
+  32 015 Lander                   Nv        18   1.57        64   2.52
+  04 013 Maricopa                 Az        16   1.39        45   1.78
+  06 065 Riverside                Ca        14   1.22        29   1.14
+  32 009 Esmeralda                Nv        14   1.22        34   1.34
+  06 027 Inyo                     Ca        12   1.04        20    .79
+  32 033 White Pine               Nv        12   1.04        35   1.38
+  04 015 Mohave                   Az        11    .96        20    .79
+  32 021 Mineral                  Nv        11    .96        23    .91
+  32 510 Carson City city         Nv        10    .87        16    .63
+   Same State                               41   3.57        95   3.75
+   Region 1:   Northeast                    27   2.35        57   2.25
+   Region 2:   Midwest                      79   6.88       157   6.19
+   Region 3:   South                        68   5.92       149   5.88
+   Region 4:   West                        288  25.07       641  25.29
+      32 023   County Non-Migrants        5355            12485
+32 027   Pershing Total Migration Nv       155              365
+  32 031 Washoe                   Nv        12   7.74        33   9.04
+  32 023 Nye                      Nv        10   6.45        16   4.38
+   Same State                               34  21.94        76  20.82
+   Same Region, Diff. State                 81  52.26       191  52.33
+   Different Region                         18  11.61        49  13.42
+      32 027   County Non-Migrants        1287             3347
+32 029   Storey Total Migration F Nv       113              218
+  32 031 Washoe                   Nv        30  26.55        47  21.56
+  32 510 Carson City city         Nv        11   9.73        25  11.47
+   All Migration Flows                      72  63.72       146  66.97
+      32 029   County Non-Migrants         487              981
+32 031   Washoe Total Migration F Nv      9852            17861
+  06 037 Los Angeles              Ca       580   5.89      1140   6.38
+  32 510 Carson City city         Nv       400   4.06       700   3.92
+  32 003 Clark                    Nv       366   3.71       615   3.44
+  06 085 Santa Clara              Ca       314   3.19       550   3.08
+  06 067 Sacramento               Ca       305   3.10       530   2.97
+  06 001 Alameda                  Ca       239   2.43       439   2.46
+  06 073 San Diego                Ca       222   2.25       448   2.51
+  06 059 Orange                   Ca       216   2.19       425   2.38
+  32 019 Lyon                     Nv       199   2.02       403   2.26
+  04 013 Maricopa                 Az       195   1.98       351   1.97
+  06 061 Placer                   Ca       154   1.56       274   1.53
+  32 005 Douglas                  Nv       151   1.53       233   1.30
+  06 013 Contra Costa             Ca       131   1.33       237   1.33
+  06 057 Nevada                   Ca       128   1.30       252   1.41
+  32 001 Churchill                Nv       128   1.30       208   1.16
+  06 017 El Dorado                Ca       123   1.25       205   1.15
+  06 075 San Francisco            Ca       122   1.24       181   1.01
+  06 081 San Mateo                Ca       122   1.24       215   1.20
+  32 007 Elko                     Nv       113   1.15       183   1.02
+  57 001 Foreign / Overseas       FR       113   1.15       195   1.09
+  06 071 San Bernardino           Ca       112   1.14       228   1.28
+  53 033 King                     Wa       106   1.08       156    .87
+  06 077 San Joaquin              Ca       100   1.02       203   1.14
+  06 065 Riverside                Ca        80    .81       147    .82
+  49 035 Salt Lake                Ut        78    .79       160    .90
+  06 097 Sonoma                   Ca        78    .79       127    .71
+  06 095 Solano                   Ca        75    .76       133    .74
+  32 013 Humboldt                 Nv        74    .75       142    .80
+  06 111 Ventura                  Ca        72    .73       164    .92
+  06 063 Plumas                   Ca        72    .73       125    .70
+  15 003 Honolulu                 Hi        63    .64       117    .66
+  06 019 Fresno                   Ca        62    .63       118    .66
+  04 019 Pima                     Az        62    .63       117    .66
+  06 035 Lassen                   Ca        61    .62       125    .70
+  06 099 Stanislaus               Ca        58    .59       120    .67
+  17 031 Cook                     Il        56    .57        84    .47
+  06 007 Butte                    Ca        54    .55        98    .55
+  06 089 Shasta                   Ca        54    .55       100    .56
+  41 051 Multnomah                Or        51    .52        89    .50
+  41 039 Lane                     Or        51    .52        89    .50
+  06 053 Monterey                 Ca        50    .51       111    .62
+  06 087 Santa Cruz               Ca        47    .48        85    .48
+  06 029 Kern                     Ca        46    .47        90    .50
+  06 083 Santa Barbara            Ca        44    .45        89    .50
+  06 041 Marin                    Ca        41    .42        58    .32
+  32 021 Mineral                  Nv        40    .41        70    .39
+  41 029 Jackson                  Or        39    .40        79    .44
+  53 053 Pierce                   Wa        37    .38        67    .38
+  32 023 Nye                      Nv        35    .36        69    .39
+  16 001 Ada                      Id        35    .36        63    .35
+  06 079 San Luis Obispo          Ca        34    .35        74    .41
+  53 063 Spokane                  Wa        34    .35        56    .31
+  32 033 White Pine               Nv        33    .33        66    .37
+  32 029 Storey                   Nv        32    .32        54    .30
+  08 041 El Paso                  Co        32    .32        63    .35
+  48 113 Dallas                   Tx        31    .31        43    .24
+  04 015 Mohave                   Az        31    .31        60    .34
+  41 019 Douglas                  Or        30    .30        58    .32
+  32 027 Pershing                 Nv        30    .30        52    .29
+  08 031 Denver                   Co        28    .28        36    .20
+  06 113 Yolo                     Ca        28    .28        61    .34
+  35 001 Bernalillo               NM        28    .28        53    .30
+  48 439 Tarrant                  Tx        27    .27        48    .27
+  06 091 Sierra                   Ca        27    .27        46    .26
+  32 015 Lander                   Nv        27    .27        47    .26
+  06 047 Merced                   Ca        27    .27        56    .31
+  41 047 Marion                   Or        26    .26        41    .23
+  27 053 Hennepin                 Mn        26    .26        33    .18
+  06 055 Napa                     Ca        26    .26        40    .22
+  48 201 Harris                   Tx        26    .26        45    .25
+  06 115 Yuba                     Ca        25    .25        50    .28
+  08 059 Jefferson                Co        25    .25        40    .22
+  02 020 Anchorage Borough        Ak        23    .23        46    .26
+  41 017 Deschutes                Or        23    .23        40    .22
+  41 067 Washington               Or        23    .23        42    .24
+  53 061 Snohomish                Wa        22    .22        41    .23
+  06 051 Mono                     Ca        22    .22        46    .26
+  06 027 Inyo                     Ca        22    .22        36    .20
+  20 173 Sedgwick                 Ks        21    .21        45    .25
+  48 453 Travis                   Tx        21    .21        40    .22
+  53 011 Clark                    Wa        21    .21        32    .18
+  08 013 Boulder                  Co        20    .20        31    .17
+  12 011 Broward                  Fl        20    .20        35    .20
+  06 107 Tulare                   Ca        20    .20        34    .19
+  48 029 Bexar                    Tx        19    .19        45    .25
+  06 025 Imperial                 Ca        19    .19        50    .28
+  08 005 Arapahoe                 Co        19    .19        33    .18
+  26 125 Oakland                  Mi        19    .19        42    .24
+  06 023 Humboldt                 Ca        19    .19        33    .18
+  04 025 Yavapai                  Az        18    .18        32    .18
+  30 063 Missoula                 Mt        18    .18        28    .16
+  15 001 Hawaii                   Hi        18    .18        21    .12
+  49 057 Weber                    Ut        18    .18        31    .17
+  08 001 Adams                    Co        18    .18        33    .18
+  53 035 Kitsap                   Wa        18    .18        27    .15
+  12 099 Palm Beach               Fl        17    .17        27    .15
+  04 027 Yuma                     Az        17    .17        37    .21
+  06 045 Mendocino                Ca        16    .16        26    .15
+  12 103 Pinellas                 Fl        15    .15        23    .13
+  40 143 Tulsa                    Ok        15    .15        31    .17
+  05 119 Pulaski                  Ar        15    .15        29    .16
+  48 141 El Paso                  Tx        15    .15        31    .17
+  49 049 Utah                     Ut        15    .15        34    .19
+  53 067 Thurston                 Wa        14    .14        35    .20
+  06 093 Siskiyou                 Ca        14    .14        24    .13
+  41 005 Clackamas                Or        14    .14        25    .14
+  30 031 Gallatin                 Mt        14    .14        26    .15
+  41 035 Klamath                  Or        14    .14        19    .11
+  36 103 Suffolk                  NY        14    .14        25    .14
+  49 011 Davis                    Ut        13    .13        17    .10
+  06 033 Lake                     Ca        13    .13        20    .11
+  12 071 Lee                      Fl        13    .13        19    .11
+  12 127 Volusia                  Fl        12    .12        18    .10
+  39 061 Hamilton                 Oh        12    .12        28    .16
+  41 033 Josephine                Or        12    .12        20    .11
+  12 033 Escambia                 Fl        12    .12        22    .12
+  56 001 Albany                   Wy        12    .12        22    .12
+  16 027 Canyon                   Id        12    .12        22    .12
+  55 079 Milwaukee                Wi        12    .12        20    .11
+  30 111 Yellowstone              Mt        12    .12        25    .14
+  06 109 Tuolumne                 Ca        12    .12        17    .10
+  12 095 Orange                   Fl        12    .12        19    .11
+  12 025 Dade                     Fl        12    .12        16    .09
+  08 077 Mesa                     Co        12    .12        19    .11
+  41 041 Lincoln                  Or        11    .11        19    .11
+  06 101 Sutter                   Ca        11    .11        19    .11
+  26 163 Wayne                    Mi        11    .11        19    .11
+  36 061 New York                 NY        11    .11        17    .10
+  31 109 Lancaster                Ne        10    .10        17    .10
+  41 003 Benton                   Or        10    .10        19    .11
+  41 015 Curry                    Or        10    .10        20    .11
+  25 017 Middlesex                Ma        10    .10        13    .07
+  24 033 Prince George's          Md        10    .10        16    .09
+  42 091 Montgomery               Pa        10    .10        20    .11
+  53 077 Yakima                   Wa        10    .10        18    .10
+  06 103 Tehama                   Ca        10    .10        16    .09
+  17 043 Du Page                  Il        10    .10        23    .13
+  36 119 Westchester              NY        10    .10        22    .12
+  10 003 New Castle               De        10    .10        16    .09
+  55 025 Dane                     Wi        10    .10        19    .11
+  49 053 Washington               Ut        10    .10        23    .13
+  30 013 Cascade                  Mt        10    .10        20    .11
+  29 189 St. Louis                Mo        10    .10        17    .10
+  04 005 Coconino                 Az        10    .10        21    .12
+  04 003 Cochise                  Az        10    .10        14    .08
+   All Migration Flows                    1998  20.28      3605  20.18
+      32 031   County Non-Migrants       97027           197229
+32 033   White Pine Total Migrati Nv       344              735
+  32 003 Clark                    Nv        34   9.88        77  10.48
+  32 031 Washoe                   Nv        22   6.40        39   5.31
+  49 035 Salt Lake                Ut        18   5.23        51   6.94
+  32 007 Elko                     Nv        13   3.78        28   3.81
+  32 023 Nye                      Nv        13   3.78        30   4.08
+  32 510 Carson City city         Nv        11   3.20        15   2.04
+   Same State                               28   8.14        67   9.12
+   Same Region, Diff. State                160  46.51       325  44.22
+   Different Region                         45  13.08       103  14.01
+      32 033   County Non-Migrants        2821             6876
+32 510   Carson City city Total M Nv      2209             4360
+  32 031 Washoe                   Nv       347  15.71       621  14.24
+  32 005 Douglas                  Nv       209   9.46       438  10.05
+  32 019 Lyon                     Nv       152   6.88       315   7.22
+  06 037 Los Angeles              Ca       150   6.79       314   7.20
+  32 003 Clark                    Nv        66   2.99       133   3.05
+  06 017 El Dorado                Ca        59   2.67       133   3.05
+  06 059 Orange                   Ca        56   2.54       116   2.66
+  06 085 Santa Clara              Ca        50   2.26        99   2.27
+  06 073 San Diego                Ca        47   2.13        69   1.58
+  06 067 Sacramento               Ca        44   1.99        79   1.81
+  06 001 Alameda                  Ca        43   1.95        76   1.74
+  06 071 San Bernardino           Ca        30   1.36        70   1.61
+  06 111 Ventura                  Ca        22   1.00        52   1.19
+  04 013 Maricopa                 Az        22   1.00        47   1.08
+  32 029 Storey                   Nv        21    .95        37    .85
+  06 013 Contra Costa             Ca        21    .95        41    .94
+  06 081 San Mateo                Ca        21    .95        47   1.08
+  32 001 Churchill                Nv        18    .81        33    .76
+  06 061 Placer                   Ca        18    .81        33    .76
+  06 019 Fresno                   Ca        17    .77        43    .99
+  06 077 San Joaquin              Ca        16    .72        34    .78
+  06 065 Riverside                Ca        15    .68        29    .67
+  57 001 Foreign / Overseas       FR        14    .63        38    .87
+  06 099 Stanislaus               Ca        13    .59        33    .76
+  06 029 Kern                     Ca        12    .54        26    .60
+  04 019 Pima                     Az        11    .50        27    .62
+  06 097 Sonoma                   Ca        11    .50        18    .41
+  32 007 Elko                     Nv        11    .50        37    .85
+  53 033 King                     Wa        11    .50        27    .62
+  06 053 Monterey                 Ca        10    .45        19    .44
+   Same State                               39   1.77        71   1.63
+   Region 1:   Northeast                    52   2.35        92   2.11
+   Region 2:   Midwest                      89   4.03       165   3.78
+   Region 3:   South                       108   4.89       217   4.98
+   Region 4:   West                        384  17.38       731  16.77
+      32 510   County Non-Migrants       14864            31603

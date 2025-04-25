@@ -1,0 +1,383 @@
+     Documentation for: 2005-2006 County-to-County Migration Flows
+
+
+A.  File characteristics:
+
+    CD ROM
+    ASCII language
+    Filenames = countyin0506.dat (for in-migration flows, all states)
+                
+                countyout0506.dat (for out-migration flows, all states)
+
+    Record length = 91 characters
+
+B.  Records Included for In-Migration Flows:
+
+    The file contains records for the county level migration
+    flows to each county in the U.S. (including the District
+    of Columbia) from other counties in the U.S., from foreign, and
+    for non-migrants.  There are 4 foreign categories included:
+      1.  Puerto Rico
+      2.  Virgin Islands
+      3.  APO/FPO ZIP codes
+      4.  foreign countries
+
+    Only those in-migration flows containing 10 or more returns
+    are included.  The other in-migration flows are aggregated
+    into 7 summary categories:
+      1.  other county in-migration flows within the same state
+      2.  other county in-migration flows from another state in
+          the U.S.
+      3.  other county in-migration flows from another state in
+          the northeast region in the U.S.
+      4.  other county in-migration flows from another state in
+          the midwest region in the U.S.
+      5.  other county in-migration flows from another state in
+          the south region in the U.S.
+      6.  other county in-migration flows from another state in
+          the west region in the U.S.
+      7.  other county in-migration flows from foreign
+
+    If the county in-migration flows for any of the 4 regions
+    is based on less than 10 returns, then none of the records
+    for the 4 regions are included.  If the "other county
+    in-migration to foreign" is based on less than 10 returns,
+    then record is not included.  If either of the summaries
+    "other county in-migration flows within the same state" or
+    "other county in-migration flows to another state in the
+    U.S." contains less than 10 returns then both are excluded.
+
+    This means that there are a variable number of in-migration
+    flow records included for each county, or there may be none.
+
+    For each county, there are 5 total records representing the
+    sum of all in-migration flows from all areas.  The 5
+    total records are always included, however, the data for
+    these totals may be suppressed.  The data are replaced with
+    the value "-1" if they are based on less than 10 returns.
+    the 5 total records are:
+      1.  total of all in-migration flows from other counties
+          in the U.S. and from foreign;
+      2.  total of all in-migration flows from other counties
+          in the U.S.
+      3.  total of all in-migration flows from other counties
+          in same state in the U.S.
+      4.  total of all in-migration flows from other counties
+          in diferent states in the U.S.
+      5.  total of all in-migration flows from foreign
+
+    These total records are also summed up to the state, and to
+    the U.S. and included on the file.
+
+    In addition to the suppression procedures implemented for
+    the county in-flow data, complimentary suppression has
+    been implemented to prevent the rederivation of suppressed
+    data from the totals.
+
+C.  Record description for In-Migration Flows:
+
+    Character             Description
+    Positions
+
+       1-2          FIPS State Code for Destination:
+                       00 = U.S. Total
+                       01 to 56 = States in the U.S.
+
+       3            Blank
+
+       4-6          FIPS County Code for Destination:
+                       000 = U.S. or State Total
+                       001 to 999 = Valid Range
+
+       7            Blank
+
+       8-9          FIPS State Code for Origin:
+                       01 to 56 = Migration flow
+                       57, 58, 59, 96, 97, 98 = Special valid codes 1/
+
+       10            Blank
+
+       11-13         FIPS County Code for Origin:
+                        000, 001 to 999 = Valid range 1/
+
+       14            Blank
+
+       15-16         2-Character State Abbreviation:
+                        For U.S. or State Total records, the field
+                        contains the name for the destination state:
+                           US = U.S total record
+                           AL to WY = States in the U.S.
+                        For County Total records, the field
+                        contains the name for the destination state:
+                           AL to WY = States in the U.S.
+                        For non-migrant 2/ records, the field
+                        contains the name for the destination state:
+                           AL to WY = States in the U.S.
+                        For County-to-County flow records, the field
+                        contains the name for the origin state:
+                           AL to WY = States in the U.S.
+                           FR = Foreign
+                        For flow summary records, the field contains
+                        a special code for the summary level:
+                           SS = Other Flows - Same State
+                           DS = Other Flows - Diff State
+                           FR = Foreign
+
+       17            Blank
+
+       18-49         County Name:
+                        For the U.S. and state total records, the
+                        field contains the name for the total:
+                           "Total Mig - US & For"
+                           "Total Mig - US"
+                           "Total Mig - Same St"
+                           "Total Mig - Diff St"
+                           "Total Mig - Foreign"
+                        For County Total records, the field
+                        contains the county name of the destination, and
+                        the name for the total concatenated together:
+                           "______________ Tot Mig-US & For"
+                           "______________ Tot Mig-US"
+                           "______________ Tot Mig-Same St"
+                           "______________ Tot Mig-Diff St"
+                           "______________ Tot Mig-Foreign"
+                        For non-migrant 2/ records, the field
+                        contains the county name of the destination, and
+                        "Non-migrants"  concatenated together:
+                           "______________ Non-migrants"
+                        For County-to-County flow records, the field
+                        contains the name for the origin county:
+                           "Autauga County", "Baldwin County", etc
+                           "Foreign - Overseas"
+                           "Foreign - Puerto Rico
+                           "Foreign - APO/FPO ZIPs"
+                           "Foreign - Virgin Islands
+                        For flow summary records, the field contains
+                        a special code for the summary level:
+                           "Other Flows - Same State"
+                           "Other Flows - Diff State"
+                           "Other Flows - Northeast"
+                           "Other Flows - Midwest"
+                           "Other Flows - South"
+                           "Other Flows - West"
+                           "Foreign - Other flows"
+
+       50            Blank
+
+       51-59         Number of Returns
+                       -1 = data value suppressed
+                       10 to 999999999999 = Potential legitimate values
+
+       60-70         Number of Exemptions
+                       -1 = data value suppressed
+                       10 to 999999999999 = Potential legitimate values
+
+       71-82         Aggregate Adjusted Gross Income (in 1,000s)
+                       -1 = data value suppressed
+                       -99999999999 to 999999999999 = Potential legitimate values
+
+       83-91         Median Adjusted Gross Income
+                       -1 = data value suppressed or Median AGI < $0
+                        0 = Potential legitimate value
+                        1 = Median AGI > $100,000
+                        2 to 99999 = Potential legitimate values
+
+
+D.  Records Included for Out-Migration Flows:
+
+    The file contains records for the county level migration
+    flows from each county in the U.S. (including the District
+    of Columbia) to other counties in the U.S., to foreign, and
+    for non-migrants.  There are 4 foreign categories included:
+      1.  Puerto Rico
+      2.  Virgin Islands
+      3.  APO/FPO ZIP codes
+      4.  foreign countries
+
+    Only those out-migration flows containing 10 or more returns
+    are included.  The other out-migration flows are aggregated
+    into 7 summary categories:
+      1.  other county out-migration flows within the same state
+      2.  other county out-migration flows to another state in
+          the U.S.
+      3.  other county out-migration flows to another state in
+          the northeast region in the U.S.
+      4.  other county out-migration flows to another state in
+          the midwest region in the U.S.
+      5.  other county out-migration flows to another state in
+          the south region in the U.S.
+      6.  other county out-migration flows to another state in
+          the west region in the U.S.
+      7.  other county out-migration flows to foreign
+
+    If the county out-migration flows for any of the 4 regions
+    is based on less than 10 returns, then none of the records
+    for the 4 regions are included.  If the "other county
+    out-migration to foreign" is based on less than 10 returns,
+    then record is not included.  If either of the summaries
+    "other county out-migration flows within the same state" or
+    "other county out-migration flows to another state in the
+    U.S." contains less than 10 returns then both are excluded.
+
+    This means that there are a variable number of out-migration
+    flow records included for each county, or there may be none.
+
+    For each county, there are 5 total records representing the
+    sum of all out-migration flows to all areas.  The 5
+    total records are always included, however, the data for
+    these totals may be suppressed.  The data are replaced with
+    the value "-1" if they are based on less than 10 returns.
+    the 5 total records are:
+      1.  total of all out-migration flows to other counties
+          in the U.S. and to foreign;
+      2.  total of all out-migration flows to other counties
+          in the U.S.
+      3.  total of all out-migration flows to other counties
+          in same state in the U.S.
+      4.  total of all out-migration flows to other counties
+          in diferent states in the U.S.
+      5.  total of all out-migration flows to foreign
+
+    These total records are also summed up to the state, and to
+    the U.S. and included on the file.
+
+    In addition to the suppression procedures implemented for
+    the county out-flow data, complimentary suppression has
+    been implemented to prevent the rederivation of suppressed
+    data from the totals.
+
+E.  Record description for Out-Migration Flows:
+
+    Character             Description
+    Positions
+
+       1-2          FIPS State Code for Origin:
+                       00 = U.S. Total
+                       01 to 56 = States in the U.S.
+
+       3            Blank
+
+       4-6          FIPS County Code for Origin:
+                       000 = U.S. or State Total
+                       001 to 999 = Valid Range
+
+       7            Blank
+
+       8-9          FIPS State Code for Destination:
+                       01 to 56 = Migration flow
+                       57, 58, 59, 96, 97, 98 = Special valid codes 1/
+
+       10            Blank
+
+       11-13         FIPS County Code for Destination:
+                        000, 001 to 999 = Valid range 1/
+
+       14            Blank
+
+       15-16         2-Character State Abbreviation:
+                        For U.S. or State Total records, the field
+                        contains the name for the origin state:
+                           US = U.S total record
+                           AL to WY = States in the U.S.
+                        For County Total records, the field
+                        contains the name for the origin state:
+                           AL to WY = States in the U.S.
+                        For non-migrant 2/ records, the field
+                        contains the name for the origin state:
+                           AL to WY = States in the U.S.
+                        For County-to-County flow records, the field
+                        contains the name for the destination state:
+                           AL to WY = States in the U.S.
+                           FR = Foreign
+                        For flow summary records, the field contains
+                        a special code for the summary level:
+                           SS = Other Flows - Same State
+                           DS = Other Flows - Diff State
+                           FR = Foreign
+
+       17            Blank
+
+       18-49         County Name:
+                        For the U.S. and state total records, the
+                        field contains the name for the total:
+                           "Total Mig - US & For"
+                           "Total Mig - US"
+                           "Total Mig - Same St"
+                           "Total Mig - Diff St"
+                           "Total Mig - Foreign"
+                        For County Total records, the field
+                        contains the county name of the origin, and
+                        the name for the total concatenated together:
+                           "______________ Tot Mig-US & For"
+                           "______________ Tot Mig-US"
+                           "______________ Tot Mig-Same St"
+                           "______________ Tot Mig-Diff St"
+                           "______________ Tot Mig-Foreign"
+                        For non-migrant 2/ records, the field
+                        contains the county name of the origin, and
+                        "Non-migrants"  concatenated together:
+                           "______________ Non-migrants"
+                        For County-to-County flow records, the field
+                        contains the name for the destination county:
+                           "Autauga County", "Baldwin County", etc
+                           "Foreign - Overseas"
+                           "Foreign - Puerto Rico
+                           "Foreign - APO/FPO ZIPs"
+                           "Foreign - Virgin Islands
+                        For flow summary records, the field contains
+                        a special code for the summary level:
+                           "Other Flows - Same State"
+                           "Other Flows - Diff State"
+                           "Other Flows - Northeast"
+                           "Other Flows - Midwest"
+                           "Other Flows - South"
+                           "Other Flows - West"
+                           "Foreign - Other flows"
+
+       50            Blank
+
+       51-59         Number of Returns
+                       -1 = data value suppressed
+                       10 to 999999999999 = Potential legitimate values
+
+       60-70         Number of Exemptions
+                       -1 = data value suppressed
+                       10 to 999999999999 = Potential legitimate values
+
+       71-82         Aggregate Adjusted Gross Income (in 1,000s)
+                       -1 = data value suppressed
+                       -99999999999 to 999999999999 = Potential legitimate values
+
+       83-91         Median Adjusted Gross Income
+                       -1 = data value suppressed or Median AGI < $0
+                        0 = Potential legitimate value
+                        1 = Median AGI > $100,000
+                        2 to 99999 = Potential legitimate values
+
+
+F.  Notes:
+
+1.  There are special state/county codes created in the processing of the
+county-to-county flows files.   They are:
+
+                                    State     State    County
+                                    Abbrev     Code     Code
+       "Total Mig - US & For"         TT        96       000
+       "Total Mig - US"               TU        97       000
+       "Total Mig - Same St"          TS        97       001
+       "Total Mig - Diff St"          TD        97       003
+       "Total Mig - Foreign"          TF        98       000
+       "Foreign - Overseas"           FR        57       001
+       "Foreign - Puerto Rico         FR        57       003
+       "Foreign - APO/FPO ZIPs"       FR        57       005
+       "Foreign - Virgin Islands      FR        57       007
+       "Other Flows - Same State"     SS        58       000
+       "Other Flows - Diff State"     DS        59       000
+       "Other Flows - Northeast"      DS        59       001
+       "Other Flows - Midwest"        DS        59       003
+       "Other Flows - South"          DS        59       005
+       "Other Flows - West"           DS        59       007
+       "Foreign - Other flows"        FR        57       009
+
+2.  Records where the origin state/county code and the destination state/
+county code are the same are for the county non-migrant records.

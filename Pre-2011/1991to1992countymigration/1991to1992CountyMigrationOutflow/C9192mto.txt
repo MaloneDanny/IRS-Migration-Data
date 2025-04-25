@@ -1,0 +1,639 @@
+30 001   Beaverhead Total Migrati Mt       279              562
+  30 063 Missoula                 Mt        21   7.53        33   5.87
+  30 093 Silver Bow               Mt        15   5.38        29   5.16
+  30 057 Madison                  Mt        13   4.66        20   3.56
+  30 031 Gallatin                 Mt        12   4.30        17   3.02
+  30 111 Yellowstone              Mt        12   4.30        22   3.91
+  30 013 Cascade                  Mt        10   3.58        17   3.02
+   Same State                               60  21.51       140  24.91
+   Same Region, Diff. State                102  36.56       208  37.01
+   Different Region                         34  12.19        76  13.52
+      30 001   County Non-Migrants        2573             6094
+30 003   Big Horn Total Migration Mt       235              545
+  30 111 Yellowstone              Mt        64  27.23       141  25.87
+  30 087 Rosebud                  Mt        18   7.66        51   9.36
+  56 033 Sheridan                 Wy        17   7.23        31   5.69
+   Same State                               45  19.15        98  17.98
+   Same Region, Diff. State                 56  23.83       134  24.59
+   Different Region                         35  14.89        90  16.51
+      30 003   County Non-Migrants        2808             7816
+30 005   Blaine Total Migration F Mt       177              370
+  30 041 Hill                     Mt        35  19.77        76  20.54
+  30 111 Yellowstone              Mt        12   6.78        27   7.30
+   Same State                               59  33.33       133  35.95
+   Same Region, Diff. State                 44  24.86        67  18.11
+   Different Region                         27  15.25        67  18.11
+      30 005   County Non-Migrants        2017             5074
+30 007   Broadwater Total Migrati Mt       106              200
+  30 049 Lewis and Clark          Mt        21  19.81        53  26.50
+  30 031 Gallatin                 Mt        10   9.43        16   8.00
+   Same State                               30  28.30        55  27.50
+   Same Region, Diff. State                 33  31.13        57  28.50
+   Different Region                         12  11.32        19   9.50
+      30 007   County Non-Migrants        1021             2489
+30 009   Carbon Total Migration F Mt       221              434
+  30 111 Yellowstone              Mt        84  38.01       166  38.25
+  30 095 Stillwater               Mt        10   4.52        23   5.30
+  30 031 Gallatin                 Mt        10   4.52        11   2.53
+   Same State                               35  15.84        83  19.12
+   Same Region, Diff. State                 58  26.24       101  23.27
+   Different Region                         24  10.86        50  11.52
+      30 009   County Non-Migrants        2502             5805
+30 011   Carter Total Migration F Mt        26               55
+   All Migration Flows                      26 100.00        55 100.00
+      30 011   County Non-Migrants         496             1153
+30 013   Cascade Total Migration  Mt      2477             5301
+  57 005 APO / FPO Zip Code       FR       172   6.94       405   7.64
+  30 063 Missoula                 Mt       124   5.01       178   3.36
+  30 049 Lewis and Clark          Mt       110   4.44       227   4.28
+  30 111 Yellowstone              Mt       110   4.44       222   4.19
+  30 031 Gallatin                 Mt        85   3.43       142   2.68
+  53 033 King                     Wa        72   2.91       102   1.92
+  30 029 Flathead                 Mt        63   2.54       132   2.49
+  30 041 Hill                     Mt        43   1.74       114   2.15
+  53 063 Spokane                  Wa        43   1.74       101   1.91
+  04 013 Maricopa                 Az        39   1.57        65   1.23
+  53 053 Pierce                   Wa        31   1.25        60   1.13
+  30 099 Teton                    Mt        28   1.13        65   1.23
+  02 020 Anchorage Borough        Ak        27   1.09        68   1.28
+  32 003 Clark                    Nv        27   1.09        67   1.26
+  30 015 Chouteau                 Mt        27   1.09        57   1.08
+  06 037 Los Angeles              Ca        26   1.05        34    .64
+  53 061 Snohomish                Wa        22    .89        46    .87
+  16 001 Ada                      Id        22    .89        49    .92
+  06 073 San Diego                Ca        22    .89        41    .77
+  30 027 Fergus                   Mt        19    .77        62   1.17
+  30 035 Glacier                  Mt        18    .73        46    .87
+  30 093 Silver Bow               Mt        18    .73        30    .57
+  41 051 Multnomah                Or        17    .69        37    .70
+  08 041 El Paso                  Co        16    .65        43    .81
+  30 073 Pondera                  Mt        15    .61        33    .62
+  35 001 Bernalillo               NM        15    .61        22    .42
+  06 067 Sacramento               Ca        14    .57        40    .75
+  41 005 Clackamas                Or        12    .48        28    .53
+  06 083 Santa Barbara            Ca        12    .48        32    .60
+  53 005 Benton                   Wa        11    .44        31    .58
+  16 055 Kootenai                 Id        11    .44        24    .45
+  49 035 Salt Lake                Ut        11    .44        19    .36
+  30 047 Lake                     Mt        11    .44        23    .43
+  48 201 Harris                   Tx        11    .44        27    .51
+  53 035 Kitsap                   Wa        10    .40        21    .40
+  30 101 Toole                    Mt        10    .40        18    .34
+  49 011 Davis                    Ut        10    .40        28    .53
+  31 153 Sarpy                    Ne        10    .40        38    .72
+  30 023 Deer Lodge               Mt        10    .40        17    .32
+   Same State                               96   3.88       191   3.60
+   Region 1:   Northeast                   102   4.12       209   3.94
+   Region 2:   Midwest                     266  10.74       633  11.94
+   Region 3:   South                       294  11.87       696  13.13
+   Region 4:   West                        355  14.33       754  14.22
+   Foreign                                  10    .40        24    .45
+      30 013   County Non-Migrants       26846            61125
+30 015   Chouteau Total Migration Mt       127              216
+  30 013 Cascade                  Mt        24  18.90        37  17.13
+  30 041 Hill                     Mt        11   8.66        18   8.33
+   Same State                               47  37.01        84  38.89
+   Same Region, Diff. State                 26  20.47        39  18.06
+   Different Region                         19  14.96        38  17.59
+      30 015   County Non-Migrants        1803             4285
+30 017   Custer Total Migration F Mt       328              647
+  30 111 Yellowstone              Mt        61  18.60       104  16.07
+  30 031 Gallatin                 Mt        16   4.88        30   4.64
+   Same State                               93  28.35       206  31.84
+   Same Region, Diff. State                 91  27.74       181  27.98
+   Different Region                         67  20.43       126  19.47
+      30 017   County Non-Migrants        3846             8765
+30 019   Daniels Total Migration  Mt        40               81
+  30 111 Yellowstone              Mt        10  25.00        12  14.81
+   All Migration Flows                      30  75.00        69  85.19
+      30 019   County Non-Migrants         865             1965
+30 021   Dawson Total Migration F Mt       264              560
+  30 111 Yellowstone              Mt        22   8.33        46   8.21
+  38 089 Stark                    ND        11   4.17        21   3.75
+  30 017 Custer                   Mt        10   3.79        17   3.04
+   Same State                               88  33.33       200  35.71
+   Same Region, Diff. State                 67  25.38       136  24.29
+   Different Region                         66  25.00       140  25.00
+      30 021   County Non-Migrants        3207             7539
+30 023   Deer Lodge Total Migrati Mt       220              432
+  30 093 Silver Bow               Mt        33  15.00        61  14.12
+  30 063 Missoula                 Mt        15   6.82        24   5.56
+  30 077 Powell                   Mt        13   5.91        24   5.56
+  30 049 Lewis and Clark          Mt        13   5.91        20   4.63
+  30 031 Gallatin                 Mt        11   5.00        22   5.09
+   Same State                               37  16.82        94  21.76
+   Same Region, Diff. State                 74  33.64       145  33.56
+   Different Region                         24  10.91        42   9.72
+      30 023   County Non-Migrants        3067             6597
+30 025   Fallon Total Migration F Mt        85              193
+   Same State                               46  54.12       109  56.48
+   Region 2:   Midwest                      26  30.59        52  26.94
+   Region 4:   West                         13  15.29        32  16.58
+      30 025   County Non-Migrants        1028             2588
+30 027   Fergus Total Migration F Mt       327              698
+  30 111 Yellowstone              Mt        40  12.23        68   9.74
+  30 013 Cascade                  Mt        22   6.73        36   5.16
+  30 031 Gallatin                 Mt        20   6.12        44   6.30
+  30 063 Missoula                 Mt        13   3.98        25   3.58
+   Same State                               93  28.44       217  31.09
+   Same Region, Diff. State                 94  28.75       199  28.51
+   Different Region                         45  13.76       109  15.62
+      30 027   County Non-Migrants        4286             9846
+30 029   Flathead Total Migration Mt      1513             2935
+  30 063 Missoula                 Mt       136   8.99       236   8.04
+  53 033 King                     Wa        70   4.63       107   3.65
+  53 063 Spokane                  Wa        56   3.70       103   3.51
+  30 031 Gallatin                 Mt        51   3.37        92   3.13
+  30 053 Lincoln                  Mt        44   2.91       111   3.78
+  30 111 Yellowstone              Mt        44   2.91        94   3.20
+  30 049 Lewis and Clark          Mt        40   2.64        87   2.96
+  04 013 Maricopa                 Az        39   2.58        67   2.28
+  30 047 Lake                     Mt        29   1.92        54   1.84
+  30 013 Cascade                  Mt        29   1.92        51   1.74
+  53 061 Snohomish                Wa        22   1.45        50   1.70
+  30 041 Hill                     Mt        21   1.39        47   1.60
+  30 081 Ravalli                  Mt        20   1.32        53   1.81
+  02 020 Anchorage Borough        Ak        18   1.19        30   1.02
+  06 073 San Diego                Ca        18   1.19        30   1.02
+  57 005 APO / FPO Zip Code       FR        17   1.12        20    .68
+  06 037 Los Angeles              Ca        17   1.12        22    .75
+  32 003 Clark                    Nv        16   1.06        26    .89
+  49 035 Salt Lake                Ut        16   1.06        29    .99
+  16 055 Kootenai                 Id        15    .99        35   1.19
+  53 053 Pierce                   Wa        15    .99        34   1.16
+  30 035 Glacier                  Mt        13    .86        33   1.12
+  16 001 Ada                      Id        12    .79        21    .72
+  30 093 Silver Bow               Mt        11    .73        23    .78
+  30 089 Sanders                  Mt        11    .73        26    .89
+   Same State                               75   4.96       160   5.45
+   Region 1:   Northeast                    29   1.92        51   1.74
+   Region 2:   Midwest                     123   8.13       256   8.72
+   Region 3:   South                       115   7.60       214   7.29
+   Region 4:   West                        391  25.84       773  26.34
+      30 029   County Non-Migrants       20489            48159
+30 031   Gallatin Total Migration Mt      1951             3468
+  30 111 Yellowstone              Mt       128   6.56       241   6.95
+  30 063 Missoula                 Mt        83   4.25       142   4.09
+  30 049 Lewis and Clark          Mt        82   4.20       147   4.24
+  53 033 King                     Wa        77   3.95       118   3.40
+  30 067 Park                     Mt        71   3.64       115   3.32
+  30 013 Cascade                  Mt        47   2.41        91   2.62
+  30 029 Flathead                 Mt        42   2.15        77   2.22
+  30 093 Silver Bow               Mt        29   1.49        61   1.76
+  53 063 Spokane                  Wa        26   1.33        41   1.18
+  53 061 Snohomish                Wa        24   1.23        40   1.15
+  06 037 Los Angeles              Ca        21   1.08        32    .92
+  30 043 Jefferson                Mt        19    .97        43   1.24
+  32 003 Clark                    Nv        19    .97        33    .95
+  56 029 Park                     Wy        16    .82        23    .66
+  06 073 San Diego                Ca        16    .82        23    .66
+  30 081 Ravalli                  Mt        16    .82        36   1.04
+  04 013 Maricopa                 Az        16    .82        27    .78
+  02 020 Anchorage Borough        Ak        15    .77        31    .89
+  30 027 Fergus                   Mt        15    .77        35   1.01
+  56 039 Teton                    Wy        14    .72        17    .49
+  57 005 APO / FPO Zip Code       FR        14    .72        25    .72
+  27 053 Hennepin                 Mn        14    .72        17    .49
+  30 001 Beaverhead               Mt        13    .67        19    .55
+  16 001 Ada                      Id        13    .67        26    .75
+  30 007 Broadwater               Mt        13    .67        22    .63
+  53 005 Benton                   Wa        12    .62        23    .66
+  30 041 Hill                     Mt        12    .62        22    .63
+  30 057 Madison                  Mt        12    .62        27    .78
+  08 069 Larimer                  Co        12    .62        27    .78
+  41 039 Lane                     Or        12    .62        19    .55
+  41 067 Washington               Or        11    .56        24    .69
+  30 095 Stillwater               Mt        10    .51        31    .89
+  08 041 El Paso                  Co        10    .51        15    .43
+  04 019 Pima                     Az        10    .51        20    .58
+  30 009 Carbon                   Mt        10    .51        22    .63
+  16 019 Bonneville               Id        10    .51        18    .52
+  30 003 Big Horn                 Mt        10    .51        26    .75
+   Same State                              131   6.71       253   7.30
+   Region 1:   Northeast                    50   2.56        70   2.02
+   Region 2:   Midwest                     192   9.84       342   9.86
+   Region 3:   South                       154   7.89       247   7.12
+   Region 4:   West                        450  23.07       800  23.07
+      30 031   County Non-Migrants       16506            36230
+30 033   Garfield Total Migration Mt        54              114
+  30 017 Custer                   Mt        14  25.93        23  20.18
+   All Migration Flows                      40  74.07        91  79.82
+      30 033   County Non-Migrants         448             1081
+30 035   Glacier Total Migration  Mt       260              573
+  30 013 Cascade                  Mt        31  11.92        58  10.12
+  30 029 Flathead                 Mt        14   5.38        37   6.46
+  30 111 Yellowstone              Mt        13   5.00        32   5.58
+  30 073 Pondera                  Mt        13   5.00        34   5.93
+  30 063 Missoula                 Mt        11   4.23        24   4.19
+  53 033 King                     Wa        10   3.85        21   3.66
+  30 041 Hill                     Mt        10   3.85        31   5.41
+   Same State                               60  23.08       142  24.78
+   Same Region, Diff. State                 71  27.31       144  25.13
+   Different Region                         27  10.38        50   8.73
+      30 035   County Non-Migrants        3569             8941
+30 037   Golden Valley Total Migr Mt        35               57
+   All Migration Flows                      35 100.00        57 100.00
+      30 037   County Non-Migrants         365              754
+30 039   Granite Total Migration  Mt        88              160
+   Same State                               41  46.59        73  45.63
+   Same Region, Diff. State                 33  37.50        63  39.38
+   Different Region                         14  15.91        24  15.00
+      30 039   County Non-Migrants         950             2169
+30 041   Hill Total Migration Flo Mt       498             1049
+  30 013 Cascade                  Mt        58  11.65       132  12.58
+  30 111 Yellowstone              Mt        34   6.83        70   6.67
+  30 063 Missoula                 Mt        28   5.62        46   4.39
+  30 005 Blaine                   Mt        23   4.62        51   4.86
+  30 031 Gallatin                 Mt        19   3.82        39   3.72
+  53 033 King                     Wa        18   3.61        32   3.05
+  30 049 Lewis and Clark          Mt        14   2.81        22   2.10
+  30 029 Flathead                 Mt        14   2.81        26   2.48
+  53 063 Spokane                  Wa        13   2.61        22   2.10
+   Same State                              104  20.88       248  23.64
+   Same Region, Diff. State                100  20.08       203  19.35
+   Different Region                         73  14.66       158  15.06
+      30 041   County Non-Migrants        5776            13762
+30 043   Jefferson Total Migratio Mt       331              694
+  30 049 Lewis and Clark          Mt        99  29.91       230  33.14
+  30 093 Silver Bow               Mt        31   9.37        64   9.22
+  30 031 Gallatin                 Mt        20   6.04        49   7.06
+  30 063 Missoula                 Mt        14   4.23        24   3.46
+   Same State                               46  13.90        84  12.10
+   Same Region, Diff. State                 96  29.00       189  27.23
+   Different Region                         25   7.55        54   7.78
+      30 043   County Non-Migrants        2452             6223
+30 045   Judith Basin Total Migra Mt        68              134
+  30 013 Cascade                  Mt        16  23.53        40  29.85
+   All Migration Flows                      52  76.47        94  70.15
+      30 045   County Non-Migrants         816             1804
+30 047   Lake Total Migration Flo Mt       494              975
+  30 063 Missoula                 Mt        77  15.59       139  14.26
+  30 029 Flathead                 Mt        62  12.55       114  11.69
+  30 049 Lewis and Clark          Mt        20   4.05        36   3.69
+  30 089 Sanders                  Mt        15   3.04        34   3.49
+  30 111 Yellowstone              Mt        12   2.43        26   2.67
+  57 005 APO / FPO Zip Code       FR        12   2.43        17   1.74
+  30 081 Ravalli                  Mt        11   2.23        26   2.67
+  30 031 Gallatin                 Mt        10   2.02        16   1.64
+  53 063 Spokane                  Wa        10   2.02        23   2.36
+   Same State                               60  12.15       151  15.49
+   Same Region, Diff. State                158  31.98       298  30.56
+   Different Region                         47   9.51        95   9.74
+      30 047   County Non-Migrants        5964            14314
+30 049   Lewis and Clark Total Mi Mt      1366             2597
+  30 063 Missoula                 Mt       117   8.57       197   7.59
+  30 031 Gallatin                 Mt       100   7.32       167   6.43
+  30 043 Jefferson                Mt        94   6.88       229   8.82
+  30 013 Cascade                  Mt        67   4.90       120   4.62
+  30 111 Yellowstone              Mt        57   4.17       109   4.20
+  30 093 Silver Bow               Mt        40   2.93        87   3.35
+  53 033 King                     Wa        35   2.56        43   1.66
+  30 029 Flathead                 Mt        31   2.27        70   2.70
+  53 063 Spokane                  Wa        26   1.90        40   1.54
+  30 007 Broadwater               Mt        24   1.76        60   2.31
+  49 035 Salt Lake                Ut        20   1.46        36   1.39
+  57 005 APO / FPO Zip Code       FR        18   1.32        20    .77
+  16 001 Ada                      Id        16   1.17        28   1.08
+  30 081 Ravalli                  Mt        15   1.10        32   1.23
+  30 047 Lake                     Mt        14   1.02        39   1.50
+  30 077 Powell                   Mt        13    .95        29   1.12
+  41 067 Washington               Or        13    .95        29   1.12
+  30 001 Beaverhead               Mt        11    .81        22    .85
+  32 003 Clark                    Nv        11    .81        19    .73
+  04 013 Maricopa                 Az        11    .81        21    .81
+  06 073 San Diego                Ca        10    .73        15    .58
+   Same State                              122   8.93       252   9.70
+   Region 1:   Northeast                    27   1.98        62   2.39
+   Region 2:   Midwest                      98   7.17       180   6.93
+   Region 3:   South                        65   4.76       122   4.70
+   Region 4:   West                        311  22.77       569  21.91
+      30 049   County Non-Migrants       16939            37862
+30 051   Liberty Total Migration  Mt        44               93
+   All Migration Flows                      44 100.00        93 100.00
+      30 051   County Non-Migrants         908             2010
+30 053   Lincoln Total Migration  Mt       509             1101
+  30 029 Flathead                 Mt        57  11.20       135  12.26
+  53 063 Spokane                  Wa        34   6.68        69   6.27
+  30 063 Missoula                 Mt        29   5.70        53   4.81
+  53 033 King                     Wa        17   3.34        33   3.00
+  57 005 APO / FPO Zip Code       FR        14   2.75        19   1.73
+  30 031 Gallatin                 Mt        13   2.55        16   1.45
+  16 055 Kootenai                 Id        13   2.55        31   2.82
+  30 089 Sanders                  Mt        11   2.16        27   2.45
+  32 007 Elko                     Nv        11   2.16        21   1.91
+  06 073 San Diego                Ca        10   1.96        18   1.63
+   Same State                               64  12.57       158  14.35
+   Region 1:   Northeast                    12   2.36        18   1.63
+   Region 2:   Midwest                      24   4.72        66   5.99
+   Region 3:   South                        31   6.09        60   5.45
+   Region 4:   West                        169  33.20       377  34.24
+      30 053   County Non-Migrants        5251            13196
+30 055   McCone Total Migration F Mt        55              125
+   All Migration Flows                      55 100.00       125 100.00
+      30 055   County Non-Migrants         696             1636
+30 057   Madison Total Migration  Mt       170              361
+  30 031 Gallatin                 Mt        24  14.12        46  12.74
+  30 001 Beaverhead               Mt        18  10.59        52  14.40
+  30 111 Yellowstone              Mt        10   5.88        13   3.60
+   Same State                               53  31.18       123  34.07
+   Same Region, Diff. State                 42  24.71        78  21.61
+   Different Region                         23  13.53        49  13.57
+      30 057   County Non-Migrants        1712             3922
+30 059   Meagher Total Migration  Mt        58              100
+   Same State                               36  62.07        58  58.00
+   Same Region, Diff. State                 10  17.24        15  15.00
+   Different Region                         12  20.69        27  27.00
+      30 059   County Non-Migrants         636             1342
+30 061   Mineral Total Migration  Mt       113              256
+  30 063 Missoula                 Mt        24  21.24        48  18.75
+   All Migration Flows                      89  78.76       208  81.25
+      30 061   County Non-Migrants        1049             2537
+30 063   Missoula Total Migration Mt      2608             4714
+  30 081 Ravalli                  Mt       203   7.78       444   9.42
+  53 033 King                     Wa       127   4.87       177   3.75
+  30 029 Flathead                 Mt       104   3.99       200   4.24
+  30 049 Lewis and Clark          Mt        99   3.80       203   4.31
+  30 111 Yellowstone              Mt        98   3.76       172   3.65
+  53 063 Spokane                  Wa        98   3.76       181   3.84
+  30 047 Lake                     Mt        91   3.49       180   3.82
+  30 013 Cascade                  Mt        86   3.30       154   3.27
+  30 031 Gallatin                 Mt        63   2.42       113   2.40
+  49 035 Salt Lake                Ut        32   1.23        61   1.29
+  30 093 Silver Bow               Mt        30   1.15        68   1.44
+  04 013 Maricopa                 Az        30   1.15        50   1.06
+  30 061 Mineral                  Mt        29   1.11        66   1.40
+  41 051 Multnomah                Or        29   1.11        36    .76
+  06 073 San Diego                Ca        28   1.07        48   1.02
+  16 001 Ada                      Id        26   1.00        43    .91
+  06 037 Los Angeles              Ca        25    .96        34    .72
+  53 061 Snohomish                Wa        24    .92        35    .74
+  53 053 Pierce                   Wa        24    .92        42    .89
+  02 020 Anchorage Borough        Ak        22    .84        40    .85
+  30 089 Sanders                  Mt        21    .81        46    .98
+  16 055 Kootenai                 Id        21    .81        37    .78
+  30 053 Lincoln                  Mt        19    .73        31    .66
+  30 001 Beaverhead               Mt        18    .69        29    .62
+  41 067 Washington               Or        18    .69        34    .72
+  30 041 Hill                     Mt        18    .69        36    .76
+  57 005 APO / FPO Zip Code       FR        16    .61        22    .47
+  41 039 Lane                     Or        15    .58        21    .45
+  32 003 Clark                    Nv        13    .50        18    .38
+  30 039 Granite                  Mt        13    .50        27    .57
+  04 019 Pima                     Az        13    .50        20    .42
+  30 077 Powell                   Mt        12    .46        22    .47
+  08 041 El Paso                  Co        12    .46        18    .38
+  08 059 Jefferson                Co        12    .46        23    .49
+  53 035 Kitsap                   Wa        12    .46        20    .42
+  16 049 Idaho                    Id        11    .42        26    .55
+  30 027 Fergus                   Mt        11    .42        22    .47
+  30 043 Jefferson                Mt        11    .42        21    .45
+  17 031 Cook                     Il        10    .38        15    .32
+  02 090 Fairbanks North Star Bor Ak        10    .38        30    .64
+  30 023 Deer Lodge               Mt        10    .38        12    .25
+  53 005 Benton                   Wa        10    .38        23    .49
+   Same State                               95   3.64       176   3.73
+   Region 1:   Northeast                    69   2.65       105   2.23
+   Region 2:   Midwest                     188   7.21       345   7.32
+   Region 3:   South                       196   7.52       355   7.53
+   Region 4:   West                        486  18.63       833  17.67
+      30 063   County Non-Migrants       26322            57431
+30 065   Musselshell Total Migrat Mt       119              266
+  30 111 Yellowstone              Mt        43  36.13        78  29.32
+   Same State                               38  31.93       109  40.98
+   Same Region, Diff. State                 24  20.17        55  20.68
+   Different Region                         14  11.76        24   9.02
+      30 065   County Non-Migrants        1274             2839
+30 067   Park Total Migration Flo Mt       413              783
+  30 031 Gallatin                 Mt        90  21.79       170  21.71
+  30 111 Yellowstone              Mt        30   7.26        51   6.51
+  30 063 Missoula                 Mt        12   2.91        16   2.04
+  56 029 Park                     Wy        11   2.66        21   2.68
+  30 049 Lewis and Clark          Mt        10   2.42        20   2.55
+  53 033 King                     Wa        10   2.42        17   2.17
+   Same State                               68  16.46       168  21.46
+   Same Region, Diff. State                111  26.88       195  24.90
+   Different Region                         71  17.19       125  15.96
+      30 067   County Non-Migrants        4633            10063
+30 069   Petroleum Total Migratio Mt         0                0
+      30 069   County Non-Migrants          -1               -1
+30 071   Phillips Total Migration Mt       138              305
+  30 041 Hill                     Mt        16  11.59        36  11.80
+  30 111 Yellowstone              Mt        12   8.70        18   5.90
+   Same State                               61  44.20       135  44.26
+   Same Region, Diff. State                 30  21.74        71  23.28
+   Different Region                         19  13.77        45  14.75
+      30 071   County Non-Migrants        1669             3988
+30 073   Pondera Total Migration  Mt       176              363
+  30 013 Cascade                  Mt        21  11.93        36   9.92
+  30 035 Glacier                  Mt        19  10.80        58  15.98
+  30 063 Missoula                 Mt        11   6.25        16   4.41
+   Same State                               67  38.07       149  41.05
+   Same Region, Diff. State                 25  14.20        40  11.02
+   Different Region                         33  18.75        64  17.63
+      30 073   County Non-Migrants        2316             5423
+30 075   Powder River Total Migra Mt        57              107
+   Same State                               34  59.65        55  51.40
+   Same Region, Diff. State                 11  19.30        27  25.23
+   Different Region                         12  21.05        25  23.36
+      30 075   County Non-Migrants         580             1385
+30 077   Powell Total Migration F Mt       180              323
+  30 049 Lewis and Clark          Mt        26  14.44        54  16.72
+  30 063 Missoula                 Mt        19  10.56        34  10.53
+  30 023 Deer Lodge               Mt        13   7.22        32   9.91
+   Same State                               50  27.78        98  30.34
+   Same Region, Diff. State                 53  29.44        75  23.22
+   Different Region                         19  10.56        30   9.29
+      30 077   County Non-Migrants        1932             4412
+30 079   Prairie Total Migration  Mt        48               92
+   All Migration Flows                      48 100.00        92 100.00
+      30 079   County Non-Migrants         453             1028
+30 081   Ravalli Total Migration  Mt       720             1465
+  30 063 Missoula                 Mt       174  24.17       343  23.41
+  53 063 Spokane                  Wa        21   2.92        36   2.46
+  30 049 Lewis and Clark          Mt        16   2.22        35   2.39
+  30 029 Flathead                 Mt        16   2.22        28   1.91
+  53 033 King                     Wa        15   2.08        18   1.23
+  30 001 Beaverhead               Mt        15   2.08        33   2.25
+  30 111 Yellowstone              Mt        12   1.67        19   1.30
+  30 047 Lake                     Mt        12   1.67        19   1.30
+  57 005 APO / FPO Zip Code       FR        11   1.53        20   1.37
+   Same State                               71   9.86       156  10.65
+   Region 1:   Northeast                    16   2.22        33   2.25
+   Region 2:   Midwest                      50   6.94       112   7.65
+   Region 3:   South                        59   8.19       111   7.58
+   Region 4:   West                        232  32.22       502  34.27
+      30 081   County Non-Migrants        8065            18966
+30 083   Richland Total Migration Mt       237              565
+  30 111 Yellowstone              Mt        36  15.19        65  11.50
+  38 105 Williams                 ND        10   4.22        22   3.89
+   Same State                               69  29.11       188  33.27
+   Region 2:   Midwest                      59  24.89       139  24.60
+   Region 3:   South                        12   5.06        21   3.72
+   Region 4:   West                         51  21.52       130  23.01
+      30 083   County Non-Migrants        3513             8791
+30 085   Roosevelt Total Migratio Mt       251              532
+  30 111 Yellowstone              Mt        33  13.15        71  13.35
+  30 105 Valley                   Mt        15   5.98        27   5.08
+  38 105 Williams                 ND        11   4.38        18   3.38
+   Same State                               87  34.66       194  36.47
+   Same Region, Diff. State                 55  21.91       113  21.24
+   Different Region                         50  19.92       109  20.49
+      30 085   County Non-Migrants        3275             8393
+30 087   Rosebud Total Migration  Mt       324              703
+  30 111 Yellowstone              Mt        54  16.67       100  14.22
+  30 017 Custer                   Mt        25   7.72        49   6.97
+  30 003 Big Horn                 Mt        18   5.56        60   8.53
+  57 005 APO / FPO Zip Code       FR        10   3.09        20   2.84
+   Same State                               77  23.77       172  24.47
+   Same Region, Diff. State                 81  25.00       179  25.46
+   Different Region                         59  18.21       123  17.50
+      30 087   County Non-Migrants        3027             8230
+30 089   Sanders Total Migration  Mt       267              543
+  30 063 Missoula                 Mt        36  13.48        61  11.23
+  30 047 Lake                     Mt        20   7.49        46   8.47
+  16 055 Kootenai                 Id        12   4.49        21   3.87
+  30 029 Flathead                 Mt        11   4.12        21   3.87
+   Same State                               36  13.48        76  14.00
+   Same Region, Diff. State                109  40.82       233  42.91
+   Different Region                         43  16.10        85  15.65
+      30 089   County Non-Migrants        2525             6181
+30 091   Sheridan Total Migration Mt        91              194
+  30 111 Yellowstone              Mt        15  16.48        21  10.82
+   Same State                               35  38.46        86  44.33
+   Same Region, Diff. State                 11  12.09        28  14.43
+   Different Region                         30  32.97        59  30.41
+      30 091   County Non-Migrants        1766             3999
+30 093   Silver Bow Total Migrati Mt       770             1452
+  30 063 Missoula                 Mt        57   7.40        91   6.27
+  30 049 Lewis and Clark          Mt        41   5.32        85   5.85
+  30 043 Jefferson                Mt        30   3.90        63   4.34
+  53 033 King                     Wa        30   3.90        40   2.75
+  30 111 Yellowstone              Mt        28   3.64        61   4.20
+  53 063 Spokane                  Wa        26   3.38        50   3.44
+  30 031 Gallatin                 Mt        25   3.25        35   2.41
+  30 023 Deer Lodge               Mt        24   3.12        41   2.82
+  30 001 Beaverhead               Mt        22   2.86        45   3.10
+  30 013 Cascade                  Mt        20   2.60        42   2.89
+  16 019 Bonneville               Id        16   2.08        37   2.55
+  32 007 Elko                     Nv        15   1.95        31   2.13
+  30 029 Flathead                 Mt        13   1.69        17   1.17
+  30 057 Madison                  Mt        13   1.69        27   1.86
+  32 003 Clark                    Nv        11   1.43        17   1.17
+  06 073 San Diego                Ca        11   1.43        19   1.31
+  04 013 Maricopa                 Az        10   1.30        17   1.17
+   Same State                               49   6.36        95   6.54
+   Same Region, Diff. State                224  29.09       423  29.13
+   Different Region                        105  13.64       216  14.88
+      30 093   County Non-Migrants       11442            25154
+30 095   Stillwater Total Migrati Mt       225              465
+  30 111 Yellowstone              Mt        72  32.00       142  30.54
+  30 009 Carbon                   Mt        11   4.89        29   6.24
+   Same State                               44  19.56        82  17.63
+   Same Region, Diff. State                 61  27.11       131  28.17
+   Different Region                         37  16.44        81  17.42
+      30 095   County Non-Migrants        2177             5281
+30 097   Sweet Grass Total Migrat Mt        86              184
+  30 111 Yellowstone              Mt        11  12.79        19  10.33
+   Same State                               37  43.02        90  48.91
+   Same Region, Diff. State                 27  31.40        55  29.89
+   Different Region                         11  12.79        20  10.87
+      30 097   County Non-Migrants        1038             2338
+30 099   Teton Total Migration Fl Mt       148              294
+  30 013 Cascade                  Mt        37  25.00        70  23.81
+  30 073 Pondera                  Mt        10   6.76        25   8.50
+  30 049 Lewis and Clark          Mt        10   6.76        17   5.78
+   Same State                               35  23.65        75  25.51
+   Same Region, Diff. State                 42  28.38        79  26.87
+   Different Region                         14   9.46        28   9.52
+      30 099   County Non-Migrants        2234             5133
+30 101   Toole Total Migration Fl Mt       144              246
+  30 013 Cascade                  Mt        15  10.42        25  10.16
+  30 035 Glacier                  Mt        10   6.94        14   5.69
+   Same State                               64  44.44       117  47.56
+   Same Region, Diff. State                 39  27.08        56  22.76
+   Different Region                         16  11.11        34  13.82
+      30 101   County Non-Migrants        1845             4129
+30 103   Treasure Total Migration Mt        30               57
+   All Migration Flows                      30 100.00        57 100.00
+      30 103   County Non-Migrants         306              714
+30 105   Valley Total Migration F Mt       201              410
+  30 111 Yellowstone              Mt        23  11.44        40   9.76
+  30 085 Roosevelt                Mt        15   7.46        36   8.78
+  30 041 Hill                     Mt        15   7.46        26   6.34
+   Same State                               75  37.31       156  38.05
+   Region 2:   Midwest                      23  11.44        55  13.41
+   Region 3:   South                        16   7.96        28   6.83
+   Region 4:   West                         34  16.92        69  16.83
+      30 105   County Non-Migrants        2842             6548
+30 107   Wheatland Total Migratio Mt        78              178
+  30 111 Yellowstone              Mt        12  15.38        24  13.48
+   All Migration Flows                      66  84.62       154  86.52
+      30 107   County Non-Migrants         903             1792
+30 109   Wibaux Total Migration F Mt        33               54
+   All Migration Flows                      33 100.00        54 100.00
+      30 109   County Non-Migrants         360              855
+30 111   Yellowstone Total Migrat Mt      2807             5504
+  30 031 Gallatin                 Mt       147   5.24       260   4.72
+  30 063 Missoula                 Mt       107   3.81       181   3.29
+  30 009 Carbon                   Mt        97   3.46       221   4.02
+  53 033 King                     Wa        80   2.85       130   2.36
+  30 049 Lewis and Clark          Mt        76   2.71       149   2.71
+  30 013 Cascade                  Mt        74   2.64       145   2.63
+  30 095 Stillwater               Mt        69   2.46       144   2.62
+  30 003 Big Horn                 Mt        51   1.82       111   2.02
+  53 063 Spokane                  Wa        51   1.82       119   2.16
+  04 013 Maricopa                 Az        44   1.57        74   1.34
+  56 029 Park                     Wy        43   1.53        80   1.45
+  30 029 Flathead                 Mt        40   1.43        83   1.51
+  30 087 Rosebud                  Mt        40   1.43        82   1.49
+  30 017 Custer                   Mt        36   1.28        77   1.40
+  08 031 Denver                   Co        34   1.21        52    .94
+  30 093 Silver Bow               Mt        33   1.18        64   1.16
+  06 037 Los Angeles              Ca        30   1.07        45    .82
+  32 003 Clark                    Nv        29   1.03        47    .85
+  41 051 Multnomah                Or        28   1.00        41    .74
+  08 005 Arapahoe                 Co        28   1.00        59   1.07
+  56 033 Sheridan                 Wy        28   1.00        55   1.00
+  57 005 APO / FPO Zip Code       FR        27    .96        32    .58
+  06 073 San Diego                Ca        27    .96        50    .91
+  30 067 Park                     Mt        26    .93        52    .94
+  30 027 Fergus                   Mt        26    .93        51    .93
+  56 025 Natrona                  Wy        23    .82        43    .78
+  16 001 Ada                      Id        23    .82        44    .80
+  08 059 Jefferson                Co        23    .82        55   1.00
+  30 065 Musselshell              Mt        23    .82        56   1.02
+  08 069 Larimer                  Co        21    .75        43    .78
+  56 021 Laramie                  Wy        20    .71        45    .82
+  30 041 Hill                     Mt        18    .64        37    .67
+  53 053 Pierce                   Wa        18    .64        29    .53
+  30 105 Valley                   Mt        17    .61        36    .65
+  56 005 Campbell                 Wy        16    .57        32    .58
+  30 081 Ravalli                  Mt        16    .57        32    .58
+  49 035 Salt Lake                Ut        15    .53        34    .62
+  32 031 Washoe                   Nv        15    .53        29    .53
+  53 061 Snohomish                Wa        14    .50        31    .56
+  30 085 Roosevelt                Mt        14    .50        40    .73
+  56 003 Big Horn                 Wy        14    .50        22    .40
+  27 053 Hennepin                 Mn        14    .50        21    .38
+  53 011 Clark                    Wa        13    .46        26    .47
+  35 001 Bernalillo               NM        13    .46        21    .38
+  08 001 Adams                    Co        13    .46        27    .49
+  30 021 Dawson                   Mt        13    .46        23    .42
+  04 019 Pima                     Az        12    .43        21    .38
+  30 083 Richland                 Mt        12    .43        23    .42
+  41 067 Washington               Or        12    .43        25    .45
+  30 035 Glacier                  Mt        11    .39        30    .55
+  38 017 Cass                     ND        11    .39        20    .36
+  30 071 Phillips                 Mt        11    .39        18    .33
+  06 059 Orange                   Ca        11    .39        18    .33
+  53 005 Benton                   Wa        11    .39        18    .33
+  48 201 Harris                   Tx        10    .36        36    .65
+  30 005 Blaine                   Mt        10    .36        20    .36
+  15 003 Honolulu                 Hi        10    .36        12    .22
+  30 047 Lake                     Mt        10    .36        19    .35
+   Same State                              104   3.71       236   4.29
+   Region 1:   Northeast                    39   1.39        61   1.11
+   Region 2:   Midwest                     267   9.51       568  10.32
+   Region 3:   South                       173   6.16       349   6.34
+   Region 4:   West                        466  16.60       900  16.35
+      30 111   County Non-Migrants       39664            88821

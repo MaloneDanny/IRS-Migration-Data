@@ -1,0 +1,900 @@
+35 001   Bernalillo Total Migrati NM     14333            28153
+  35 043 Sandoval                 NM       946   6.60      1934   6.87
+  57 001 Foreign / Overseas       FR       597   4.17      1385   4.92
+  35 049 Santa Fe                 NM       553   3.86       980   3.48
+  35 061 Valencia                 NM       552   3.85      1140   4.05
+  04 013 Maricopa                 Az       483   3.37       970   3.45
+  06 037 Los Angeles              Ca       401   2.80       765   2.72
+  35 013 Dona Ana                 NM       283   1.97       525   1.86
+  48 141 El Paso                  Tx       264   1.84       574   2.04
+  06 073 San Diego                Ca       261   1.82       538   1.91
+  35 031 McKinley                 NM       248   1.73       561   1.99
+  35 045 San Juan                 NM       190   1.33       381   1.35
+  48 113 Dallas                   Tx       160   1.12       289   1.03
+  04 019 Pima                     Az       160   1.12       279    .99
+  35 005 Chaves                   NM       146   1.02       261    .93
+  35 006 Cibola                   NM       145   1.01       294   1.04
+  06 059 Orange                   Ca       133    .93       250    .89
+  32 003 Clark                    Nv       130    .91       282   1.00
+  17 031 Cook                     Il       126    .88       216    .77
+  48 201 Harris                   Tx       125    .87       247    .88
+  35 028 Los Alamos               NM       123    .86       211    .75
+  35 057 Torrance                 NM       119    .83       212    .75
+  35 039 Rio Arriba               NM       118    .82       214    .76
+  35 047 San Miguel               NM       106    .74       186    .66
+  48 439 Tarrant                  Tx       103    .72       212    .75
+  08 041 El Paso                  Co       102    .71       220    .78
+  48 029 Bexar                    Tx       100    .70       196    .70
+  08 031 Denver                   Co        98    .68       174    .62
+  35 035 Otero                    NM        93    .65       207    .74
+  06 085 Santa Clara              Ca        88    .61       187    .66
+  48 453 Travis                   Tx        87    .61       162    .58
+  53 033 King                     Wa        87    .61       153    .54
+  35 053 Socorro                  NM        83    .58       153    .54
+  35 055 Taos                     NM        83    .58       147    .52
+  06 071 San Bernardino           Ca        82    .57       209    .74
+  08 005 Arapahoe                 Co        78    .54       151    .54
+  06 001 Alameda                  Ca        76    .53       130    .46
+  51 059 Fairfax                  Va        71    .50       158    .56
+  48 303 Lubbock                  Tx        71    .50       137    .49
+  15 003 Honolulu                 Hi        67    .47       144    .51
+  04 001 Apache                   Az        64    .45       150    .53
+  06 065 Riverside                Ca        63    .44       130    .46
+  08 059 Jefferson                Co        63    .44       109    .39
+  25 017 Middlesex                Ma        62    .43        92    .33
+  35 009 Curry                    NM        59    .41       109    .39
+  35 025 Lea                      NM        59    .41        91    .32
+  35 015 Eddy                     NM        57    .40       110    .39
+  24 031 Montgomery               Md        55    .38       118    .42
+  40 109 Oklahoma                 Ok        55    .38        98    .35
+  06 067 Sacramento               Ca        47    .33       101    .36
+  35 007 Colfax                   NM        47    .33        81    .29
+  48 375 Potter                   Tx        45    .31        95    .34
+  48 381 Randall                  Tx        44    .31       102    .36
+  49 035 Salt Lake                Ut        44    .31        91    .32
+  04 005 Coconino                 Az        44    .31        81    .29
+  35 041 Roosevelt                NM        43    .30        63    .22
+  06 111 Ventura                  Ca        43    .30        93    .33
+  35 017 Grant                    NM        41    .29        67    .24
+  27 053 Hennepin                 Mn        40    .28        56    .20
+  08 001 Adams                    Co        40    .28        84    .30
+  36 061 New York                 NY        38    .27        52    .18
+  08 013 Boulder                  Co        37    .26        68    .24
+  35 037 Quay                     NM        37    .26        70    .25
+  20 173 Sedgwick                 Ks        37    .26        78    .28
+  06 075 San Francisco            Ca        37    .26        57    .20
+  24 033 Prince George's          Md        36    .25        75    .27
+  29 095 Jackson                  Mo        36    .25        53    .19
+  40 143 Tulsa                    Ok        35    .24        68    .24
+  36 047 Kings                    NY        35    .24        58    .21
+  06 053 Monterey                 Ca        35    .24        68    .24
+  39 113 Montgomery               Oh        35    .24        84    .30
+  11 001 Wash.,D.C.               DC        33    .23        47    .17
+  48 329 Midland                  Tx        33    .23        79    .28
+  04 017 Navajo                   Az        33    .23        88    .31
+  06 083 Santa Barbara            Ca        32    .22        53    .19
+  35 027 Lincoln                  NM        31    .22        48    .17
+  12 091 Okaloosa                 Fl        31    .22        89    .32
+  02 020 Anchorage Borough        Ak        31    .22        72    .26
+  06 013 Contra Costa             Ca        30    .21        58    .21
+  12 103 Pinellas                 Fl        30    .21        57    .20
+  41 051 Multnomah                Or        30    .21        52    .18
+  53 053 Pierce                   Wa        30    .21        73    .26
+  12 011 Broward                  Fl        28    .20        51    .18
+  12 057 Hillsborough             Fl        28    .20        45    .16
+  17 043 Du Page                  Il        27    .19        47    .17
+  12 025 Dade                     Fl        27    .19        42    .15
+  51 013 Arlington                Va        26    .18        39    .14
+  08 069 Larimer                  Co        26    .18        53    .19
+  08 067 La Plata                 Co        26    .18        41    .15
+  55 079 Milwaukee                Wi        26    .18        49    .17
+  08 101 Pueblo                   Co        25    .17        40    .14
+  08 123 Weld                     Co        25    .17        60    .21
+  12 009 Brevard                  Fl        24    .17        40    .14
+  06 029 Kern                     Ca        24    .17        46    .16
+  39 035 Cuyahoga                 Oh        24    .17        38    .13
+  09 001 Fairfield                Ct        24    .17        34    .12
+  25 027 Worcester                Ma        24    .17        52    .18
+  41 067 Washington               Or        23    .16        54    .19
+  12 127 Volusia                  Fl        23    .16        46    .16
+  09 009 New Haven                Ct        23    .16        41    .15
+  12 031 Duval                    Fl        23    .16        40    .14
+  51 810 Virginia Beach city      Va        23    .16        54    .19
+  04 025 Yavapai                  Az        22    .15        31    .11
+  25 025 Suffolk                  Ma        22    .15        28    .10
+  17 163 St. Clair                Il        22    .15        61    .22
+  37 051 Cumberland               NC        22    .15        41    .15
+  26 163 Wayne                    Mi        22    .15        35    .12
+  56 021 Laramie                  Wy        22    .15        39    .14
+  36 059 Nassau                   NY        21    .15        28    .10
+  39 061 Hamilton                 Oh        21    .15        33    .12
+  39 049 Franklin                 Oh        21    .15        36    .13
+  48 027 Bell                     Tx        21    .15        49    .17
+  12 099 Palm Beach               Fl        21    .15        42    .15
+  48 121 Denton                   Tx        21    .15        44    .16
+  53 005 Benton                   Wa        20    .14        49    .17
+  49 049 Utah                     Ut        20    .14        71    .25
+  35 019 Guadalupe                NM        20    .14        24    .09
+  26 125 Oakland                  Mi        20    .14        28    .10
+  35 051 Sierra                   NM        20    .14        34    .12
+  20 091 Johnson                  Ks        20    .14        44    .16
+  46 103 Pennington               SD        19    .13        52    .18
+  29 189 St. Louis                Mo        19    .13        28    .10
+  42 101 Philadelphia             Pa        19    .13        26    .09
+  06 019 Fresno                   Ca        19    .13        52    .18
+  48 085 Collin                   Tx        18    .13        40    .14
+  48 355 Nueces                   Tx        18    .13        43    .15
+  06 087 Santa Cruz               Ca        18    .13        30    .11
+  06 077 San Joaquin              Ca        18    .13        51    .18
+  04 021 Pinal                    Az        18    .13        39    .14
+  35 029 Luna                     NM        18    .13        38    .13
+  36 081 Queens                   NY        17    .12        26    .09
+  25 021 Norfolk                  Ma        17    .12        25    .09
+  13 067 Cobb                     Ga        17    .12        45    .16
+  48 441 Taylor                   Tx        17    .12        38    .13
+  25 009 Essex                    Ma        17    .12        30    .11
+  35 033 Mora                     NM        17    .12        30    .11
+  06 081 San Mateo                Ca        17    .12        31    .11
+  33 015 Rockingham               NH        17    .12        46    .16
+  36 029 Erie                     NY        17    .12        35    .12
+  48 041 Brazos                   Tx        16    .11        22    .08
+  30 111 Yellowstone              Mt        16    .11        30    .11
+  04 015 Mohave                   Az        16    .11        28    .10
+  22 071 Orleans                  La        16    .11        35    .12
+  13 121 Fulton                   Ga        16    .11        25    .09
+  36 119 Westchester              NY        16    .11        25    .09
+  26 161 Washtenaw                Mi        16    .11        27    .10
+  18 097 Marion                   In        16    .11        30    .11
+  13 089 De Kalb                  Ga        16    .11        20    .07
+  48 451 Tom Green                Tx        16    .11        42    .15
+  01 101 Montgomery               Al        16    .11        50    .18
+  17 097 Lake                     Il        16    .11        29    .10
+  36 103 Suffolk                  NY        15    .10        24    .09
+  06 095 Solano                   Ca        15    .10        25    .09
+  31 055 Douglas                  Ne        15    .10        28    .10
+  47 157 Shelby                   Tn        15    .10        27    .10
+  05 119 Pulaski                  Ar        14    .10        30    .11
+  40 031 Comanche                 Ok        14    .10        30    .11
+  27 123 Ramsey                   Mn        14    .10        21    .07
+  33 011 Hillsborough             NH        14    .10        27    .10
+  42 003 Allegheny                Pa        14    .10        26    .09
+  56 001 Albany                   Wy        14    .10        32    .11
+  19 153 Polk                     Ia        14    .10        20    .07
+  31 109 Lancaster                Ne        14    .10        34    .12
+  12 095 Orange                   Fl        14    .10        21    .07
+  53 061 Snohomish                Wa        14    .10        23    .08
+  37 133 Onslow                   NC        14    .10        34    .12
+  04 003 Cochise                  Az        14    .10        41    .15
+  55 025 Dane                     Wi        14    .10        21    .07
+  15 009 Maui                     Hi        14    .10        29    .10
+  48 061 Cameron                  Tx        14    .10        38    .13
+  48 135 Ector                    Tx        13    .09        22    .08
+  41 039 Lane                     Or        13    .09        23    .08
+  34 027 Morris                   NJ        13    .09        18    .06
+  20 161 Riley                    Ks        13    .09        17    .06
+  51 153 Prince William           Va        13    .09        38    .13
+  09 003 Hartford                 Ct        13    .09        16    .06
+  06 041 Marin                    Ca        13    .09        22    .08
+  48 485 Wichita                  Tx        13    .09        25    .09
+  36 055 Monroe                   NY        13    .09        30    .11
+  32 031 Washoe                   Nv        13    .09        23    .08
+  16 019 Bonneville               Id        13    .09        30    .11
+  04 027 Yuma                     Az        12    .08        28    .10
+  20 175 Seward                   Ks        12    .08        29    .10
+  49 011 Davis                    Ut        12    .08        31    .11
+  08 077 Mesa                     Co        12    .08        19    .07
+  31 153 Sarpy                    Ne        12    .08        25    .09
+  42 091 Montgomery               Pa        11    .08        25    .09
+  06 079 San Luis Obispo          Ca        11    .08        21    .07
+  22 017 Caddo                    La        11    .08        25    .09
+  51 710 Norfolk city             Va        11    .08        20    .07
+  39 095 Lucas                    Oh        11    .08        22    .08
+  12 117 Seminole                 Fl        11    .08        22    .08
+  22 033 East Baton Rouge         La        11    .08        32    .11
+  53 063 Spokane                  Wa        11    .08        23    .08
+  48 245 Jefferson                Tx        11    .08        19    .07
+  40 027 Cleveland                Ok        10    .07        26    .09
+  13 135 Gwinnett                 Ga        10    .07        21    .07
+  12 115 Sarasota                 Fl        10    .07        16    .06
+  34 025 Monmouth                 NJ        10    .07        18    .06
+  35 059 Union                    NM        10    .07        11    .04
+  22 115 Vernon                   La        10    .07        20    .07
+  34 003 Bergen                   NJ        10    .07        16    .06
+  46 099 Minnehaha                SD        10    .07        19    .07
+  02 090 Fairbanks North Star Bor Ak        10    .07        17    .06
+  48 167 Galveston                Tx        10    .07        19    .07
+  17 089 Kane                     Il        10    .07        16    .06
+  29 047 Clay                     Mo        10    .07        15    .05
+  26 081 Kent                     Mi        10    .07        20    .07
+  26 077 Kalamazoo                Mi        10    .07        13    .05
+  45 019 Charleston               SC        10    .07        25    .09
+  12 081 Manatee                  Fl        10    .07        18    .06
+  34 013 Essex                    NJ        10    .07        24    .09
+  42 029 Chester                  Pa        10    .07        19    .07
+  36 019 Clinton                  NY        10    .07        17    .06
+  45 079 Richland                 SC        10    .07        22    .08
+  35 003 Catron                   NM        10    .07        21    .07
+  36 065 Oneida                   NY        10    .07        15    .05
+  51 510 Alexandria city          Va        10    .07        15    .05
+   Same State                               18    .13        31    .11
+   Region 1:   Northeast                   407   2.84       746   2.65
+   Region 2:   Midwest                     678   4.73      1275   4.53
+   Region 3:   South                      1011   7.05      2005   7.12
+   Region 4:   West                        502   3.50      1013   3.60
+   Foreign                                  14    .10        25    .09
+      35 001   County Non-Migrants      172131           373152
+35 003   Catron Total Migration F NM        96              239
+   Same State                               34  35.42        91  38.08
+   Same Region, Diff. State                 40  41.67        86  35.98
+   Different Region                         22  22.92        62  25.94
+      35 003   County Non-Migrants         791             1845
+35 005   Chaves Total Migration F NM      1398             3303
+  35 001 Bernalillo               NM       102   7.30       217   6.57
+  35 015 Eddy                     NM        99   7.08       243   7.36
+  35 013 Dona Ana                 NM        48   3.43       115   3.48
+  48 141 El Paso                  Tx        47   3.36       143   4.33
+  35 025 Lea                      NM        44   3.15       129   3.91
+  35 027 Lincoln                  NM        42   3.00        92   2.79
+  04 013 Maricopa                 Az        39   2.79        94   2.85
+  35 009 Curry                    NM        31   2.22        72   2.18
+  35 041 Roosevelt                NM        31   2.22        66   2.00
+  06 037 Los Angeles              Ca        30   2.15        75   2.27
+  35 035 Otero                    NM        26   1.86        51   1.54
+  35 049 Santa Fe                 NM        24   1.72        51   1.54
+  48 303 Lubbock                  Tx        24   1.72        59   1.79
+  57 001 Foreign / Overseas       FR        20   1.43        46   1.39
+  48 329 Midland                  Tx        18   1.29        46   1.39
+  48 439 Tarrant                  Tx        18   1.29        45   1.36
+  48 453 Travis                   Tx        15   1.07        32    .97
+  06 073 San Diego                Ca        13    .93        34   1.03
+  48 113 Dallas                   Tx        13    .93        38   1.15
+  04 019 Pima                     Az        13    .93        28    .85
+  48 201 Harris                   Tx        13    .93        25    .76
+  35 053 Socorro                  NM        13    .93        35   1.06
+  35 011 De Baca                  NM        12    .86        32    .97
+  48 029 Bexar                    Tx        12    .86        28    .85
+  48 027 Bell                     Tx        10    .72        29    .88
+  06 071 San Bernardino           Ca        10    .72        24    .73
+   Same State                               63   4.51       157   4.75
+   Region 1:   Northeast                    40   2.86        77   2.33
+   Region 2:   Midwest                     107   7.65       220   6.66
+   Region 3:   South                       231  16.52       525  15.89
+   Region 4:   West                        190  13.59       475  14.38
+      35 005   County Non-Migrants       17127            42662
+35 006   Cibola Total Migration F NM       491             1171
+  35 031 McKinley                 NM       102  20.77       315  26.90
+  35 001 Bernalillo               NM        89  18.13       175  14.94
+  04 013 Maricopa                 Az        20   4.07        30   2.56
+  04 001 Apache                   Az        17   3.46        54   4.61
+  35 043 Sandoval                 NM        16   3.26        34   2.90
+  35 013 Dona Ana                 NM        10   2.04        17   1.45
+  35 045 San Juan                 NM        10   2.04        28   2.39
+   Same State                               49   9.98       104   8.88
+   Region 1:   Northeast                    12   2.44        24   2.05
+   Region 2:   Midwest                      21   4.28        42   3.59
+   Region 3:   South                        46   9.37       115   9.82
+   Region 4:   West                         99  20.16       233  19.90
+      35 006   County Non-Migrants        5649            15047
+35 007   Colfax Total Migration F NM       296              602
+  35 001 Bernalillo               NM        37  12.50        68  11.30
+  35 055 Taos                     NM        14   4.73        23   3.82
+  35 047 San Miguel               NM        13   4.39        26   4.32
+   Same State                               52  17.57       120  19.93
+   Region 1:   Northeast                    10   3.38        12   1.99
+   Region 2:   Midwest                      21   7.09        41   6.81
+   Region 3:   South                        61  20.61       138  22.92
+   Region 4:   West                         88  29.73       174  28.90
+      35 007   County Non-Migrants        4075             9467
+35 009   Curry Total Migration Fl NM      2057             5127
+  57 001 Foreign / Overseas       FR       505  24.55      1351  26.35
+  33 015 Rockingham               NH       125   6.08       402   7.84
+  35 041 Roosevelt                NM        71   3.45       151   2.95
+  35 001 Bernalillo               NM        62   3.01       136   2.65
+  04 013 Maricopa                 Az        55   2.67       126   2.46
+  48 369 Parmer                   Tx        46   2.24       131   2.56
+  48 303 Lubbock                  Tx        41   1.99       114   2.22
+  06 067 Sacramento               Ca        31   1.51        51    .99
+  35 037 Quay                     NM        23   1.12        55   1.07
+  16 039 Elmore                   Id        22   1.07        87   1.70
+  33 017 Strafford                NH        21   1.02        56   1.09
+  48 375 Potter                   Tx        20    .97        67   1.31
+  48 381 Randall                  Tx        18    .88        33    .64
+  48 029 Bexar                    Tx        18    .88        41    .80
+  06 037 Los Angeles              Ca        17    .83        39    .76
+  35 005 Chaves                   NM        15    .73        39    .76
+  48 117 Deaf Smith               Tx        14    .68        42    .82
+  48 439 Tarrant                  Tx        13    .63        25    .49
+  48 113 Dallas                   Tx        13    .63        26    .51
+  48 017 Bailey                   Tx        13    .63        22    .43
+  04 019 Pima                     Az        13    .63        30    .59
+  32 003 Clark                    Nv        11    .53        31    .60
+  35 025 Lea                      NM        11    .53        28    .55
+  48 141 El Paso                  Tx        11    .53        23    .45
+  08 031 Denver                   Co        11    .53        15    .29
+  06 071 San Bernardino           Ca        11    .53        28    .55
+  17 031 Cook                     Il        10    .49        22    .43
+  35 049 Santa Fe                 NM        10    .49        21    .41
+  35 011 De Baca                  NM        10    .49        19    .37
+  35 013 Dona Ana                 NM        10    .49        20    .39
+   Same State                               59   2.87       144   2.81
+   Region 1:   Northeast                    94   4.57       211   4.12
+   Region 2:   Midwest                     163   7.92       373   7.28
+   Region 3:   South                       330  16.04       798  15.56
+   Region 4:   West                        160   7.78       370   7.22
+      35 009   County Non-Migrants       12377            30746
+35 011   De Baca Total Migration  NM        71              175
+  35 005 Chaves                   NM        13  18.31        24  13.71
+   Same State                               25  35.21        68  38.86
+   Same Region, Diff. State                 10  14.08        29  16.57
+   Different Region                         23  32.39        54  30.86
+      35 011   County Non-Migrants         741             1691
+35 013   Dona Ana Total Migration NM      4273            10093
+  48 141 El Paso                  Tx       803  18.79      2457  24.34
+  35 001 Bernalillo               NM       224   5.24       421   4.17
+  57 001 Foreign / Overseas       FR       186   4.35       433   4.29
+  35 035 Otero                    NM       130   3.04       258   2.56
+  06 037 Los Angeles              Ca       120   2.81       348   3.45
+  04 013 Maricopa                 Az       108   2.53       269   2.67
+  35 005 Chaves                   NM        80   1.87       150   1.49
+  35 029 Luna                     NM        77   1.80       161   1.60
+  06 073 San Diego                Ca        69   1.61       166   1.64
+  35 017 Grant                    NM        68   1.59       118   1.17
+  35 049 Santa Fe                 NM        68   1.59       127   1.26
+  35 015 Eddy                     NM        57   1.33       109   1.08
+  35 051 Sierra                   NM        55   1.29       129   1.28
+  35 045 San Juan                 NM        52   1.22       110   1.09
+  04 019 Pima                     Az        45   1.05        98    .97
+  06 059 Orange                   Ca        43   1.01        90    .89
+  35 025 Lea                      NM        39    .91        86    .85
+  48 113 Dallas                   Tx        32    .75        59    .58
+  17 031 Cook                     Il        30    .70        88    .87
+  35 027 Lincoln                  NM        29    .68        53    .53
+  35 053 Socorro                  NM        29    .68        60    .59
+  35 061 Valencia                 NM        29    .68        50    .50
+  48 439 Tarrant                  Tx        25    .59        62    .61
+  35 023 Hidalgo                  NM        24    .56        66    .65
+  48 029 Bexar                    Tx        23    .54        60    .59
+  48 201 Harris                   Tx        23    .54        57    .56
+  06 065 Riverside                Ca        22    .51        39    .39
+  06 071 San Bernardino           Ca        22    .51        61    .60
+  35 043 Sandoval                 NM        20    .47        49    .49
+  04 003 Cochise                  Az        18    .42        41    .41
+  32 003 Clark                    Nv        18    .42        41    .41
+  06 085 Santa Clara              Ca        17    .40        31    .31
+  35 009 Curry                    NM        16    .37        28    .28
+  08 059 Jefferson                Co        16    .37        29    .29
+  35 041 Roosevelt                NM        16    .37        42    .42
+  48 303 Lubbock                  Tx        16    .37        45    .45
+  35 031 McKinley                 NM        16    .37        31    .31
+  35 047 San Miguel               NM        15    .35        24    .24
+  48 453 Travis                   Tx        15    .35        38    .38
+  08 031 Denver                   Co        15    .35        39    .39
+  06 111 Ventura                  Ca        15    .35        31    .31
+  15 003 Honolulu                 Hi        15    .35        31    .31
+  08 041 El Paso                  Co        15    .35        31    .31
+  35 006 Cibola                   NM        15    .35        31    .31
+  35 028 Los Alamos               NM        14    .33        23    .23
+  35 039 Rio Arriba               NM        13    .30        17    .17
+  53 033 King                     Wa        13    .30        28    .28
+  35 055 Taos                     NM        13    .30        17    .17
+  06 067 Sacramento               Ca        12    .28        27    .27
+  06 001 Alameda                  Ca        12    .28        22    .22
+  08 001 Adams                    Co        12    .28        27    .27
+  08 013 Boulder                  Co        12    .28        21    .21
+  48 061 Cameron                  Tx        11    .26        26    .26
+  02 020 Anchorage Borough        Ak        11    .26        23    .23
+  06 083 Santa Barbara            Ca        10    .23        30    .30
+  53 021 Franklin                 Wa        10    .23        45    .45
+  48 135 Ector                    Tx        10    .23        23    .23
+  06 053 Monterey                 Ca        10    .23        21    .21
+   Same State                               38    .89        75    .74
+   Region 1:   Northeast                   136   3.18       235   2.33
+   Region 2:   Midwest                     302   7.07       613   6.07
+   Region 3:   South                       567  13.27      1351  13.39
+   Region 4:   West                        297   6.95       722   7.15
+      35 013   County Non-Migrants       40515           104191
+35 015   Eddy Total Migration Flo NM      1157             2871
+  35 005 Chaves                   NM       100   8.64       273   9.51
+  35 025 Lea                      NM        62   5.36       174   6.06
+  35 001 Bernalillo               NM        56   4.84       117   4.08
+  35 013 Dona Ana                 NM        43   3.72        98   3.41
+  48 141 El Paso                  Tx        29   2.51        65   2.26
+  04 013 Maricopa                 Az        25   2.16        61   2.12
+  35 035 Otero                    NM        20   1.73        53   1.85
+  48 303 Lubbock                  Tx        18   1.56        40   1.39
+  35 041 Roosevelt                NM        17   1.47        36   1.25
+  04 019 Pima                     Az        17   1.47        48   1.67
+  48 135 Ector                    Tx        16   1.38        33   1.15
+  06 073 San Diego                Ca        15   1.30        30   1.04
+  35 027 Lincoln                  NM        15   1.30        33   1.15
+  48 439 Tarrant                  Tx        15   1.30        39   1.36
+  48 113 Dallas                   Tx        14   1.21        33   1.15
+  57 001 Foreign / Overseas       FR        13   1.12        21    .73
+  48 201 Harris                   Tx        10    .86        31   1.08
+  48 329 Midland                  Tx        10    .86        24    .84
+  06 037 Los Angeles              Ca        10    .86        17    .59
+   Same State                               87   7.52       231   8.05
+   Region 1:   Northeast                    28   2.42        67   2.33
+   Region 2:   Midwest                      60   5.19       137   4.77
+   Region 3:   South                       287  24.81       773  26.92
+   Region 4:   West                        190  16.42       437  15.22
+      35 015   County Non-Migrants       14493            37152
+35 017   Grant Total Migration Fl NM       590             1340
+  35 013 Dona Ana                 NM        60  10.17       132   9.85
+  04 013 Maricopa                 Az        28   4.75        62   4.63
+  04 019 Pima                     Az        26   4.41        57   4.25
+  35 029 Luna                     NM        25   4.24        58   4.33
+  35 001 Bernalillo               NM        21   3.56        50   3.73
+  48 141 El Paso                  Tx        20   3.39        55   4.10
+  06 037 Los Angeles              Ca        16   2.71        37   2.76
+  35 051 Sierra                   NM        14   2.37        36   2.69
+  04 003 Cochise                  Az        14   2.37        29   2.16
+  32 003 Clark                    Nv        11   1.86        30   2.24
+  06 073 San Diego                Ca        11   1.86        19   1.42
+  04 009 Graham                   Az        11   1.86        26   1.94
+  35 023 Hidalgo                  NM        10   1.69        28   2.09
+  57 001 Foreign / Overseas       FR        10   1.69        19   1.42
+  35 003 Catron                   NM        10   1.69        31   2.31
+   Same State                               64  10.85       145  10.82
+   Region 1:   Northeast                    19   3.22        42   3.13
+   Region 2:   Midwest                      33   5.59        68   5.07
+   Region 3:   South                        66  11.19       149  11.12
+   Region 4:   West                        121  20.51       267  19.93
+      35 017   County Non-Migrants        8278            21031
+35 019   Guadalupe Total Migratio NM        75              183
+   All Migration Flows                      75 100.00       183 100.00
+      35 019   County Non-Migrants        1220             2882
+35 021   Harding Total Migration  NM        25               60
+   All Migration Flows                      25 100.00        60 100.00
+      35 021   County Non-Migrants         315              736
+35 023   Hidalgo Total Migration  NM       155              405
+  04 013 Maricopa                 Az        16  10.32        33   8.15
+  35 017 Grant                    NM        15   9.68        35   8.64
+  04 019 Pima                     Az        11   7.10        22   5.43
+  04 003 Cochise                  Az        11   7.10        39   9.63
+  35 029 Luna                     NM        10   6.45        38   9.38
+   Same State                               24  15.48        68  16.79
+   Same Region, Diff. State                 32  20.65        73  18.02
+   Different Region                         36  23.23        97  23.95
+      35 023   County Non-Migrants        1653             4493
+35 025   Lea Total Migration Flow NM      1221             3102
+  48 135 Ector                    Tx        54   4.42       162   5.22
+  35 001 Bernalillo               NM        45   3.69        78   2.51
+  48 303 Lubbock                  Tx        42   3.44        81   2.61
+  35 015 Eddy                     NM        42   3.44       113   3.64
+  35 005 Chaves                   NM        38   3.11       103   3.32
+  48 501 Yoakum                   Tx        37   3.03       106   3.42
+  48 165 Gaines                   Tx        30   2.46        94   3.03
+  48 141 El Paso                  Tx        26   2.13        81   2.61
+  57 001 Foreign / Overseas       FR        24   1.97        49   1.58
+  35 009 Curry                    NM        23   1.88        60   1.93
+  35 013 Dona Ana                 NM        21   1.72        52   1.68
+  35 041 Roosevelt                NM        20   1.64        53   1.71
+  48 113 Dallas                   Tx        19   1.56        42   1.35
+  48 329 Midland                  Tx        18   1.47        49   1.58
+  06 037 Los Angeles              Ca        18   1.47        49   1.58
+  04 013 Maricopa                 Az        17   1.39        43   1.39
+  48 201 Harris                   Tx        17   1.39        31   1.00
+  48 495 Winkler                  Tx        15   1.23        47   1.52
+  48 439 Tarrant                  Tx        14   1.15        31   1.00
+  48 377 Presidio                 Tx        14   1.15        54   1.74
+  48 219 Hockley                  Tx        14   1.15        46   1.48
+  48 441 Taylor                   Tx        10    .82        28    .90
+   Same State                               73   5.98       211   6.80
+   Region 1:   Northeast                    14   1.15        19    .61
+   Region 2:   Midwest                      55   4.50       114   3.68
+   Region 3:   South                       396  32.43       997  32.14
+   Region 4:   West                        125  10.24       309   9.96
+      35 025   County Non-Migrants       15981            42742
+35 027   Lincoln Total Migration  NM       603             1280
+  48 141 El Paso                  Tx        45   7.46        83   6.48
+  35 035 Otero                    NM        41   6.80        88   6.88
+  35 001 Bernalillo               NM        41   6.80        81   6.33
+  35 013 Dona Ana                 NM        36   5.97        79   6.17
+  35 005 Chaves                   NM        31   5.14        56   4.38
+  35 025 Lea                      NM        17   2.82        44   3.44
+  48 303 Lubbock                  Tx        12   1.99        26   2.03
+  06 037 Los Angeles              Ca        11   1.82        21   1.64
+  48 201 Harris                   Tx        11   1.82        23   1.80
+  35 015 Eddy                     NM        10   1.66        25   1.95
+  48 113 Dallas                   Tx        10   1.66        17   1.33
+  48 329 Midland                  Tx        10   1.66        16   1.25
+   Same State                               69  11.44       163  12.73
+   Same Region, Diff. State                 78  12.94       166  12.97
+   Different Region                        181  30.02       392  30.63
+      35 027   County Non-Migrants        4027             9116
+35 028   Los Alamos Total Migrati NM       611             1234
+  35 001 Bernalillo               NM        85  13.91       168  13.61
+  35 049 Santa Fe                 NM        57   9.33       107   8.67
+  35 039 Rio Arriba               NM        23   3.76        48   3.89
+  35 043 Sandoval                 NM        15   2.45        33   2.67
+  57 001 Foreign / Overseas       FR        15   2.45        31   2.51
+  06 037 Los Angeles              Ca        11   1.80        22   1.78
+  06 059 Orange                   Ca        10   1.64        11    .89
+   Same State                               44   7.20        77   6.24
+   Region 1:   Northeast                    44   7.20        89   7.21
+   Region 2:   Midwest                      63  10.31       134  10.86
+   Region 3:   South                       100  16.37       205  16.61
+   Region 4:   West                        144  23.57       309  25.04
+      35 028   County Non-Migrants        6791            16480
+35 029   Luna Total Migration Flo NM       600             1697
+  35 013 Dona Ana                 NM        73  12.17       204  12.02
+  48 141 El Paso                  Tx        43   7.17       137   8.07
+  04 013 Maricopa                 Az        43   7.17       134   7.90
+  35 017 Grant                    NM        28   4.67        73   4.30
+  06 037 Los Angeles              Ca        28   4.67        62   3.65
+  35 001 Bernalillo               NM        24   4.00        68   4.01
+  35 023 Hidalgo                  NM        15   2.50        50   2.95
+  32 003 Clark                    Nv        14   2.33        44   2.59
+  06 071 San Bernardino           Ca        10   1.67        32   1.89
+   Same State                               56   9.33       166   9.78
+   Region 1:   Northeast                    18   3.00        34   2.00
+   Region 2:   Midwest                      36   6.00        72   4.24
+   Region 3:   South                        78  13.00       222  13.08
+   Region 4:   West                        134  22.33       399  23.51
+      35 029   County Non-Migrants        5357            13994
+35 031   McKinley Total Migration NM      2734             8245
+  04 001 Apache                   Az       890  32.55      3034  36.80
+  35 045 San Juan                 NM       603  22.06      1969  23.88
+  35 001 Bernalillo               NM       172   6.29       396   4.80
+  04 017 Navajo                   Az       147   5.38       552   6.69
+  04 013 Maricopa                 Az        95   3.47       238   2.89
+  04 005 Coconino                 Az        94   3.44       314   3.81
+  35 006 Cibola                   NM        72   2.63       221   2.68
+  35 043 Sandoval                 NM        29   1.06       113   1.37
+  57 001 Foreign / Overseas       FR        24    .88        39    .47
+  35 039 Rio Arriba               NM        20    .73        49    .59
+  49 035 Salt Lake                Ut        18    .66        48    .58
+  04 019 Pima                     Az        13    .48        23    .28
+  49 037 San Juan                 Ut        13    .48        32    .39
+  35 049 Santa Fe                 NM        12    .44        23    .28
+  06 073 San Diego                Ca        12    .44        27    .33
+  06 037 Los Angeles              Ca        10    .37        20    .24
+  35 013 Dona Ana                 NM        10    .37        21    .25
+   Same State                               50   1.83       125   1.52
+   Region 1:   Northeast                    26    .95        49    .59
+   Region 2:   Midwest                      93   3.40       188   2.28
+   Region 3:   South                       139   5.08       315   3.82
+   Region 4:   West                        192   7.02       449   5.45
+      35 031   County Non-Migrants       16455            49057
+35 033   Mora Total Migration Flo NM        64              127
+  35 047 San Miguel               NM        12  18.75        22  17.32
+   Same State                               25  39.06        56  44.09
+   Same Region, Diff. State                 15  23.44        25  19.69
+   Different Region                         12  18.75        24  18.90
+      35 033   County Non-Migrants        1137             2846
+35 035   Otero Total Migration Fl NM      2146             4998
+  57 001 Foreign / Overseas       FR       546  25.44      1466  29.33
+  48 141 El Paso                  Tx        92   4.29       223   4.46
+  35 013 Dona Ana                 NM        78   3.63       186   3.72
+  35 001 Bernalillo               NM        43   2.00        87   1.74
+  35 027 Lincoln                  NM        31   1.44        53   1.06
+  04 013 Maricopa                 Az        28   1.30        79   1.58
+  48 029 Bexar                    Tx        26   1.21        64   1.28
+  06 037 Los Angeles              Ca        25   1.16        56   1.12
+  35 005 Chaves                   NM        25   1.16        73   1.46
+  02 020 Anchorage Borough        Ak        20    .93        67   1.34
+  33 015 Rockingham               NH        19    .89        45    .90
+  32 003 Clark                    Nv        18    .84        43    .86
+  48 113 Dallas                   Tx        17    .79        39    .78
+  48 303 Lubbock                  Tx        16    .75        32    .64
+  04 019 Pima                     Az        15    .70        25    .50
+  48 439 Tarrant                  Tx        15    .70        28    .56
+  48 201 Harris                   Tx        15    .70        33    .66
+  06 073 San Diego                Ca        14    .65        26    .52
+  06 071 San Bernardino           Ca        13    .61        35    .70
+  08 041 El Paso                  Co        13    .61        34    .68
+  35 015 Eddy                     NM        12    .56        26    .52
+  15 003 Honolulu                 Hi        12    .56        29    .58
+  12 005 Bay                      Fl        10    .47        31    .62
+  06 067 Sacramento               Ca        10    .47        19    .38
+  35 043 Sandoval                 NM        10    .47        23    .46
+  08 005 Arapahoe                 Co        10    .47        30    .60
+  39 113 Montgomery               Oh        10    .47        26    .52
+   Same State                              101   4.71       226   4.52
+   Region 1:   Northeast                   102   4.75       187   3.74
+   Region 2:   Midwest                     184   8.57       349   6.98
+   Region 3:   South                       393  18.31       872  17.45
+   Region 4:   West                        223  10.39       486   9.72
+      35 035   County Non-Migrants       15228            38205
+35 037   Quay Total Migration Flo NM       230              519
+  35 001 Bernalillo               NM        32  13.91        61  11.75
+  35 009 Curry                    NM        20   8.70        42   8.09
+  48 141 El Paso                  Tx        10   4.35        28   5.39
+   Same State                               63  27.39       137  26.40
+   Same Region, Diff. State                 33  14.35        81  15.61
+   Different Region                         72  31.30       170  32.76
+      35 037   County Non-Migrants        3290             7724
+35 039   Rio Arriba Total Migrati NM       646             1320
+  35 049 Santa Fe                 NM       176  27.24       352  26.67
+  35 001 Bernalillo               NM        81  12.54       133  10.08
+  35 045 San Juan                 NM        48   7.43       141  10.68
+  35 055 Taos                     NM        21   3.25        44   3.33
+  35 028 Los Alamos               NM        20   3.10        34   2.58
+  06 037 Los Angeles              Ca        14   2.17        23   1.74
+  35 043 Sandoval                 NM        12   1.86        31   2.35
+   Same State                               47   7.28       112   8.48
+   Region 1:   Northeast                    22   3.41        30   2.27
+   Region 2:   Midwest                      29   4.49        52   3.94
+   Region 3:   South                        51   7.89       105   7.95
+   Region 4:   West                        125  19.35       263  19.92
+      35 039   County Non-Migrants       10518            26146
+35 041   Roosevelt Total Migratio NM       601             1417
+  35 009 Curry                    NM        92  15.31       209  14.75
+  57 001 Foreign / Overseas       FR        33   5.49        91   6.42
+  35 001 Bernalillo               NM        28   4.66        51   3.60
+  35 025 Lea                      NM        23   3.83        47   3.32
+  35 005 Chaves                   NM        23   3.83        56   3.95
+  35 037 Quay                     NM        17   2.83        41   2.89
+  35 035 Otero                    NM        14   2.33        30   2.12
+  48 303 Lubbock                  Tx        13   2.16        25   1.76
+  35 015 Eddy                     NM        11   1.83        22   1.55
+  04 013 Maricopa                 Az        10   1.66        17   1.20
+   Same State                               57   9.48       125   8.82
+   Region 1:   Northeast                    20   3.33        57   4.02
+   Region 2:   Midwest                      38   6.32        72   5.08
+   Region 3:   South                       150  24.96       380  26.82
+   Region 4:   West                         72  11.98       194  13.69
+      35 041   County Non-Migrants        4526            10857
+35 043   Sandoval Total Migration NM      2467             5486
+  35 001 Bernalillo               NM      1092  44.26      2293  41.80
+  35 049 Santa Fe                 NM        89   3.61       202   3.68
+  06 037 Los Angeles              Ca        51   2.07       109   1.99
+  04 013 Maricopa                 Az        43   1.74       111   2.02
+  35 045 San Juan                 NM        40   1.62       137   2.50
+  57 001 Foreign / Overseas       FR        34   1.38        68   1.24
+  06 073 San Diego                Ca        27   1.09        64   1.17
+  35 028 Los Alamos               NM        27   1.09        60   1.09
+  06 085 Santa Clara              Ca        25   1.01        59   1.08
+  35 031 McKinley                 NM        24    .97        76   1.39
+  35 039 Rio Arriba               NM        24    .97        67   1.22
+  06 059 Orange                   Ca        22    .89        46    .84
+  35 061 Valencia                 NM        21    .85        52    .95
+  32 003 Clark                    Nv        20    .81        42    .77
+  48 141 El Paso                  Tx        17    .69        51    .93
+  35 013 Dona Ana                 NM        16    .65        34    .62
+  06 001 Alameda                  Ca        16    .65        45    .82
+  17 031 Cook                     Il        15    .61        22    .40
+  04 017 Navajo                   Az        15    .61        41    .75
+  06 071 San Bernardino           Ca        13    .53        30    .55
+  48 439 Tarrant                  Tx        12    .49        21    .38
+  35 006 Cibola                   NM        12    .49        29    .53
+  35 047 San Miguel               NM        12    .49        39    .71
+  35 005 Chaves                   NM        11    .45        26    .47
+  06 077 San Joaquin              Ca        11    .45        35    .64
+  04 001 Apache                   Az        11    .45        29    .53
+  36 103 Suffolk                  NY        11    .45        20    .36
+  48 453 Travis                   Tx        11    .45        26    .47
+  08 041 El Paso                  Co        11    .45        26    .47
+  49 035 Salt Lake                Ut        10    .41        36    .66
+   Same State                               67   2.72       147   2.68
+   Region 1:   Northeast                   120   4.86       217   3.96
+   Region 2:   Midwest                     115   4.66       254   4.63
+   Region 3:   South                       201   8.15       479   8.73
+   Region 4:   West                        221   8.96       493   8.99
+      35 043   County Non-Migrants       17825            44536
+35 045   San Juan Total Migration NM      3157             8677
+  35 031 McKinley                 NM       379  12.01      1235  14.23
+  04 001 Apache                   Az       284   9.00      1006  11.59
+  35 001 Bernalillo               NM       179   5.67       380   4.38
+  04 013 Maricopa                 Az       130   4.12       336   3.87
+  35 039 Rio Arriba               NM       101   3.20       324   3.73
+  49 037 San Juan                 Ut        87   2.76       335   3.86
+  08 067 La Plata                 Co        86   2.72       187   2.16
+  08 083 Montezuma                Co        78   2.47       249   2.87
+  35 043 Sandoval                 NM        68   2.15       219   2.52
+  04 017 Navajo                   Az        68   2.15       287   3.31
+  04 005 Coconino                 Az        49   1.55       169   1.95
+  57 001 Foreign / Overseas       FR        40   1.27        70    .81
+  49 035 Salt Lake                Ut        32   1.01        79    .91
+  32 003 Clark                    Nv        30    .95        71    .82
+  35 013 Dona Ana                 NM        29    .92        68    .78
+  06 073 San Diego                Ca        28    .89        63    .73
+  35 025 Lea                      NM        28    .89        76    .88
+  48 141 El Paso                  Tx        26    .82        72    .83
+  48 135 Ector                    Tx        22    .70        67    .77
+  04 019 Pima                     Az        22    .70        54    .62
+  35 049 Santa Fe                 NM        21    .67        44    .51
+  06 037 Los Angeles              Ca        21    .67        42    .48
+  08 041 El Paso                  Co        20    .63        31    .36
+  06 071 San Bernardino           Ca        20    .63        48    .55
+  40 047 Garfield                 Ok        18    .57        50    .58
+  35 005 Chaves                   NM        18    .57        45    .52
+  08 031 Denver                   Co        17    .54        34    .39
+  35 061 Valencia                 NM        16    .51        29    .33
+  35 006 Cibola                   NM        16    .51        43    .50
+  56 025 Natrona                  Wy        15    .48        36    .41
+  06 029 Kern                     Ca        15    .48        39    .45
+  08 077 Mesa                     Co        14    .44        32    .37
+  08 005 Arapahoe                 Co        14    .44        31    .36
+  35 015 Eddy                     NM        13    .41        33    .38
+  48 201 Harris                   Tx        13    .41        31    .36
+  08 059 Jefferson                Co        12    .38        27    .31
+  08 123 Weld                     Co        12    .38        33    .38
+  40 109 Oklahoma                 Ok        12    .38        21    .24
+  48 113 Dallas                   Tx        12    .38        20    .23
+  49 005 Cache                    Ut        12    .38        34    .39
+  48 439 Tarrant                  Tx        11    .35        31    .36
+  35 017 Grant                    NM        11    .35        28    .32
+  35 041 Roosevelt                NM        11    .35        22    .25
+  08 007 Archuleta                Co        10    .32        18    .21
+  48 029 Bexar                    Tx        10    .32        15    .17
+  04 025 Yavapai                  Az        10    .32        26    .30
+  08 069 Larimer                  Co        10    .32        14    .16
+  40 143 Tulsa                    Ok        10    .32        25    .29
+  48 329 Midland                  Tx        10    .32        36    .41
+  56 005 Campbell                 Wy        10    .32        35    .40
+  08 085 Montrose                 Co        10    .32        22    .25
+  35 035 Otero                    NM        10    .32        17    .20
+   Same State                               62   1.96       134   1.54
+   Region 1:   Northeast                    52   1.65       100   1.15
+   Region 2:   Midwest                     145   4.59       325   3.75
+   Region 3:   South                       346  10.96       897  10.34
+   Region 4:   West                        352  11.15       882  10.16
+      35 045   County Non-Migrants       26059            73631
+35 047   San Miguel Total Migrati NM       570             1109
+  35 001 Bernalillo               NM        84  14.74       143  12.89
+  35 049 Santa Fe                 NM        75  13.16       138  12.44
+  35 033 Mora                     NM        29   5.09        59   5.32
+  57 001 Foreign / Overseas       FR        14   2.46        27   2.43
+  06 037 Los Angeles              Ca        14   2.46        26   2.34
+  35 039 Rio Arriba               NM        12   2.11        30   2.71
+  06 073 San Diego                Ca        12   2.11        22   1.98
+  35 007 Colfax                   NM        11   1.93        21   1.89
+  35 043 Sandoval                 NM        10   1.75        14   1.26
+   Same State                               78  13.68       183  16.50
+   Region 1:   Northeast                    16   2.81        33   2.98
+   Region 2:   Midwest                      33   5.79        55   4.96
+   Region 3:   South                        75  13.16       131  11.81
+   Region 4:   West                        107  18.77       227  20.47
+      35 047   County Non-Migrants        7272            17194
+35 049   Santa Fe Total Migration NM      3433             6050
+  35 001 Bernalillo               NM       457  13.31       883  14.60
+  35 039 Rio Arriba               NM       187   5.45       384   6.35
+  06 037 Los Angeles              Ca       168   4.89       264   4.36
+  04 013 Maricopa                 Az        78   2.27       133   2.20
+  35 047 San Miguel               NM        73   2.13       133   2.20
+  35 028 Los Alamos               NM        72   2.10       147   2.43
+  36 061 New York                 NY        66   1.92        79   1.31
+  35 043 Sandoval                 NM        58   1.69       137   2.26
+  35 013 Dona Ana                 NM        55   1.60       109   1.80
+  06 073 San Diego                Ca        47   1.37        72   1.19
+  17 031 Cook                     Il        44   1.28        58    .96
+  48 113 Dallas                   Tx        43   1.25        63   1.04
+  06 059 Orange                   Ca        40   1.17        64   1.06
+  35 055 Taos                     NM        37   1.08        55    .91
+  57 001 Foreign / Overseas       FR        35   1.02        76   1.26
+  04 019 Pima                     Az        32    .93        53    .88
+  06 075 San Francisco            Ca        31    .90        37    .61
+  48 201 Harris                   Tx        31    .90        52    .86
+  48 141 El Paso                  Tx        29    .84        76   1.26
+  08 031 Denver                   Co        29    .84        50    .83
+  06 001 Alameda                  Ca        27    .79        48    .79
+  06 085 Santa Clara              Ca        26    .76        55    .91
+  25 017 Middlesex                Ma        24    .70        28    .46
+  35 031 McKinley                 NM        24    .70        58    .96
+  53 033 King                     Wa        23    .67        36    .60
+  11 001 Wash.,D.C.               DC        23    .67        36    .60
+  32 003 Clark                    Nv        23    .67        40    .66
+  24 031 Montgomery               Md        21    .61        29    .48
+  36 047 Kings                    NY        20    .58        25    .41
+  35 045 San Juan                 NM        20    .58        45    .74
+  48 439 Tarrant                  Tx        18    .52        31    .51
+  08 041 El Paso                  Co        18    .52        36    .60
+  08 013 Boulder                  Co        18    .52        28    .46
+  35 005 Chaves                   NM        17    .50        35    .58
+  36 059 Nassau                   NY        17    .50        29    .48
+  25 025 Suffolk                  Ma        17    .50        19    .31
+  27 053 Hennepin                 Mn        17    .50        23    .38
+  35 037 Quay                     NM        16    .47        31    .51
+  09 001 Fairfield                Ct        16    .47        24    .40
+  48 453 Travis                   Tx        15    .44        27    .45
+  04 005 Coconino                 Az        15    .44        21    .35
+  06 041 Marin                    Ca        14    .41        19    .31
+  36 081 Queens                   NY        14    .41        18    .30
+  06 071 San Bernardino           Ca        14    .41        37    .61
+  06 013 Contra Costa             Ca        14    .41        23    .38
+  06 065 Riverside                Ca        13    .38        21    .35
+  35 061 Valencia                 NM        13    .38        25    .41
+  08 069 Larimer                  Co        12    .35        24    .40
+  23 005 Cumberland               Me        12    .35        22    .36
+  25 009 Essex                    Ma        12    .35        20    .33
+  06 083 Santa Barbara            Ca        12    .35        14    .23
+  35 057 Torrance                 NM        12    .35        26    .43
+  48 303 Lubbock                  Tx        12    .35        26    .43
+  25 021 Norfolk                  Ma        12    .35        16    .26
+  35 006 Cibola                   NM        11    .32        28    .46
+  08 059 Jefferson                Co        11    .32        19    .31
+  49 035 Salt Lake                Ut        11    .32        26    .43
+  12 025 Dade                     Fl        11    .32        13    .21
+  35 035 Otero                    NM        11    .32        25    .41
+  06 087 Santa Cruz               Ca        10    .29        16    .26
+  29 189 St. Louis                Mo        10    .29        17    .28
+  08 005 Arapahoe                 Co        10    .29        23    .38
+  48 029 Bexar                    Tx        10    .29        24    .40
+  36 103 Suffolk                  NY        10    .29        12    .20
+   Same State                               48   1.40        97   1.60
+   Region 1:   Northeast                   225   6.55       314   5.19
+   Region 2:   Midwest                     207   6.03       362   5.98
+   Region 3:   South                       359  10.46       623  10.30
+   Region 4:   West                        296   8.62       531   8.78
+      35 049   County Non-Migrants       34289            72028
+35 051   Sierra Total Migration F NM       375              863
+  35 013 Dona Ana                 NM        58  15.47       135  15.64
+  35 001 Bernalillo               NM        26   6.93        57   6.60
+  48 141 El Paso                  Tx        18   4.80        38   4.40
+   Same State                               70  18.67       160  18.54
+   Region 1:   Northeast                    16   4.27        33   3.82
+   Region 2:   Midwest                      28   7.47        52   6.03
+   Region 3:   South                        54  14.40       145  16.80
+   Region 4:   West                        105  28.00       243  28.16
+      35 051   County Non-Migrants        3004             6468
+35 053   Socorro Total Migration  NM       364              718
+  35 001 Bernalillo               NM        58  15.93       117  16.30
+  35 061 Valencia                 NM        25   6.87        49   6.82
+  06 037 Los Angeles              Ca        11   3.02        26   3.62
+  35 013 Dona Ana                 NM        11   3.02        19   2.65
+  35 003 Catron                   NM        10   2.75        24   3.34
+   Same State                               66  18.13       142  19.78
+   Region 1:   Northeast                    24   6.59        33   4.60
+   Region 2:   Midwest                      22   6.04        42   5.85
+   Region 3:   South                        51  14.01       112  15.60
+   Region 4:   West                         76  20.88       138  19.22
+   Foreign                                  10   2.75        16   2.23
+      35 053   County Non-Migrants        3945             9755
+35 055   Taos Total Migration Flo NM       621             1120
+  35 001 Bernalillo               NM        63  10.14       118  10.54
+  35 049 Santa Fe                 NM        40   6.44        73   6.52
+  35 039 Rio Arriba               NM        23   3.70        54   4.82
+  06 073 San Diego                Ca        17   2.74        29   2.59
+  06 037 Los Angeles              Ca        17   2.74        25   2.23
+  35 047 San Miguel               NM        15   2.42        31   2.77
+  08 031 Denver                   Co        14   2.25        27   2.41
+  06 001 Alameda                  Ca        13   2.09        15   1.34
+  06 075 San Francisco            Ca        10   1.61        12   1.07
+   Same State                               53   8.53       120  10.71
+   Region 1:   Northeast                    59   9.50        83   7.41
+   Region 2:   Midwest                      33   5.31        58   5.18
+   Region 3:   South                        96  15.46       176  15.71
+   Region 4:   West                        168  27.05       299  26.70
+      35 055   County Non-Migrants        7796            17591
+35 057   Torrance Total Migration NM       347              816
+  35 001 Bernalillo               NM       128  36.89       301  36.89
+  35 049 Santa Fe                 NM        24   6.92        60   7.35
+  35 061 Valencia                 NM        21   6.05        56   6.86
+  35 043 Sandoval                 NM        15   4.32        35   4.29
+   Same State                               43  12.39       100  12.25
+   Region 1:   Northeast                    14   4.03        23   2.82
+   Region 2:   Midwest                      20   5.76        36   4.41
+   Region 3:   South                        45  12.97       112  13.73
+   Region 4:   West                         37  10.66        93  11.40
+      35 057   County Non-Migrants        2523             6571
+35 059   Union Total Migration Fl NM       106              256
+  35 007 Colfax                   NM        12  11.32        33  12.89
+   Same State                               32  30.19        73  28.52
+   Same Region, Diff. State                 17  16.04        41  16.02
+   Different Region                         45  42.45       109  42.58
+      35 059   County Non-Migrants        1324             3155
+35 061   Valencia Total Migration NM      1358             3051
+  35 001 Bernalillo               NM       712  52.43      1643  53.85
+  35 043 Sandoval                 NM        30   2.21        66   2.16
+  04 013 Maricopa                 Az        24   1.77        50   1.64
+  35 053 Socorro                  NM        22   1.62        54   1.77
+  35 049 Santa Fe                 NM        20   1.47        40   1.31
+  06 037 Los Angeles              Ca        20   1.47        49   1.61
+  35 009 Curry                    NM        19   1.40        36   1.18
+  35 013 Dona Ana                 NM        17   1.25        38   1.25
+  57 001 Foreign / Overseas       FR        16   1.18        30    .98
+  35 031 McKinley                 NM        15   1.10        33   1.08
+  35 045 San Juan                 NM        14   1.03        40   1.31
+  35 006 Cibola                   NM        13    .96        28    .92
+  06 073 San Diego                Ca        12    .88        22    .72
+  06 059 Orange                   Ca        12    .88        29    .95
+  48 141 El Paso                  Tx        11    .81        15    .49
+  32 003 Clark                    Nv        11    .81        17    .56
+   Same State                               79   5.82       199   6.52
+   Region 1:   Northeast                    23   1.69        55   1.80
+   Region 2:   Midwest                      45   3.31        88   2.88
+   Region 3:   South                        96   7.07       210   6.88
+   Region 4:   West                        147  10.82       309  10.13
+      35 061   County Non-Migrants       12933            32430

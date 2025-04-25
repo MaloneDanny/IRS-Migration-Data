@@ -1,0 +1,1362 @@
+05 001   Arkansas Total Migration Ar       371              875
+  05 119 Pulaski                  Ar        36   9.70        83   9.49
+  05 069 Jefferson                Ar        33   8.89        80   9.14
+  05 117 Prairie                  Ar        26   7.01        57   6.51
+  05 085 Lonoke                   Ar        20   5.39        62   7.09
+  05 095 Monroe                   Ar        17   4.58        38   4.34
+  05 041 Desha                    Ar        12   3.23        35   4.00
+  57 005 APO / FPO Zip Code       FR        12   3.23        30   3.43
+  48 439 Tarrant                  Tx        10   2.70        23   2.63
+   Same State                               76  20.49       172  19.66
+   Same Region, Diff. State                 74  19.95       171  19.54
+   Different Region                         55  14.82       124  14.17
+      05 001   County Non-Migrants        7202            16849
+05 003   Ashley Total Migration F Ar       406              984
+  05 043 Drew                     Ar        31   7.64        82   8.33
+  22 067 Morehouse                La        29   7.14        83   8.43
+  05 017 Chicot                   Ar        26   6.40        60   6.10
+  05 119 Pulaski                  Ar        24   5.91        44   4.47
+  05 139 Union                    Ar        19   4.68        46   4.67
+  22 073 Ouachita                 La        16   3.94        38   3.86
+  48 113 Dallas                   Tx        10   2.46        16   1.63
+   Same State                               79  19.46       187  19.00
+   Same Region, Diff. State                123  30.30       300  30.49
+   Different Region                         49  12.07       128  13.01
+      05 003   County Non-Migrants        7423            18745
+05 005   Baxter Total Migration F Ar      1151             2462
+  05 089 Marion                   Ar        68   5.91       140   5.69
+  17 031 Cook                     Il        60   5.21       120   4.87
+  05 049 Fulton                   Ar        36   3.13        87   3.53
+  29 153 Ozark                    Mo        31   2.69        67   2.72
+  17 043 Du Page                  Il        27   2.35        49   1.99
+  05 119 Pulaski                  Ar        22   1.91        46   1.87
+  57 005 APO / FPO Zip Code       FR        21   1.82        49   1.99
+  17 097 Lake                     Il        21   1.82        40   1.62
+  05 065 Izard                    Ar        21   1.82        53   2.15
+  06 073 San Diego                Ca        17   1.48        32   1.30
+  05 143 Washington               Ar        17   1.48        35   1.42
+  05 009 Boone                    Ar        16   1.39        31   1.26
+  05 031 Craighead                Ar        14   1.22        26   1.06
+  29 091 Howell                   Mo        13   1.13        26   1.06
+  20 173 Sedgwick                 Ks        12   1.04        29   1.18
+  48 201 Harris                   Tx        11    .96        28   1.14
+  17 089 Kane                     Il        11    .96        18    .73
+  18 089 Lake                     In        10    .87        17    .69
+  17 197 Will                     Il        10    .87        17    .69
+  47 157 Shelby                   Tn        10    .87        16    .65
+  06 071 San Bernardino           Ca        10    .87        27   1.10
+  06 037 Los Angeles              Ca        10    .87        20    .81
+   Same State                              103   8.95       234   9.50
+   Region 1:   Northeast                    28   2.43        56   2.27
+   Region 2:   Midwest                     255  22.15       553  22.46
+   Region 3:   South                       164  14.25       379  15.39
+   Region 4:   West                        133  11.56       267  10.84
+      05 005   County Non-Migrants       10859            23459
+05 007   Benton Total Migration F Ar      3854             8699
+  05 143 Washington               Ar       696  18.06      1506  17.31
+  40 041 Delaware                 Ok        85   2.21       197   2.26
+  40 143 Tulsa                    Ok        82   2.13       177   2.03
+  29 119 McDonald                 Mo        71   1.84       172   1.98
+  40 001 Adair                    Ok        69   1.79       163   1.87
+  06 037 Los Angeles              Ca        64   1.66       156   1.79
+  05 119 Pulaski                  Ar        58   1.50       143   1.64
+  48 113 Dallas                   Tx        55   1.43       134   1.54
+  29 009 Barry                    Mo        50   1.30       137   1.57
+  48 439 Tarrant                  Tx        49   1.27       144   1.66
+  05 131 Sebastian                Ar        44   1.14       125   1.44
+  06 073 San Diego                Ca        38    .99        77    .89
+  40 109 Oklahoma                 Ok        37    .96        83    .95
+  20 173 Sedgwick                 Ks        36    .93        67    .77
+  29 097 Jasper                   Mo        34    .88        69    .79
+  57 005 APO / FPO Zip Code       FR        34    .88        72    .83
+  05 087 Madison                  Ar        33    .86        75    .86
+  20 091 Johnson                  Ks        30    .78        61    .70
+  17 031 Cook                     Il        29    .75        60    .69
+  29 145 Newton                   Mo        28    .73        60    .69
+  04 013 Maricopa                 Az        28    .73        73    .84
+  06 071 San Bernardino           Ca        27    .70        59    .68
+  29 095 Jackson                  Mo        27    .70        49    .56
+  05 015 Carroll                  Ar        26    .67        52    .60
+  19 153 Polk                     Ia        26    .67        52    .60
+  06 059 Orange                   Ca        24    .62        54    .62
+  27 053 Hennepin                 Mn        24    .62        41    .47
+  29 077 Greene                   Mo        23    .60        44    .51
+  06 065 Riverside                Ca        19    .49        35    .40
+  47 157 Shelby                   Tn        19    .49        40    .46
+  05 009 Boone                    Ar        19    .49        41    .47
+  05 115 Pope                     Ar        18    .47        34    .39
+  48 201 Harris                   Tx        18    .47        49    .56
+  05 069 Jefferson                Ar        18    .47        37    .43
+  29 189 St. Louis                Mo        18    .47        44    .51
+  57 001 Foreign / Overseas       FR        17    .44        24    .28
+  31 055 Douglas                  Ne        16    .42        35    .40
+  17 043 Du Page                  Il        15    .39        34    .39
+  05 031 Craighead                Ar        14    .36        24    .28
+  05 045 Faulkner                 Ar        14    .36        38    .44
+  06 083 Santa Barbara            Ca        13    .34        35    .40
+  05 033 Crawford                 Ar        12    .31        29    .33
+  20 177 Shawnee                  Ks        12    .31        27    .31
+  08 041 El Paso                  Co        12    .31        38    .44
+  40 021 Cherokee                 Ok        11    .29        25    .29
+  04 019 Pima                     Az        11    .29        21    .24
+  01 125 Tuscaloosa               Al        11    .29        36    .41
+  55 079 Milwaukee                Wi        11    .29        20    .23
+  06 085 Santa Clara              Ca        11    .29        22    .25
+  48 141 El Paso                  Tx        11    .29        27    .31
+  05 051 Garland                  Ar        10    .26        25    .29
+  08 069 Larimer                  Co        10    .26        25    .29
+  40 101 Muskogee                 Ok        10    .26        33    .38
+  28 151 Washington               Ms        10    .26        35    .40
+  48 085 Collin                   Tx        10    .26        23    .26
+  48 029 Bexar                    Tx        10    .26        27    .31
+  12 057 Hillsborough             Fl        10    .26        26    .30
+   Same State                              177   4.59       424   4.87
+   Region 1:   Northeast                    68   1.76       157   1.80
+   Region 2:   Midwest                     559  14.50      1224  14.07
+   Region 3:   South                       583  15.13      1348  15.50
+   Region 4:   West                        250   6.49       535   6.15
+      05 007   County Non-Migrants       34477            79292
+05 009   Boone Total Migration Fl Ar       848             1930
+  05 101 Newton                   Ar        84   9.91       205  10.62
+  05 015 Carroll                  Ar        66   7.78       146   7.56
+  05 089 Marion                   Ar        44   5.19        90   4.66
+  05 143 Washington               Ar        33   3.89        71   3.68
+  29 213 Taney                    Mo        20   2.36        43   2.23
+  05 129 Searcy                   Ar        19   2.24        42   2.18
+  29 077 Greene                   Mo        18   2.12        29   1.50
+  05 007 Benton                   Ar        16   1.89        43   2.23
+  05 119 Pulaski                  Ar        15   1.77        32   1.66
+  05 005 Baxter                   Ar        12   1.42        33   1.71
+  06 037 Los Angeles              Ca        11   1.30        25   1.30
+  05 045 Faulkner                 Ar        11   1.30        31   1.61
+   Same State                               88  10.38       214  11.09
+   Same Region, Diff. State                159  18.75       351  18.19
+   Different Region                        252  29.72       575  29.79
+      05 009   County Non-Migrants        9422            21979
+05 011   Bradley Total Migration  Ar       205              494
+  05 025 Cleveland                Ar        22  10.73        52  10.53
+  05 043 Drew                     Ar        20   9.76        43   8.70
+  05 069 Jefferson                Ar        13   6.34        34   6.88
+  05 119 Pulaski                  Ar        12   5.85        22   4.45
+  05 013 Calhoun                  Ar        10   4.88        35   7.09
+   Same State                               50  24.39       123  24.90
+   Same Region, Diff. State                 50  24.39       112  22.67
+   Different Region                         28  13.66        73  14.78
+      05 011   County Non-Migrants        3498             8449
+05 013   Calhoun Total Migration  Ar       107              270
+  05 103 Ouachita                 Ar        22  20.56        50  18.52
+  05 011 Bradley                  Ar        14  13.08        35  12.96
+  05 139 Union                    Ar        13  12.15        31  11.48
+  05 039 Dallas                   Ar        11  10.28        22   8.15
+   Same State                               22  20.56        56  20.74
+   Same Region, Diff. State                 15  14.02        47  17.41
+   Different Region                         10   9.35        29  10.74
+      05 013   County Non-Migrants        1500             3610
+05 015   Carroll Total Migration  Ar       692             1384
+  05 009 Boone                    Ar        55   7.95        99   7.15
+  05 143 Washington               Ar        33   4.77        59   4.26
+  05 007 Benton                   Ar        24   3.47        43   3.11
+  05 087 Madison                  Ar        21   3.03        37   2.67
+  05 119 Pulaski                  Ar        19   2.75        47   3.40
+  29 209 Stone                    Mo        18   2.60        45   3.25
+  48 201 Harris                   Tx        13   1.88        27   1.95
+  40 143 Tulsa                    Ok        13   1.88        24   1.73
+  29 009 Barry                    Mo        13   1.88        26   1.88
+  57 005 APO / FPO Zip Code       FR        12   1.73        27   1.95
+  29 213 Taney                    Mo        10   1.45        19   1.37
+   Same State                               77  11.13       160  11.56
+   Region 1:   Northeast                    10   1.45        26   1.88
+   Region 2:   Midwest                     132  19.08       263  19.00
+   Region 3:   South                       140  20.23       276  19.94
+   Region 4:   West                        102  14.74       206  14.88
+      05 015   County Non-Migrants        6621            14668
+05 017   Chicot Total Migration F Ar       318              715
+  05 043 Drew                     Ar        42  13.21       106  14.83
+  05 041 Desha                    Ar        31   9.75        65   9.09
+  05 003 Ashley                   Ar        26   8.18        65   9.09
+  28 151 Washington               Ms        20   6.29        54   7.55
+  05 119 Pulaski                  Ar        19   5.97        29   4.06
+  05 069 Jefferson                Ar        16   5.03        29   4.06
+  22 123 West Carroll             La        10   3.14        32   4.48
+   Same State                               40  12.58        90  12.59
+   Same Region, Diff. State                 84  26.42       177  24.76
+   Different Region                         30   9.43        68   9.51
+      05 017   County Non-Migrants        4019            10009
+05 019   Clark Total Migration Fl Ar       558             1165
+  05 119 Pulaski                  Ar        46   8.24        83   7.12
+  05 059 Hot Spring               Ar        45   8.06        94   8.07
+  05 051 Garland                  Ar        38   6.81        78   6.70
+  05 109 Pike                     Ar        23   4.12        57   4.89
+  41 051 Multnomah                Or        21   3.76        66   5.67
+  05 039 Dallas                   Ar        15   2.69        36   3.09
+  05 125 Saline                   Ar        13   2.33        25   2.15
+  05 099 Nevada                   Ar        13   2.33        30   2.58
+  05 061 Howard                   Ar        11   1.97        20   1.72
+  05 103 Ouachita                 Ar        10   1.79        20   1.72
+   Same State                              110  19.71       221  18.97
+   Same Region, Diff. State                138  24.73       280  24.03
+   Different Region                         75  13.44       155  13.30
+      05 019   County Non-Migrants        6231            14439
+05 021   Clay Total Migration Flo Ar       364              817
+  05 055 Greene                   Ar        46  12.64       108  13.22
+  29 069 Dunklin                  Mo        34   9.34        84  10.28
+  05 121 Randolph                 Ar        23   6.32        57   6.98
+  29 023 Butler                   Mo        22   6.04        51   6.24
+  29 181 Ripley                   Mo        14   3.85        36   4.41
+  05 031 Craighead                Ar        14   3.85        25   3.06
+   Same State                               51  14.01       138  16.89
+   Same Region, Diff. State                 46  12.64       102  12.48
+   Different Region                        114  31.32       216  26.44
+      05 021   County Non-Migrants        5609            13020
+05 023   Cleburne Total Migration Ar       600             1353
+  05 119 Pulaski                  Ar        66  11.00       142  10.50
+  05 145 White                    Ar        54   9.00       128   9.46
+  05 045 Faulkner                 Ar        28   4.67        75   5.54
+  05 141 Van Buren                Ar        21   3.50        46   3.40
+  05 063 Independence             Ar        19   3.17        40   2.96
+  47 157 Shelby                   Tn        19   3.17        39   2.88
+  05 137 Stone                    Ar        11   1.83        25   1.85
+  05 069 Jefferson                Ar        11   1.83        22   1.63
+   Same State                              108  18.00       249  18.40
+   Same Region, Diff. State                124  20.67       286  21.14
+   Different Region                        139  23.17       301  22.25
+      05 023   County Non-Migrants        6074            14026
+05 025   Cleveland Total Migratio Ar       163              408
+  05 069 Jefferson                Ar        55  33.74       135  33.09
+  05 039 Dallas                   Ar        18  11.04        46  11.27
+  05 011 Bradley                  Ar        13   7.98        33   8.09
+   All Migration Flows                      77  47.24       194  47.55
+      05 025   County Non-Migrants        2270             5616
+05 027   Columbia Total Migration Ar       475             1091
+  05 139 Union                    Ar        46   9.68       111  10.17
+  05 073 Lafayette                Ar        39   8.21        97   8.89
+  05 103 Ouachita                 Ar        33   6.95        81   7.42
+  22 119 Webster                  La        24   5.05        63   5.77
+  05 099 Nevada                   Ar        22   4.63        46   4.22
+  48 113 Dallas                   Tx        17   3.58        30   2.75
+  05 091 Miller                   Ar        13   2.74        24   2.20
+  22 027 Claiborne                La        11   2.32        23   2.11
+  05 119 Pulaski                  Ar        10   2.11        16   1.47
+   Same State                               57  12.00       123  11.27
+   Same Region, Diff. State                149  31.37       362  33.18
+   Different Region                         54  11.37       115  10.54
+      05 027   County Non-Migrants        7851            18978
+05 029   Conway Total Migration F Ar       404              916
+  05 045 Faulkner                 Ar        53  13.12       125  13.65
+  05 115 Pope                     Ar        42  10.40        93  10.15
+  05 119 Pulaski                  Ar        32   7.92        68   7.42
+  05 105 Perry                    Ar        25   6.19        57   6.22
+  05 149 Yell                     Ar        15   3.71        32   3.49
+  05 141 Van Buren                Ar        11   2.72        32   3.49
+   Same State                               67  16.58       162  17.69
+   Same Region, Diff. State                 87  21.53       196  21.40
+   Different Region                         72  17.82       151  16.48
+      05 029   County Non-Migrants        5875            13875
+05 031   Craighead Total Migratio Ar      1870             4011
+  05 111 Poinsett                 Ar       164   8.77       352   8.78
+  05 093 Mississippi              Ar       118   6.31       269   6.71
+  05 055 Greene                   Ar       118   6.31       246   6.13
+  05 075 Lawrence                 Ar        88   4.71       204   5.09
+  05 119 Pulaski                  Ar        74   3.96       135   3.37
+  47 157 Shelby                   Tn        60   3.21       142   3.54
+  05 121 Randolph                 Ar        41   2.19        88   2.19
+  05 035 Crittenden               Ar        37   1.98        62   1.55
+  05 067 Jackson                  Ar        34   1.82        69   1.72
+  05 145 White                    Ar        31   1.66        67   1.67
+  05 021 Clay                     Ar        28   1.50        66   1.65
+  05 135 Sharp                    Ar        27   1.44        46   1.15
+  05 123 St. Francis              Ar        24   1.28        56   1.40
+  05 037 Cross                    Ar        24   1.28        47   1.17
+  05 063 Independence             Ar        21   1.12        43   1.07
+  05 107 Phillips                 Ar        20   1.07        46   1.15
+  29 069 Dunklin                  Mo        20   1.07        44   1.10
+  57 005 APO / FPO Zip Code       FR        18    .96        30    .75
+  05 005 Baxter                   Ar        18    .96        36    .90
+  48 201 Harris                   Tx        16    .86        38    .95
+  29 023 Butler                   Mo        15    .80        26    .65
+  17 031 Cook                     Il        14    .75        25    .62
+  05 065 Izard                    Ar        14    .75        31    .77
+  05 001 Arkansas                 Ar        14    .75        27    .67
+  05 143 Washington               Ar        13    .70        24    .60
+  48 113 Dallas                   Tx        11    .59        16    .40
+  12 105 Polk                     Fl        11    .59        19    .47
+  29 189 St. Louis                Mo        10    .53        17    .42
+   Same State                              149   7.97       304   7.58
+   Region 1:   Northeast                    29   1.55        85   2.12
+   Region 2:   Midwest                     223  11.93       476  11.87
+   Region 3:   South                       309  16.52       688  17.15
+   Region 4:   West                         77   4.12       187   4.66
+      05 031   County Non-Migrants       21498            49525
+05 033   Crawford Total Migration Ar      1242             2934
+  05 131 Sebastian                Ar       560  45.09      1340  45.67
+  40 135 Sequoyah                 Ok        48   3.86       126   4.29
+  40 079 Le Flore                 Ok        34   2.74        74   2.52
+  05 143 Washington               Ar        33   2.66        91   3.10
+  05 047 Franklin                 Ar        23   1.85        54   1.84
+  05 007 Benton                   Ar        21   1.69        50   1.70
+  06 037 Los Angeles              Ca        16   1.29        31   1.06
+  05 083 Logan                    Ar        15   1.21        32   1.09
+  48 201 Harris                   Tx        14   1.13        24    .82
+  40 143 Tulsa                    Ok        13   1.05        21    .72
+  57 005 APO / FPO Zip Code       FR        13   1.05        22    .75
+  05 115 Pope                     Ar        10    .81        18    .61
+   Same State                               68   5.48       155   5.28
+   Region 1:   Northeast                    12    .97        26    .89
+   Region 2:   Midwest                      88   7.09       229   7.81
+   Region 3:   South                       179  14.41       411  14.01
+   Region 4:   West                         95   7.65       230   7.84
+      05 033   County Non-Migrants       13281            32958
+05 035   Crittenden Total Migrati Ar      1022             2345
+  47 157 Shelby                   Tn       281  27.50       630  26.87
+  05 123 St. Francis              Ar        71   6.95       171   7.29
+  05 093 Mississippi              Ar        43   4.21       120   5.12
+  05 037 Cross                    Ar        41   4.01       100   4.26
+  05 111 Poinsett                 Ar        34   3.33        75   3.20
+  05 119 Pulaski                  Ar        24   2.35        46   1.96
+  28 033 De Soto                  Ms        23   2.25        52   2.22
+  05 031 Craighead                Ar        20   1.96        42   1.79
+  57 005 APO / FPO Zip Code       FR        14   1.37        23    .98
+  05 107 Phillips                 Ar        12   1.17        38   1.62
+  05 069 Jefferson                Ar        10    .98        24   1.02
+   Same State                               95   9.30       211   9.00
+   Region 1:   Northeast                    17   1.66        28   1.19
+   Region 2:   Midwest                      87   8.51       205   8.74
+   Region 3:   South                       205  20.06       474  20.21
+   Region 4:   West                         45   4.40       106   4.52
+      05 035   County Non-Migrants       14767            36915
+05 037   Cross Total Migration Fl Ar       387              928
+  05 123 St. Francis              Ar        65  16.80       154  16.59
+  05 035 Crittenden               Ar        38   9.82       108  11.64
+  05 111 Poinsett                 Ar        22   5.68        42   4.53
+  47 157 Shelby                   Tn        20   5.17        36   3.88
+  05 031 Craighead                Ar        15   3.88        35   3.77
+  05 119 Pulaski                  Ar        11   2.84        23   2.48
+   Same State                               88  22.74       207  22.31
+   Region 2:   Midwest                      30   7.75        72   7.76
+   Region 3:   South                        73  18.86       187  20.15
+   Region 4:   West                         25   6.46        64   6.90
+      05 037   County Non-Migrants        5777            14382
+05 039   Dallas Total Migration F Ar       189              441
+  05 103 Ouachita                 Ar        29  15.34        65  14.74
+  05 119 Pulaski                  Ar        19  10.05        40   9.07
+  05 025 Cleveland                Ar        18   9.52        48  10.88
+  05 013 Calhoun                  Ar        17   8.99        45  10.20
+  05 059 Hot Spring               Ar        11   5.82        22   4.99
+   Same State                               45  23.81       102  23.13
+   Same Region, Diff. State                 30  15.87        73  16.55
+   Different Region                         20  10.58        46  10.43
+      05 039   County Non-Migrants        2970             7234
+05 041   Desha Total Migration Fl Ar       305              740
+  05 043 Drew                     Ar        45  14.75       117  15.81
+  05 079 Lincoln                  Ar        28   9.18        72   9.73
+  05 069 Jefferson                Ar        27   8.85        68   9.19
+  05 017 Chicot                   Ar        26   8.52        63   8.51
+  05 119 Pulaski                  Ar        10   3.28        20   2.70
+   Same State                               60  19.67       125  16.89
+   Same Region, Diff. State                 63  20.66       139  18.78
+   Different Region                         46  15.08       136  18.38
+      05 041   County Non-Migrants        4867            12170
+05 043   Drew Total Migration Flo Ar       372              845
+  05 041 Desha                    Ar        43  11.56       110  13.02
+  05 003 Ashley                   Ar        29   7.80        65   7.69
+  05 011 Bradley                  Ar        25   6.72        62   7.34
+  05 017 Chicot                   Ar        25   6.72        54   6.39
+  05 079 Lincoln                  Ar        20   5.38        46   5.44
+  05 119 Pulaski                  Ar        18   4.84        29   3.43
+  05 069 Jefferson                Ar        13   3.49        20   2.37
+   Same State                               66  17.74       161  19.05
+   Same Region, Diff. State                 86  23.12       200  23.67
+   Different Region                         47  12.63        98  11.60
+      05 043   County Non-Migrants        4903            12131
+05 045   Faulkner Total Migration Ar      2050             4440
+  05 119 Pulaski                  Ar       515  25.12      1129  25.43
+  05 029 Conway                   Ar        86   4.20       171   3.85
+  05 145 White                    Ar        67   3.27       150   3.38
+  05 141 Van Buren                Ar        63   3.07       141   3.18
+  05 023 Cleburne                 Ar        43   2.10        69   1.55
+  05 085 Lonoke                   Ar        42   2.05        98   2.21
+  05 125 Saline                   Ar        38   1.85        89   2.00
+  05 143 Washington               Ar        34   1.66        71   1.60
+  05 115 Pope                     Ar        33   1.61        78   1.76
+  05 105 Perry                    Ar        30   1.46        68   1.53
+  05 069 Jefferson                Ar        24   1.17        41    .92
+  57 005 APO / FPO Zip Code       FR        23   1.12        60   1.35
+  05 051 Garland                  Ar        22   1.07        39    .88
+  47 157 Shelby                   Tn        18    .88        42    .95
+  48 113 Dallas                   Tx        17    .83        46   1.04
+  05 131 Sebastian                Ar        17    .83        27    .61
+  05 063 Independence             Ar        16    .78        28    .63
+  05 129 Searcy                   Ar        16    .78        31    .70
+  48 201 Harris                   Tx        13    .63        33    .74
+  05 035 Crittenden               Ar        13    .63        32    .72
+  48 439 Tarrant                  Tx        12    .59        24    .54
+  05 031 Craighead                Ar        12    .59        23    .52
+  05 093 Mississippi              Ar        12    .59        23    .52
+  05 019 Clark                    Ar        11    .54        28    .63
+  05 005 Baxter                   Ar        11    .54        20    .45
+  57 001 Foreign / Overseas       FR        11    .54        16    .36
+  05 001 Arkansas                 Ar        11    .54        17    .38
+  05 091 Miller                   Ar        10    .49        17    .38
+  05 009 Boone                    Ar        10    .49        23    .52
+  05 095 Monroe                   Ar        10    .49        22    .50
+  06 037 Los Angeles              Ca        10    .49        14    .32
+  05 123 St. Francis              Ar        10    .49        21    .47
+   Same State                              199   9.71       388   8.74
+   Region 1:   Northeast                    40   1.95        83   1.87
+   Region 2:   Midwest                     160   7.80       386   8.69
+   Region 3:   South                       282  13.76       625  14.08
+   Region 4:   West                        109   5.32       267   6.01
+      05 045   County Non-Migrants       18256            44216
+05 047   Franklin Total Migration Ar       369              835
+  05 131 Sebastian                Ar        72  19.51       158  18.92
+  05 033 Crawford                 Ar        35   9.49        77   9.22
+  05 071 Johnson                  Ar        33   8.94        60   7.19
+  05 083 Logan                    Ar        33   8.94        89  10.66
+  05 143 Washington               Ar        10   2.71        23   2.75
+   Same State                               44  11.92       100  11.98
+   Same Region, Diff. State                 73  19.78       166  19.88
+   Different Region                         69  18.70       162  19.40
+      05 047   County Non-Migrants        4584            11021
+05 049   Fulton Total Migration F Ar       271              630
+  05 135 Sharp                    Ar        35  12.92        90  14.29
+  29 149 Oregon                   Mo        20   7.38        55   8.73
+  05 005 Baxter                   Ar        18   6.64        30   4.76
+  05 065 Izard                    Ar        17   6.27        42   6.67
+  05 031 Craighead                Ar        14   5.17        31   4.92
+  29 091 Howell                   Mo        13   4.80        32   5.08
+   Same State                               45  16.61        97  15.40
+   Same Region, Diff. State                 43  15.87       108  17.14
+   Different Region                         66  24.35       145  23.02
+      05 049   County Non-Migrants        2712             6378
+05 051   Garland Total Migration  Ar      2267             4577
+  05 119 Pulaski                  Ar       174   7.68       305   6.66
+  05 059 Hot Spring               Ar       128   5.65       281   6.14
+  48 113 Dallas                   Tx        71   3.13       125   2.73
+  05 125 Saline                   Ar        68   3.00       151   3.30
+  05 019 Clark                    Ar        43   1.90        85   1.86
+  05 097 Montgomery               Ar        42   1.85        88   1.92
+  05 069 Jefferson                Ar        42   1.85        80   1.75
+  17 031 Cook                     Il        41   1.81        79   1.73
+  48 201 Harris                   Tx        38   1.68        78   1.70
+  06 037 Los Angeles              Ca        34   1.50        62   1.35
+  47 157 Shelby                   Tn        32   1.41        66   1.44
+  05 109 Pike                     Ar        28   1.24        62   1.35
+  41 051 Multnomah                Or        27   1.19        69   1.51
+  48 439 Tarrant                  Tx        25   1.10        48   1.05
+  57 005 APO / FPO Zip Code       FR        25   1.10        45    .98
+  17 043 Du Page                  Il        19    .84        40    .87
+  06 073 San Diego                Ca        19    .84        33    .72
+  06 059 Orange                   Ca        17    .75        31    .68
+  32 003 Clark                    Nv        16    .71        31    .68
+  05 115 Pope                     Ar        16    .71        41    .90
+  05 045 Faulkner                 Ar        14    .62        38    .83
+  40 109 Oklahoma                 Ok        14    .62        27    .59
+  05 131 Sebastian                Ar        14    .62        41    .90
+  04 013 Maricopa                 Az        13    .57        26    .57
+  22 033 East Baton Rouge         La        13    .57        28    .61
+  40 143 Tulsa                    Ok        12    .53        25    .55
+  05 103 Ouachita                 Ar        12    .53        24    .52
+  05 007 Benton                   Ar        12    .53        32    .70
+  48 029 Bexar                    Tx        12    .53        26    .57
+  48 037 Bowie                    Tx        11    .49        20    .44
+  48 085 Collin                   Tx        11    .49        18    .39
+  05 113 Polk                     Ar        11    .49        28    .61
+  05 143 Washington               Ar        10    .44        21    .46
+  22 015 Bossier                  La        10    .44        18    .39
+  05 149 Yell                     Ar        10    .44        22    .48
+  17 097 Lake                     Il        10    .44        27    .59
+  22 051 Jefferson                La        10    .44        19    .42
+   Same State                              211   9.31       446   9.74
+   Region 1:   Northeast                    58   2.56       113   2.47
+   Region 2:   Midwest                     294  12.97       561  12.26
+   Region 3:   South                       428  18.88       857  18.72
+   Region 4:   West                        172   7.59       360   7.87
+      05 051   County Non-Migrants       25722            55409
+05 053   Grant Total Migration Fl Ar       370              894
+  05 069 Jefferson                Ar        66  17.84       166  18.57
+  05 119 Pulaski                  Ar        60  16.22       130  14.54
+  05 125 Saline                   Ar        26   7.03        73   8.17
+  05 059 Hot Spring               Ar        20   5.41        43   4.81
+  05 051 Garland                  Ar        10   2.70        19   2.13
+   Same State                               90  24.32       228  25.50
+   Same Region, Diff. State                 58  15.68       143  16.00
+   Different Region                         40  10.81        92  10.29
+      05 053   County Non-Migrants        4207            10375
+05 055   Greene Total Migration F Ar       688             1597
+  05 031 Craighead                Ar       103  14.97       233  14.59
+  05 021 Clay                     Ar        85  12.35       212  13.27
+  29 069 Dunklin                  Mo        37   5.38        73   4.57
+  05 093 Mississippi              Ar        21   3.05        54   3.38
+  05 121 Randolph                 Ar        20   2.91        49   3.07
+  05 075 Lawrence                 Ar        19   2.76        54   3.38
+  47 157 Shelby                   Tn        17   2.47        37   2.32
+  05 119 Pulaski                  Ar        13   1.89        25   1.57
+  05 111 Poinsett                 Ar        12   1.74        33   2.07
+   Same State                               61   8.87       131   8.20
+   Region 1:   Northeast                    11   1.60        29   1.82
+   Region 2:   Midwest                     106  15.41       246  15.40
+   Region 3:   South                       140  20.35       312  19.54
+   Region 4:   West                         43   6.25       109   6.83
+      05 055   County Non-Migrants        9872            23510
+05 057   Hempstead Total Migratio Ar       467             1112
+  05 099 Nevada                   Ar        70  14.99       175  15.74
+  05 061 Howard                   Ar        37   7.92        89   8.00
+  05 133 Sevier                   Ar        19   4.07        48   4.32
+  05 073 Lafayette                Ar        17   3.64        47   4.23
+  48 037 Bowie                    Tx        16   3.43        39   3.51
+  05 091 Miller                   Ar        15   3.21        32   2.88
+  48 113 Dallas                   Tx        15   3.21        31   2.79
+  05 027 Columbia                 Ar        13   2.78        22   1.98
+  05 119 Pulaski                  Ar        12   2.57        23   2.07
+  05 109 Pike                     Ar        11   2.36        30   2.70
+  48 201 Harris                   Tx        10   2.14        28   2.52
+   Same State                               76  16.27       171  15.38
+   Same Region, Diff. State                 82  17.56       220  19.78
+   Different Region                         74  15.85       157  14.12
+      05 057   County Non-Migrants        6672            15764
+05 059   Hot Spring Total Migrati Ar       663             1605
+  05 051 Garland                  Ar        99  14.93       243  15.14
+  05 125 Saline                   Ar        62   9.35       167  10.40
+  05 119 Pulaski                  Ar        59   8.90       127   7.91
+  05 019 Clark                    Ar        47   7.09       110   6.85
+  41 051 Multnomah                Or        32   4.83        91   5.67
+  05 053 Grant                    Ar        13   1.96        34   2.12
+  05 039 Dallas                   Ar        11   1.66        30   1.87
+  57 005 APO / FPO Zip Code       FR        10   1.51        22   1.37
+   Same State                              101  15.23       252  15.70
+   Region 1:   Northeast                    10   1.51        31   1.93
+   Region 2:   Midwest                      40   6.03        90   5.61
+   Region 3:   South                       132  19.91       312  19.44
+   Region 4:   West                         47   7.09        96   5.98
+      05 059   County Non-Migrants        7889            18756
+05 061   Howard Total Migration F Ar       339              758
+  05 057 Hempstead                Ar        45  13.27        93  12.27
+  05 109 Pike                     Ar        36  10.62        91  12.01
+  05 133 Sevier                   Ar        23   6.78        56   7.39
+  05 091 Miller                   Ar        15   4.42        28   3.69
+  05 119 Pulaski                  Ar        14   4.13        18   2.37
+  05 019 Clark                    Ar        12   3.54        26   3.43
+  48 037 Bowie                    Tx        10   2.95        24   3.17
+   Same State                               69  20.35       153  20.18
+   Same Region, Diff. State                 78  23.01       197  25.99
+   Different Region                         37  10.91        72   9.50
+      05 061   County Non-Migrants        4549            11047
+05 063   Independence Total Migra Ar       719             1618
+  05 135 Sharp                    Ar        63   8.76       130   8.03
+  05 145 White                    Ar        44   6.12       115   7.11
+  05 067 Jackson                  Ar        33   4.59        80   4.94
+  05 119 Pulaski                  Ar        32   4.45        66   4.08
+  05 137 Stone                    Ar        23   3.20        51   3.15
+  05 023 Cleburne                 Ar        22   3.06        51   3.15
+  05 065 Izard                    Ar        21   2.92        41   2.53
+  05 075 Lawrence                 Ar        19   2.64        42   2.60
+  06 037 Los Angeles              Ca        13   1.81        24   1.48
+  05 031 Craighead                Ar        13   1.81        34   2.10
+  05 143 Washington               Ar        12   1.67        28   1.73
+   Same State                              117  16.27       268  16.56
+   Region 1:   Northeast                    12   1.67        28   1.73
+   Region 2:   Midwest                      88  12.24       199  12.30
+   Region 3:   South                       135  18.78       307  18.97
+   Region 4:   West                         62   8.62       130   8.03
+   Foreign                                  10   1.39        24   1.48
+      05 063   County Non-Migrants        9975            23881
+05 065   Izard Total Migration Fl Ar       312              717
+  05 135 Sharp                    Ar        22   7.05        52   7.25
+  05 005 Baxter                   Ar        22   7.05        55   7.67
+  05 063 Independence             Ar        21   6.73        44   6.14
+  05 049 Fulton                   Ar        19   6.09        53   7.39
+  05 031 Craighead                Ar        11   3.53        28   3.91
+   Same State                               46  14.74       108  15.06
+   Same Region, Diff. State                 68  21.79       164  22.87
+   Different Region                        103  33.01       213  29.71
+      05 065   County Non-Migrants        3451             7810
+05 067   Jackson Total Migration  Ar       308              710
+  05 063 Independence             Ar        43  13.96        97  13.66
+  05 145 White                    Ar        31  10.06        78  10.99
+  05 119 Pulaski                  Ar        20   6.49        36   5.07
+  05 031 Craighead                Ar        18   5.84        40   5.63
+  05 147 Woodruff                 Ar        11   3.57        27   3.80
+   Same State                               73  23.70       178  25.07
+   Same Region, Diff. State                 61  19.81       153  21.55
+   Different Region                         51  16.56       101  14.23
+      05 067   County Non-Migrants        5457            12774
+05 069   Jefferson Total Migratio Ar      1530             3419
+  05 119 Pulaski                  Ar       162  10.59       310   9.07
+  05 079 Lincoln                  Ar        88   5.75       194   5.67
+  57 005 APO / FPO Zip Code       FR        61   3.99       143   4.18
+  05 053 Grant                    Ar        54   3.53       124   3.63
+  05 025 Cleveland                Ar        51   3.33       113   3.31
+  05 041 Desha                    Ar        44   2.88       114   3.33
+  05 085 Lonoke                   Ar        42   2.75       102   2.98
+  05 001 Arkansas                 Ar        38   2.48        92   2.69
+  05 043 Drew                     Ar        31   2.03        57   1.67
+  48 113 Dallas                   Tx        26   1.70        50   1.46
+  47 157 Shelby                   Tn        25   1.63        56   1.64
+  17 031 Cook                     Il        21   1.37        46   1.35
+  05 017 Chicot                   Ar        17   1.11        29    .85
+  48 439 Tarrant                  Tx        16   1.05        44   1.29
+  57 001 Foreign / Overseas       FR        16   1.05        18    .53
+  05 125 Saline                   Ar        15    .98        36   1.05
+  05 103 Ouachita                 Ar        14    .92        27    .79
+  05 031 Craighead                Ar        14    .92        27    .79
+  05 143 Washington               Ar        12    .78        18    .53
+  55 079 Milwaukee                Wi        12    .78        29    .85
+  05 011 Bradley                  Ar        11    .72        23    .67
+  05 003 Ashley                   Ar        11    .72        28    .82
+  05 051 Garland                  Ar        11    .72        26    .76
+  26 163 Wayne                    Mi        10    .65        14    .41
+  05 045 Faulkner                 Ar        10    .65        20    .58
+  05 107 Phillips                 Ar        10    .65        20    .58
+  05 039 Dallas                   Ar        10    .65        15    .44
+  26 049 Genesee                  Mi        10    .65        18    .53
+  05 035 Crittenden               Ar        10    .65        22    .64
+  05 139 Union                    Ar        10    .65        31    .91
+  48 201 Harris                   Tx        10    .65        17    .50
+  05 059 Hot Spring               Ar        10    .65        32    .94
+   Same State                              132   8.63       293   8.57
+   Region 1:   Northeast                    26   1.70        61   1.78
+   Region 2:   Midwest                      98   6.41       217   6.35
+   Region 3:   South                       297  19.41       711  20.80
+   Region 4:   West                         95   6.21       242   7.08
+      05 069   County Non-Migrants       26262            63288
+05 071   Johnson Total Migration  Ar       452             1036
+  05 115 Pope                     Ar        71  15.71       175  16.89
+  05 047 Franklin                 Ar        27   5.97        62   5.98
+  05 083 Logan                    Ar        17   3.76        43   4.15
+  05 033 Crawford                 Ar        13   2.88        19   1.83
+  05 143 Washington               Ar        13   2.88        33   3.19
+  05 149 Yell                     Ar        12   2.65        33   3.19
+  57 001 Foreign / Overseas       FR        12   2.65        12   1.16
+   Same State                               75  16.59       185  17.86
+   Same Region, Diff. State                124  27.43       271  26.16
+   Different Region                         88  19.47       203  19.59
+      05 071   County Non-Migrants        5517            13103
+05 073   Lafayette Total Migratio Ar       155              378
+  05 027 Columbia                 Ar        29  18.71        75  19.84
+  05 057 Hempstead                Ar        17  10.97        46  12.17
+  05 091 Miller                   Ar        14   9.03        35   9.26
+  22 119 Webster                  La        10   6.45        18   4.76
+   Same State                               26  16.77        62  16.40
+   Same Region, Diff. State                 43  27.74       104  27.51
+   Different Region                         16  10.32        38  10.05
+      05 073   County Non-Migrants        2482             6182
+05 075   Lawrence Total Migration Ar       375              878
+  05 031 Craighead                Ar        52  13.87       118  13.44
+  05 121 Randolph                 Ar        48  12.80       100  11.39
+  05 063 Independence             Ar        17   4.53        29   3.30
+  05 135 Sharp                    Ar        14   3.73        37   4.21
+  05 055 Greene                   Ar        12   3.20        24   2.73
+  05 067 Jackson                  Ar        11   2.93        29   3.30
+   Same State                               62  16.53       146  16.63
+   Same Region, Diff. State                 74  19.73       192  21.87
+   Different Region                         85  22.67       203  23.12
+      05 075   County Non-Migrants        5376            12793
+05 077   Lee Total Migration Flow Ar       184              445
+  05 123 St. Francis              Ar        28  15.22        73  16.40
+  05 107 Phillips                 Ar        24  13.04        63  14.16
+  05 119 Pulaski                  Ar        19  10.33        39   8.76
+   Same State                               45  24.46       115  25.84
+   Same Region, Diff. State                 50  27.17       124  27.87
+   Different Region                         18   9.78        31   6.97
+      05 077   County Non-Migrants        2860             7479
+05 079   Lincoln Total Migration  Ar       249              635
+  05 069 Jefferson                Ar        74  29.72       188  29.61
+  05 041 Desha                    Ar        34  13.65        99  15.59
+  05 043 Drew                     Ar        22   8.84        53   8.35
+  05 119 Pulaski                  Ar        12   4.82        28   4.41
+   Same State                               43  17.27        93  14.65
+   Same Region, Diff. State                 28  11.24        75  11.81
+   Different Region                         36  14.46        99  15.59
+      05 079   County Non-Migrants        2970             7567
+05 081   Little River Total Migra Ar       302              703
+  48 037 Bowie                    Tx        47  15.56       107  15.22
+  05 091 Miller                   Ar        35  11.59        85  12.09
+  05 133 Sevier                   Ar        24   7.95        58   8.25
+  40 089 McCurtain                Ok        17   5.63        43   6.12
+  05 061 Howard                   Ar        10   3.31        24   3.41
+   Same State                               47  15.56       116  16.50
+   Same Region, Diff. State                 88  29.14       198  28.17
+   Different Region                         34  11.26        72  10.24
+      05 081   County Non-Migrants        4292            10532
+05 083   Logan Total Migration Fl Ar       458             1084
+  05 131 Sebastian                Ar        45   9.83       108   9.96
+  05 047 Franklin                 Ar        29   6.33        74   6.83
+  05 149 Yell                     Ar        28   6.11        69   6.37
+  05 115 Pope                     Ar        21   4.59        38   3.51
+  05 143 Washington               Ar        17   3.71        42   3.87
+  05 071 Johnson                  Ar        15   3.28        35   3.23
+  05 127 Scott                    Ar        15   3.28        33   3.04
+  05 033 Crawford                 Ar        13   2.84        19   1.75
+  57 005 APO / FPO Zip Code       FR        10   2.18        22   2.03
+   Same State                               44   9.61       107   9.87
+   Same Region, Diff. State                115  25.11       274  25.28
+   Different Region                        106  23.14       263  24.26
+      05 083   County Non-Migrants        6293            15138
+05 085   Lonoke Total Migration F Ar      1385             3428
+  05 119 Pulaski                  Ar       591  42.67      1430  41.72
+  05 145 White                    Ar        82   5.92       177   5.16
+  05 069 Jefferson                Ar        39   2.82        97   2.83
+  05 117 Prairie                  Ar        37   2.67        92   2.68
+  05 045 Faulkner                 Ar        37   2.67        79   2.30
+  57 005 APO / FPO Zip Code       FR        35   2.53        97   2.83
+  05 125 Saline                   Ar        21   1.52        43   1.25
+  05 001 Arkansas                 Ar        16   1.16        40   1.17
+  05 093 Mississippi              Ar        11    .79        31    .90
+  47 157 Shelby                   Tn        10    .72        22    .64
+  48 439 Tarrant                  Tx        10    .72        38   1.11
+   Same State                              152  10.97       361  10.53
+   Region 1:   Northeast                    14   1.01        44   1.28
+   Region 2:   Midwest                      87   6.28       229   6.68
+   Region 3:   South                       167  12.06       461  13.45
+   Region 4:   West                         76   5.49       187   5.46
+      05 085   County Non-Migrants       12196            30256
+05 087   Madison Total Migration  Ar       367              855
+  05 143 Washington               Ar       113  30.79       254  29.71
+  05 007 Benton                   Ar        26   7.08        70   8.19
+  05 015 Carroll                  Ar        24   6.54        57   6.67
+  05 009 Boone                    Ar        13   3.54        36   4.21
+   Same State                               38  10.35        96  11.23
+   Same Region, Diff. State                 71  19.35       174  20.35
+   Different Region                         82  22.34       168  19.65
+      05 087   County Non-Migrants        3645             8846
+05 089   Marion Total Migration F Ar       411              938
+  05 005 Baxter                   Ar        68  16.55       163  17.38
+  05 009 Boone                    Ar        38   9.25       102  10.87
+  05 143 Washington               Ar        15   3.65        31   3.30
+   Same State                               40   9.73       105  11.19
+   Region 1:   Northeast                    10   2.43        18   1.92
+   Region 2:   Midwest                      85  20.68       174  18.55
+   Region 3:   South                       104  25.30       232  24.73
+   Region 4:   West                         51  12.41       113  12.05
+      05 089   County Non-Migrants        3529             8037
+05 091   Miller Total Migration F Ar      1090             2388
+  48 037 Bowie                    Tx       464  42.57      1081  45.27
+  05 081 Little River             Ar        49   4.50        94   3.94
+  48 113 Dallas                   Tx        29   2.66        60   2.51
+  05 073 Lafayette                Ar        24   2.20        49   2.05
+  05 057 Hempstead                Ar        24   2.20        58   2.43
+  48 067 Cass                     Tx        22   2.02        49   2.05
+  05 119 Pulaski                  Ar        22   2.02        40   1.68
+  05 061 Howard                   Ar        17   1.56        31   1.30
+  48 439 Tarrant                  Tx        14   1.28        31   1.30
+  05 027 Columbia                 Ar        13   1.19        26   1.09
+  22 017 Caddo                    La        13   1.19        19    .80
+  05 133 Sevier                   Ar        13   1.19        27   1.13
+  57 005 APO / FPO Zip Code       FR        11   1.01        26   1.09
+  06 037 Los Angeles              Ca        10    .92        16    .67
+   Same State                               87   7.98       197   8.25
+   Region 1:   Northeast                    16   1.47        36   1.51
+   Region 2:   Midwest                      33   3.03        77   3.22
+   Region 3:   South                       175  16.06       355  14.87
+   Region 4:   West                         54   4.95       116   4.86
+      05 091   County Non-Migrants       11151            26878
+05 093   Mississippi Total Migrat Ar      1255             3010
+  05 031 Craighead                Ar        75   5.98       166   5.51
+  57 005 APO / FPO Zip Code       FR        63   5.02       163   5.42
+  29 155 Pemiscot                 Mo        55   4.38       144   4.78
+  47 157 Shelby                   Tn        52   4.14       112   3.72
+  05 111 Poinsett                 Ar        49   3.90       129   4.29
+  05 119 Pulaski                  Ar        31   2.47        68   2.26
+  05 035 Crittenden               Ar        29   2.31        63   2.09
+  29 069 Dunklin                  Mo        29   2.31        56   1.86
+  05 055 Greene                   Ar        18   1.43        35   1.16
+  48 439 Tarrant                  Tx        15   1.20        28    .93
+  05 075 Lawrence                 Ar        15   1.20        43   1.43
+  48 029 Bexar                    Tx        12    .96        34   1.13
+  29 189 St. Louis                Mo        11    .88        21    .70
+  05 045 Faulkner                 Ar        10    .80        30   1.00
+   Same State                              152  12.11       409  13.59
+   Region 1:   Northeast                    29   2.31        56   1.86
+   Region 2:   Midwest                     184  14.66       444  14.75
+   Region 3:   South                       356  28.37       834  27.71
+   Region 4:   West                         70   5.58       175   5.81
+      05 093   County Non-Migrants       16841            41836
+05 095   Monroe Total Migration F Ar       222              534
+  05 001 Arkansas                 Ar        33  14.86        93  17.42
+  05 077 Lee                      Ar        22   9.91        61  11.42
+  05 119 Pulaski                  Ar        19   8.56        42   7.87
+  05 123 St. Francis              Ar        16   7.21        43   8.05
+  05 147 Woodruff                 Ar        11   4.95        21   3.93
+   Same State                               59  26.58       142  26.59
+   Same Region, Diff. State                 33  14.86        74  13.86
+   Different Region                         29  13.06        58  10.86
+      05 095   County Non-Migrants        3202             7812
+05 097   Montgomery Total Migrati Ar       188              408
+  05 051 Garland                  Ar        31  16.49        69  16.91
+  05 109 Pike                     Ar        11   5.85        24   5.88
+   Same State                               62  32.98       139  34.07
+   Same Region, Diff. State                 54  28.72       124  30.39
+   Different Region                         30  15.96        52  12.75
+      05 097   County Non-Migrants        2157             4994
+05 099   Nevada Total Migration F Ar       221              535
+  05 057 Hempstead                Ar        62  28.05       127  23.74
+  05 019 Clark                    Ar        13   5.88        37   6.92
+  05 027 Columbia                 Ar        10   4.52        29   5.42
+  05 103 Ouachita                 Ar        10   4.52        27   5.05
+   Same State                               60  27.15       138  25.79
+   Same Region, Diff. State                 39  17.65       103  19.25
+   Different Region                         27  12.22        74  13.83
+      05 099   County Non-Migrants        2996             7096
+05 101   Newton Total Migration F Ar       195              421
+  05 009 Boone                    Ar        56  28.72       125  29.69
+   Same State                               38  19.49        96  22.80
+   Same Region, Diff. State                 53  27.18       116  27.55
+   Different Region                         48  24.62        84  19.95
+      05 101   County Non-Migrants        2081             5248
+05 103   Ouachita Total Migration Ar       497             1171
+  05 139 Union                    Ar        58  11.67       139  11.87
+  05 039 Dallas                   Ar        33   6.64        75   6.40
+  05 013 Calhoun                  Ar        31   6.24        70   5.98
+  05 119 Pulaski                  Ar        31   6.24        72   6.15
+  05 027 Columbia                 Ar        30   6.04        77   6.58
+  05 019 Clark                    Ar        13   2.62        34   2.90
+  05 069 Jefferson                Ar        13   2.62        23   1.96
+   Same State                               77  15.49       172  14.69
+   Same Region, Diff. State                126  25.35       315  26.90
+   Different Region                         85  17.10       194  16.57
+      05 103   County Non-Migrants        9373            22989
+05 105   Perry Total Migration Fl Ar       264              618
+  05 119 Pulaski                  Ar        59  22.35       118  19.09
+  05 045 Faulkner                 Ar        35  13.26        76  12.30
+  05 029 Conway                   Ar        33  12.50        96  15.53
+  05 149 Yell                     Ar        16   6.06        32   5.18
+   Same State                               45  17.05       117  18.93
+   Same Region, Diff. State                 42  15.91        95  15.37
+   Different Region                         34  12.88        84  13.59
+      05 105   County Non-Migrants        2382             5734
+05 107   Phillips Total Migration Ar       440             1012
+  05 119 Pulaski                  Ar        42   9.55        75   7.41
+  05 077 Lee                      Ar        28   6.36        84   8.30
+  47 157 Shelby                   Tn        26   5.91        54   5.34
+  05 095 Monroe                   Ar        20   4.55        52   5.14
+  57 005 APO / FPO Zip Code       FR        15   3.41        33   3.26
+  17 031 Cook                     Il        12   2.73        30   2.96
+   Same State                               96  21.82       212  20.95
+   Same Region, Diff. State                141  32.05       337  33.30
+   Different Region                         60  13.64       135  13.34
+      05 107   County Non-Migrants        7462            19008
+05 109   Pike Total Migration Flo Ar       223              515
+  05 061 Howard                   Ar        25  11.21        54  10.49
+  05 019 Clark                    Ar        20   8.97        50   9.71
+  05 051 Garland                  Ar        18   8.07        39   7.57
+  05 097 Montgomery               Ar        14   6.28        31   6.02
+   Same State                               57  25.56       123  23.88
+   Same Region, Diff. State                 52  23.32       132  25.63
+   Different Region                         37  16.59        86  16.70
+      05 109   County Non-Migrants        2897             7027
+05 111   Poinsett Total Migration Ar       476             1157
+  05 031 Craighead                Ar       123  25.84       284  24.55
+  05 035 Crittenden               Ar        40   8.40       106   9.16
+  05 093 Mississippi              Ar        37   7.77       114   9.85
+  05 037 Cross                    Ar        26   5.46        70   6.05
+  05 067 Jackson                  Ar        17   3.57        46   3.98
+  47 157 Shelby                   Tn        16   3.36        39   3.37
+   Same State                               74  15.55       171  14.78
+   Same Region, Diff. State                 74  15.55       192  16.59
+   Different Region                         69  14.50       135  11.67
+      05 111   County Non-Migrants        7499            17844
+05 113   Polk Total Migration Flo Ar       423              967
+  40 089 McCurtain                Ok        19   4.49        42   4.34
+  48 113 Dallas                   Tx        17   4.02        34   3.52
+  05 133 Sevier                   Ar        14   3.31        39   4.03
+  40 079 Le Flore                 Ok        14   3.31        43   4.45
+  05 119 Pulaski                  Ar        13   3.07        21   2.17
+  05 131 Sebastian                Ar        13   3.07        39   4.03
+  05 051 Garland                  Ar        11   2.60        27   2.79
+   Same State                               75  17.73       158  16.34
+   Same Region, Diff. State                141  33.33       322  33.30
+   Different Region                        106  25.06       242  25.03
+      05 113   County Non-Migrants        5075            12178
+05 115   Pope Total Migration Flo Ar      1379             3037
+  05 149 Yell                     Ar       181  13.13       373  12.28
+  05 119 Pulaski                  Ar        99   7.18       228   7.51
+  05 071 Johnson                  Ar        63   4.57       134   4.41
+  05 029 Conway                   Ar        53   3.84       123   4.05
+  05 143 Washington               Ar        31   2.25        69   2.27
+  05 083 Logan                    Ar        31   2.25        68   2.24
+  05 131 Sebastian                Ar        31   2.25        58   1.91
+  05 045 Faulkner                 Ar        25   1.81        61   2.01
+  48 113 Dallas                   Tx        17   1.23        44   1.45
+  12 025 Dade                     Fl        16   1.16        40   1.32
+  04 013 Maricopa                 Az        15   1.09        34   1.12
+  05 009 Boone                    Ar        15   1.09        27    .89
+  05 105 Perry                    Ar        14   1.02        25    .82
+  48 201 Harris                   Tx        12    .87        27    .89
+  05 007 Benton                   Ar        12    .87        25    .82
+  05 051 Garland                  Ar        12    .87        25    .82
+  06 037 Los Angeles              Ca        11    .80        29    .95
+  05 125 Saline                   Ar        11    .80        29    .95
+  05 069 Jefferson                Ar        11    .80        23    .76
+  05 033 Crawford                 Ar        11    .80        27    .89
+  47 157 Shelby                   Tn        10    .73        19    .63
+  57 005 APO / FPO Zip Code       FR        10    .73        21    .69
+  05 129 Searcy                   Ar        10    .73        26    .86
+   Same State                              144  10.44       280   9.22
+   Region 1:   Northeast                    23   1.67        47   1.55
+   Region 2:   Midwest                     118   8.56       273   8.99
+   Region 3:   South                       284  20.59       654  21.53
+   Region 4:   West                        109   7.90       248   8.17
+      05 115   County Non-Migrants       14173            34590
+05 117   Prairie Total Migration  Ar       173              364
+  05 119 Pulaski                  Ar        29  16.76        52  14.29
+  05 085 Lonoke                   Ar        27  15.61        58  15.93
+  05 001 Arkansas                 Ar        19  10.98        49  13.46
+  05 145 White                    Ar        16   9.25        36   9.89
+   Same State                               43  24.86        96  26.37
+   Same Region, Diff. State                 22  12.72        38  10.44
+   Different Region                         17   9.83        35   9.62
+      05 117   County Non-Migrants        2833             6715
+05 119   Pulaski Total Migration  Ar      9627            19382
+  05 125 Saline                   Ar       682   7.08      1388   7.16
+  05 085 Lonoke                   Ar       469   4.87       974   5.03
+  05 045 Faulkner                 Ar       407   4.23       761   3.93
+  57 005 APO / FPO Zip Code       FR       378   3.93       952   4.91
+  05 069 Jefferson                Ar       321   3.33       610   3.15
+  47 157 Shelby                   Tn       208   2.16       400   2.06
+  05 051 Garland                  Ar       188   1.95       328   1.69
+  05 145 White                    Ar       174   1.81       306   1.58
+  48 113 Dallas                   Tx       173   1.80       363   1.87
+  05 143 Washington               Ar       125   1.30       200   1.03
+  05 131 Sebastian                Ar       112   1.16       197   1.02
+  05 031 Craighead                Ar        96   1.00       167    .86
+  48 201 Harris                   Tx        96   1.00       210   1.08
+  48 439 Tarrant                  Tx        92    .96       190    .98
+  05 115 Pope                     Ar        89    .92       160    .83
+  06 037 Los Angeles              Ca        87    .90       178    .92
+  05 139 Union                    Ar        77    .80       160    .83
+  05 123 St. Francis              Ar        74    .77       151    .78
+  05 107 Phillips                 Ar        70    .73       135    .70
+  57 001 Foreign / Overseas       FR        67    .70        87    .45
+  05 001 Arkansas                 Ar        65    .68       150    .77
+  04 013 Maricopa                 Az        65    .68       122    .63
+  48 029 Bexar                    Tx        64    .66       160    .83
+  05 053 Grant                    Ar        61    .63       111    .57
+  05 093 Mississippi              Ar        59    .61       103    .53
+  05 063 Independence             Ar        57    .59       102    .53
+  06 073 San Diego                Ca        57    .59       126    .65
+  05 023 Cleburne                 Ar        53    .55        92    .47
+  05 019 Clark                    Ar        53    .55        88    .45
+  48 037 Bowie                    Tx        52    .54       107    .55
+  17 031 Cook                     Il        51    .53       104    .54
+  40 143 Tulsa                    Ok        50    .52       113    .58
+  05 059 Hot Spring               Ar        49    .51        84    .43
+  05 103 Ouachita                 Ar        47    .49        90    .46
+  37 051 Cumberland               NC        46    .48       141    .73
+  40 109 Oklahoma                 Ok        46    .48        91    .47
+  22 017 Caddo                    La        43    .45        85    .44
+  05 029 Conway                   Ar        43    .45        78    .40
+  05 095 Monroe                   Ar        40    .42        77    .40
+  05 035 Crittenden               Ar        40    .42        88    .45
+  05 117 Prairie                  Ar        39    .41        83    .43
+  05 041 Desha                    Ar        39    .41        73    .38
+  29 189 St. Louis                Mo        37    .38        75    .39
+  29 095 Jackson                  Mo        36    .37        72    .37
+  05 003 Ashley                   Ar        34    .35        57    .29
+  05 105 Perry                    Ar        34    .35        76    .39
+  05 043 Drew                     Ar        34    .35        52    .27
+  05 077 Lee                      Ar        34    .35        75    .39
+  48 453 Travis                   Tx        34    .35        67    .35
+  47 037 Davidson                 Tn        33    .34        59    .30
+  05 027 Columbia                 Ar        33    .34        56    .29
+  28 049 Hinds                    Ms        33    .34        65    .34
+  28 047 Harrison                 Ms        32    .33        66    .34
+  22 051 Jefferson                La        31    .32        66    .34
+  05 091 Miller                   Ar        31    .32        68    .35
+  15 003 Honolulu                 Hi        31    .32        77    .40
+  05 141 Van Buren                Ar        31    .32        55    .28
+  05 005 Baxter                   Ar        30    .31        55    .28
+  05 007 Benton                   Ar        30    .31        57    .29
+  22 073 Ouachita                 La        29    .30        56    .29
+  06 067 Sacramento               Ca        29    .30        48    .25
+  05 011 Bradley                  Ar        28    .29        53    .27
+  22 071 Orleans                  La        28    .29        75    .39
+  32 003 Clark                    Nv        28    .29        52    .27
+  05 017 Chicot                   Ar        28    .29        61    .31
+  01 073 Jefferson                Al        27    .28        61    .31
+  12 103 Pinellas                 Fl        26    .27        44    .23
+  05 067 Jackson                  Ar        26    .27        45    .23
+  29 077 Greene                   Mo        25    .26        51    .26
+  06 059 Orange                   Ca        24    .25        53    .27
+  05 039 Dallas                   Ar        23    .24        38    .20
+  05 147 Woodruff                 Ar        22    .23        43    .22
+  48 027 Bell                     Tx        22    .23        45    .23
+  45 019 Charleston               SC        22    .23        43    .22
+  02 020 Anchorage Borough        Ak        22    .23        43    .22
+  22 033 East Baton Rouge         La        21    .22        44    .23
+  12 057 Hillsborough             Fl        21    .22        46    .24
+  20 173 Sedgwick                 Ks        20    .21        39    .20
+  13 121 Fulton                   Ga        20    .21        31    .16
+  06 071 San Bernardino           Ca        20    .21        53    .27
+  05 033 Crawford                 Ar        20    .21        33    .17
+  08 041 El Paso                  Co        20    .21        45    .23
+  12 031 Duval                    Fl        20    .21        48    .25
+  48 121 Denton                   Tx        20    .21        45    .23
+  37 119 Mecklenburg              NC        19    .20        34    .18
+  05 149 Yell                     Ar        19    .20        32    .17
+  22 079 Rapides                  La        19    .20        37    .19
+  05 009 Boone                    Ar        18    .19        28    .14
+  12 011 Broward                  Fl        18    .19        28    .14
+  48 085 Collin                   Tx        18    .19        42    .22
+  48 441 Taylor                   Tx        18    .19        41    .21
+  04 019 Pima                     Az        18    .19        37    .19
+  05 057 Hempstead                Ar        18    .19        25    .13
+  12 025 Dade                     Fl        18    .19        43    .22
+  20 091 Johnson                  Ks        17    .18        39    .20
+  26 163 Wayne                    Mi        17    .18        37    .19
+  05 081 Little River             Ar        17    .18        29    .15
+  48 465 Val Verde                Tx        17    .18        36    .19
+  28 089 Madison                  Ms        17    .18        34    .18
+  13 067 Cobb                     Ga        17    .18        27    .14
+  05 055 Greene                   Ar        17    .18        24    .12
+  40 031 Comanche                 Ok        16    .17        26    .13
+  05 079 Lincoln                  Ar        16    .17        33    .17
+  51 810 Virginia Beach city      Va        16    .17        40    .21
+  17 043 Du Page                  Il        16    .17        33    .17
+  17 097 Lake                     Il        16    .17        45    .23
+  51 059 Fairfax                  Va        16    .17        33    .17
+  12 095 Orange                   Fl        16    .17        30    .15
+  08 005 Arapahoe                 Co        15    .16        30    .15
+  48 141 El Paso                  Tx        15    .16        39    .20
+  13 089 De Kalb                  Ga        15    .16        31    .16
+  05 071 Johnson                  Ar        15    .16        24    .12
+  05 037 Cross                    Ar        15    .16        40    .21
+  53 053 Pierce                   Wa        15    .16        40    .21
+  39 169 Wayne                    Oh        15    .16        41    .21
+  29 097 Jasper                   Mo        14    .15        30    .15
+  13 135 Gwinnett                 Ga        14    .15        32    .17
+  48 303 Lubbock                  Tx        14    .15        33    .17
+  40 027 Cleveland                Ok        14    .15        29    .15
+  08 031 Denver                   Co        14    .15        24    .12
+  22 055 Lafayette                La        13    .14        21    .11
+  05 137 Stone                    Ar        13    .14        27    .14
+  17 163 St. Clair                Il        13    .14        35    .18
+  12 091 Okaloosa                 Fl        13    .14        28    .14
+  06 095 Solano                   Ca        13    .14        27    .14
+  25 017 Middlesex                Ma        13    .14        19    .10
+  31 055 Douglas                  Ne        13    .14        35    .18
+  35 001 Bernalillo               NM        13    .14        21    .11
+  06 085 Santa Clara              Ca        12    .12        31    .16
+  05 083 Logan                    Ar        12    .12        17    .09
+  47 093 Knox                     Tn        12    .12        26    .13
+  29 510 St. Louis city           Mo        12    .12        24    .12
+  39 061 Hamilton                 Oh        12    .12        26    .13
+  45 079 Richland                 SC        12    .12        31    .16
+  28 033 De Soto                  Ms        12    .12        23    .12
+  55 079 Milwaukee                Wi        12    .12        22    .11
+  40 047 Garfield                 Ok        12    .12        17    .09
+  06 065 Riverside                Ca        12    .12        24    .12
+  19 153 Polk                     Ia        12    .12        27    .14
+  05 025 Cleveland                Ar        11    .11        19    .10
+  28 151 Washington               Ms        11    .11        26    .13
+  05 075 Lawrence                 Ar        11    .11        19    .10
+  22 115 Vernon                   La        11    .11        24    .12
+  12 033 Escambia                 Fl        11    .11        15    .08
+  39 035 Cuyahoga                 Oh        11    .11        13    .07
+  28 121 Rankin                   Ms        11    .11        34    .18
+  27 053 Hennepin                 Mn        11    .11        24    .12
+  05 099 Nevada                   Ar        11    .11        20    .10
+  48 485 Wichita                  Tx        11    .11        28    .14
+  12 099 Palm Beach               Fl        10    .10        16    .08
+  51 710 Norfolk city             Va        10    .10        14    .07
+  21 111 Jefferson                Ky        10    .10        28    .14
+  06 111 Ventura                  Ca        10    .10        30    .15
+  13 051 Chatham                  Ga        10    .10        18    .09
+  05 061 Howard                   Ar        10    .10        18    .09
+  29 183 St. Charles              Mo        10    .10        26    .13
+  42 003 Allegheny                Pa        10    .10        23    .12
+   Same State                              121   1.26       202   1.04
+   Region 1:   Northeast                   272   2.83       538   2.78
+   Region 2:   Midwest                     599   6.22      1228   6.34
+   Region 3:   South                      1113  11.56      2339  12.07
+   Region 4:   West                        254   2.64       515   2.66
+      05 119   County Non-Migrants      125868           279527
+05 121   Randolph Total Migration Ar       387              951
+  05 075 Lawrence                 Ar        56  14.47       152  15.98
+  05 031 Craighead                Ar        24   6.20        48   5.05
+  05 021 Clay                     Ar        18   4.65        45   4.73
+  05 055 Greene                   Ar        15   3.88        40   4.21
+  29 181 Ripley                   Mo        11   2.84        28   2.94
+   Same State                               62  16.02       154  16.19
+   Same Region, Diff. State                 68  17.57       174  18.30
+   Different Region                        133  34.37       310  32.60
+      05 121   County Non-Migrants        4800            11607
+05 123   St. Francis Total Migrat Ar       572             1316
+  05 035 Crittenden               Ar        78  13.64       182  13.83
+  47 157 Shelby                   Tn        58  10.14       130   9.88
+  05 037 Cross                    Ar        55   9.62       138  10.49
+  05 077 Lee                      Ar        34   5.94        90   6.84
+  05 119 Pulaski                  Ar        28   4.90        63   4.79
+  05 095 Monroe                   Ar        24   4.20        60   4.56
+  05 031 Craighead                Ar        15   2.62        24   1.82
+  17 031 Cook                     Il        10   1.75        15   1.14
+   Same State                               91  15.91       210  15.96
+   Same Region, Diff. State                 99  17.31       213  16.19
+   Different Region                         80  13.99       191  14.51
+      05 123   County Non-Migrants        7683            19429
+05 125   Saline Total Migration F Ar      1740             4036
+  05 119 Pulaski                  Ar       908  52.18      2077  51.46
+  05 059 Hot Spring               Ar        56   3.22       132   3.27
+  05 051 Garland                  Ar        45   2.59       114   2.82
+  05 053 Grant                    Ar        39   2.24        85   2.11
+  05 085 Lonoke                   Ar        26   1.49        68   1.68
+  57 005 APO / FPO Zip Code       FR        24   1.38        49   1.21
+  05 069 Jefferson                Ar        20   1.15        41   1.02
+  05 143 Washington               Ar        20   1.15        42   1.04
+  05 045 Faulkner                 Ar        18   1.03        31    .77
+  48 201 Harris                   Tx        16    .92        41   1.02
+  47 157 Shelby                   Tn        14    .80        31    .77
+  05 145 White                    Ar        13    .75        30    .74
+  05 115 Pope                     Ar        10    .57        22    .55
+   Same State                              158   9.08       363   8.99
+   Region 1:   Northeast                    16    .92        34    .84
+   Region 2:   Midwest                      62   3.56       163   4.04
+   Region 3:   South                       208  11.95       505  12.51
+   Region 4:   West                         87   5.00       208   5.15
+      05 125   County Non-Migrants       18045            43796
+05 127   Scott Total Migration Fl Ar       239              577
+  05 131 Sebastian                Ar        44  18.41       104  18.02
+  05 113 Polk                     Ar        12   5.02        33   5.72
+  40 079 Le Flore                 Ok        12   5.02        22   3.81
+  05 149 Yell                     Ar        10   4.18        25   4.33
+   Same State                               52  21.76       120  20.80
+   Same Region, Diff. State                 64  26.78       170  29.46
+   Different Region                         45  18.83       103  17.85
+      05 127   County Non-Migrants        2840             6803
+05 129   Searcy Total Migration F Ar       175              394
+  05 009 Boone                    Ar        12   6.86        26   6.60
+   Same State                               71  40.57       169  42.89
+   Same Region, Diff. State                 40  22.86        90  22.84
+   Different Region                         52  29.71       109  27.66
+      05 129   County Non-Migrants        2169             5160
+05 131   Sebastian Total Migratio Ar      3084             6621
+  05 033 Crawford                 Ar       496  16.08      1057  15.96
+  40 079 Le Flore                 Ok       279   9.05       599   9.05
+  40 135 Sequoyah                 Ok       158   5.12       340   5.14
+  05 119 Pulaski                  Ar       114   3.70       210   3.17
+  05 143 Washington               Ar       101   3.27       217   3.28
+  05 083 Logan                    Ar        94   3.05       168   2.54
+  05 047 Franklin                 Ar        85   2.76       169   2.55
+  48 113 Dallas                   Tx        52   1.69       107   1.62
+  05 127 Scott                    Ar        51   1.65       108   1.63
+  40 143 Tulsa                    Ok        50   1.62       120   1.81
+  57 005 APO / FPO Zip Code       FR        49   1.59       113   1.71
+  05 007 Benton                   Ar        37   1.20        83   1.25
+  05 115 Pope                     Ar        37   1.20        65    .98
+  06 037 Los Angeles              Ca        36   1.17        78   1.18
+  48 439 Tarrant                  Tx        31   1.01        65    .98
+  48 201 Harris                   Tx        30    .97        65    .98
+  40 109 Oklahoma                 Ok        29    .94        60    .91
+  05 071 Johnson                  Ar        26    .84        58    .88
+  51 810 Virginia Beach city      Va        24    .78        48    .72
+  06 073 San Diego                Ca        21    .68        36    .54
+  04 013 Maricopa                 Az        17    .55        34    .51
+  40 101 Muskogee                 Ok        17    .55        35    .53
+  37 051 Cumberland               NC        15    .49        56    .85
+  05 149 Yell                     Ar        13    .42        30    .45
+  06 059 Orange                   Ca        13    .42        21    .32
+  48 453 Travis                   Tx        13    .42        19    .29
+  47 157 Shelby                   Tn        13    .42        35    .53
+  05 051 Garland                  Ar        13    .42        27    .41
+  29 077 Greene                   Mo        12    .39        27    .41
+  40 121 Pittsburg                Ok        12    .39        25    .38
+  05 045 Faulkner                 Ar        11    .36        19    .29
+  20 173 Sedgwick                 Ks        11    .36        24    .36
+  06 019 Fresno                   Ca        11    .36        15    .23
+  17 031 Cook                     Il        10    .32        25    .38
+  48 121 Denton                   Tx        10    .32        21    .32
+   Same State                              151   4.90       325   4.91
+   Region 1:   Northeast                    57   1.85       126   1.90
+   Region 2:   Midwest                     212   6.87       479   7.23
+   Region 3:   South                       494  16.02      1119  16.90
+   Region 4:   West                        179   5.80       393   5.94
+      05 131   County Non-Migrants       33225            76278
+05 133   Sevier Total Migration F Ar       415             1080
+  40 089 McCurtain                Ok        39   9.40        84   7.78
+  05 081 Little River             Ar        30   7.23        72   6.67
+  05 061 Howard                   Ar        24   5.78        67   6.20
+  05 113 Polk                     Ar        20   4.82        61   5.65
+  48 113 Dallas                   Tx        16   3.86        41   3.80
+  05 119 Pulaski                  Ar        13   3.13        24   2.22
+  48 037 Bowie                    Tx        11   2.65        28   2.59
+  05 057 Hempstead                Ar        10   2.41        25   2.31
+   Same State                               61  14.70       157  14.54
+   Same Region, Diff. State                120  28.92       335  31.02
+   Different Region                         71  17.11       186  17.22
+      05 133   County Non-Migrants        4207            10514
+05 135   Sharp Total Migration Fl Ar       609             1406
+  05 063 Independence             Ar        71  11.66       169  12.02
+  05 049 Fulton                   Ar        42   6.90       120   8.53
+  05 031 Craighead                Ar        32   5.25        75   5.33
+  05 075 Lawrence                 Ar        23   3.78        71   5.05
+  05 065 Izard                    Ar        18   2.96        34   2.42
+  05 119 Pulaski                  Ar        12   1.97        23   1.64
+  05 055 Greene                   Ar        10   1.64        19   1.35
+  48 201 Harris                   Tx        10   1.64        19   1.35
+   Same State                               87  14.29       225  16.00
+   Region 1:   Northeast                    13   2.13        26   1.85
+   Region 2:   Midwest                     131  21.51       278  19.77
+   Region 3:   South                       104  17.08       217  15.43
+   Region 4:   West                         56   9.20       130   9.25
+      05 135   County Non-Migrants        4411            10049
+05 137   Stone Total Migration Fl Ar       256              583
+  05 063 Independence             Ar        16   6.25        43   7.38
+  05 119 Pulaski                  Ar        16   6.25        29   4.97
+  05 023 Cleburne                 Ar        11   4.30        36   6.17
+  05 065 Izard                    Ar        10   3.91        26   4.46
+   Same State                               79  30.86       192  32.93
+   Same Region, Diff. State                 46  17.97        98  16.81
+   Different Region                         78  30.47       159  27.27
+      05 137   County Non-Migrants        2685             6435
+05 139   Union Total Migration Fl Ar       825             1890
+  05 103 Ouachita                 Ar        67   8.12       150   7.94
+  22 111 Union                    La        43   5.21       104   5.50
+  05 027 Columbia                 Ar        39   4.73        92   4.87
+  05 119 Pulaski                  Ar        35   4.24        69   3.65
+  05 011 Bradley                  Ar        19   2.30        44   2.33
+  48 113 Dallas                   Tx        17   2.06        41   2.17
+  05 003 Ashley                   Ar        16   1.94        35   1.85
+  22 017 Caddo                    La        14   1.70        27   1.43
+  22 027 Claiborne                La        13   1.58        37   1.96
+  57 005 APO / FPO Zip Code       FR        13   1.58        22   1.16
+  22 073 Ouachita                 La        12   1.45        26   1.38
+  48 201 Harris                   Tx        11   1.33        20   1.06
+  48 439 Tarrant                  Tx        11   1.33        27   1.43
+  05 069 Jefferson                Ar        10   1.21        29   1.53
+  05 039 Dallas                   Ar        10   1.21        20   1.06
+  47 157 Shelby                   Tn        10   1.21        18    .95
+   Same State                              123  14.91       287  15.19
+   Region 1:   Northeast                    11   1.33        26   1.38
+   Region 2:   Midwest                      56   6.79       126   6.67
+   Region 3:   South                       245  29.70       574  30.37
+   Region 4:   West                         50   6.06       116   6.14
+      05 139   County Non-Migrants       15233            36798
+05 141   Van Buren Total Migratio Ar       352              778
+  05 045 Faulkner                 Ar        34   9.66        87  11.18
+  05 119 Pulaski                  Ar        32   9.09        62   7.97
+  05 029 Conway                   Ar        17   4.83        38   4.88
+  05 129 Searcy                   Ar        13   3.69        32   4.11
+   Same State                               94  26.70       214  27.51
+   Region 1:   Northeast                    11   3.13        23   2.96
+   Region 2:   Midwest                      47  13.35        94  12.08
+   Region 3:   South                        66  18.75       132  16.97
+   Region 4:   West                         38  10.80        96  12.34
+      05 141   County Non-Migrants        4203             9568
+05 143   Washington Total Migrati Ar      4331             8732
+  05 007 Benton                   Ar       634  14.64      1283  14.69
+  05 119 Pulaski                  Ar       211   4.87       426   4.88
+  05 131 Sebastian                Ar       129   2.98       227   2.60
+  05 087 Madison                  Ar       122   2.82       274   3.14
+  57 001 Foreign / Overseas       FR       115   2.66       125   1.43
+  40 143 Tulsa                    Ok        79   1.82       155   1.78
+  48 113 Dallas                   Tx        65   1.50       114   1.31
+  05 033 Crawford                 Ar        49   1.13       113   1.29
+  06 037 Los Angeles              Ca        49   1.13        96   1.10
+  05 015 Carroll                  Ar        47   1.09        86    .98
+  05 009 Boone                    Ar        46   1.06        82    .94
+  05 069 Jefferson                Ar        45   1.04        77    .88
+  05 115 Pope                     Ar        43    .99        90   1.03
+  48 439 Tarrant                  Tx        40    .92        74    .85
+  48 201 Harris                   Tx        40    .92       106   1.21
+  05 005 Baxter                   Ar        38    .88        69    .79
+  40 001 Adair                    Ok        37    .85        86    .98
+  05 051 Garland                  Ar        37    .85        49    .56
+  04 013 Maricopa                 Az        31    .72        77    .88
+  05 125 Saline                   Ar        29    .67        44    .50
+  06 073 San Diego                Ca        29    .67        62    .71
+  57 005 APO / FPO Zip Code       FR        28    .65        44    .50
+  05 031 Craighead                Ar        26    .60        50    .57
+  47 157 Shelby                   Tn        25    .58        70    .80
+  29 077 Greene                   Mo        24    .55        55    .63
+  05 045 Faulkner                 Ar        22    .51        37    .42
+  06 059 Orange                   Ca        22    .51        47    .54
+  40 109 Oklahoma                 Ok        21    .48        38    .44
+  29 097 Jasper                   Mo        20    .46        46    .53
+  06 071 San Bernardino           Ca        19    .44        42    .48
+  05 071 Johnson                  Ar        19    .44        33    .38
+  05 145 White                    Ar        19    .44        34    .39
+  29 145 Newton                   Mo        19    .44        42    .48
+  05 035 Crittenden               Ar        18    .42        29    .33
+  20 091 Johnson                  Ks        17    .39        31    .36
+  48 085 Collin                   Tx        17    .39        46    .53
+  20 173 Sedgwick                 Ks        17    .39        35    .40
+  37 193 Wilkes                   NC        16    .37        38    .44
+  48 029 Bexar                    Tx        16    .37        41    .47
+  05 113 Polk                     Ar        16    .37        35    .40
+  05 083 Logan                    Ar        16    .37        32    .37
+  40 041 Delaware                 Ok        15    .35        40    .46
+  05 047 Franklin                 Ar        15    .35        28    .32
+  05 061 Howard                   Ar        14    .32        30    .34
+  29 009 Barry                    Mo        14    .32        26    .30
+  05 139 Union                    Ar        13    .30        29    .33
+  22 017 Caddo                    La        13    .30        39    .45
+  05 089 Marion                   Ar        13    .30        25    .29
+  40 079 Le Flore                 Ok        13    .30        24    .27
+  48 037 Bowie                    Tx        13    .30        23    .26
+  05 063 Independence             Ar        13    .30        29    .33
+  08 041 El Paso                  Co        13    .30        32    .37
+  05 103 Ouachita                 Ar        12    .28        27    .31
+  05 093 Mississippi              Ar        12    .28        33    .38
+  29 119 McDonald                 Mo        12    .28        26    .30
+  40 021 Cherokee                 Ok        12    .28        19    .22
+  17 031 Cook                     Il        12    .28        18    .21
+  29 095 Jackson                  Mo        12    .28        16    .18
+  05 129 Searcy                   Ar        11    .25        20    .23
+  06 065 Riverside                Ca        11    .25        23    .26
+  05 149 Yell                     Ar        11    .25        15    .17
+  40 119 Payne                    Ok        10    .23        24    .27
+  40 101 Muskogee                 Ok        10    .23        19    .22
+  40 047 Garfield                 Ok        10    .23        22    .25
+  05 027 Columbia                 Ar        10    .23        19    .22
+  17 043 Du Page                  Il        10    .23        21    .24
+   Same State                              198   4.57       366   4.19
+   Region 1:   Northeast                   120   2.77       227   2.60
+   Region 2:   Midwest                     449  10.37       912  10.44
+   Region 3:   South                       670  15.47      1468  16.81
+   Region 4:   West                        278   6.42       592   6.78
+      05 143   County Non-Migrants       37856            86509
+05 145   White Total Migration Fl Ar      1447             3221
+  05 119 Pulaski                  Ar       173  11.96       352  10.93
+  05 085 Lonoke                   Ar        81   5.60       192   5.96
+  05 045 Faulkner                 Ar        66   4.56       173   5.37
+  05 023 Cleburne                 Ar        61   4.22       136   4.22
+  05 147 Woodruff                 Ar        57   3.94       141   4.38
+  05 063 Independence             Ar        56   3.87       135   4.19
+  05 067 Jackson                  Ar        38   2.63       106   3.29
+  57 001 Foreign / Overseas       FR        34   2.35        35   1.09
+  47 157 Shelby                   Tn        24   1.66        48   1.49
+  57 005 APO / FPO Zip Code       FR        21   1.45        48   1.49
+  48 113 Dallas                   Tx        16   1.11        26    .81
+  05 125 Saline                   Ar        14    .97        33   1.02
+  05 117 Prairie                  Ar        14    .97        28    .87
+  05 001 Arkansas                 Ar        14    .97        23    .71
+  48 439 Tarrant                  Tx        11    .76        32    .99
+  05 031 Craighead                Ar        11    .76        21    .65
+  05 035 Crittenden               Ar        10    .69        28    .87
+   Same State                              184  12.72       405  12.57
+   Region 1:   Northeast                    25   1.73        51   1.58
+   Region 2:   Midwest                     159  10.99       366  11.36
+   Region 3:   South                       267  18.45       602  18.69
+   Region 4:   West                        111   7.67       240   7.45
+      05 145   County Non-Migrants       16940            41237
+05 147   Woodruff Total Migration Ar       149              363
+  05 037 Cross                    Ar        17  11.41        47  12.95
+  05 067 Jackson                  Ar        13   8.72        22   6.06
+  05 095 Monroe                   Ar        12   8.05        32   8.82
+  05 145 White                    Ar        11   7.38        22   6.06
+   Same State                               57  38.26       145  39.94
+   Same Region, Diff. State                 23  15.44        62  17.08
+   Different Region                         16  10.74        33   9.09
+      05 147   County Non-Migrants        2724             6559
+05 149   Yell Total Migration Flo Ar       573             1271
+  05 115 Pope                     Ar       189  32.98       411  32.34
+  05 083 Logan                    Ar        31   5.41        65   5.11
+  05 119 Pulaski                  Ar        19   3.32        42   3.30
+  05 131 Sebastian                Ar        17   2.97        35   2.75
+  05 127 Scott                    Ar        15   2.62        29   2.28
+  05 071 Johnson                  Ar        12   2.09        38   2.99
+  05 029 Conway                   Ar        12   2.09        29   2.28
+  05 105 Perry                    Ar        11   1.92        29   2.28
+   Same State                               88  15.36       189  14.87
+   Same Region, Diff. State                 97  16.93       222  17.47
+   Different Region                         82  14.31       182  14.32
+      05 149   County Non-Migrants        5690            13213

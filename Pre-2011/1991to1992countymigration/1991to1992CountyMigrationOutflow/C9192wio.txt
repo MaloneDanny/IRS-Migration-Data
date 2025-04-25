@@ -1,0 +1,1886 @@
+55 001   Adams Total Migration Fl Wi       309              594
+  55 141 Wood                     Wi        37  11.97        73  12.29
+  55 021 Columbia                 Wi        33  10.68        67  11.28
+  55 077 Marquette                Wi        25   8.09        46   7.74
+  55 025 Dane                     Wi        17   5.50        32   5.39
+  55 057 Juneau                   Wi        17   5.50        39   6.57
+  55 137 Waushara                 Wi        14   4.53        30   5.05
+  55 111 Sauk                     Wi        13   4.21        23   3.87
+  17 031 Cook                     Il        12   3.88        25   4.21
+  55 079 Milwaukee                Wi        12   3.88        18   3.03
+  55 097 Portage                  Wi        11   3.56        22   3.70
+   Same State                               62  20.06       117  19.70
+   Same Region, Diff. State                 16   5.18        33   5.56
+   Different Region                         40  12.94        69  11.62
+      55 001   County Non-Migrants        4145             9359
+55 003   Ashland Total Migration  Wi       330              607
+  55 007 Bayfield                 Wi        66  20.00       114  18.78
+  55 099 Price                    Wi        16   4.85        34   5.60
+  55 031 Douglas                  Wi        11   3.33        14   2.31
+   Same State                              104  31.52       218  35.91
+   Same Region, Diff. State                 76  23.03       120  19.77
+   Different Region                         57  17.27       107  17.63
+      55 003   County Non-Migrants        5249            12182
+55 005   Barron Total Migration F Wi       762             1407
+  55 035 Eau Claire               Wi        68   8.92       105   7.46
+  55 129 Washburn                 Wi        63   8.27       131   9.31
+  55 095 Polk                     Wi        49   6.43        96   6.82
+  55 017 Chippewa                 Wi        43   5.64        99   7.04
+  55 033 Dunn                     Wi        42   5.51        91   6.47
+  27 053 Hennepin                 Mn        22   2.89        29   2.06
+  55 109 St. Croix                Wi        20   2.62        40   2.84
+  27 123 Ramsey                   Mn        17   2.23        24   1.71
+  55 113 Sawyer                   Wi        16   2.10        33   2.35
+  55 079 Milwaukee                Wi        14   1.84        18   1.28
+  55 107 Rusk                     Wi        14   1.84        22   1.56
+  27 163 Washington               Mn        11   1.44        25   1.78
+   Same State                              128  16.80       232  16.49
+   Same Region, Diff. State                107  14.04       186  13.22
+   Different Region                        148  19.42       276  19.62
+      55 005   County Non-Migrants       14276            34008
+55 007   Bayfield Total Migration Wi       350              661
+  55 003 Ashland                  Wi        65  18.57       139  21.03
+  55 031 Douglas                  Wi        43  12.29        75  11.35
+  55 035 Eau Claire               Wi        12   3.43        20   3.03
+  55 113 Sawyer                   Wi        11   3.14        21   3.18
+  27 137 St. Louis                Mn        10   2.86        18   2.72
+   Same State                               86  24.57       166  25.11
+   Same Region, Diff. State                 73  20.86       131  19.82
+   Different Region                         50  14.29        91  13.77
+      55 007   County Non-Migrants        4797            11114
+55 009   Brown Total Migration Fl Wi      3663             6598
+  55 087 Outagamie                Wi       341   9.31       617   9.35
+  55 083 Oconto                   Wi       318   8.68       638   9.67
+  55 079 Milwaukee                Wi       198   5.41       258   3.91
+  55 025 Dane                     Wi       198   5.41       297   4.50
+  55 139 Winnebago                Wi       127   3.47       196   2.97
+  55 061 Kewaunee                 Wi       126   3.44       258   3.91
+  55 075 Marinette                Wi       116   3.17       235   3.56
+  55 071 Manitowoc                Wi       112   3.06       221   3.35
+  55 115 Shawano                  Wi        85   2.32       170   2.58
+  27 053 Hennepin                 Mn        84   2.29       104   1.58
+  55 029 Door                     Wi        82   2.24       151   2.29
+  17 031 Cook                     Il        62   1.69        83   1.26
+  55 133 Waukesha                 Wi        58   1.58       107   1.62
+  55 015 Calumet                  Wi        46   1.26        87   1.32
+  55 117 Sheboygan                Wi        44   1.20        85   1.29
+  55 073 Marathon                 Wi        35    .96        72   1.09
+  57 005 APO / FPO Zip Code       FR        34    .93        47    .71
+  55 135 Waupaca                  Wi        31    .85        46    .70
+  04 013 Maricopa                 Az        30    .82        47    .71
+  55 089 Ozaukee                  Wi        27    .74        47    .71
+  27 123 Ramsey                   Mn        26    .71        35    .53
+  26 103 Marquette                Mi        26    .71        47    .71
+  17 043 Du Page                  Il        25    .68        47    .71
+  55 039 Fond du Lac              Wi        25    .68        48    .73
+  55 131 Washington               Wi        24    .66        40    .61
+  06 073 San Diego                Ca        24    .66        46    .70
+  55 059 Kenosha                  Wi        22    .60        48    .73
+  55 141 Wood                     Wi        21    .57        40    .61
+  55 085 Oneida                   Wi        20    .55        37    .56
+  55 063 La Crosse                Wi        20    .55        42    .64
+  55 035 Eau Claire               Wi        20    .55        35    .53
+  55 097 Portage                  Wi        20    .55        28    .42
+  55 067 Langlade                 Wi        18    .49        32    .48
+  27 037 Dakota                   Mn        16    .44        33    .50
+  55 101 Racine                   Wi        16    .44        36    .55
+  55 041 Forest                   Wi        16    .44        31    .47
+  26 043 Dickinson                Mi        14    .38        28    .42
+  55 105 Rock                     Wi        14    .38        31    .47
+  17 097 Lake                     Il        13    .35        22    .33
+  55 111 Sauk                     Wi        13    .35        21    .32
+  06 037 Los Angeles              Ca        13    .35        21    .32
+  55 037 Florence                 Wi        13    .35        20    .30
+  53 033 King                     Wa        11    .30        17    .26
+  55 069 Lincoln                  Wi        11    .30        20    .30
+  55 125 Vilas                    Wi        11    .30        23    .35
+  55 127 Walworth                 Wi        11    .30        18    .27
+  06 111 Ventura                  Ca        11    .30        30    .45
+  55 055 Jefferson                Wi        11    .30        23    .35
+  12 057 Hillsborough             Fl        10    .27        19    .29
+  55 078 Menominee                Wi        10    .27        14    .21
+  26 109 Menominee                Mi        10    .27        15    .23
+  27 163 Washington               Mn        10    .27        28    .42
+   Same State                              103   2.81       195   2.96
+   Region 1:   Northeast                    78   2.13       135   2.05
+   Region 2:   Midwest                     314   8.57       620   9.40
+   Region 3:   South                       304   8.30       603   9.14
+   Region 4:   West                        185   5.05       304   4.61
+      55 009   County Non-Migrants       73793           167521
+55 011   Buffalo Total Migration  Wi       304              549
+  55 035 Eau Claire               Wi        60  19.74       112  20.40
+  55 121 Trempealeau              Wi        43  14.14        95  17.30
+  27 169 Winona                   Mn        31  10.20        56  10.20
+  55 091 Pepin                    Wi        19   6.25        37   6.74
+  55 063 La Crosse                Wi        12   3.95        18   3.28
+  55 033 Dunn                     Wi        12   3.95        27   4.92
+   Same State                               48  15.79        92  16.76
+   Same Region, Diff. State                 44  14.47        66  12.02
+   Different Region                         35  11.51        46   8.38
+      55 011   County Non-Migrants        4928            11552
+55 013   Burnett Total Migration  Wi       306              543
+  55 095 Polk                     Wi        38  12.42        78  14.36
+  27 053 Hennepin                 Mn        25   8.17        34   6.26
+  55 129 Washburn                 Wi        22   7.19        40   7.37
+  27 123 Ramsey                   Mn        22   7.19        31   5.71
+  55 005 Barron                   Wi        21   6.86        35   6.45
+  27 003 Anoka                    Mn        16   5.23        28   5.16
+  27 163 Washington               Mn        10   3.27        13   2.39
+  55 031 Douglas                  Wi        10   3.27        13   2.39
+   Same State                               50  16.34       105  19.34
+   Same Region, Diff. State                 48  15.69        91  16.76
+   Different Region                         44  14.38        75  13.81
+      55 013   County Non-Migrants        4357             9868
+55 015   Calumet Total Migration  Wi       920             1676
+  55 087 Outagamie                Wi       269  29.24       497  29.65
+  55 139 Winnebago                Wi       137  14.89       274  16.35
+  55 071 Manitowoc                Wi        58   6.30       129   7.70
+  55 009 Brown                    Wi        51   5.54        88   5.25
+  55 117 Sheboygan                Wi        48   5.22        87   5.19
+  55 039 Fond du Lac              Wi        46   5.00        77   4.59
+  55 025 Dane                     Wi        28   3.04        37   2.21
+  55 079 Milwaukee                Wi        24   2.61        32   1.91
+  55 135 Waupaca                  Wi        13   1.41        26   1.55
+   Same State                               90   9.78       182  10.86
+   Same Region, Diff. State                 52   5.65        82   4.89
+   Different Region                        104  11.30       165   9.84
+      55 015   County Non-Migrants       11172            27358
+55 017   Chippewa Total Migration Wi      1160             2066
+  55 035 Eau Claire               Wi       376  32.41       663  32.09
+  55 033 Dunn                     Wi        74   6.38       148   7.16
+  55 005 Barron                   Wi        57   4.91       115   5.57
+  27 053 Hennepin                 Mn        34   2.93        44   2.13
+  55 025 Dane                     Wi        22   1.90        38   1.84
+  55 019 Clark                    Wi        21   1.81        37   1.79
+  55 107 Rusk                     Wi        18   1.55        38   1.84
+  55 079 Milwaukee                Wi        17   1.47        21   1.02
+  55 109 St. Croix                Wi        15   1.29        33   1.60
+  55 119 Taylor                   Wi        13   1.12        29   1.40
+  17 031 Cook                     Il        12   1.03        18    .87
+  27 037 Dakota                   Mn        11    .95        14    .68
+  55 073 Marathon                 Wi        11    .95        20    .97
+  57 005 APO / FPO Zip Code       FR        10    .86        14    .68
+  55 063 La Crosse                Wi        10    .86        15    .73
+  27 123 Ramsey                   Mn        10    .86        13    .63
+  55 141 Wood                     Wi        10    .86        17    .82
+   Same State                              159  13.71       260  12.58
+   Region 1:   Northeast                    13   1.12        23   1.11
+   Region 2:   Midwest                     109   9.40       230  11.13
+   Region 3:   South                        82   7.07       164   7.94
+   Region 4:   West                         76   6.55       112   5.42
+      55 017   County Non-Migrants       17816            42714
+55 019   Clark Total Migration Fl Wi       667             1289
+  55 073 Marathon                 Wi        99  14.84       184  14.27
+  55 141 Wood                     Wi        96  14.39       178  13.81
+  55 035 Eau Claire               Wi        53   7.95        75   5.82
+  55 119 Taylor                   Wi        51   7.65       111   8.61
+  55 017 Chippewa                 Wi        27   4.05        62   4.81
+  55 053 Jackson                  Wi        23   3.45        51   3.96
+  55 025 Dane                     Wi        16   2.40        19   1.47
+  55 063 La Crosse                Wi        12   1.80        17   1.32
+  55 033 Dunn                     Wi        11   1.65        24   1.86
+  55 079 Milwaukee                Wi        11   1.65        17   1.32
+  55 005 Barron                   Wi        10   1.50        11    .85
+   Same State                              112  16.79       244  18.93
+   Same Region, Diff. State                 77  11.54       182  14.12
+   Different Region                         69  10.34       114   8.84
+      55 019   County Non-Migrants       10282            25652
+55 021   Columbia Total Migration Wi      1348             2499
+  55 025 Dane                     Wi       376  27.89       640  25.61
+  55 111 Sauk                     Wi       160  11.87       333  13.33
+  55 027 Dodge                    Wi        90   6.68       189   7.56
+  55 077 Marquette                Wi        61   4.53       122   4.88
+  55 079 Milwaukee                Wi        36   2.67        49   1.96
+  55 055 Jefferson                Wi        29   2.15        57   2.28
+  55 057 Juneau                   Wi        26   1.93        55   2.20
+  55 001 Adams                    Wi        22   1.63        42   1.68
+  55 047 Green Lake               Wi        19   1.41        43   1.72
+  17 031 Cook                     Il        17   1.26        23    .92
+  55 141 Wood                     Wi        15   1.11        27   1.08
+  55 133 Waukesha                 Wi        14   1.04        23    .92
+  55 105 Rock                     Wi        13    .96        36   1.44
+  27 053 Hennepin                 Mn        13    .96        18    .72
+  55 139 Winnebago                Wi        12    .89        24    .96
+  04 013 Maricopa                 Az        11    .82        16    .64
+  55 009 Brown                    Wi        10    .74        11    .44
+  55 039 Fond du Lac              Wi        10    .74        16    .64
+  55 063 La Crosse                Wi        10    .74        12    .48
+   Same State                              138  10.24       281  11.24
+   Region 1:   Northeast                    12    .89        22    .88
+   Region 2:   Midwest                      91   6.75       186   7.44
+   Region 3:   South                       105   7.79       173   6.92
+   Region 4:   West                         58   4.30       101   4.04
+      55 021   County Non-Migrants       17792            40707
+55 023   Crawford Total Migration Wi       353              693
+  55 043 Grant                    Wi        61  17.28       108  15.58
+  55 063 La Crosse                Wi        42  11.90        69   9.96
+  55 123 Vernon                   Wi        28   7.93        67   9.67
+  55 025 Dane                     Wi        24   6.80        43   6.20
+  19 043 Clayton                  Ia        22   6.23        43   6.20
+  55 103 Richland                 Wi        12   3.40        28   4.04
+   Same State                               69  19.55       146  21.07
+   Same Region, Diff. State                 50  14.16       104  15.01
+   Different Region                         45  12.75        85  12.27
+      55 023   County Non-Migrants        5407            12908
+55 025   Dane Total Migration Flo Wi      9169            15382
+  55 079 Milwaukee                Wi       543   5.92       740   4.81
+  55 021 Columbia                 Wi       495   5.40       973   6.33
+  55 105 Rock                     Wi       429   4.68       758   4.93
+  17 031 Cook                     Il       342   3.73       493   3.21
+  55 111 Sauk                     Wi       334   3.64       614   3.99
+  55 055 Jefferson                Wi       263   2.87       509   3.31
+  55 133 Waukesha                 Wi       223   2.43       375   2.44
+  55 045 Green                    Wi       210   2.29       381   2.48
+  27 053 Hennepin                 Mn       203   2.21       252   1.64
+  55 049 Iowa                     Wi       139   1.52       270   1.76
+  57 001 Foreign / Overseas       FR       122   1.33       216   1.40
+  55 009 Brown                    Wi       118   1.29       206   1.34
+  55 139 Winnebago                Wi       113   1.23       167   1.09
+  55 063 La Crosse                Wi        98   1.07       131    .85
+  55 043 Grant                    Wi        97   1.06       170   1.11
+  55 027 Dodge                    Wi        91    .99       154   1.00
+  55 073 Marathon                 Wi        82    .89       134    .87
+  53 033 King                     Wa        82    .89       126    .82
+  55 087 Outagamie                Wi        82    .89       140    .91
+  55 035 Eau Claire               Wi        79    .86       136    .88
+  06 037 Los Angeles              Ca        76    .83       108    .70
+  04 013 Maricopa                 Az        72    .79       119    .77
+  17 043 Du Page                  Il        70    .76       119    .77
+  55 101 Racine                   Wi        65    .71        91    .59
+  55 127 Walworth                 Wi        60    .65        95    .62
+  55 039 Fond du Lac              Wi        60    .65       103    .67
+  27 123 Ramsey                   Mn        59    .64        90    .59
+  55 141 Wood                     Wi        57    .62        83    .54
+  17 097 Lake                     Il        57    .62       110    .72
+  55 097 Portage                  Wi        56    .61        98    .64
+  17 201 Winnebago                Il        52    .57        89    .58
+  57 005 APO / FPO Zip Code       FR        49    .53        78    .51
+  06 073 San Diego                Ca        48    .52        64    .42
+  06 075 San Francisco            Ca        47    .51        58    .38
+  36 061 New York                 NY        46    .50        55    .36
+  06 085 Santa Clara              Ca        45    .49        62    .40
+  55 089 Ozaukee                  Wi        45    .49        78    .51
+  55 059 Kenosha                  Wi        43    .47        68    .44
+  55 131 Washington               Wi        43    .47        77    .50
+  55 065 Lafayette                Wi        41    .45        67    .44
+  55 103 Richland                 Wi        40    .44        73    .47
+  55 077 Marquette                Wi        40    .44        64    .42
+  32 003 Clark                    Nv        37    .40        60    .39
+  48 453 Travis                   Tx        37    .40        61    .40
+  27 037 Dakota                   Mn        36    .39        78    .51
+  48 201 Harris                   Tx        35    .38        54    .35
+  04 019 Pima                     Az        35    .38        60    .39
+  39 049 Franklin                 Oh        34    .37        70    .46
+  55 135 Waupaca                  Wi        31    .34        45    .29
+  24 031 Montgomery               Md        31    .34        47    .31
+  11 001 Wash.,D.C.               DC        31    .34        32    .21
+  55 117 Sheboygan                Wi        30    .33        44    .29
+  55 085 Oneida                   Wi        29    .32        35    .23
+  55 057 Juneau                   Wi        28    .31        43    .28
+  08 031 Denver                   Co        28    .31        34    .22
+  06 001 Alameda                  Ca        27    .29        38    .25
+  48 113 Dallas                   Tx        27    .29        40    .26
+  55 081 Monroe                   Wi        26    .28        41    .27
+  51 013 Arlington                Va        25    .27        28    .18
+  55 071 Manitowoc                Wi        25    .27        37    .24
+  35 001 Bernalillo               NM        24    .26        48    .31
+  41 051 Multnomah                Or        23    .25        34    .22
+  36 055 Monroe                   NY        23    .25        33    .21
+  08 013 Boulder                  Co        23    .25        40    .26
+  55 033 Dunn                     Wi        22    .24        28    .18
+  18 097 Marion                   In        22    .24        42    .27
+  06 059 Orange                   Ca        22    .24        33    .21
+  55 125 Vilas                    Wi        22    .24        38    .25
+  25 017 Middlesex                Ma        22    .24        37    .24
+  17 111 McHenry                  Il        21    .23        43    .28
+  12 011 Broward                  Fl        21    .23        24    .16
+  08 041 El Paso                  Co        21    .23        37    .24
+  26 161 Washtenaw                Mi        20    .22        34    .22
+  51 059 Fairfax                  Va        20    .22        33    .21
+  12 095 Orange                   Fl        20    .22        23    .15
+  29 189 St. Louis                Mo        20    .22        34    .22
+  19 103 Johnson                  Ia        20    .22        37    .24
+  42 003 Allegheny                Pa        19    .21        28    .18
+  55 123 Vernon                   Wi        19    .21        32    .21
+  15 003 Honolulu                 Hi        19    .21        21    .14
+  48 029 Bexar                    Tx        19    .21        39    .25
+  27 109 Olmsted                  Mn        19    .21        46    .30
+  55 017 Chippewa                 Wi        19    .21        33    .21
+  13 089 De Kalb                  Ga        19    .21        36    .23
+  27 163 Washington               Mn        19    .21        46    .30
+  49 035 Salt Lake                Ut        18    .20        36    .23
+  25 025 Suffolk                  Ma        18    .20        23    .15
+  17 089 Kane                     Il        18    .20        29    .19
+  19 163 Scott                    Ia        18    .20        25    .16
+  55 137 Waushara                 Wi        17    .19        24    .16
+  12 103 Pinellas                 Fl        17    .19        23    .15
+  55 047 Green Lake               Wi        16    .17        23    .15
+  02 020 Anchorage Borough        Ak        16    .17        21    .14
+  55 031 Douglas                  Wi        16    .17        23    .15
+  12 099 Palm Beach               Fl        16    .17        22    .14
+  55 023 Crawford                 Wi        16    .17        26    .17
+  08 059 Jefferson                Co        16    .17        23    .15
+  55 069 Lincoln                  Wi        16    .17        33    .21
+  55 029 Door                     Wi        16    .17        30    .20
+  19 061 Dubuque                  Ia        15    .16        29    .19
+  36 047 Kings                    NY        15    .16        16    .10
+  27 003 Anoka                    Mn        15    .16        18    .12
+  19 153 Polk                     Ia        15    .16        21    .14
+  39 035 Cuyahoga                 Oh        15    .16        25    .16
+  06 081 San Mateo                Ca        15    .16        31    .20
+  39 061 Hamilton                 Oh        14    .15        26    .17
+  17 019 Champaign                Il        14    .15        24    .16
+  48 439 Tarrant                  Tx        14    .15        28    .18
+  26 125 Oakland                  Mi        14    .15        25    .16
+  42 101 Philadelphia             Pa        14    .15        21    .14
+  47 037 Davidson                 Tn        14    .15        20    .13
+  18 089 Lake                     In        14    .15        24    .16
+  26 065 Ingham                   Mi        14    .15        17    .11
+  12 071 Lee                      Fl        13    .14        20    .13
+  36 119 Westchester              NY        13    .14        20    .13
+  06 083 Santa Barbara            Ca        13    .14        17    .11
+  31 109 Lancaster                Ne        13    .14        21    .14
+  21 067 Fayette                  Ky        13    .14        34    .22
+  06 067 Sacramento               Ca        13    .14        21    .14
+  12 001 Alachua                  Fl        12    .13        19    .12
+  55 109 St. Croix                Wi        12    .13        24    .16
+  24 510 Baltimore city           Md        12    .13        15    .10
+  26 081 Kent                     Mi        12    .13        24    .16
+  31 055 Douglas                  Ne        12    .13        23    .15
+  25 021 Norfolk                  Ma        12    .13        15    .10
+  37 183 Wake                     NC        12    .13        23    .15
+  08 001 Adams                    Co        12    .13        26    .17
+  37 119 Mecklenburg              NC        12    .13        22    .14
+  13 121 Fulton                   Ga        11    .12        21    .14
+  08 005 Arapahoe                 Co        11    .12        30    .20
+  13 135 Gwinnett                 Ga        11    .12        27    .18
+  12 115 Sarasota                 Fl        11    .12        13    .08
+  18 105 Monroe                   In        11    .12        15    .10
+  36 103 Suffolk                  NY        11    .12        13    .08
+  34 021 Mercer                   NJ        11    .12        14    .09
+  40 143 Tulsa                    Ok        11    .12        15    .10
+  41 067 Washington               Or        11    .12        19    .12
+  30 063 Missoula                 Mt        11    .12        18    .12
+  06 065 Riverside                Ca        11    .12        16    .10
+  48 141 El Paso                  Tx        10    .11        12    .08
+  37 135 Orange                   NC        10    .11        18    .12
+  17 113 McLean                   Il        10    .11        15    .10
+  06 013 Contra Costa             Ca        10    .11        14    .09
+  09 003 Hartford                 Ct        10    .11        13    .08
+  55 075 Marinette                Wi        10    .11        18    .12
+  20 091 Johnson                  Ks        10    .11        21    .14
+  55 003 Ashland                  Wi        10    .11        18    .12
+  55 067 Langlade                 Wi        10    .11        17    .11
+  12 073 Leon                     Fl        10    .11        26    .17
+  06 111 Ventura                  Ca        10    .11        22    .14
+  12 025 Dade                     Fl        10    .11        15    .10
+  29 510 St. Louis city           Mo        10    .11        15    .10
+  51 710 Norfolk city             Va        10    .11        12    .08
+  34 027 Morris                   NJ        10    .11        15    .10
+  55 015 Calumet                  Wi        10    .11        18    .12
+  27 169 Winona                   Mn        10    .11        16    .10
+  27 137 St. Louis                Mn        10    .11        18    .12
+  38 017 Cass                     ND        10    .11        28    .18
+   Same State                              112   1.22       196   1.27
+   Region 1:   Northeast                   249   2.72       452   2.94
+   Region 2:   Midwest                     574   6.26      1050   6.83
+   Region 3:   South                       583   6.36      1073   6.98
+   Region 4:   West                        332   3.62       549   3.57
+      55 025   County Non-Migrants      140817           292755
+55 027   Dodge Total Migration Fl Wi      1595             2959
+  55 039 Fond du Lac              Wi       214  13.42       426  14.40
+  55 131 Washington               Wi       148   9.28       300  10.14
+  55 025 Dane                     Wi       129   8.09       183   6.18
+  55 055 Jefferson                Wi       113   7.08       229   7.74
+  55 133 Waukesha                 Wi       113   7.08       206   6.96
+  55 079 Milwaukee                Wi       105   6.58       162   5.47
+  55 021 Columbia                 Wi        82   5.14       149   5.04
+  55 139 Winnebago                Wi        45   2.82        64   2.16
+  55 089 Ozaukee                  Wi        19   1.19        35   1.18
+  55 127 Walworth                 Wi        18   1.13        34   1.15
+  17 031 Cook                     Il        16   1.00        24    .81
+  55 117 Sheboygan                Wi        16   1.00        31   1.05
+  55 009 Brown                    Wi        14    .88        30   1.01
+  04 013 Maricopa                 Az        13    .82        23    .78
+  55 105 Rock                     Wi        12    .75        27    .91
+  55 097 Portage                  Wi        12    .75        16    .54
+  55 111 Sauk                     Wi        11    .69        16    .54
+  55 087 Outagamie                Wi        11    .69        24    .81
+  57 005 APO / FPO Zip Code       FR        10    .63        11    .37
+   Same State                              174  10.91       363  12.27
+   Region 1:   Northeast                    16   1.00        22    .74
+   Region 2:   Midwest                     131   8.21       291   9.83
+   Region 3:   South                        91   5.71       150   5.07
+   Region 4:   West                         82   5.14       143   4.83
+      55 027   County Non-Migrants       27128            64006
+55 029   Door Total Migration Flo Wi       522              950
+  55 009 Brown                    Wi        82  15.71       140  14.74
+  55 061 Kewaunee                 Wi        48   9.20        98  10.32
+  55 079 Milwaukee                Wi        31   5.94        38   4.00
+  55 071 Manitowoc                Wi        14   2.68        22   2.32
+  55 139 Winnebago                Wi        14   2.68        22   2.32
+  55 025 Dane                     Wi        14   2.68        24   2.53
+  17 031 Cook                     Il        13   2.49        15   1.58
+  55 087 Outagamie                Wi        12   2.30        19   2.00
+  57 005 APO / FPO Zip Code       FR        10   1.92        10   1.05
+   Same State                               88  16.86       184  19.37
+   Region 1:   Northeast                    10   1.92        30   3.16
+   Region 2:   Midwest                      61  11.69       106  11.16
+   Region 3:   South                        76  14.56       137  14.42
+   Region 4:   West                         49   9.39       105  11.05
+      55 029   County Non-Migrants        9785            22230
+55 031   Douglas Total Migration  Wi       752             1302
+  27 137 St. Louis                Mn       141  18.75       216  16.59
+  27 053 Hennepin                 Mn        49   6.52        61   4.69
+  55 007 Bayfield                 Wi        40   5.32        89   6.84
+  27 123 Ramsey                   Mn        25   3.32        38   2.92
+  55 025 Dane                     Wi        23   3.06        34   2.61
+  55 129 Washburn                 Wi        19   2.53        41   3.15
+  27 003 Anoka                    Mn        13   1.73        20   1.54
+  55 035 Eau Claire               Wi        13   1.73        22   1.69
+  57 005 APO / FPO Zip Code       FR        11   1.46        14   1.08
+   Same State                              118  15.69       203  15.59
+   Same Region, Diff. State                130  17.29       274  21.04
+   Different Region                        170  22.61       290  22.27
+      55 031   County Non-Migrants       14171            31812
+55 033   Dunn Total Migration Flo Wi       873             1580
+  55 035 Eau Claire               Wi       113  12.94       208  13.16
+  55 109 St. Croix                Wi        60   6.87       124   7.85
+  55 017 Chippewa                 Wi        56   6.41       106   6.71
+  55 005 Barron                   Wi        46   5.27        94   5.95
+  27 053 Hennepin                 Mn        39   4.47        65   4.11
+  55 093 Pierce                   Wi        32   3.67        57   3.61
+  55 025 Dane                     Wi        28   3.21        41   2.59
+  27 123 Ramsey                   Mn        26   2.98        43   2.72
+  55 091 Pepin                    Wi        15   1.72        43   2.72
+  55 079 Milwaukee                Wi        14   1.60        18   1.14
+  55 129 Washburn                 Wi        12   1.37        21   1.33
+  55 009 Brown                    Wi        11   1.26        18   1.14
+  55 011 Buffalo                  Wi        11   1.26        24   1.52
+  55 095 Polk                     Wi        11   1.26        16   1.01
+  27 003 Anoka                    Mn        10   1.15        16   1.01
+  27 037 Dakota                   Mn        10   1.15        15    .95
+  55 063 La Crosse                Wi        10   1.15        11    .70
+   Same State                              130  14.89       249  15.76
+   Region 1:   Northeast                    13   1.49        24   1.52
+   Region 2:   Midwest                     104  11.91       187  11.84
+   Region 3:   South                        55   6.30        85   5.38
+   Region 4:   West                         56   6.41        96   6.08
+   Foreign                                  11   1.26        19   1.20
+      55 033   County Non-Migrants       10332            24725
+55 035   Eau Claire Total Migrati Wi      2356             4269
+  55 017 Chippewa                 Wi       344  14.60       649  15.20
+  55 025 Dane                     Wi       139   5.90       209   4.90
+  55 033 Dunn                     Wi       138   5.86       263   6.16
+  27 053 Hennepin                 Mn        93   3.95       123   2.88
+  55 121 Trempealeau              Wi        83   3.52       168   3.94
+  55 011 Buffalo                  Wi        56   2.38       125   2.93
+  55 079 Milwaukee                Wi        54   2.29        85   1.99
+  55 005 Barron                   Wi        53   2.25        84   1.97
+  27 123 Ramsey                   Mn        52   2.21        80   1.87
+  55 073 Marathon                 Wi        40   1.70        71   1.66
+  55 063 La Crosse                Wi        31   1.32        57   1.34
+  55 109 St. Croix                Wi        31   1.32        57   1.34
+  27 037 Dakota                   Mn        29   1.23        38    .89
+  55 087 Outagamie                Wi        27   1.15        46   1.08
+  55 141 Wood                     Wi        27   1.15        52   1.22
+  55 133 Waukesha                 Wi        26   1.10        51   1.19
+  17 031 Cook                     Il        25   1.06        39    .91
+  55 009 Brown                    Wi        24   1.02        38    .89
+  01 125 Tuscaloosa               Al        23    .98        64   1.50
+  55 113 Sawyer                   Wi        23    .98        35    .82
+  55 019 Clark                    Wi        22    .93        44   1.03
+  37 119 Mecklenburg              NC        21    .89        56   1.31
+  18 003 Allen                    In        21    .89        48   1.12
+  04 013 Maricopa                 Az        20    .85        28    .66
+  55 053 Jackson                  Wi        17    .72        31    .73
+  55 091 Pepin                    Wi        16    .68        23    .54
+  57 005 APO / FPO Zip Code       FR        15    .64        25    .59
+  55 097 Portage                  Wi        14    .59        29    .68
+  55 119 Taylor                   Wi        14    .59        31    .73
+  55 031 Douglas                  Wi        13    .55        23    .54
+  55 093 Pierce                   Wi        13    .55        20    .47
+  27 109 Olmsted                  Mn        13    .55        28    .66
+  55 129 Washburn                 Wi        13    .55        24    .56
+  57 001 Foreign / Overseas       FR        12    .51        26    .61
+  55 105 Rock                     Wi        12    .51        16    .37
+  55 095 Polk                     Wi        12    .51        16    .37
+  55 117 Sheboygan                Wi        12    .51        21    .49
+  55 111 Sauk                     Wi        10    .42        19    .45
+  55 139 Winnebago                Wi        10    .42        12    .28
+  08 041 El Paso                  Co        10    .42        23    .54
+   Same State                              158   6.71       289   6.77
+   Region 1:   Northeast                    32   1.36        55   1.29
+   Region 2:   Midwest                     241  10.23       446  10.45
+   Region 3:   South                       173   7.34       351   8.22
+   Region 4:   West                        144   6.11       251   5.88
+      55 035   County Non-Migrants       27812            63403
+55 037   Florence Total Migration Wi       104              189
+  26 043 Dickinson                Mi        32  30.77        55  29.10
+   Same State                               33  31.73        61  32.28
+   Same Region, Diff. State                 22  21.15        45  23.81
+   Different Region                         17  16.35        28  14.81
+      55 037   County Non-Migrants        1254             3084
+55 039   Fond du Lac Total Migrat Wi      1715             3073
+  55 139 Winnebago                Wi       200  11.66       346  11.26
+  55 027 Dodge                    Wi       186  10.85       356  11.58
+  55 079 Milwaukee                Wi       109   6.36       147   4.78
+  55 131 Washington               Wi       106   6.18       193   6.28
+  55 025 Dane                     Wi        74   4.31       108   3.51
+  55 047 Green Lake               Wi        70   4.08       155   5.04
+  55 117 Sheboygan                Wi        65   3.79       127   4.13
+  55 015 Calumet                  Wi        40   2.33        72   2.34
+  55 087 Outagamie                Wi        40   2.33        76   2.47
+  55 009 Brown                    Wi        33   1.92        56   1.82
+  55 133 Waukesha                 Wi        32   1.87        69   2.25
+  27 053 Hennepin                 Mn        29   1.69        32   1.04
+  17 031 Cook                     Il        27   1.57        39   1.27
+  55 137 Waushara                 Wi        26   1.52        52   1.69
+  55 077 Marquette                Wi        18   1.05        27    .88
+  04 013 Maricopa                 Az        18   1.05        20    .65
+  55 101 Racine                   Wi        17    .99        26    .85
+  55 135 Waupaca                  Wi        16    .93        28    .91
+  55 055 Jefferson                Wi        15    .87        30    .98
+  55 097 Portage                  Wi        15    .87        23    .75
+  55 071 Manitowoc                Wi        15    .87        27    .88
+  57 005 APO / FPO Zip Code       FR        13    .76        26    .85
+  55 021 Columbia                 Wi        13    .76        19    .62
+  55 105 Rock                     Wi        12    .70        22    .72
+  55 141 Wood                     Wi        12    .70        28    .91
+  55 073 Marathon                 Wi        11    .64        24    .78
+  55 089 Ozaukee                  Wi        11    .64        16    .52
+  55 127 Walworth                 Wi        10    .58        20    .65
+  55 075 Marinette                Wi        10    .58        18    .59
+  55 035 Eau Claire               Wi        10    .58        14    .46
+   Same State                               94   5.48       175   5.69
+   Region 1:   Northeast                    20   1.17        37   1.20
+   Region 2:   Midwest                     148   8.63       301   9.79
+   Region 3:   South                       124   7.23       225   7.32
+   Region 4:   West                         76   4.43       139   4.52
+      55 039   County Non-Migrants       32910            77041
+55 041   Forest Total Migration F Wi       168              326
+  55 085 Oneida                   Wi        19  11.31        42  12.88
+  55 079 Milwaukee                Wi        13   7.74        23   7.06
+  55 073 Marathon                 Wi        10   5.95        18   5.52
+   Same State                               85  50.60       150  46.01
+   Same Region, Diff. State                 19  11.31        37  11.35
+   Different Region                         22  13.10        56  17.18
+      55 041   County Non-Migrants        2543             6157
+55 043   Grant Total Migration Fl Wi      1029             1908
+  55 025 Dane                     Wi       165  16.03       241  12.63
+  55 049 Iowa                     Wi        62   6.03       120   6.29
+  55 065 Lafayette                Wi        56   5.44       106   5.56
+  19 061 Dubuque                  Ia        56   5.44       121   6.34
+  55 023 Crawford                 Wi        54   5.25       121   6.34
+  55 103 Richland                 Wi        34   3.30        74   3.88
+  55 079 Milwaukee                Wi        34   3.30        41   2.15
+  55 063 La Crosse                Wi        26   2.53        41   2.15
+  17 085 Jo Daviess               Il        21   2.04        35   1.83
+  55 111 Sauk                     Wi        21   2.04        43   2.25
+  55 105 Rock                     Wi        18   1.75        35   1.83
+  55 133 Waukesha                 Wi        15   1.46        21   1.10
+  55 045 Green                    Wi        13   1.26        34   1.78
+  55 139 Winnebago                Wi        13   1.26        22   1.15
+  17 031 Cook                     Il        12   1.17        16    .84
+  55 021 Columbia                 Wi        10    .97        26   1.36
+  55 081 Monroe                   Wi        10    .97        29   1.52
+   Same State                              128  12.44       241  12.63
+   Region 1:   Northeast                    13   1.26        24   1.26
+   Region 2:   Midwest                     138  13.41       255  13.36
+   Region 3:   South                        70   6.80       144   7.55
+   Region 4:   West                         48   4.66        95   4.98
+   Foreign                                  12   1.17        23   1.21
+      55 043   County Non-Migrants       16741            40495
+55 045   Green Total Migration Fl Wi       781             1410
+  55 025 Dane                     Wi       222  28.43       335  23.76
+  55 105 Rock                     Wi       100  12.80       179  12.70
+  55 065 Lafayette                Wi        69   8.83       145  10.28
+  17 177 Stephenson               Il        33   4.23        64   4.54
+  55 079 Milwaukee                Wi        20   2.56        30   2.13
+  55 043 Grant                    Wi        17   2.18        42   2.98
+  17 201 Winnebago                Il        14   1.79        30   2.13
+  55 055 Jefferson                Wi        11   1.41        14    .99
+  55 049 Iowa                     Wi        11   1.41        26   1.84
+   Same State                               99  12.68       183  12.98
+   Same Region, Diff. State                 99  12.68       198  14.04
+   Different Region                         86  11.01       164  11.63
+      55 045   County Non-Migrants       11600            26604
+55 047   Green Lake Total Migrati Wi       479              847
+  55 039 Fond du Lac              Wi        97  20.25       192  22.67
+  55 139 Winnebago                Wi        73  15.24       112  13.22
+  55 137 Waushara                 Wi        38   7.93        83   9.80
+  55 077 Marquette                Wi        26   5.43        51   6.02
+  55 021 Columbia                 Wi        17   3.55        35   4.13
+  55 079 Milwaukee                Wi        16   3.34        18   2.13
+  55 027 Dodge                    Wi        16   3.34        34   4.01
+  55 025 Dane                     Wi        15   3.13        19   2.24
+  55 111 Sauk                     Wi        10   2.09        11   1.30
+   Same State                               79  16.49       139  16.41
+   Same Region, Diff. State                 44   9.19        68   8.03
+   Different Region                         48  10.02        85  10.04
+      55 047   County Non-Migrants        6916            15781
+55 049   Iowa Total Migration Flo Wi       499              947
+  55 025 Dane                     Wi       156  31.26       265  27.98
+  55 043 Grant                    Wi        63  12.63       160  16.90
+  55 065 Lafayette                Wi        34   6.81        78   8.24
+  55 111 Sauk                     Wi        32   6.41        60   6.34
+  55 103 Richland                 Wi        27   5.41        61   6.44
+  55 105 Rock                     Wi        13   2.61        25   2.64
+   Same State                               73  14.63       131  13.83
+   Same Region, Diff. State                 59  11.82       109  11.51
+   Different Region                         42   8.42        58   6.12
+      55 049   County Non-Migrants        7135            16927
+55 051   Iron Total Migration Flo Wi       132              226
+  26 053 Gogebic                  Mi        38  28.79        77  34.07
+   Same State                               61  46.21        95  42.04
+   Same Region, Diff. State                 14  10.61        25  11.06
+   Different Region                         19  14.39        29  12.83
+      55 051   County Non-Migrants        2105             4592
+55 053   Jackson Total Migration  Wi       342              664
+  55 121 Trempealeau              Wi        46  13.45        99  14.91
+  55 063 La Crosse                Wi        38  11.11        60   9.04
+  55 035 Eau Claire               Wi        33   9.65        58   8.73
+  55 081 Monroe                   Wi        25   7.31        56   8.43
+  55 019 Clark                    Wi        13   3.80        33   4.97
+  55 141 Wood                     Wi        10   2.92        18   2.71
+  55 079 Milwaukee                Wi        10   2.92        17   2.56
+   Same State                               75  21.93       144  21.69
+   Region 2:   Midwest                      42  12.28        76  11.45
+   Region 3:   South                        28   8.19        60   9.04
+   Region 4:   West                         22   6.43        43   6.48
+      55 053   County Non-Migrants        5569            12972
+55 055   Jefferson Total Migratio Wi      1605             2973
+  55 025 Dane                     Wi       275  17.13       452  15.20
+  55 133 Waukesha                 Wi       215  13.40       395  13.29
+  55 027 Dodge                    Wi       155   9.66       329  11.07
+  55 127 Walworth                 Wi       102   6.36       206   6.93
+  55 079 Milwaukee                Wi        94   5.86       153   5.15
+  55 105 Rock                     Wi        81   5.05       150   5.05
+  55 021 Columbia                 Wi        21   1.31        45   1.51
+  55 039 Fond du Lac              Wi        18   1.12        51   1.72
+  17 031 Cook                     Il        17   1.06        24    .81
+  55 131 Washington               Wi        16   1.00        24    .81
+  55 101 Racine                   Wi        15    .93        29    .98
+  55 139 Winnebago                Wi        15    .93        23    .77
+  55 141 Wood                     Wi        13    .81        21    .71
+  55 059 Kenosha                  Wi        12    .75        20    .67
+  55 087 Outagamie                Wi        11    .69        23    .77
+  55 035 Eau Claire               Wi        11    .69        16    .54
+  04 013 Maricopa                 Az        10    .62        14    .47
+   Same State                              149   9.28       300  10.09
+   Region 1:   Northeast                    18   1.12        34   1.14
+   Region 2:   Midwest                     136   8.47       250   8.41
+   Region 3:   South                       128   7.98       239   8.04
+   Region 4:   West                         81   5.05       157   5.28
+   Foreign                                  12    .75        18    .61
+      55 055   County Non-Migrants       24590            56721
+55 057   Juneau Total Migration F Wi       579             1103
+  55 111 Sauk                     Wi        73  12.61       140  12.69
+  55 081 Monroe                   Wi        55   9.50       131  11.88
+  55 025 Dane                     Wi        38   6.56        54   4.90
+  55 021 Columbia                 Wi        31   5.35        52   4.71
+  55 063 La Crosse                Wi        29   5.01        43   3.90
+  55 123 Vernon                   Wi        27   4.66        63   5.71
+  55 001 Adams                    Wi        18   3.11        32   2.90
+  55 141 Wood                     Wi        16   2.76        29   2.63
+  55 079 Milwaukee                Wi        14   2.42        23   2.09
+  55 105 Rock                     Wi        11   1.90        23   2.09
+   Same State                              107  18.48       233  21.12
+   Same Region, Diff. State                 66  11.40       121  10.97
+   Different Region                         94  16.23       159  14.42
+      55 057   County Non-Migrants        7521            17363
+55 059   Kenosha Total Migration  Wi      2795             5444
+  55 101 Racine                   Wi       541  19.36      1069  19.64
+  17 097 Lake                     Il       340  12.16       697  12.80
+  55 079 Milwaukee                Wi       212   7.58       349   6.41
+  17 031 Cook                     Il       137   4.90       212   3.89
+  55 127 Walworth                 Wi        95   3.40       165   3.03
+  55 025 Dane                     Wi        54   1.93        89   1.63
+  04 013 Maricopa                 Az        43   1.54        94   1.73
+  17 111 McHenry                  Il        38   1.36        66   1.21
+  55 133 Waukesha                 Wi        36   1.29        70   1.29
+  17 043 Du Page                  Il        28   1.00        43    .79
+  32 003 Clark                    Nv        26    .93        51    .94
+  55 009 Brown                    Wi        20    .72        36    .66
+  57 005 APO / FPO Zip Code       FR        19    .68        36    .66
+  55 105 Rock                     Wi        19    .68        38    .70
+  55 139 Winnebago                Wi        18    .64        29    .53
+  55 073 Marathon                 Wi        17    .61        35    .64
+  55 087 Outagamie                Wi        17    .61        26    .48
+  06 073 San Diego                Ca        17    .61        39    .72
+  18 067 Howard                   In        17    .61        48    .88
+  06 037 Los Angeles              Ca        16    .57        24    .44
+  55 097 Portage                  Wi        14    .50        28    .51
+  55 039 Fond du Lac              Wi        13    .47        32    .59
+  55 035 Eau Claire               Wi        13    .47        27    .50
+  55 057 Juneau                   Wi        13    .47        33    .61
+  27 053 Hennepin                 Mn        12    .43        19    .35
+  55 063 La Crosse                Wi        11    .39        16    .29
+  12 103 Pinellas                 Fl        11    .39        23    .42
+  55 125 Vilas                    Wi        10    .36        20    .37
+  55 085 Oneida                   Wi        10    .36        14    .26
+  55 075 Marinette                Wi        10    .36        23    .42
+   Same State                              209   7.48       432   7.94
+   Region 1:   Northeast                    38   1.36        64   1.18
+   Region 2:   Midwest                     225   8.05       479   8.80
+   Region 3:   South                       358  12.81       756  13.89
+   Region 4:   West                        138   4.94       262   4.81
+      55 059   County Non-Migrants       45675           101855
+55 061   Kewaunee Total Migration Wi       361              648
+  55 009 Brown                    Wi       165  45.71       276  42.59
+  55 029 Door                     Wi        47  13.02        91  14.04
+  55 071 Manitowoc                Wi        19   5.26        45   6.94
+   Same State                               68  18.84       123  18.98
+   Same Region, Diff. State                 35   9.70        63   9.72
+   Different Region                         27   7.48        50   7.72
+      55 061   County Non-Migrants        6925            16573
+55 063   La Crosse Total Migratio Wi      2109             3743
+  55 025 Dane                     Wi       145   6.88       220   5.88
+  55 123 Vernon                   Wi       138   6.54       278   7.43
+  55 081 Monroe                   Wi       119   5.64       225   6.01
+  27 055 Houston                  Mn       118   5.60       253   6.76
+  55 079 Milwaukee                Wi        76   3.60       112   2.99
+  27 053 Hennepin                 Mn        71   3.37        90   2.40
+  55 121 Trempealeau              Wi        65   3.08       127   3.39
+  27 123 Ramsey                   Mn        47   2.23        65   1.74
+  55 035 Eau Claire               Wi        42   1.99        69   1.84
+  27 109 Olmsted                  Mn        38   1.80        68   1.82
+  27 169 Winona                   Mn        33   1.56        56   1.50
+  55 053 Jackson                  Wi        31   1.47        58   1.55
+  55 133 Waukesha                 Wi        29   1.38        44   1.18
+  17 031 Cook                     Il        29   1.38        43   1.15
+  55 009 Brown                    Wi        26   1.23        52   1.39
+  55 087 Outagamie                Wi        24   1.14        53   1.42
+  55 057 Juneau                   Wi        23   1.09        34    .91
+  55 073 Marathon                 Wi        22   1.04        43   1.15
+  27 037 Dakota                   Mn        21   1.00        49   1.31
+  57 005 APO / FPO Zip Code       FR        20    .95        34    .91
+  55 105 Rock                     Wi        19    .90        30    .80
+  55 043 Grant                    Wi        19    .90        34    .91
+  55 141 Wood                     Wi        18    .85        36    .96
+  55 111 Sauk                     Wi        18    .85        30    .80
+  55 023 Crawford                 Wi        17    .81        28    .75
+  04 013 Maricopa                 Az        15    .71        17    .45
+  17 097 Lake                     Il        14    .66        20    .53
+  55 097 Portage                  Wi        14    .66        26    .69
+  55 017 Chippewa                 Wi        14    .66        27    .72
+  55 021 Columbia                 Wi        13    .62        22    .59
+  55 039 Fond du Lac              Wi        13    .62        22    .59
+  55 139 Winnebago                Wi        13    .62        31    .83
+  53 033 King                     Wa        12    .57        17    .45
+  19 163 Scott                    Ia        11    .52        19    .51
+  55 109 St. Croix                Wi        10    .47        17    .45
+   Same State                              136   6.45       244   6.52
+   Region 1:   Northeast                    34   1.61        70   1.87
+   Region 2:   Midwest                     289  13.70       534  14.27
+   Region 3:   South                       159   7.54       289   7.72
+   Region 4:   West                        154   7.30       257   6.87
+      55 063   County Non-Migrants       33947            74940
+55 065   Lafayette Total Migratio Wi       358              709
+  55 045 Green                    Wi        74  20.67       183  25.81
+  55 043 Grant                    Wi        54  15.08       111  15.66
+  55 025 Dane                     Wi        53  14.80        74  10.44
+  55 049 Iowa                     Wi        46  12.85        98  13.82
+   Same State                               45  12.57        84  11.85
+   Same Region, Diff. State                 62  17.32       111  15.66
+   Different Region                         24   6.70        48   6.77
+      55 065   County Non-Migrants        5606            13574
+55 067   Langlade Total Migration Wi       394              695
+  55 073 Marathon                 Wi        68  17.26       131  18.85
+  55 115 Shawano                  Wi        31   7.87        69   9.93
+  55 069 Lincoln                  Wi        27   6.85        52   7.48
+  55 087 Outagamie                Wi        21   5.33        31   4.46
+  55 025 Dane                     Wi        19   4.82        27   3.88
+  55 085 Oneida                   Wi        14   3.55        27   3.88
+  55 009 Brown                    Wi        13   3.30        20   2.88
+  55 079 Milwaukee                Wi        12   3.05        15   2.16
+  55 041 Forest                   Wi        11   2.79        17   2.45
+   Same State                               87  22.08       147  21.15
+   Same Region, Diff. State                 47  11.93        80  11.51
+   Different Region                         44  11.17        79  11.37
+      55 067   County Non-Migrants        6695            15783
+55 069   Lincoln Total Migration  Wi       532              940
+  55 073 Marathon                 Wi       145  27.26       246  26.17
+  55 085 Oneida                   Wi        28   5.26        48   5.11
+  55 079 Milwaukee                Wi        21   3.95        31   3.30
+  55 025 Dane                     Wi        21   3.95        27   2.87
+  55 097 Portage                  Wi        14   2.63        22   2.34
+  55 133 Waukesha                 Wi        14   2.63        26   2.77
+  55 067 Langlade                 Wi        13   2.44        27   2.87
+   Same State                              127  23.87       262  27.87
+   Same Region, Diff. State                 72  13.53       120  12.77
+   Different Region                         77  14.47       131  13.94
+      55 069   County Non-Migrants       10010            23822
+55 071   Manitowoc Total Migratio Wi      1173             2045
+  55 117 Sheboygan                Wi       143  12.19       258  12.62
+  55 009 Brown                    Wi       123  10.49       217  10.61
+  55 079 Milwaukee                Wi        92   7.84       123   6.01
+  55 015 Calumet                  Wi        66   5.63       129   6.31
+  55 087 Outagamie                Wi        52   4.43        82   4.01
+  55 025 Dane                     Wi        45   3.84        57   2.79
+  55 139 Winnebago                Wi        37   3.15        70   3.42
+  55 039 Fond du Lac              Wi        25   2.13        48   2.35
+  55 061 Kewaunee                 Wi        20   1.71        46   2.25
+  55 133 Waukesha                 Wi        18   1.53        32   1.56
+  55 089 Ozaukee                  Wi        14   1.19        28   1.37
+  17 031 Cook                     Il        14   1.19        17    .83
+  55 029 Door                     Wi        13   1.11        23   1.12
+  27 053 Hennepin                 Mn        13   1.11        17    .83
+  57 005 APO / FPO Zip Code       FR        13   1.11        15    .73
+  55 131 Washington               Wi        11    .94        17    .83
+   Same State                              144  12.28       258  12.62
+   Region 1:   Northeast                    21   1.79        43   2.10
+   Region 2:   Midwest                     113   9.63       211  10.32
+   Region 3:   South                       116   9.89       215  10.51
+   Region 4:   West                         80   6.82       139   6.80
+      55 071   County Non-Migrants       29480            67973
+55 073   Marathon Total Migration Wi      2130             3979
+  55 141 Wood                     Wi       176   8.26       327   8.22
+  55 069 Lincoln                  Wi       146   6.85       279   7.01
+  55 025 Dane                     Wi       127   5.96       203   5.10
+  55 019 Clark                    Wi       105   4.93       223   5.60
+  55 097 Portage                  Wi       102   4.79       188   4.72
+  55 079 Milwaukee                Wi        70   3.29       107   2.69
+  55 115 Shawano                  Wi        68   3.19       146   3.67
+  55 009 Brown                    Wi        64   3.00       107   2.69
+  27 053 Hennepin                 Mn        55   2.58        66   1.66
+  55 085 Oneida                   Wi        48   2.25       113   2.84
+  55 067 Langlade                 Wi        45   2.11        96   2.41
+  55 119 Taylor                   Wi        41   1.92        78   1.96
+  55 035 Eau Claire               Wi        40   1.88        66   1.66
+  55 087 Outagamie                Wi        33   1.55        71   1.78
+  55 139 Winnebago                Wi        32   1.50        62   1.56
+  17 031 Cook                     Il        26   1.22        37    .93
+  55 133 Waukesha                 Wi        25   1.17        37    .93
+  55 063 La Crosse                Wi        20    .94        40   1.01
+  55 135 Waupaca                  Wi        19    .89        36    .90
+  55 099 Price                    Wi        19    .89        25    .63
+  57 005 APO / FPO Zip Code       FR        19    .89        24    .60
+  11 001 Wash.,D.C.               DC        16    .75        16    .40
+  27 123 Ramsey                   Mn        16    .75        21    .53
+  55 125 Vilas                    Wi        15    .70        22    .55
+  27 037 Dakota                   Mn        13    .61        25    .63
+  55 101 Racine                   Wi        11    .52        15    .38
+  55 021 Columbia                 Wi        11    .52        29    .73
+  55 071 Manitowoc                Wi        11    .52        29    .73
+  55 111 Sauk                     Wi        11    .52        15    .38
+  55 127 Walworth                 Wi        10    .47        12    .30
+  55 055 Jefferson                Wi        10    .47        16    .40
+  06 073 San Diego                Ca        10    .47        14    .35
+  55 117 Sheboygan                Wi        10    .47        18    .45
+   Same State                              161   7.56       330   8.29
+   Region 1:   Northeast                    33   1.55        53   1.33
+   Region 2:   Midwest                     218  10.23       449  11.28
+   Region 3:   South                       159   7.46       337   8.47
+   Region 4:   West                        135   6.34       247   6.21
+      55 073   County Non-Migrants       41089            97706
+55 075   Marinette Total Migratio Wi       889             1637
+  55 009 Brown                    Wi       156  17.55       238  14.54
+  26 109 Menominee                Mi       103  11.59       208  12.71
+  55 083 Oconto                   Wi        58   6.52       117   7.15
+  26 043 Dickinson                Mi        52   5.85       104   6.35
+  55 079 Milwaukee                Wi        41   4.61        55   3.36
+  55 087 Outagamie                Wi        24   2.70        42   2.57
+  55 025 Dane                     Wi        24   2.70        29   1.77
+  55 139 Winnebago                Wi        13   1.46        21   1.28
+  55 133 Waukesha                 Wi        12   1.35        17   1.04
+  55 039 Fond du Lac              Wi        12   1.35        24   1.47
+  06 073 San Diego                Ca        11   1.24        23   1.41
+  55 037 Florence                 Wi        10   1.12        24   1.47
+  55 073 Marathon                 Wi        10   1.12        24   1.47
+  55 071 Manitowoc                Wi        10   1.12        14    .86
+   Same State                              113  12.71       213  13.01
+   Region 1:   Northeast                    14   1.57        25   1.53
+   Region 2:   Midwest                     103  11.59       203  12.40
+   Region 3:   South                        80   9.00       166  10.14
+   Region 4:   West                         43   4.84        90   5.50
+      55 075   County Non-Migrants       13997            33293
+55 077   Marquette Total Migratio Wi       320              628
+  55 021 Columbia                 Wi        73  22.81       155  24.68
+  55 025 Dane                     Wi        28   8.75        38   6.05
+  55 001 Adams                    Wi        25   7.81        65  10.35
+  55 137 Waushara                 Wi        16   5.00        36   5.73
+  55 047 Green Lake               Wi        16   5.00        36   5.73
+  55 111 Sauk                     Wi        14   4.38        26   4.14
+  55 079 Milwaukee                Wi        13   4.06        20   3.18
+   Same State                               58  18.13       116  18.47
+   Same Region, Diff. State                 37  11.56        63  10.03
+   Different Region                         40  12.50        73  11.62
+      55 077   County Non-Migrants        4305             9825
+55 078   Menominee Total Migratio Wi        63              120
+  55 115 Shawano                  Wi        28  44.44        51  42.50
+   All Migration Flows                      35  55.56        69  57.50
+      55 078   County Non-Migrants         976             2442
+55 079   Milwaukee Total Migratio Wi     19010            35943
+  55 133 Waukesha                 Wi      5035  26.49     10412  28.97
+  55 131 Washington               Wi      1178   6.20      2460   6.84
+  55 089 Ozaukee                  Wi      1050   5.52      2155   6.00
+  55 101 Racine                   Wi       735   3.87      1378   3.83
+  17 031 Cook                     Il       662   3.48      1032   2.87
+  55 025 Dane                     Wi       544   2.86       838   2.33
+  55 009 Brown                    Wi       239   1.26       407   1.13
+  04 013 Maricopa                 Az       212   1.12       379   1.05
+  55 127 Walworth                 Wi       207   1.09       386   1.07
+  27 053 Hennepin                 Mn       206   1.08       314    .87
+  55 117 Sheboygan                Wi       196   1.03       374   1.04
+  55 139 Winnebago                Wi       193   1.02       333    .93
+  55 055 Jefferson                Wi       177    .93       333    .93
+  55 059 Kenosha                  Wi       168    .88       292    .81
+  55 027 Dodge                    Wi       157    .83       361   1.00
+  55 087 Outagamie                Wi       152    .80       269    .75
+  06 037 Los Angeles              Ca       146    .77       215    .60
+  57 005 APO / FPO Zip Code       FR       144    .76       227    .63
+  17 097 Lake                     Il       133    .70       278    .77
+  17 043 Du Page                  Il       117    .62       173    .48
+  55 039 Fond du Lac              Wi       115    .60       202    .56
+  06 073 San Diego                Ca       111    .58       185    .51
+  32 003 Clark                    Nv        96    .50       151    .42
+  55 073 Marathon                 Wi        87    .46       183    .51
+  27 123 Ramsey                   Mn        84    .44       120    .33
+  55 105 Rock                     Wi        81    .43       145    .40
+  55 071 Manitowoc                Wi        78    .41       146    .41
+  53 033 King                     Wa        76    .40       124    .34
+  55 085 Oneida                   Wi        74    .39       118    .33
+  55 063 La Crosse                Wi        74    .39       108    .30
+  57 001 Foreign / Overseas       FR        72    .38       131    .36
+  55 141 Wood                     Wi        70    .37       123    .34
+  48 201 Harris                   Tx        69    .36       134    .37
+  55 075 Marinette                Wi        68    .36       145    .40
+  55 097 Portage                  Wi        67    .35       116    .32
+  55 137 Waushara                 Wi        60    .32       106    .29
+  15 003 Honolulu                 Hi        54    .28        88    .24
+  55 125 Vilas                    Wi        53    .28        93    .26
+  12 057 Hillsborough             Fl        53    .28        98    .27
+  48 113 Dallas                   Tx        51    .27        80    .22
+  17 201 Winnebago                Il        51    .27        95    .26
+  12 103 Pinellas                 Fl        51    .27        82    .23
+  12 071 Lee                      Fl        51    .27        86    .24
+  55 135 Waupaca                  Wi        50    .26        96    .27
+  12 011 Broward                  Fl        47    .25        80    .22
+  47 157 Shelby                   Tn        46    .24       102    .28
+  55 115 Shawano                  Wi        45    .24        77    .21
+  55 083 Oconto                   Wi        44    .23        87    .24
+  55 077 Marquette                Wi        44    .23        80    .22
+  06 001 Alameda                  Ca        43    .23        55    .15
+  29 189 St. Louis                Mo        42    .22        81    .23
+  37 183 Wake                     NC        42    .22        83    .23
+  55 067 Langlade                 Wi        42    .22        75    .21
+  12 025 Dade                     Fl        41    .22        68    .19
+  06 075 San Francisco            Ca        41    .22        48    .13
+  55 029 Door                     Wi        41    .22        69    .19
+  18 097 Marion                   In        41    .22        86    .24
+  55 021 Columbia                 Wi        40    .21        71    .20
+  55 035 Eau Claire               Wi        40    .21        72    .20
+  18 089 Lake                     In        39    .21        91    .25
+  55 069 Lincoln                  Wi        39    .21        61    .17
+  04 019 Pima                     Az        39    .21        58    .16
+  36 061 New York                 NY        39    .21        46    .13
+  27 037 Dakota                   Mn        39    .21        67    .19
+  12 095 Orange                   Fl        38    .20        53    .15
+  26 163 Wayne                    Mi        38    .20        75    .21
+  06 059 Orange                   Ca        38    .20        57    .16
+  26 125 Oakland                  Mi        37    .19        57    .16
+  06 085 Santa Clara              Ca        36    .19        46    .13
+  55 111 Sauk                     Wi        36    .19        76    .21
+  55 047 Green Lake               Wi        35    .18        63    .18
+  48 029 Bexar                    Tx        35    .18        63    .18
+  13 089 De Kalb                  Ga        35    .18        60    .17
+  11 001 Wash.,D.C.               DC        34    .18        44    .12
+  13 121 Fulton                   Ga        33    .17        50    .14
+  55 015 Calumet                  Wi        32    .17        60    .17
+  25 017 Middlesex                Ma        32    .17        45    .13
+  39 049 Franklin                 Oh        31    .16        54    .15
+  39 061 Hamilton                 Oh        29    .15        52    .14
+  08 031 Denver                   Co        29    .15        43    .12
+  39 035 Cuyahoga                 Oh        29    .15        51    .14
+  48 453 Travis                   Tx        29    .15        38    .11
+  08 005 Arapahoe                 Co        28    .15        50    .14
+  17 089 Kane                     Il        28    .15        52    .14
+  55 043 Grant                    Wi        27    .14        40    .11
+  13 067 Cobb                     Ga        27    .14        58    .16
+  55 001 Adams                    Wi        26    .14        49    .14
+  42 003 Allegheny                Pa        26    .14        49    .14
+  19 153 Polk                     Ia        26    .14        55    .15
+  55 041 Forest                   Wi        25    .13        38    .11
+  12 099 Palm Beach               Fl        25    .13        43    .12
+  55 109 St. Croix                Wi        25    .13        49    .14
+  26 081 Kent                     Mi        24    .13        38    .11
+  48 439 Tarrant                  Tx        24    .13        50    .14
+  06 065 Riverside                Ca        24    .13        42    .12
+  08 059 Jefferson                Co        24    .13        36    .10
+  08 013 Boulder                  Co        23    .12        25    .07
+  08 041 El Paso                  Co        23    .12        39    .11
+  17 019 Champaign                Il        22    .12        45    .13
+  29 095 Jackson                  Mo        22    .12        35    .10
+  12 031 Duval                    Fl        22    .12        45    .13
+  28 049 Hinds                    Ms        22    .12        47    .13
+  39 113 Montgomery               Oh        21    .11        30    .08
+  55 081 Monroe                   Wi        21    .11        41    .11
+  26 161 Washtenaw                Mi        21    .11        32    .09
+  47 037 Davidson                 Tn        21    .11        34    .09
+  35 001 Bernalillo               NM        21    .11        37    .10
+  13 135 Gwinnett                 Ga        21    .11        41    .11
+  55 057 Juneau                   Wi        21    .11        51    .14
+  12 081 Manatee                  Fl        21    .11        39    .11
+  25 025 Suffolk                  Ma        20    .11        24    .07
+  19 163 Scott                    Ia        19    .10        29    .08
+  12 101 Pasco                    Fl        19    .10        25    .07
+  17 143 Peoria                   Il        19    .10        30    .08
+  31 055 Douglas                  Ne        19    .10        43    .12
+  24 031 Montgomery               Md        19    .10        32    .09
+  51 059 Fairfax                  Va        18    .09        37    .10
+  17 197 Will                     Il        18    .09        48    .13
+  41 051 Multnomah                Or        18    .09        28    .08
+  20 091 Johnson                  Ks        18    .09        33    .09
+  12 033 Escambia                 Fl        18    .09        32    .09
+  29 510 St. Louis city           Mo        18    .09        42    .12
+  17 111 McHenry                  Il        18    .09        32    .09
+  37 119 Mecklenburg              NC        17    .09        26    .07
+  31 109 Lancaster                Ne        17    .09        33    .09
+  06 071 San Bernardino           Ca        17    .09        39    .11
+  26 041 Delta                    Mi        17    .09        29    .08
+  36 047 Kings                    NY        17    .09        27    .08
+  48 141 El Paso                  Tx        17    .09        38    .11
+  53 053 Pierce                   Wa        17    .09        23    .06
+  49 035 Salt Lake                Ut        17    .09        36    .10
+  18 141 St. Joseph               In        16    .08        33    .09
+  22 071 Orleans                  La        16    .08        21    .06
+  27 003 Anoka                    Mn        15    .08        32    .09
+  40 109 Oklahoma                 Ok        15    .08        31    .09
+  36 055 Monroe                   NY        15    .08        25    .07
+  26 099 Macomb                   Mi        15    .08        25    .07
+  12 105 Polk                     Fl        15    .08        25    .07
+  55 121 Trempealeau              Wi        15    .08        28    .08
+  55 045 Green                    Wi        15    .08        23    .06
+  06 067 Sacramento               Ca        15    .08        21    .06
+  18 157 Tippecanoe               In        15    .08        22    .06
+  39 017 Butler                   Oh        15    .08        34    .09
+  51 710 Norfolk city             Va        14    .07        27    .08
+  42 101 Philadelphia             Pa        14    .07        15    .04
+  01 073 Jefferson                Al        14    .07        26    .07
+  19 113 Linn                     Ia        14    .07        17    .05
+  13 063 Clayton                  Ga        14    .07        25    .07
+  06 013 Contra Costa             Ca        14    .07        22    .06
+  55 061 Kewaunee                 Wi        14    .07        26    .07
+  06 081 San Mateo                Ca        14    .07        20    .06
+  37 133 Onslow                   NC        14    .07        27    .08
+  48 027 Bell                     Tx        14    .07        21    .06
+  09 003 Hartford                 Ct        14    .07        23    .06
+  12 083 Marion                   Fl        14    .07        28    .08
+  24 005 Baltimore                Md        13    .07        27    .08
+  47 125 Montgomery               Tn        13    .07        29    .08
+  27 137 St. Louis                Mn        13    .07        29    .08
+  38 017 Cass                     ND        13    .07        20    .06
+  12 021 Collier                  Fl        13    .07        18    .05
+  12 117 Seminole                 Fl        13    .07        31    .09
+  36 081 Queens                   NY        13    .07        15    .04
+  12 127 Volusia                  Fl        13    .07        16    .04
+  12 009 Brevard                  Fl        13    .07        26    .07
+  57 003 Foreign / Puerto Rico    FR        13    .07        30    .08
+  55 033 Dunn                     Wi        13    .07        22    .06
+  48 355 Nueces                   Tx        13    .07        26    .07
+  06 111 Ventura                  Ca        12    .06        21    .06
+  55 017 Chippewa                 Wi        12    .06        21    .06
+  26 103 Marquette                Mi        12    .06        19    .05
+  05 069 Jefferson                Ar        12    .06        29    .08
+  55 005 Barron                   Wi        12    .06        27    .08
+  09 001 Fairfield                Ct        12    .06        19    .05
+  18 057 Hamilton                 In        12    .06        40    .11
+  40 143 Tulsa                    Ok        12    .06        29    .08
+  51 810 Virginia Beach city      Va        12    .06        27    .08
+  05 119 Pulaski                  Ar        12    .06        22    .06
+  48 215 Hidalgo                  Tx        11    .06        20    .06
+  36 029 Erie                     NY        11    .06        15    .04
+  05 007 Benton                   Ar        11    .06        20    .06
+  12 069 Lake                     Fl        11    .06        19    .05
+  12 091 Okaloosa                 Fl        11    .06        25    .07
+  55 123 Vernon                   Wi        11    .06        14    .04
+  37 051 Cumberland               NC        11    .06        19    .05
+  18 003 Allen                    In        11    .06        25    .07
+  45 019 Charleston               SC        11    .06        17    .05
+  12 115 Sarasota                 Fl        11    .06        12    .03
+  21 067 Fayette                  Ky        11    .06        20    .06
+  24 033 Prince George's          Md        10    .05        14    .04
+  26 109 Menominee                Mi        10    .05        12    .03
+  55 019 Clark                    Wi        10    .05        17    .05
+  29 183 St. Charles              Mo        10    .05        21    .06
+  10 003 New Castle               De        10    .05        16    .04
+  32 031 Washoe                   Nv        10    .05        16    .04
+  55 129 Washburn                 Wi        10    .05        30    .08
+  18 105 Monroe                   In        10    .05        12    .03
+  08 001 Adams                    Co        10    .05        23    .06
+  04 005 Coconino                 Az        10    .05        13    .04
+  27 109 Olmsted                  Mn        10    .05        18    .05
+  55 051 Iron                     Wi        10    .05        17    .05
+  36 059 Nassau                   NY        10    .05        19    .05
+  39 095 Lucas                    Oh        10    .05        24    .07
+  47 093 Knox                     Tn        10    .05        24    .07
+  26 077 Kalamazoo                Mi        10    .05        23    .06
+  40 031 Comanche                 Ok        10    .05        18    .05
+  02 020 Anchorage Borough        Ak        10    .05        16    .04
+  21 111 Jefferson                Ky        10    .05        21    .06
+  26 043 Dickinson                Mi        10    .05        18    .05
+   Same State                              116    .61       212    .59
+   Region 1:   Northeast                   282   1.48       476   1.32
+   Region 2:   Midwest                     671   3.53      1318   3.67
+   Region 3:   South                       809   4.26      1686   4.69
+   Region 4:   West                        360   1.89       642   1.79
+      55 079   County Non-Migrants      351566           712843
+55 081   Monroe Total Migration F Wi       882             1784
+  55 063 La Crosse                Wi       156  17.69       289  16.20
+  55 057 Juneau                   Wi        56   6.35       113   6.33
+  55 123 Vernon                   Wi        51   5.78       104   5.83
+  55 053 Jackson                  Wi        41   4.65        96   5.38
+  55 025 Dane                     Wi        32   3.63        47   2.63
+  57 005 APO / FPO Zip Code       FR        17   1.93        30   1.68
+  55 079 Milwaukee                Wi        13   1.47        17    .95
+  55 141 Wood                     Wi        12   1.36        34   1.91
+  55 111 Sauk                     Wi        12   1.36        23   1.29
+  55 105 Rock                     Wi        12   1.36        19   1.07
+  55 127 Walworth                 Wi        11   1.25        30   1.68
+  26 163 Wayne                    Mi        10   1.13        20   1.12
+   Same State                              143  16.21       297  16.65
+   Region 1:   Northeast                    15   1.70        31   1.74
+   Region 2:   Midwest                     141  15.99       279  15.64
+   Region 3:   South                        90  10.20       196  10.99
+   Region 4:   West                         70   7.94       159   8.91
+      55 081   County Non-Migrants       12545            29996
+55 083   Oconto Total Migration F Wi       659             1203
+  55 009 Brown                    Wi       282  42.79       520  43.23
+  55 075 Marinette                Wi        49   7.44        95   7.90
+  55 115 Shawano                  Wi        38   5.77        81   6.73
+  55 087 Outagamie                Wi        32   4.86        57   4.74
+  55 079 Milwaukee                Wi        30   4.55        40   3.33
+  55 139 Winnebago                Wi        14   2.12        23   1.91
+  55 025 Dane                     Wi        12   1.82        13   1.08
+  55 135 Waupaca                  Wi        12   1.82        25   2.08
+   Same State                               88  13.35       174  14.46
+   Same Region, Diff. State                 49   7.44        83   6.90
+   Different Region                         53   8.04        92   7.65
+      55 083   County Non-Migrants       10650            25926
+55 085   Oneida Total Migration F Wi       767             1348
+  55 125 Vilas                    Wi        77  10.04       150  11.13
+  55 069 Lincoln                  Wi        53   6.91       104   7.72
+  55 025 Dane                     Wi        42   5.48        57   4.23
+  55 079 Milwaukee                Wi        39   5.08        50   3.71
+  55 073 Marathon                 Wi        37   4.82        58   4.30
+  55 097 Portage                  Wi        20   2.61        32   2.37
+  55 009 Brown                    Wi        20   2.61        34   2.52
+  55 133 Waukesha                 Wi        16   2.09        33   2.45
+  55 035 Eau Claire               Wi        12   1.56        25   1.85
+  55 141 Wood                     Wi        12   1.56        28   2.08
+  55 139 Winnebago                Wi        12   1.56        22   1.63
+  55 087 Outagamie                Wi        11   1.43        17   1.26
+  55 063 La Crosse                Wi        11   1.43        22   1.63
+  17 031 Cook                     Il        10   1.30        20   1.48
+  55 041 Forest                   Wi        10   1.30        25   1.85
+  55 117 Sheboygan                Wi        10   1.30        13    .96
+   Same State                              139  18.12       254  18.84
+   Same Region, Diff. State                 92  11.99       163  12.09
+   Different Region                        144  18.77       241  17.88
+      55 085   County Non-Migrants       11644            26175
+55 087   Outagamie Total Migratio Wi      3601             6599
+  55 139 Winnebago                Wi      1131  31.41      2077  31.47
+  55 009 Brown                    Wi       330   9.16       580   8.79
+  55 015 Calumet                  Wi       322   8.94       630   9.55
+  55 135 Waupaca                  Wi       225   6.25       453   6.86
+  55 079 Milwaukee                Wi       118   3.28       156   2.36
+  55 025 Dane                     Wi        95   2.64       145   2.20
+  55 115 Shawano                  Wi        54   1.50       123   1.86
+  17 031 Cook                     Il        50   1.39        74   1.12
+  27 053 Hennepin                 Mn        44   1.22        66   1.00
+  55 137 Waushara                 Wi        33    .92        69   1.05
+  55 039 Fond du Lac              Wi        32    .89        61    .92
+  55 133 Waukesha                 Wi        32    .89        71   1.08
+  55 097 Portage                  Wi        31    .86        58    .88
+  55 073 Marathon                 Wi        28    .78        57    .86
+  55 131 Washington               Wi        23    .64        43    .65
+  55 083 Oconto                   Wi        22    .61        41    .62
+  57 005 APO / FPO Zip Code       FR        20    .56        32    .48
+  55 117 Sheboygan                Wi        19    .53        25    .38
+  55 071 Manitowoc                Wi        18    .50        46    .70
+  55 075 Marinette                Wi        18    .50        41    .62
+  04 013 Maricopa                 Az        17    .47        28    .42
+  55 035 Eau Claire               Wi        15    .42        19    .29
+  27 123 Ramsey                   Mn        15    .42        31    .47
+  55 085 Oneida                   Wi        15    .42        31    .47
+  06 073 San Diego                Ca        14    .39        22    .33
+  55 089 Ozaukee                  Wi        14    .39        26    .39
+  57 001 Foreign / Overseas       FR        13    .36        27    .41
+  55 141 Wood                     Wi        13    .36        18    .27
+  55 067 Langlade                 Wi        12    .33        21    .32
+  55 105 Rock                     Wi        12    .33        22    .33
+  55 063 La Crosse                Wi        12    .33        18    .27
+  17 043 Du Page                  Il        12    .33        12    .18
+  55 029 Door                     Wi        11    .31        15    .23
+  17 097 Lake                     Il        11    .31        20    .30
+  11 001 Wash.,D.C.               DC        11    .31        11    .17
+  55 109 St. Croix                Wi        11    .31        25    .38
+  06 037 Los Angeles              Ca        11    .31        17    .26
+  55 027 Dodge                    Wi        10    .28        15    .23
+  06 059 Orange                   Ca        10    .28        15    .23
+  55 041 Forest                   Wi        10    .28        19    .29
+   Same State                              127   3.53       234   3.55
+   Region 1:   Northeast                    46   1.28        83   1.26
+   Region 2:   Midwest                     222   6.16       454   6.88
+   Region 3:   South                       211   5.86       390   5.91
+   Region 4:   West                        101   2.80       178   2.70
+      55 087   County Non-Migrants       52499           125801
+55 089   Ozaukee Total Migration  Wi      2159             3977
+  55 079 Milwaukee                Wi       633  29.32       942  23.69
+  55 131 Washington               Wi       298  13.80       637  16.02
+  55 117 Sheboygan                Wi       142   6.58       306   7.69
+  55 133 Waukesha                 Wi       123   5.70       235   5.91
+  55 025 Dane                     Wi        59   2.73        90   2.26
+  17 031 Cook                     Il        48   2.22        63   1.58
+  55 009 Brown                    Wi        26   1.20        51   1.28
+  55 139 Winnebago                Wi        24   1.11        48   1.21
+  27 053 Hennepin                 Mn        20    .93        31    .78
+  04 013 Maricopa                 Az        18    .83        34    .85
+  17 043 Du Page                  Il        16    .74        35    .88
+  55 027 Dodge                    Wi        16    .74        28    .70
+  55 039 Fond du Lac              Wi        14    .65        26    .65
+  55 087 Outagamie                Wi        13    .60        26    .65
+  57 005 APO / FPO Zip Code       FR        12    .56        14    .35
+  55 071 Manitowoc                Wi        12    .56        24    .60
+  55 055 Jefferson                Wi        11    .51        23    .58
+  55 059 Kenosha                  Wi        10    .46        16    .40
+   Same State                              142   6.58       270   6.79
+   Region 1:   Northeast                    44   2.04        96   2.41
+   Region 2:   Midwest                     167   7.74       399  10.03
+   Region 3:   South                       194   8.99       377   9.48
+   Region 4:   West                        117   5.42       206   5.18
+      55 089   County Non-Migrants       26769            65118
+55 091   Pepin Total Migration Fl Wi       169              327
+  55 033 Dunn                     Wi        32  18.93        63  19.27
+  55 035 Eau Claire               Wi        25  14.79        41  12.54
+  55 093 Pierce                   Wi        22  13.02        38  11.62
+  55 011 Buffalo                  Wi        17  10.06        39  11.93
+   Same State                               32  18.93        71  21.71
+   Same Region, Diff. State                 26  15.38        48  14.68
+   Different Region                         15   8.88        27   8.26
+      55 091   County Non-Migrants        2470             5959
+55 093   Pierce Total Migration F Wi       778             1407
+  55 109 St. Croix                Wi       112  14.40       215  15.28
+  27 037 Dakota                   Mn        68   8.74       113   8.03
+  27 123 Ramsey                   Mn        54   6.94        78   5.54
+  27 049 Goodhue                  Mn        52   6.68        93   6.61
+  27 053 Hennepin                 Mn        47   6.04        68   4.83
+  27 163 Washington               Mn        39   5.01        82   5.83
+  55 033 Dunn                     Wi        36   4.63        60   4.26
+  55 035 Eau Claire               Wi        21   2.70        33   2.35
+  55 091 Pepin                    Wi        17   2.19        35   2.49
+   Same State                              138  17.74       260  18.48
+   Same Region, Diff. State                 97  12.47       162  11.51
+   Different Region                         97  12.47       208  14.78
+      55 093   County Non-Migrants       10931            26497
+55 095   Polk Total Migration Flo Wi       667             1289
+  55 109 St. Croix                Wi       116  17.39       242  18.77
+  55 005 Barron                   Wi        71  10.64       152  11.79
+  27 123 Ramsey                   Mn        60   9.00        96   7.45
+  27 053 Hennepin                 Mn        31   4.65        48   3.72
+  55 013 Burnett                  Wi        29   4.35        69   5.35
+  27 163 Washington               Mn        26   3.90        47   3.65
+  55 093 Pierce                   Wi        17   2.55        24   1.86
+  27 025 Chisago                  Mn        16   2.40        31   2.40
+  27 037 Dakota                   Mn        15   2.25        21   1.63
+  27 003 Anoka                    Mn        12   1.80        19   1.47
+  55 035 Eau Claire               Wi        12   1.80        21   1.63
+  55 033 Dunn                     Wi        12   1.80        29   2.25
+   Same State                               71  10.64       155  12.02
+   Same Region, Diff. State                 70  10.49       159  12.34
+   Different Region                        109  16.34       176  13.65
+      55 095   County Non-Migrants       12022            28830
+55 097   Portage Total Migration  Wi      1307             2361
+  55 141 Wood                     Wi       132  10.10       240  10.17
+  55 073 Marathon                 Wi       106   8.11       229   9.70
+  55 135 Waupaca                  Wi        86   6.58       159   6.73
+  55 025 Dane                     Wi        83   6.35       123   5.21
+  55 079 Milwaukee                Wi        77   5.89       109   4.62
+  55 009 Brown                    Wi        40   3.06        65   2.75
+  27 053 Hennepin                 Mn        34   2.60        47   1.99
+  55 087 Outagamie                Wi        34   2.60        52   2.20
+  55 139 Winnebago                Wi        31   2.37        48   2.03
+  55 137 Waushara                 Wi        25   1.91        36   1.52
+  55 085 Oneida                   Wi        17   1.30        39   1.65
+  55 133 Waukesha                 Wi        17   1.30        27   1.14
+  27 123 Ramsey                   Mn        17   1.30        19    .80
+  55 069 Lincoln                  Wi        14   1.07        28   1.19
+  55 035 Eau Claire               Wi        14   1.07        27   1.14
+  17 031 Cook                     Il        14   1.07        14    .59
+  55 115 Shawano                  Wi        13    .99        21    .89
+  04 013 Maricopa                 Az        11    .84        21    .89
+  55 027 Dodge                    Wi        10    .77        17    .72
+   Same State                              176  13.47       360  15.25
+   Region 1:   Northeast                    29   2.22        39   1.65
+   Region 2:   Midwest                     147  11.25       315  13.34
+   Region 3:   South                        94   7.19       172   7.29
+   Region 4:   West                         86   6.58       154   6.52
+      55 097   County Non-Migrants       20205            47590
+55 099   Price Total Migration Fl Wi       360              636
+  55 073 Marathon                 Wi        28   7.78        43   6.76
+  55 025 Dane                     Wi        21   5.83        32   5.03
+  55 003 Ashland                  Wi        19   5.28        50   7.86
+  55 119 Taylor                   Wi        18   5.00        30   4.72
+  55 079 Milwaukee                Wi        13   3.61        16   2.52
+  55 051 Iron                     Wi        12   3.33        26   4.09
+  55 107 Rusk                     Wi        11   3.06        32   5.03
+  55 069 Lincoln                  Wi        11   3.06        19   2.99
+  55 035 Eau Claire               Wi        10   2.78        12   1.89
+  55 005 Barron                   Wi        10   2.78        16   2.52
+   Same State                              102  28.33       167  26.26
+   Same Region, Diff. State                 52  14.44       103  16.19
+   Different Region                         53  14.72        90  14.15
+      55 099   County Non-Migrants        5308            12568
+55 101   Racine Total Migration F Wi      3332             6308
+  55 079 Milwaukee                Wi       656  19.69      1056  16.74
+  55 059 Kenosha                  Wi       408  12.24       780  12.37
+  55 127 Walworth                 Wi       177   5.31       369   5.85
+  55 133 Waukesha                 Wi       158   4.74       320   5.07
+  55 025 Dane                     Wi       106   3.18       155   2.46
+  17 031 Cook                     Il        97   2.91       138   2.19
+  17 097 Lake                     Il        63   1.89       133   2.11
+  04 013 Maricopa                 Az        45   1.35        73   1.16
+  55 131 Washington               Wi        31    .93        61    .97
+  55 009 Brown                    Wi        30    .90        51    .81
+  57 005 APO / FPO Zip Code       FR        27    .81        53    .84
+  27 053 Hennepin                 Mn        24    .72        48    .76
+  55 063 La Crosse                Wi        22    .66        39    .62
+  06 037 Los Angeles              Ca        20    .60        43    .68
+  17 043 Du Page                  Il        19    .57        28    .44
+  55 035 Eau Claire               Wi        19    .57        42    .67
+  55 087 Outagamie                Wi        19    .57        35    .55
+  55 139 Winnebago                Wi        17    .51        28    .44
+  55 105 Rock                     Wi        16    .48        43    .68
+  55 039 Fond du Lac              Wi        16    .48        25    .40
+  55 089 Ozaukee                  Wi        14    .42        25    .40
+  06 073 San Diego                Ca        13    .39        22    .35
+  32 003 Clark                    Nv        13    .39        17    .27
+  55 075 Marinette                Wi        12    .36        35    .55
+  06 059 Orange                   Ca        12    .36        16    .25
+  55 055 Jefferson                Wi        12    .36        28    .44
+  27 123 Ramsey                   Mn        12    .36        19    .30
+  04 019 Pima                     Az        12    .36        30    .48
+  55 117 Sheboygan                Wi        12    .36        26    .41
+  55 027 Dodge                    Wi        11    .33        30    .48
+  55 043 Grant                    Wi        11    .33        14    .22
+  48 113 Dallas                   Tx        11    .33        19    .30
+  55 111 Sauk                     Wi        11    .33        32    .51
+  55 097 Portage                  Wi        10    .30        14    .22
+  55 073 Marathon                 Wi        10    .30        29    .46
+  55 057 Juneau                   Wi        10    .30        28    .44
+  55 071 Manitowoc                Wi        10    .30        26    .41
+  39 049 Franklin                 Oh        10    .30        24    .38
+  08 041 El Paso                  Co        10    .30        24    .38
+   Same State                              211   6.33       452   7.17
+   Region 1:   Northeast                    70   2.10       142   2.25
+   Region 2:   Midwest                     276   8.28       624   9.89
+   Region 3:   South                       440  13.21       864  13.70
+   Region 4:   West                        149   4.47       248   3.93
+      55 101   County Non-Migrants       65613           148955
+55 103   Richland Total Migration Wi       391              773
+  55 111 Sauk                     Wi        55  14.07       119  15.39
+  55 043 Grant                    Wi        45  11.51        92  11.90
+  55 025 Dane                     Wi        44  11.25        77   9.96
+  55 123 Vernon                   Wi        29   7.42        78  10.09
+  55 049 Iowa                     Wi        18   4.60        33   4.27
+  55 023 Crawford                 Wi        16   4.09        41   5.30
+  55 063 La Crosse                Wi        13   3.32        23   2.98
+   Same State                               74  18.93       129  16.69
+   Same Region, Diff. State                 47  12.02        88  11.38
+   Different Region                         50  12.79        93  12.03
+      55 103   County Non-Migrants        5771            13609
+55 105   Rock Total Migration Flo Wi      2657             4757
+  55 025 Dane                     Wi       443  16.67       680  14.29
+  17 201 Winnebago                Il       297  11.18       573  12.05
+  55 127 Walworth                 Wi       119   4.48       210   4.41
+  55 079 Milwaukee                Wi       103   3.88       160   3.36
+  55 045 Green                    Wi       101   3.80       210   4.41
+  17 031 Cook                     Il        66   2.48       110   2.31
+  55 055 Jefferson                Wi        65   2.45       120   2.52
+  55 133 Waukesha                 Wi        49   1.84        80   1.68
+  57 005 APO / FPO Zip Code       FR        35   1.32        47    .99
+  04 013 Maricopa                 Az        24    .90        40    .84
+  55 097 Portage                  Wi        23    .87        38    .80
+  55 139 Winnebago                Wi        22    .83        42    .88
+  55 043 Grant                    Wi        22    .83        43    .90
+  55 087 Outagamie                Wi        21    .79        41    .86
+  55 101 Racine                   Wi        19    .72        29    .61
+  17 007 Boone                    Il        19    .72        38    .80
+  27 053 Hennepin                 Mn        18    .68        18    .38
+  55 009 Brown                    Wi        18    .68        34    .71
+  55 063 La Crosse                Wi        17    .64        22    .46
+  55 111 Sauk                     Wi        17    .64        29    .61
+  55 059 Kenosha                  Wi        16    .60        27    .57
+  55 021 Columbia                 Wi        16    .60        24    .50
+  55 023 Crawford                 Wi        16    .60        29    .61
+  06 073 San Diego                Ca        15    .56        22    .46
+  55 073 Marathon                 Wi        15    .56        27    .57
+  17 097 Lake                     Il        14    .53        21    .44
+  17 043 Du Page                  Il        14    .53        26    .55
+  55 057 Juneau                   Wi        14    .53        25    .53
+  55 035 Eau Claire               Wi        13    .49        22    .46
+  27 037 Dakota                   Mn        13    .49        23    .48
+  55 027 Dodge                    Wi        12    .45        25    .53
+  55 141 Wood                     Wi        12    .45        21    .44
+  55 085 Oneida                   Wi        12    .45        25    .53
+  55 001 Adams                    Wi        11    .41        28    .59
+  32 003 Clark                    Nv        10    .38        17    .36
+  06 037 Los Angeles              Ca        10    .38        20    .42
+  27 123 Ramsey                   Mn        10    .38        13    .27
+  55 081 Monroe                   Wi        10    .38        27    .57
+  55 103 Richland                 Wi        10    .38        20    .42
+   Same State                              147   5.53       302   6.35
+   Region 1:   Northeast                    39   1.47        62   1.30
+   Region 2:   Midwest                     281  10.58       587  12.34
+   Region 3:   South                       289  10.88       572  12.02
+   Region 4:   West                        160   6.02       228   4.79
+      55 105   County Non-Migrants       50708           114260
+55 107   Rusk Total Migration Flo Wi       332              659
+  55 005 Barron                   Wi        46  13.86        87  13.20
+  55 017 Chippewa                 Wi        34  10.24        71  10.77
+  55 035 Eau Claire               Wi        28   8.43        42   6.37
+  55 119 Taylor                   Wi        18   5.42        36   5.46
+  55 113 Sawyer                   Wi        17   5.12        47   7.13
+   Same State                               99  29.82       197  29.89
+   Same Region, Diff. State                 44  13.25        89  13.51
+   Different Region                         46  13.86        90  13.66
+      55 107   County Non-Migrants        4840            11727
+55 109   St. Croix Total Migratio Wi      1221             2270
+  27 163 Washington               Mn       137  11.22       247  10.88
+  55 093 Pierce                   Wi       137  11.22       264  11.63
+  27 123 Ramsey                   Mn       130  10.65       198   8.72
+  55 095 Polk                     Wi       122   9.99       257  11.32
+  27 053 Hennepin                 Mn        65   5.32        79   3.48
+  55 033 Dunn                     Wi        47   3.85        97   4.27
+  27 037 Dakota                   Mn        47   3.85        94   4.14
+  55 005 Barron                   Wi        29   2.38        62   2.73
+  55 035 Eau Claire               Wi        23   1.88        42   1.85
+  55 013 Burnett                  Wi        16   1.31        32   1.41
+  55 079 Milwaukee                Wi        14   1.15        22    .97
+  55 017 Chippewa                 Wi        13   1.06        30   1.32
+  27 003 Anoka                    Mn        12    .98        21    .93
+  55 025 Dane                     Wi        11    .90        21    .93
+   Same State                              112   9.17       218   9.60
+   Region 1:   Northeast                    15   1.23        31   1.37
+   Region 2:   Midwest                     134  10.97       275  12.11
+   Region 3:   South                        66   5.41       128   5.64
+   Region 4:   West                         81   6.63       141   6.21
+   Foreign                                  10    .82        11    .48
+      55 109   County Non-Migrants       17929            44578
+55 111   Sauk Total Migration Flo Wi      1152             2069
+  55 025 Dane                     Wi       299  25.95       436  21.07
+  55 021 Columbia                 Wi       129  11.20       248  11.99
+  55 057 Juneau                   Wi        55   4.77       112   5.41
+  55 103 Richland                 Wi        45   3.91       101   4.88
+  55 049 Iowa                     Wi        37   3.21        83   4.01
+  55 079 Milwaukee                Wi        34   2.95        56   2.71
+  55 105 Rock                     Wi        31   2.69        58   2.80
+  17 031 Cook                     Il        17   1.48        20    .97
+  55 043 Grant                    Wi        14   1.22        30   1.45
+  55 055 Jefferson                Wi        11    .95        20    .97
+  55 133 Waukesha                 Wi        11    .95        20    .97
+  55 077 Marquette                Wi        11    .95        19    .92
+  55 123 Vernon                   Wi        10    .87        30   1.45
+   Same State                              153  13.28       286  13.82
+   Region 1:   Northeast                    17   1.48        32   1.55
+   Region 2:   Midwest                     110   9.55       218  10.54
+   Region 3:   South                        81   7.03       157   7.59
+   Region 4:   West                         77   6.68       129   6.23
+   Foreign                                  10    .87        14    .68
+      55 111   County Non-Migrants       17920            41056
+55 113   Sawyer Total Migration F Wi       289              533
+  55 005 Barron                   Wi        22   7.61        33   6.19
+  55 129 Washburn                 Wi        15   5.19        22   4.13
+  55 107 Rusk                     Wi        14   4.84        43   8.07
+  55 007 Bayfield                 Wi        10   3.46        24   4.50
+   Same State                              111  38.41       222  41.65
+   Same Region, Diff. State                 70  24.22       111  20.83
+   Different Region                         47  16.26        78  14.63
+      55 113   County Non-Migrants        4622            10577
+55 115   Shawano Total Migration  Wi       810             1503
+  55 009 Brown                    Wi       117  14.44       191  12.71
+  55 073 Marathon                 Wi        84  10.37       168  11.18
+  55 135 Waupaca                  Wi        78   9.63       166  11.04
+  55 087 Outagamie                Wi        56   6.91        95   6.32
+  55 083 Oconto                   Wi        42   5.19        84   5.59
+  55 079 Milwaukee                Wi        34   4.20        50   3.33
+  55 067 Langlade                 Wi        33   4.07        58   3.86
+  55 139 Winnebago                Wi        33   4.07        55   3.66
+  55 078 Menominee                Wi        23   2.84        60   3.99
+  55 025 Dane                     Wi        18   2.22        27   1.80
+  55 075 Marinette                Wi        12   1.48        22   1.46
+  55 133 Waukesha                 Wi        12   1.48        21   1.40
+  55 097 Portage                  Wi        10   1.23        19   1.26
+   Same State                              108  13.33       234  15.57
+   Same Region, Diff. State                 45   5.56        77   5.12
+   Different Region                        105  12.96       176  11.71
+      55 115   County Non-Migrants       12561            29673
+55 117   Sheboygan Total Migratio Wi      1653             2967
+  55 079 Milwaukee                Wi       164   9.92       235   7.92
+  55 071 Manitowoc                Wi       157   9.50       329  11.09
+  55 089 Ozaukee                  Wi        87   5.26       158   5.33
+  55 025 Dane                     Wi        78   4.72       126   4.25
+  55 131 Washington               Wi        64   3.87       136   4.58
+  55 039 Fond du Lac              Wi        62   3.75       113   3.81
+  55 009 Brown                    Wi        53   3.21       107   3.61
+  55 139 Winnebago                Wi        45   2.72        65   2.19
+  17 031 Cook                     Il        37   2.24        50   1.69
+  55 133 Waukesha                 Wi        36   2.18        77   2.60
+  55 015 Calumet                  Wi        32   1.94        61   2.06
+  55 087 Outagamie                Wi        32   1.94        54   1.82
+  04 013 Maricopa                 Az        24   1.45        37   1.25
+  27 053 Hennepin                 Mn        20   1.21        23    .78
+  57 005 APO / FPO Zip Code       FR        17   1.03        19    .64
+  55 073 Marathon                 Wi        14    .85        21    .71
+  55 035 Eau Claire               Wi        14    .85        24    .81
+  17 043 Du Page                  Il        13    .79        25    .84
+  27 123 Ramsey                   Mn        12    .73        21    .71
+  55 027 Dodge                    Wi        12    .73        30   1.01
+  55 141 Wood                     Wi        12    .73        25    .84
+  55 083 Oconto                   Wi        11    .67        18    .61
+  55 063 La Crosse                Wi        11    .67        17    .57
+  55 097 Portage                  Wi        10    .60        19    .64
+  06 073 San Diego                Ca        10    .60        19    .64
+  55 075 Marinette                Wi        10    .60        18    .61
+   Same State                              131   7.92       265   8.93
+   Region 1:   Northeast                    25   1.51        43   1.45
+   Region 2:   Midwest                     172  10.41       355  11.96
+   Region 3:   South                       176  10.65       300  10.11
+   Region 4:   West                        112   6.78       177   5.97
+      55 117   County Non-Migrants       38426            88919
+55 119   Taylor Total Migration F Wi       321              662
+  55 019 Clark                    Wi        61  19.00       156  23.56
+  55 073 Marathon                 Wi        39  12.15        69  10.42
+  55 035 Eau Claire               Wi        16   4.98        21   3.17
+  55 107 Rusk                     Wi        15   4.67        32   4.83
+  55 017 Chippewa                 Wi        13   4.05        39   5.89
+  55 079 Milwaukee                Wi        10   3.12        14   2.11
+   Same State                               88  27.41       188  28.40
+   Same Region, Diff. State                 45  14.02        78  11.78
+   Different Region                         34  10.59        65   9.82
+      55 119   County Non-Migrants        6219            15550
+55 121   Trempealeau Total Migrat Wi       517              996
+  55 035 Eau Claire               Wi        75  14.51       157  15.76
+  55 063 La Crosse                Wi        72  13.93       138  13.86
+  55 053 Jackson                  Wi        45   8.70        94   9.44
+  55 011 Buffalo                  Wi        44   8.51        83   8.33
+  27 169 Winona                   Mn        31   6.00        65   6.53
+  55 025 Dane                     Wi        17   3.29        28   2.81
+  55 079 Milwaukee                Wi        11   2.13        15   1.51
+  57 005 APO / FPO Zip Code       FR        11   2.13        15   1.51
+   Same State                               90  17.41       186  18.67
+   Same Region, Diff. State                 59  11.41       117  11.75
+   Different Region                         62  11.99        98   9.84
+      55 121   County Non-Migrants        9219            21261
+55 123   Vernon Total Migration F Wi       526              965
+  55 063 La Crosse                Wi       157  29.85       278  28.81
+  55 081 Monroe                   Wi        39   7.41        73   7.56
+  55 103 Richland                 Wi        27   5.13        52   5.39
+  55 025 Dane                     Wi        26   4.94        36   3.73
+  55 023 Crawford                 Wi        20   3.80        48   4.97
+  55 057 Juneau                   Wi        18   3.42        33   3.42
+  55 043 Grant                    Wi        14   2.66        22   2.28
+  55 111 Sauk                     Wi        13   2.47        33   3.42
+   Same State                               80  15.21       145  15.03
+   Same Region, Diff. State                 72  13.69       130  13.47
+   Different Region                         60  11.41       115  11.92
+      55 123   County Non-Migrants        8674            20498
+55 125   Vilas Total Migration Fl Wi       456              783
+  55 085 Oneida                   Wi        94  20.61       194  24.78
+  55 079 Milwaukee                Wi        23   5.04        31   3.96
+  55 073 Marathon                 Wi        19   4.17        31   3.96
+  17 031 Cook                     Il        18   3.95        27   3.45
+  55 025 Dane                     Wi        14   3.07        18   2.30
+  55 133 Waukesha                 Wi        11   2.41        20   2.55
+  55 035 Eau Claire               Wi        10   2.19        14   1.79
+   Same State                              114  25.00       208  26.56
+   Same Region, Diff. State                 70  15.35       112  14.30
+   Different Region                         83  18.20       128  16.35
+      55 125   County Non-Migrants        6323            13741
+55 127   Walworth Total Migration Wi      1992             3517
+  55 079 Milwaukee                Wi       179   8.99       262   7.45
+  55 105 Rock                     Wi       165   8.28       323   9.18
+  55 133 Waukesha                 Wi       163   8.18       301   8.56
+  55 101 Racine                   Wi       148   7.43       307   8.73
+  55 025 Dane                     Wi       111   5.57       165   4.69
+  17 031 Cook                     Il       110   5.52       145   4.12
+  55 055 Jefferson                Wi        89   4.47       178   5.06
+  55 059 Kenosha                  Wi        81   4.07       142   4.04
+  17 111 McHenry                  Il        60   3.01       110   3.13
+  17 097 Lake                     Il        34   1.71        55   1.56
+  17 201 Winnebago                Il        23   1.15        38   1.08
+  17 043 Du Page                  Il        18    .90        30    .85
+  04 013 Maricopa                 Az        18    .90        38   1.08
+  57 005 APO / FPO Zip Code       FR        16    .80        21    .60
+  55 139 Winnebago                Wi        13    .65        22    .63
+  55 087 Outagamie                Wi        13    .65        19    .54
+  55 021 Columbia                 Wi        13    .65        21    .60
+  55 027 Dodge                    Wi        12    .60        20    .57
+  27 053 Hennepin                 Mn        12    .60        14    .40
+  06 073 San Diego                Ca        10    .50        12    .34
+   Same State                              194   9.74       393  11.17
+   Region 1:   Northeast                    26   1.31        39   1.11
+   Region 2:   Midwest                     171   8.58       334   9.50
+   Region 3:   South                       203  10.19       351   9.98
+   Region 4:   West                        110   5.52       177   5.03
+      55 127   County Non-Migrants       26187            58856
+55 129   Washburn Total Migration Wi       330              646
+  55 005 Barron                   Wi        65  19.70       126  19.50
+  55 013 Burnett                  Wi        32   9.70        78  12.07
+  55 113 Sawyer                   Wi        29   8.79        62   9.60
+  55 035 Eau Claire               Wi        21   6.36        36   5.57
+  55 025 Dane                     Wi        10   3.03        23   3.56
+  27 053 Hennepin                 Mn        10   3.03        14   2.17
+   Same State                               60  18.18       121  18.73
+   Same Region, Diff. State                 56  16.97        94  14.55
+   Different Region                         47  14.24        92  14.24
+      55 129   County Non-Migrants        4702            11057
+55 131   Washington Total Migrati Wi      2480             4552
+  55 079 Milwaukee                Wi       592  23.87       914  20.08
+  55 133 Waukesha                 Wi       374  15.08       688  15.11
+  55 089 Ozaukee                  Wi       190   7.66       356   7.82
+  55 027 Dodge                    Wi       187   7.54       429   9.42
+  55 039 Fond du Lac              Wi       150   6.05       294   6.46
+  55 117 Sheboygan                Wi        68   2.74       126   2.77
+  55 025 Dane                     Wi        57   2.30        91   2.00
+  55 139 Winnebago                Wi        31   1.25        54   1.19
+  17 031 Cook                     Il        31   1.25        45    .99
+  55 009 Brown                    Wi        24    .97        53   1.16
+  55 055 Jefferson                Wi        21    .85        44    .97
+  55 125 Vilas                    Wi        17    .69        32    .70
+  55 127 Walworth                 Wi        17    .69        23    .51
+  27 053 Hennepin                 Mn        16    .65        30    .66
+  04 013 Maricopa                 Az        16    .65        27    .59
+  55 085 Oneida                   Wi        16    .65        42    .92
+  57 005 APO / FPO Zip Code       FR        16    .65        29    .64
+  55 087 Outagamie                Wi        14    .56        35    .77
+  55 105 Rock                     Wi        13    .52        27    .59
+  55 073 Marathon                 Wi        12    .48        24    .53
+  55 063 La Crosse                Wi        12    .48        17    .37
+  55 101 Racine                   Wi        12    .48        34    .75
+  55 135 Waupaca                  Wi        11    .44        22    .48
+  55 071 Manitowoc                Wi        11    .44        24    .53
+  55 077 Marquette                Wi        11    .44        14    .31
+  55 059 Kenosha                  Wi        10    .40        16    .35
+  55 115 Shawano                  Wi        10    .40        17    .37
+   Same State                              133   5.36       270   5.93
+   Region 1:   Northeast                    25   1.01        42    .92
+   Region 2:   Midwest                     146   5.89       318   6.99
+   Region 3:   South                       134   5.40       263   5.78
+   Region 4:   West                        103   4.15       152   3.34
+      55 131   County Non-Migrants       36153            86835
+55 133   Waukesha Total Migration Wi      8636            15614
+  55 079 Milwaukee                Wi      3533  40.91      5332  34.15
+  55 131 Washington               Wi       514   5.95      1071   6.86
+  55 055 Jefferson                Wi       304   3.52       651   4.17
+  55 025 Dane                     Wi       240   2.78       369   2.36
+  55 101 Racine                   Wi       215   2.49       435   2.79
+  55 127 Walworth                 Wi       201   2.33       419   2.68
+  17 031 Cook                     Il       151   1.75       215   1.38
+  55 027 Dodge                    Wi       137   1.59       278   1.78
+  55 089 Ozaukee                  Wi       107   1.24       231   1.48
+  27 053 Hennepin                 Mn        79    .91       146    .94
+  04 013 Maricopa                 Az        78    .90       138    .88
+  55 139 Winnebago                Wi        76    .88       152    .97
+  55 087 Outagamie                Wi        62    .72       112    .72
+  55 009 Brown                    Wi        54    .63       116    .74
+  17 043 Du Page                  Il        50    .58       109    .70
+  55 059 Kenosha                  Wi        42    .49        80    .51
+  06 073 San Diego                Ca        41    .47        69    .44
+  55 117 Sheboygan                Wi        39    .45        72    .46
+  55 039 Fond du Lac              Wi        38    .44        88    .56
+  55 105 Rock                     Wi        37    .43        72    .46
+  06 059 Orange                   Ca        36    .42        60    .38
+  55 097 Portage                  Wi        36    .42        64    .41
+  57 005 APO / FPO Zip Code       FR        33    .38        38    .24
+  55 073 Marathon                 Wi        33    .38        80    .51
+  55 063 La Crosse                Wi        32    .37        51    .33
+  53 033 King                     Wa        31    .36        58    .37
+  32 003 Clark                    Nv        31    .36        57    .37
+  57 001 Foreign / Overseas       FR        30    .35        83    .53
+  17 097 Lake                     Il        29    .34        64    .41
+  55 021 Columbia                 Wi        29    .34        57    .37
+  12 103 Pinellas                 Fl        27    .31        58    .37
+  55 111 Sauk                     Wi        27    .31        63    .40
+  48 113 Dallas                   Tx        24    .28        46    .29
+  55 033 Dunn                     Wi        24    .28        43    .28
+  55 085 Oneida                   Wi        23    .27        43    .28
+  06 037 Los Angeles              Ca        23    .27        34    .22
+  55 035 Eau Claire               Wi        22    .25        50    .32
+  55 075 Marinette                Wi        21    .24        41    .26
+  55 125 Vilas                    Wi        21    .24        37    .24
+  55 115 Shawano                  Wi        20    .23        45    .29
+  17 089 Kane                     Il        20    .23        54    .35
+  55 141 Wood                     Wi        20    .23        35    .22
+  27 037 Dakota                   Mn        20    .23        58    .37
+  26 125 Oakland                  Mi        20    .23        48    .31
+  55 069 Lincoln                  Wi        19    .22        38    .24
+  27 123 Ramsey                   Mn        19    .22        31    .20
+  55 137 Waushara                 Wi        18    .21        39    .25
+  12 115 Sarasota                 Fl        18    .21        41    .26
+  12 071 Lee                      Fl        18    .21        30    .19
+  55 135 Waupaca                  Wi        17    .20        27    .17
+  37 183 Wake                     NC        16    .19        48    .31
+  12 021 Collier                  Fl        16    .19        39    .25
+  55 071 Manitowoc                Wi        15    .17        21    .13
+  20 091 Johnson                  Ks        15    .17        45    .29
+  17 201 Winnebago                Il        15    .17        25    .16
+  55 017 Chippewa                 Wi        15    .17        24    .15
+  39 049 Franklin                 Oh        14    .16        33    .21
+  48 201 Harris                   Tx        14    .16        23    .15
+  27 003 Anoka                    Mn        14    .16        28    .18
+  06 085 Santa Clara              Ca        14    .16        17    .11
+  12 057 Hillsborough             Fl        14    .16        22    .14
+  12 011 Broward                  Fl        14    .16        36    .23
+  55 029 Door                     Wi        13    .15        36    .23
+  55 001 Adams                    Wi        13    .15        25    .16
+  13 135 Gwinnett                 Ga        13    .15        40    .26
+  18 097 Marion                   In        13    .15        22    .14
+  17 111 McHenry                  Il        13    .15        34    .22
+  51 059 Fairfax                  Va        13    .15        32    .20
+  15 003 Honolulu                 Hi        12    .14        13    .08
+  12 095 Orange                   Fl        12    .14        25    .16
+  29 189 St. Louis                Mo        12    .14        42    .27
+  18 157 Tippecanoe               In        12    .14        19    .12
+  18 003 Allen                    In        12    .14        33    .21
+  04 019 Pima                     Az        12    .14        15    .10
+  55 057 Juneau                   Wi        11    .13        22    .14
+  12 117 Seminole                 Fl        11    .13        27    .17
+  55 077 Marquette                Wi        11    .13        18    .12
+  12 099 Palm Beach               Fl        11    .13        22    .14
+  48 439 Tarrant                  Tx        11    .13        20    .13
+  21 111 Jefferson                Ky        11    .13        23    .15
+  08 041 El Paso                  Co        11    .13        16    .10
+  19 153 Polk                     Ia        11    .13        25    .16
+  06 075 San Francisco            Ca        11    .13        11    .07
+  08 059 Jefferson                Co        10    .12        31    .20
+  39 035 Cuyahoga                 Oh        10    .12        16    .10
+   Same State                              150   1.74       316   2.02
+   Region 1:   Northeast                   150   1.74       340   2.18
+   Region 2:   Midwest                     443   5.13       977   6.26
+   Region 3:   South                       451   5.22       971   6.22
+   Region 4:   West                        258   2.99       454   2.91
+      55 133   County Non-Migrants      114870           274804
+55 135   Waupaca Total Migration  Wi       926             1667
+  55 087 Outagamie                Wi       223  24.08       405  24.30
+  55 139 Winnebago                Wi        82   8.86       146   8.76
+  55 097 Portage                  Wi        60   6.48       100   6.00
+  55 115 Shawano                  Wi        44   4.75        89   5.34
+  55 025 Dane                     Wi        32   3.46        51   3.06
+  55 079 Milwaukee                Wi        30   3.24        42   2.52
+  55 009 Brown                    Wi        24   2.59        44   2.64
+  55 137 Waushara                 Wi        23   2.48        53   3.18
+  55 133 Waukesha                 Wi        16   1.73        24   1.44
+  55 141 Wood                     Wi        15   1.62        26   1.56
+  17 031 Cook                     Il        15   1.62        22   1.32
+  55 015 Calumet                  Wi        14   1.51        29   1.74
+  55 073 Marathon                 Wi        13   1.40        23   1.38
+  57 005 APO / FPO Zip Code       FR        10   1.08        13    .78
+   Same State                              122  13.17       244  14.64
+   Region 1:   Northeast                    11   1.19        14    .84
+   Region 2:   Midwest                      74   7.99       137   8.22
+   Region 3:   South                        63   6.80       103   6.18
+   Region 4:   West                         55   5.94       102   6.12
+      55 135   County Non-Migrants       16575            39129
+55 137   Waushara Total Migration Wi       485              915
+  55 139 Winnebago                Wi        57  11.75        88   9.62
+  55 097 Portage                  Wi        53  10.93       105  11.48
+  55 135 Waupaca                  Wi        42   8.66        95  10.38
+  55 047 Green Lake               Wi        34   7.01        62   6.78
+  55 079 Milwaukee                Wi        24   4.95        42   4.59
+  55 077 Marquette                Wi        20   4.12        53   5.79
+  55 087 Outagamie                Wi        20   4.12        37   4.04
+  55 039 Fond du Lac              Wi        17   3.51        25   2.73
+  55 141 Wood                     Wi        13   2.68        23   2.51
+  48 215 Hidalgo                  Tx        11   2.27        35   3.83
+  55 001 Adams                    Wi        11   2.27        30   3.28
+  55 025 Dane                     Wi        10   2.06        11   1.20
+  55 073 Marathon                 Wi        10   2.06        17   1.86
+   Same State                               59  12.16       112  12.24
+   Same Region, Diff. State                 36   7.42        64   6.99
+   Different Region                         68  14.02       116  12.68
+      55 137   County Non-Migrants        6651            15193
+55 139   Winnebago Total Migratio Wi      3451             6151
+  55 087 Outagamie                Wi      1055  30.57      1895  30.81
+  55 039 Fond du Lac              Wi       179   5.19       295   4.80
+  55 079 Milwaukee                Wi       151   4.38       194   3.15
+  55 135 Waupaca                  Wi       133   3.85       273   4.44
+  55 015 Calumet                  Wi       133   3.85       247   4.02
+  55 025 Dane                     Wi       133   3.85       183   2.98
+  55 009 Brown                    Wi       116   3.36       224   3.64
+  55 137 Waushara                 Wi        88   2.55       210   3.41
+  55 047 Green Lake               Wi        57   1.65       112   1.82
+  55 133 Waukesha                 Wi        48   1.39        75   1.22
+  27 053 Hennepin                 Mn        36   1.04        51    .83
+  17 031 Cook                     Il        32    .93        44    .72
+  55 117 Sheboygan                Wi        32    .93        61    .99
+  55 073 Marathon                 Wi        29    .84        52    .85
+  55 101 Racine                   Wi        29    .84        56    .91
+  55 097 Portage                  Wi        28    .81        63   1.02
+  55 131 Washington               Wi        24    .70        40    .65
+  55 115 Shawano                  Wi        23    .67        43    .70
+  04 013 Maricopa                 Az        22    .64        27    .44
+  57 005 APO / FPO Zip Code       FR        21    .61        27    .44
+  55 035 Eau Claire               Wi        20    .58        44    .72
+  55 071 Manitowoc                Wi        19    .55        37    .60
+  55 027 Dodge                    Wi        16    .46        31    .50
+  17 097 Lake                     Il        15    .43        26    .42
+  55 075 Marinette                Wi        13    .38        25    .41
+  55 105 Rock                     Wi        13    .38        21    .34
+  55 067 Langlade                 Wi        13    .38        20    .33
+  55 077 Marquette                Wi        13    .38        24    .39
+  55 069 Lincoln                  Wi        12    .35        30    .49
+  06 073 San Diego                Ca        12    .35        20    .33
+  55 141 Wood                     Wi        12    .35        21    .34
+  55 059 Kenosha                  Wi        11    .32        20    .33
+  27 123 Ramsey                   Mn        11    .32        15    .24
+  55 083 Oconto                   Wi        11    .32        25    .41
+  55 085 Oneida                   Wi        11    .32        27    .44
+  17 043 Du Page                  Il        10    .29        11    .18
+  55 017 Chippewa                 Wi        10    .29        21    .34
+  57 001 Foreign / Overseas       FR        10    .29        16    .26
+  06 037 Los Angeles              Ca        10    .29        16    .26
+  55 033 Dunn                     Wi        10    .29        14    .23
+   Same State                              134   3.88       231   3.76
+   Region 1:   Northeast                    41   1.19        76   1.24
+   Region 2:   Midwest                     242   7.01       468   7.61
+   Region 3:   South                       266   7.71       498   8.10
+   Region 4:   West                        147   4.26       242   3.93
+      55 139   County Non-Migrants       52085           116440
+55 141   Wood Total Migration Flo Wi      1569             2849
+  55 097 Portage                  Wi       164  10.45       311  10.92
+  55 073 Marathon                 Wi       159  10.13       286  10.04
+  55 025 Dane                     Wi        94   5.99       132   4.63
+  55 019 Clark                    Wi        84   5.35       160   5.62
+  55 079 Milwaukee                Wi        62   3.95        92   3.23
+  55 001 Adams                    Wi        43   2.74       107   3.76
+  27 053 Hennepin                 Mn        35   2.23        46   1.61
+  55 035 Eau Claire               Wi        32   2.04        53   1.86
+  55 063 La Crosse                Wi        28   1.78        49   1.72
+  55 087 Outagamie                Wi        26   1.66        38   1.33
+  55 139 Winnebago                Wi        23   1.47        36   1.26
+  55 009 Brown                    Wi        23   1.47        43   1.51
+  55 021 Columbia                 Wi        22   1.40        38   1.33
+  55 085 Oneida                   Wi        20   1.27        38   1.33
+  55 133 Waukesha                 Wi        18   1.15        33   1.16
+  17 031 Cook                     Il        18   1.15        22    .77
+  55 111 Sauk                     Wi        15    .96        30   1.05
+  55 057 Juneau                   Wi        15    .96        34   1.19
+  55 017 Chippewa                 Wi        13    .83        21    .74
+  57 005 APO / FPO Zip Code       FR        13    .83        17    .60
+  55 081 Monroe                   Wi        12    .76        38   1.33
+  55 059 Kenosha                  Wi        12    .76        18    .63
+  55 137 Waushara                 Wi        11    .70        20    .70
+  55 069 Lincoln                  Wi        11    .70        26    .91
+  17 201 Winnebago                Il        11    .70        17    .60
+  55 033 Dunn                     Wi        11    .70        13    .46
+  55 119 Taylor                   Wi        11    .70        23    .81
+  55 127 Walworth                 Wi        10    .64        18    .63
+  27 123 Ramsey                   Mn        10    .64        16    .56
+   Same State                              134   8.54       273   9.58
+   Region 1:   Northeast                    14    .89        31   1.09
+   Region 2:   Midwest                     175  11.15       340  11.93
+   Region 3:   South                       136   8.67       254   8.92
+   Region 4:   West                        104   6.63       176   6.18
+      55 141   County Non-Migrants       27900            66339

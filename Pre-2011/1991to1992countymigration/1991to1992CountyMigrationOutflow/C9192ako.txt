@@ -1,0 +1,516 @@
+02 013   Aleutians East Borough T Ak       130              266
+  02 020 Anchorage Borough        Ak        21  16.15        55  20.68
+  53 033 King                     Wa        18  13.85        31  11.65
+  02 016 Aleutians West           Ak        12   9.23        21   7.89
+   Same State                               23  17.69        58  21.80
+   Same Region, Diff. State                 46  35.38        90  33.83
+   Different Region                         10   7.69        11   4.14
+      02 013   County Non-Migrants         496             1171
+02 016   Aleutians West Total Mig Ak      1503             3188
+  57 005 APO / FPO Zip Code       FR       389  25.88       857  26.88
+  06 073 San Diego                Ca        71   4.72       178   5.58
+  53 033 King                     Wa        67   4.46       113   3.54
+  02 020 Anchorage Borough        Ak        46   3.06        99   3.11
+  53 035 Kitsap                   Wa        45   2.99       122   3.83
+  15 003 Honolulu                 Hi        34   2.26        73   2.29
+  53 029 Island                   Wa        23   1.53        72   2.26
+  51 810 Virginia Beach city      Va        23   1.53        64   2.01
+  06 111 Ventura                  Ca        21   1.40        51   1.60
+  06 071 San Bernardino           Ca        14    .93        38   1.19
+  53 053 Pierce                   Wa        12    .80        20    .63
+  06 031 Kings                    Ca        12    .80        35   1.10
+  06 085 Santa Clara              Ca        12    .80        25    .78
+  06 037 Los Angeles              Ca        11    .73        31    .97
+  06 029 Kern                     Ca        10    .67        19    .60
+   Same State                               50   3.33       101   3.17
+   Region 1:   Northeast                    53   3.53       111   3.48
+   Region 2:   Midwest                     100   6.65       173   5.43
+   Region 3:   South                       257  17.10       513  16.09
+   Region 4:   West                        242  16.10       469  14.71
+   Foreign                                  11    .73        24    .75
+      02 016   County Non-Migrants        1379             3146
+02 020   Anchorage Borough Total  Ak      8297            17397
+  02 170 Matanuska-Susitna Boroug Ak       654   7.88      1444   8.30
+  53 033 King                     Wa       363   4.38       573   3.29
+  02 122 Kenai Peninsula Borough  Ak       325   3.92       627   3.60
+  02 090 Fairbanks North Star Bor Ak       261   3.15       491   2.82
+  04 013 Maricopa                 Az       132   1.59       242   1.39
+  06 037 Los Angeles              Ca       124   1.49       214   1.23
+  57 005 APO / FPO Zip Code       FR       102   1.23       214   1.23
+  53 053 Pierce                   Wa        89   1.07       183   1.05
+  02 110 Juneau Borough           Ak        88   1.06       154    .89
+  15 003 Honolulu                 Hi        81    .98       176   1.01
+  02 261 Valdez-Cordova           Ak        79    .95       163    .94
+  06 073 San Diego                Ca        77    .93       136    .78
+  53 061 Snohomish                Wa        74    .89       139    .80
+  32 003 Clark                    Nv        72    .87       145    .83
+  48 029 Bexar                    Tx        71    .86       222   1.28
+  53 063 Spokane                  Wa        69    .83       160    .92
+  08 041 El Paso                  Co        67    .81       183   1.05
+  41 051 Multnomah                Or        65    .78        91    .52
+  48 201 Harris                   Tx        58    .70       137    .79
+  02 150 Kodiak Island Borough    Ak        53    .64        91    .52
+  04 019 Pima                     Az        52    .63       100    .57
+  02 185 North Slope Borough      Ak        52    .63       102    .59
+  41 039 Lane                     Or        52    .63        97    .56
+  57 001 Foreign / Overseas       FR        49    .59        87    .50
+  41 067 Washington               Or        46    .55        97    .56
+  12 091 Okaloosa                 Fl        45    .54       126    .72
+  02 050 Bethel                   Ak        44    .53        91    .52
+  06 059 Orange                   Ca        44    .53        77    .44
+  06 085 Santa Clara              Ca        42    .51        65    .37
+  02 188 Northwest Arctic         Ak        42    .51        77    .44
+  49 035 Salt Lake                Ut        41    .49        85    .49
+  37 051 Cumberland               NC        41    .49       103    .59
+  35 001 Bernalillo               NM        41    .49       100    .57
+  02 180 Nome                     Ak        40    .48        82    .47
+  51 059 Fairfax                  Va        39    .47       119    .68
+  53 067 Thurston                 Wa        38    .46        74    .43
+  48 113 Dallas                   Tx        38    .46        64    .37
+  53 073 Whatcom                  Wa        37    .45        70    .40
+  06 067 Sacramento               Ca        37    .45        72    .41
+  40 109 Oklahoma                 Ok        35    .42        82    .47
+  53 011 Clark                    Wa        35    .42        70    .40
+  48 439 Tarrant                  Tx        34    .41        63    .36
+  16 001 Ada                      Id        34    .41        75    .43
+  06 075 San Francisco            Ca        33    .40        45    .26
+  53 035 Kitsap                   Wa        32    .39        72    .41
+  17 031 Cook                     Il        30    .36        47    .27
+  08 031 Denver                   Co        30    .36        52    .30
+  08 005 Arapahoe                 Co        29    .35        50    .29
+  06 065 Riverside                Ca        29    .35        68    .39
+  06 071 San Bernardino           Ca        29    .35        66    .38
+  12 057 Hillsborough             Fl        29    .35        61    .35
+  32 031 Washoe                   Nv        28    .34        53    .30
+  02 016 Aleutians West           Ak        28    .34        46    .26
+  41 005 Clackamas                Or        28    .34        47    .27
+  06 013 Contra Costa             Ca        27    .33        47    .27
+  41 047 Marion                   Or        26    .31        47    .27
+  53 005 Benton                   Wa        25    .30        68    .39
+  06 001 Alameda                  Ca        24    .29        46    .26
+  02 070 Dillingham               Ak        24    .29        43    .25
+  15 009 Maui                     Hi        24    .29        41    .24
+  30 063 Missoula                 Mt        23    .28        43    .25
+  06 053 Monterey                 Ca        23    .28        73    .42
+  12 005 Bay                      Fl        22    .27        62    .36
+  08 013 Boulder                  Co        22    .27        33    .19
+  05 119 Pulaski                  Ar        22    .27        43    .25
+  49 049 Utah                     Ut        22    .27        48    .28
+  24 033 Prince George's          Md        22    .27        55    .32
+  27 053 Hennepin                 Mn        21    .25        28    .16
+  04 003 Cochise                  Az        21    .25        53    .30
+  24 003 Anne Arundel             Md        21    .25        61    .35
+  12 095 Orange                   Fl        21    .25        36    .21
+  06 029 Kern                     Ca        20    .24        49    .28
+  02 240 Southeast Fairbanks      Ak        20    .24        40    .23
+  40 031 Comanche                 Ok        20    .24        69    .40
+  48 141 El Paso                  Tx        20    .24        53    .30
+  02 164 Lake And Peninsula Borou Ak        20    .24        40    .23
+  02 220 Sitka Borough            Ak        19    .23        29    .17
+  13 215 Muscogee                 Ga        19    .23        54    .31
+  16 055 Kootenai                 Id        19    .23        30    .17
+  13 245 Richmond                 Ga        18    .22        47    .27
+  12 011 Broward                  Fl        18    .22        30    .17
+  12 009 Brevard                  Fl        18    .22        41    .24
+  12 103 Pinellas                 Fl        17    .20        28    .16
+  41 029 Jackson                  Or        17    .20        28    .16
+  08 059 Jefferson                Co        17    .20        32    .18
+  48 453 Travis                   Tx        17    .20        43    .25
+  51 650 Hampton city             Va        16    .19        42    .24
+  11 001 Wash.,D.C.               DC        16    .19        31    .18
+  12 025 Dade                     Fl        16    .19        25    .14
+  06 081 San Mateo                Ca        16    .19        28    .16
+  02 290 Yukon-Koyukuk            Ak        16    .19        31    .18
+  29 169 Pulaski                  Mo        15    .18        49    .28
+  06 095 Solano                   Ca        15    .18        38    .22
+  47 157 Shelby                   Tn        15    .18        30    .17
+  45 079 Richland                 SC        15    .18        53    .30
+  17 163 St. Clair                Il        15    .18        45    .26
+  30 031 Gallatin                 Mt        14    .17        29    .17
+  06 019 Fresno                   Ca        14    .17        21    .12
+  36 065 Oneida                   NY        14    .17        44    .25
+  41 017 Deschutes                Or        13    .16        28    .16
+  02 068 Denali Borough           Ak        13    .16        19    .11
+  49 057 Weber                    Ut        13    .16        36    .21
+  08 001 Adams                    Co        13    .16        28    .16
+  06 111 Ventura                  Ca        13    .16        30    .17
+  04 025 Yavapai                  Az        13    .16        26    .15
+  48 085 Collin                   Tx        13    .16        32    .18
+  30 111 Yellowstone              Mt        13    .16        35    .20
+  31 055 Douglas                  Ne        13    .16        27    .16
+  53 009 Clallam                  Wa        13    .16        28    .16
+  06 077 San Joaquin              Ca        13    .16        20    .11
+  55 079 Milwaukee                Wi        12    .14        17    .10
+  01 097 Mobile                   Al        12    .14        25    .14
+  25 017 Middlesex                Ma        12    .14        30    .17
+  13 067 Cobb                     Ga        12    .14        27    .16
+  48 027 Bell                     Tx        12    .14        38    .22
+  24 031 Montgomery               Md        12    .14        19    .11
+  04 005 Coconino                 Az        12    .14        22    .13
+  12 031 Duval                    Fl        12    .14        30    .17
+  30 029 Flathead                 Mt        12    .14        22    .13
+  49 011 Davis                    Ut        12    .14        26    .15
+  57 003 Foreign / Puerto Rico    FR        11    .13        36    .21
+  48 303 Lubbock                  Tx        11    .13        26    .15
+  53 031 Jefferson                Wa        11    .13        21    .12
+  48 441 Taylor                   Tx        11    .13        35    .20
+  06 083 Santa Barbara            Ca        11    .13        15    .09
+  53 025 Grant                    Wa        11    .13        21    .12
+  06 087 Santa Cruz               Ca        11    .13        19    .11
+  06 089 Shasta                   Ca        11    .13        23    .13
+  02 060 Bristol Bay Borough      Ak        11    .13        18    .10
+  48 121 Denton                   Tx        11    .13        25    .14
+  16 027 Canyon                   Id        11    .13        23    .13
+  51 149 Prince George            Va        11    .13        33    .19
+  15 001 Hawaii                   Hi        11    .13        23    .13
+  29 189 St. Louis                Mo        11    .13        19    .11
+  02 130 Ketchikan Gateway Boroug Ak        11    .13        13    .07
+  17 019 Champaign                Il        11    .13        33    .19
+  48 485 Wichita                  Tx        10    .12        34    .20
+  35 035 Otero                    NM        10    .12        30    .17
+  36 103 Suffolk                  NY        10    .12        22    .13
+  39 035 Cuyahoga                 Oh        10    .12        19    .11
+  51 013 Arlington                Va        10    .12        14    .08
+  01 073 Jefferson                Al        10    .12        20    .11
+  53 077 Yakima                   Wa        10    .12        21    .12
+  42 003 Allegheny                Pa        10    .12        11    .06
+  35 043 Sandoval                 NM        10    .12        34    .20
+  41 019 Douglas                  Or        10    .12        22    .13
+  08 069 Larimer                  Co        10    .12        17    .10
+  53 007 Chelan                   Wa        10    .12        23    .13
+  06 047 Merced                   Ca        10    .12        25    .14
+  47 125 Montgomery               Tn        10    .12        30    .17
+  51 199 York                     Va        10    .12        33    .19
+  21 111 Jefferson                Ky        10    .12        18    .10
+  13 185 Lowndes                  Ga        10    .12        20    .11
+  13 051 Chatham                  Ga        10    .12        30    .17
+  51 153 Prince William           Va        10    .12        40    .23
+  51 810 Virginia Beach city      Va        10    .12        17    .10
+   Same State                               36    .43        66    .38
+   Region 1:   Northeast                   287   3.46       589   3.39
+   Region 2:   Midwest                     677   8.16      1445   8.31
+   Region 3:   South                      1021  12.31      2392  13.75
+   Region 4:   West                        584   7.04      1201   6.90
+      02 020   County Non-Migrants       75847           168168
+02 050   Bethel Total Migration F Ak       247              528
+  02 020 Anchorage Borough        Ak        79  31.98       169  32.01
+  02 090 Fairbanks North Star Bor Ak        19   7.69        36   6.82
+   Same State                               61  24.70       129  24.43
+   Same Region, Diff. State                 48  19.43       104  19.70
+   Different Region                         40  16.19        90  17.05
+      02 050   County Non-Migrants        3528             9303
+02 060   Bristol Bay Borough Tota Ak       154              216
+  57 005 APO / FPO Zip Code       FR        14   9.09        21   9.72
+  02 020 Anchorage Borough        Ak        14   9.09        26  12.04
+   Same State                               12   7.79        20   9.26
+   Same Region, Diff. State                 60  38.96        79  36.57
+   Different Region                         54  35.06        70  32.41
+      02 060   County Non-Migrants         388              854
+02 068   Denali Borough Total Mig Ak       132              239
+  02 090 Fairbanks North Star Bor Ak        18  13.64        24  10.04
+  02 020 Anchorage Borough        Ak        17  12.88        20   8.37
+   Same State                               11   8.33        31  12.97
+   Same Region, Diff. State                 52  39.39        88  36.82
+   Different Region                         34  25.76        76  31.80
+      02 068   County Non-Migrants         465             1073
+02 070   Dillingham Total Migrati Ak       116              226
+  02 020 Anchorage Borough        Ak        34  29.31        59  26.11
+   All Migration Flows                      82  70.69       167  73.89
+      02 070   County Non-Migrants        1130             2929
+02 090   Fairbanks North Star Bor Ak      3872             8857
+  02 020 Anchorage Borough        Ak       414  10.69       791   8.93
+  53 033 King                     Wa        69   1.78       103   1.16
+  57 005 APO / FPO Zip Code       FR        61   1.58       130   1.47
+  02 290 Yukon-Koyukuk            Ak        59   1.52       120   1.35
+  48 029 Bexar                    Tx        58   1.50       160   1.81
+  08 041 El Paso                  Co        56   1.45       169   1.91
+  53 053 Pierce                   Wa        55   1.42       133   1.50
+  02 170 Matanuska-Susitna Boroug Ak        54   1.39       111   1.25
+  04 013 Maricopa                 Az        49   1.27        82    .93
+  31 153 Sarpy                    Ne        49   1.27       133   1.50
+  02 110 Juneau Borough           Ak        43   1.11        81    .91
+  37 051 Cumberland               NC        36    .93       122   1.38
+  02 122 Kenai Peninsula Borough  Ak        34    .88        63    .71
+  02 240 Southeast Fairbanks      Ak        31    .80        73    .82
+  13 215 Muscogee                 Ga        30    .77        84    .95
+  53 063 Spokane                  Wa        30    .77        75    .85
+  15 003 Honolulu                 Hi        30    .77        76    .86
+  47 125 Montgomery               Tn        28    .72        81    .91
+  04 019 Pima                     Az        28    .72        84    .95
+  06 037 Los Angeles              Ca        27    .70        49    .55
+  32 003 Clark                    Nv        27    .70        65    .73
+  02 185 North Slope Borough      Ak        26    .67        40    .45
+  48 027 Bell                     Tx        24    .62        62    .70
+  48 141 El Paso                  Tx        23    .59        59    .67
+  06 053 Monterey                 Ca        23    .59        73    .82
+  53 061 Snohomish                Wa        21    .54        48    .54
+  06 065 Riverside                Ca        21    .54        50    .56
+  06 067 Sacramento               Ca        21    .54        50    .56
+  02 050 Bethel                   Ak        20    .52        32    .36
+  02 068 Denali Borough           Ak        20    .52        48    .54
+  06 071 San Bernardino           Ca        20    .52        48    .54
+  41 051 Multnomah                Or        19    .49        35    .40
+  04 003 Cochise                  Az        19    .49        57    .64
+  36 045 Jefferson                NY        17    .44        46    .52
+  48 201 Harris                   Tx        17    .44        31    .35
+  57 001 Foreign / Overseas       FR        16    .41        31    .35
+  12 091 Okaloosa                 Fl        16    .41        53    .60
+  06 073 San Diego                Ca        16    .41        27    .30
+  17 031 Cook                     Il        16    .41        28    .32
+  40 031 Comanche                 Ok        15    .39        49    .55
+  48 439 Tarrant                  Tx        14    .36        29    .33
+  02 150 Kodiak Island Borough    Ak        14    .36        22    .25
+  02 261 Valdez-Cordova           Ak        14    .36        22    .25
+  20 173 Sedgwick                 Ks        14    .36        32    .36
+  12 025 Dade                     Fl        13    .34        27    .30
+  30 029 Flathead                 Mt        13    .34        29    .33
+  13 245 Richmond                 Ga        13    .34        35    .40
+  12 005 Bay                      Fl        13    .34        33    .37
+  41 039 Lane                     Or        13    .34        16    .18
+  08 059 Jefferson                Co        13    .34        17    .19
+  22 015 Bossier                  La        12    .31        28    .32
+  35 001 Bernalillo               NM        12    .31        36    .41
+  45 079 Richland                 SC        12    .31        37    .42
+  51 700 Newport News city        Va        12    .31        31    .35
+  01 089 Madison                  Al        12    .31        34    .38
+  02 180 Nome                     Ak        11    .28        16    .18
+  13 179 Liberty                  Ga        11    .28        24    .27
+  39 113 Montgomery               Oh        11    .28        32    .36
+  06 001 Alameda                  Ca        11    .28        24    .27
+  29 169 Pulaski                  Mo        11    .28        33    .37
+  24 033 Prince George's          Md        10    .26        28    .32
+  02 188 Northwest Arctic         Ak        10    .26        21    .24
+  45 085 Sumter                   SC        10    .26        33    .37
+  48 451 Tom Green                Tx        10    .26        25    .28
+  06 075 San Francisco            Ca        10    .26        15    .17
+  40 109 Oklahoma                 Ok        10    .26        25    .28
+  30 013 Cascade                  Mt        10    .26        27    .30
+  53 011 Clark                    Wa        10    .26        14    .16
+  02 130 Ketchikan Gateway Boroug Ak        10    .26        18    .20
+  49 057 Weber                    Ut        10    .26        25    .28
+  12 057 Hillsborough             Fl        10    .26        20    .23
+  51 059 Fairfax                  Va        10    .26        26    .29
+   Same State                               29    .75        52    .59
+   Region 1:   Northeast                   204   5.27       422   4.76
+   Region 2:   Midwest                     474  12.24      1171  13.22
+   Region 3:   South                       680  17.56      1660  18.74
+   Region 4:   West                        478  12.35      1066  12.04
+      02 090   County Non-Migrants       24035            56864
+02 100   Haines Borough Total Mig Ak       111              233
+  02 110 Juneau Borough           Ak        18  16.22        40  17.17
+   Same State                               30  27.03        63  27.04
+   Same Region, Diff. State                 53  47.75       108  46.35
+   Different Region                         10   9.01        22   9.44
+      02 100   County Non-Migrants         745             1689
+02 110   Juneau Borough Total Mig Ak      1064             2076
+  02 020 Anchorage Borough        Ak       127  11.94       228  10.98
+  53 033 King                     Wa        78   7.33       124   5.97
+  02 090 Fairbanks North Star Bor Ak        37   3.48        72   3.47
+  02 231 Skagway-Yakutat-Angoon   Ak        28   2.63        49   2.36
+  02 130 Ketchikan Gateway Boroug Ak        27   2.54        56   2.70
+  02 220 Sitka Borough            Ak        22   2.07        46   2.22
+  02 100 Haines Borough           Ak        17   1.60        36   1.73
+  02 122 Kenai Peninsula Borough  Ak        17   1.60        34   1.64
+  02 280 Wrangell-Petersburg      Ak        17   1.60        36   1.73
+  02 170 Matanuska-Susitna Boroug Ak        17   1.60        39   1.88
+  53 053 Pierce                   Wa        16   1.50        30   1.45
+  41 039 Lane                     Or        15   1.41        26   1.25
+  41 051 Multnomah                Or        15   1.41        28   1.35
+  32 003 Clark                    Nv        14   1.32        30   1.45
+  53 035 Kitsap                   Wa        13   1.22        32   1.54
+  04 013 Maricopa                 Az        12   1.13        18    .87
+  53 061 Snohomish                Wa        12   1.13        19    .92
+  53 063 Spokane                  Wa        11   1.03        30   1.45
+  02 261 Valdez-Cordova           Ak        10    .94        18    .87
+  41 067 Washington               Or        10    .94        24   1.16
+  53 067 Thurston                 Wa        10    .94        18    .87
+  02 150 Kodiak Island Borough    Ak        10    .94        24   1.16
+   Same State                               29   2.73        58   2.79
+   Region 1:   Northeast                    26   2.44        54   2.60
+   Region 2:   Midwest                      61   5.73       121   5.83
+   Region 3:   South                        88   8.27       166   8.00
+   Region 4:   West                        314  29.51       644  31.02
+   Foreign                                  11   1.03        16    .77
+      02 110   County Non-Migrants        9868            21415
+02 122   Kenai Peninsula Borough  Ak      1429             2802
+  02 020 Anchorage Borough        Ak       338  23.65       582  20.77
+  02 090 Fairbanks North Star Bor Ak        52   3.64        85   3.03
+  02 170 Matanuska-Susitna Boroug Ak        51   3.57       122   4.35
+  53 033 King                     Wa        45   3.15        80   2.86
+  02 110 Juneau Borough           Ak        23   1.61        50   1.78
+  02 261 Valdez-Cordova           Ak        18   1.26        34   1.21
+  41 047 Marion                   Or        17   1.19        57   2.03
+  53 061 Snohomish                Wa        16   1.12        31   1.11
+  53 053 Pierce                   Wa        15   1.05        30   1.07
+  41 051 Multnomah                Or        15   1.05        27    .96
+  06 037 Los Angeles              Ca        14    .98        25    .89
+  57 005 APO / FPO Zip Code       FR        13    .91        21    .75
+  02 150 Kodiak Island Borough    Ak        13    .91        30   1.07
+  04 013 Maricopa                 Az        12    .84        18    .64
+  53 009 Clallam                  Wa        11    .77        20    .71
+  41 039 Lane                     Or        11    .77        21    .75
+  06 059 Orange                   Ca        10    .70        23    .82
+  15 001 Hawaii                   Hi        10    .70        18    .64
+  53 073 Whatcom                  Wa        10    .70        22    .79
+   Same State                               80   5.60       159   5.67
+   Region 1:   Northeast                    30   2.10        48   1.71
+   Region 2:   Midwest                     111   7.77       236   8.42
+   Region 3:   South                       143  10.01       295  10.53
+   Region 4:   West                        371  25.96       768  27.41
+      02 122   County Non-Migrants       13028            31885
+02 130   Ketchikan Gateway Boroug Ak       648             1293
+  02 110 Juneau Borough           Ak        50   7.72       107   8.28
+  02 020 Anchorage Borough        Ak        39   6.02        84   6.50
+  53 033 King                     Wa        38   5.86        55   4.25
+  02 201 Prince of Wales-Outer Ke Ak        28   4.32        57   4.41
+  53 061 Snohomish                Wa        20   3.09        42   3.25
+  02 280 Wrangell-Petersburg      Ak        16   2.47        43   3.33
+  02 220 Sitka Borough            Ak        15   2.31        27   2.09
+  41 039 Lane                     Or        15   2.31        35   2.71
+  53 073 Whatcom                  Wa        14   2.16        27   2.09
+  02 170 Matanuska-Susitna Boroug Ak        12   1.85        32   2.47
+  02 090 Fairbanks North Star Bor Ak        11   1.70        17   1.31
+  53 031 Jefferson                Wa        11   1.70        22   1.70
+  53 027 Grays Harbor             Wa        11   1.70        20   1.55
+  53 057 Skagit                   Wa        10   1.54        26   2.01
+   Same State                               23   3.55        52   4.02
+   Region 1:   Northeast                    11   1.70        13   1.01
+   Region 2:   Midwest                      33   5.09        54   4.18
+   Region 3:   South                        32   4.94        58   4.49
+   Region 4:   West                        259  39.97       522  40.37
+      02 130   County Non-Migrants        4773            10822
+02 150   Kodiak Island Borough To Ak       733             1609
+  02 020 Anchorage Borough        Ak       108  14.73       188  11.68
+  53 033 King                     Wa        28   3.82        47   2.92
+  02 170 Matanuska-Susitna Boroug Ak        18   2.46        52   3.23
+  02 122 Kenai Peninsula Borough  Ak        17   2.32        42   2.61
+  02 090 Fairbanks North Star Bor Ak        15   2.05        33   2.05
+  06 037 Los Angeles              Ca        15   2.05        36   2.24
+  37 139 Pasquotank               NC        12   1.64        40   2.49
+  06 073 San Diego                Ca        11   1.50        25   1.55
+  12 103 Pinellas                 Fl        11   1.50        28   1.74
+  15 003 Honolulu                 Hi        11   1.50        31   1.93
+  53 061 Snohomish                Wa        11   1.50        21   1.31
+  06 067 Sacramento               Ca        10   1.36        26   1.62
+  41 007 Clatsop                  Or        10   1.36        29   1.80
+   Same State                               38   5.18        82   5.10
+   Region 1:   Northeast                    41   5.59        78   4.85
+   Region 2:   Midwest                      48   6.55       120   7.46
+   Region 3:   South                       101  13.78       258  16.03
+   Region 4:   West                        213  29.06       445  27.66
+   Foreign                                  15   2.05        28   1.74
+      02 150   County Non-Migrants        4048             9914
+02 164   Lake And Peninsula Borou Ak        53              128
+  02 020 Anchorage Borough        Ak        19  35.85        42  32.81
+   All Migration Flows                      34  64.15        86  67.19
+      02 164   County Non-Migrants         350              927
+02 170   Matanuska-Susitna Boroug Ak      1122             2268
+  02 020 Anchorage Borough        Ak       449  40.02       861  37.96
+  02 122 Kenai Peninsula Borough  Ak        36   3.21        72   3.17
+  53 033 King                     Wa        27   2.41        38   1.68
+  02 090 Fairbanks North Star Bor Ak        23   2.05        48   2.12
+  02 261 Valdez-Cordova           Ak        13   1.16        20    .88
+  02 150 Kodiak Island Borough    Ak        10    .89        26   1.15
+   Same State                               64   5.70       132   5.82
+   Region 1:   Northeast                    28   2.50        43   1.90
+   Region 2:   Midwest                      83   7.40       189   8.33
+   Region 3:   South                        82   7.31       204   8.99
+   Region 4:   West                        297  26.47       616  27.16
+   Foreign                                  10    .89        19    .84
+      02 170   County Non-Migrants       11790            29721
+02 180   Nome Total Migration Flo Ak       202              409
+  02 020 Anchorage Borough        Ak        46  22.77        99  24.21
+  02 090 Fairbanks North Star Bor Ak        23  11.39        45  11.00
+   Same State                               47  23.27       113  27.63
+   Same Region, Diff. State                 45  22.28        78  19.07
+   Different Region                         41  20.30        74  18.09
+      02 180   County Non-Migrants        2177             5464
+02 185   North Slope Borough Tota Ak       182              337
+  02 020 Anchorage Borough        Ak        45  24.73        85  25.22
+  02 090 Fairbanks North Star Bor Ak        18   9.89        33   9.79
+  02 122 Kenai Peninsula Borough  Ak        11   6.04        15   4.45
+   Same State                               25  13.74        58  17.21
+   Same Region, Diff. State                 51  28.02        92  27.30
+   Different Region                         32  17.58        54  16.02
+      02 185   County Non-Migrants        1762             4356
+02 188   Northwest Arctic Total M Ak       155              320
+  02 020 Anchorage Borough        Ak        51  32.90       119  37.19
+  02 090 Fairbanks North Star Bor Ak        21  13.55        37  11.56
+   Same State                               39  25.16        95  29.69
+   Same Region, Diff. State                 26  16.77        37  11.56
+   Different Region                         18  11.61        32  10.00
+      02 188   County Non-Migrants        1516             4088
+02 201   Prince of Wales-Outer Ke Ak       225              482
+  02 130 Ketchikan Gateway Boroug Ak        41  18.22        75  15.56
+  53 033 King                     Wa        18   8.00        39   8.09
+  02 280 Wrangell-Petersburg      Ak        12   5.33        33   6.85
+  02 110 Juneau Borough           Ak        11   4.89        20   4.15
+  02 220 Sitka Borough            Ak        10   4.44        21   4.36
+   Same State                               23  10.22        53  11.00
+   Same Region, Diff. State                 99  44.00       222  46.06
+   Different Region                         11   4.89        19   3.94
+      02 201   County Non-Migrants        1538             3608
+02 220   Sitka Borough Total Migr Ak       354              729
+  02 110 Juneau Borough           Ak        34   9.60        69   9.47
+  02 020 Anchorage Borough        Ak        31   8.76        63   8.64
+  53 033 King                     Wa        19   5.37        24   3.29
+   Same State                               56  15.82       111  15.23
+   Region 1:   Northeast                    13   3.67        26   3.57
+   Region 2:   Midwest                      31   8.76        69   9.47
+   Region 3:   South                        38  10.73        89  12.21
+   Region 4:   West                        132  37.29       278  38.13
+      02 220   County Non-Migrants        2928             6794
+02 231   Skagway-Yakutat-Angoon T Ak       181              385
+  02 110 Juneau Borough           Ak        35  19.34        66  17.14
+  02 020 Anchorage Borough        Ak        10   5.52        19   4.94
+   Same State                               41  22.65       104  27.01
+   Same Region, Diff. State                 79  43.65       160  41.56
+   Different Region                         16   8.84        36   9.35
+      02 231   County Non-Migrants        1196             2776
+02 240   Southeast Fairbanks Tota Ak       351              823
+  02 090 Fairbanks North Star Bor Ak        70  19.94       140  17.01
+  02 020 Anchorage Borough        Ak        20   5.70        45   5.47
+  57 005 APO / FPO Zip Code       FR        12   3.42        44   5.35
+  37 051 Cumberland               NC        10   2.85        24   2.92
+   Same State                               28   7.98        61   7.41
+   Region 1:   Northeast                    18   5.13        41   4.98
+   Region 2:   Midwest                      35   9.97       104  12.64
+   Region 3:   South                        89  25.36       211  25.64
+   Region 4:   West                         69  19.66       153  18.59
+      02 240   County Non-Migrants        1666             4191
+02 261   Valdez-Cordova Total Mig Ak       501              931
+  02 020 Anchorage Borough        Ak       134  26.75       238  25.56
+  02 170 Matanuska-Susitna Boroug Ak        31   6.19        64   6.87
+  02 122 Kenai Peninsula Borough  Ak        19   3.79        33   3.54
+  53 033 King                     Wa        13   2.59        19   2.04
+  02 090 Fairbanks North Star Bor Ak        11   2.20        24   2.58
+  02 110 Juneau Borough           Ak        10   2.00        15   1.61
+   Same State                               38   7.58        75   8.06
+   Region 1:   Northeast                    15   2.99        28   3.01
+   Region 2:   Midwest                      48   9.58        90   9.67
+   Region 3:   South                        30   5.99        46   4.94
+   Region 4:   West                        152  30.34       299  32.12
+      02 261   County Non-Migrants        3109             7141
+02 270   Wade Hampton Total Migra Ak        56              116
+  02 050 Bethel                   Ak        15  26.79        27  23.28
+  02 020 Anchorage Borough        Ak        11  19.64        20  17.24
+   All Migration Flows                      30  53.57        69  59.48
+      02 270   County Non-Migrants        1288             3715
+02 280   Wrangell-Petersburg Tota Ak       255              562
+  02 110 Juneau Borough           Ak        22   8.63        51   9.07
+  53 033 King                     Wa        16   6.27        32   5.69
+  02 201 Prince of Wales-Outer Ke Ak        13   5.10        19   3.38
+  02 130 Ketchikan Gateway Boroug Ak        11   4.31        28   4.98
+  02 220 Sitka Borough            Ak        11   4.31        32   5.69
+   Same State                               25   9.80        64  11.39
+   Same Region, Diff. State                124  48.63       256  45.55
+   Different Region                         33  12.94        80  14.23
+      02 280   County Non-Migrants        2314             5247
+02 290   Yukon-Koyukuk Total Migr Ak       322              629
+  02 090 Fairbanks North Star Bor Ak        86  26.71       182  28.93
+  02 020 Anchorage Borough        Ak        26   8.07        48   7.63
+  57 005 APO / FPO Zip Code       FR        17   5.28        21   3.34
+   Same State                               53  16.46       133  21.14
+   Same Region, Diff. State                 64  19.88       123  19.55
+   Different Region                         76  23.60       122  19.40
+      02 290   County Non-Migrants        1725             4201

@@ -1,0 +1,801 @@
+54 001   Barbour Total Migration  WV       226              469
+  54 083 Randolph                 WV        24  10.62        50  10.66
+  54 091 Taylor                   WV        13   5.75        29   6.18
+  54 033 Harrison                 WV        13   5.75        26   5.54
+   Same State                               52  23.01       115  24.52
+   Same Region, Diff. State                 75  33.19       155  33.05
+   Different Region                         49  21.68        94  20.04
+      54 001   County Non-Migrants        4274            10152
+54 003   Berkeley Total Migration WV      1724             3674
+  54 037 Jefferson                WV       244  14.15       517  14.07
+  24 043 Washington               Md       186  10.79       407  11.08
+  24 021 Frederick                Md        83   4.81       181   4.93
+  24 031 Montgomery               Md        80   4.64       157   4.27
+  51 069 Frederick                Va        78   4.52       169   4.60
+  54 065 Morgan                   WV        59   3.42       142   3.86
+  51 059 Fairfax                  Va        49   2.84       104   2.83
+  24 003 Anne Arundel             Md        36   2.09        77   2.10
+  51 840 Winchester city          Va        30   1.74        57   1.55
+  24 005 Baltimore                Md        28   1.62        60   1.63
+  24 033 Prince George's          Md        25   1.45        47   1.28
+  51 107 Loudoun                  Va        24   1.39        56   1.52
+  51 153 Prince William           Va        16    .93        41   1.12
+  24 510 Baltimore city           Md        16    .93        29    .79
+  51 043 Clarke                   Va        15    .87        30    .82
+  57 001 Foreign / Overseas       FR        14    .81        35    .95
+  42 055 Franklin                 Pa        14    .81        22    .60
+  54 061 Monongalia               WV        14    .81        27    .73
+  54 027 Hampshire                WV        13    .75        30    .82
+  24 001 Allegany                 Md        12    .70        26    .71
+  54 049 Marion                   WV        11    .64        17    .46
+  11 001 Wash.,D.C.               DC        11    .64        18    .49
+  54 039 Kanawha                  WV        10    .58        21    .57
+   Same State                              101   5.86       210   5.72
+   Region 1:   Northeast                   155   8.99       304   8.27
+   Region 2:   Midwest                      77   4.47       184   5.01
+   Region 3:   South                       264  15.31       577  15.70
+   Region 4:   West                         59   3.42       129   3.51
+      54 003   County Non-Migrants       20572            46692
+54 005   Boone Total Migration Fl WV       415              961
+  54 039 Kanawha                  WV        63  15.18       140  14.57
+  54 045 Logan                    WV        49  11.81       119  12.38
+  54 081 Raleigh                  WV        13   3.13        38   3.95
+  54 043 Lincoln                  WV        11   2.65        22   2.29
+   Same State                               49  11.81       138  14.36
+   Same Region, Diff. State                165  39.76       356  37.04
+   Different Region                         65  15.66       148  15.40
+      54 005   County Non-Migrants        6872            17543
+54 007   Braxton Total Migration  WV       219              495
+  54 021 Gilmer                   WV        17   7.76        45   9.09
+  54 067 Nicholas                 WV        16   7.31        32   6.46
+   Same State                               75  34.25       186  37.58
+   Same Region, Diff. State                 68  31.05       152  30.71
+   Different Region                         43  19.63        80  16.16
+      54 007   County Non-Migrants        3773             9141
+54 009   Brooke Total Migration F WV       360              732
+  54 029 Hancock                  WV        59  16.39       126  17.21
+  39 081 Jefferson                Oh        35   9.72        77  10.52
+  54 069 Ohio                     WV        31   8.61        64   8.74
+  42 125 Washington               Pa        16   4.44        36   4.92
+  57 001 Foreign / Overseas       FR        11   3.06        13   1.78
+  42 003 Allegheny                Pa        10   2.78        16   2.19
+   Same State                               28   7.78        54   7.38
+   Region 1:   Northeast                    23   6.39        39   5.33
+   Region 2:   Midwest                      38  10.56        86  11.75
+   Region 3:   South                        90  25.00       185  25.27
+   Region 4:   West                         19   5.28        36   4.92
+      54 009   County Non-Migrants        9015            20834
+54 011   Cabell Total Migration F WV      2082             4316
+  54 099 Wayne                    WV       335  16.09       708  16.40
+  39 087 Lawrence                 Oh       138   6.63       304   7.04
+  54 039 Kanawha                  WV        98   4.71       159   3.68
+  54 079 Putnam                   WV        92   4.42       219   5.07
+  54 043 Lincoln                  WV        66   3.17       147   3.41
+  57 001 Foreign / Overseas       FR        38   1.83        83   1.92
+  39 049 Franklin                 Oh        36   1.73        56   1.30
+  21 019 Boyd                     Ky        32   1.54        68   1.58
+  54 107 Wood                     WV        29   1.39        53   1.23
+  54 045 Logan                    WV        24   1.15        38    .88
+  54 053 Mason                    WV        23   1.10        57   1.32
+  37 119 Mecklenburg              NC        19    .91        37    .86
+  21 111 Jefferson                Ky        19    .91        37    .86
+  12 031 Duval                    Fl        16    .77        27    .63
+  21 067 Fayette                  Ky        16    .77        26    .60
+  54 081 Raleigh                  WV        14    .67        31    .72
+  54 019 Fayette                  WV        14    .67        21    .49
+  54 067 Nicholas                 WV        13    .62        33    .76
+  12 103 Pinellas                 Fl        12    .58        23    .53
+  48 201 Harris                   Tx        12    .58        22    .51
+  37 051 Cumberland               NC        12    .58        35    .81
+  12 057 Hillsborough             Fl        11    .53        22    .51
+  37 133 Onslow                   NC        11    .53        31    .72
+  42 003 Allegheny                Pa        11    .53        21    .49
+  39 061 Hamilton                 Oh        11    .53        25    .58
+  12 011 Broward                  Fl        11    .53        18    .42
+  39 053 Gallia                   Oh        10    .48        25    .58
+  54 033 Harrison                 WV        10    .48        21    .49
+  54 059 Mingo                    WV        10    .48        16    .37
+  37 183 Wake                     NC        10    .48        25    .58
+   Same State                              105   5.04       184   4.26
+   Region 1:   Northeast                   100   4.80       210   4.87
+   Region 2:   Midwest                     179   8.60       363   8.41
+   Region 3:   South                       474  22.77      1019  23.61
+   Region 4:   West                         71   3.41       152   3.52
+      54 011   County Non-Migrants       30829            68692
+54 013   Calhoun Total Migration  WV       111              251
+  54 087 Roane                    WV        14  12.61        34  13.55
+   Same State                               34  30.63        85  33.86
+   Same Region, Diff. State                 24  21.62        54  21.51
+   Different Region                         39  35.14        78  31.08
+      54 013   County Non-Migrants        2076             5170
+54 015   Clay Total Migration Flo WV       155              361
+  54 039 Kanawha                  WV        15   9.68        30   8.31
+  54 007 Braxton                  WV        11   7.10        37  10.25
+  54 087 Roane                    WV        11   7.10        32   8.86
+   Same State                               34  21.94        80  22.16
+   Same Region, Diff. State                 61  39.35       132  36.57
+   Different Region                         23  14.84        50  13.85
+      54 015   County Non-Migrants        2320             5964
+54 017   Doddridge Total Migratio WV       140              293
+  54 033 Harrison                 WV        30  21.43        71  24.23
+  54 085 Ritchie                  WV        10   7.14        21   7.17
+   Same State                               33  23.57        67  22.87
+   Same Region, Diff. State                 34  24.29        70  23.89
+   Different Region                         33  23.57        64  21.84
+      54 017   County Non-Migrants        1877             4663
+54 019   Fayette Total Migration  WV       804             1818
+  54 081 Raleigh                  WV        84  10.45       217  11.94
+  54 039 Kanawha                  WV        58   7.21       127   6.99
+  54 067 Nicholas                 WV        29   3.61        68   3.74
+  54 025 Greenbrier               WV        19   2.36        45   2.48
+  54 089 Summers                  WV        16   1.99        36   1.98
+  37 119 Mecklenburg              NC        16   1.99        33   1.82
+  57 001 Foreign / Overseas       FR        15   1.87        21   1.16
+  24 033 Prince George's          Md        12   1.49        19   1.05
+  39 035 Cuyahoga                 Oh        12   1.49        18    .99
+  21 013 Bell                     Ky        10   1.24        39   2.15
+  37 067 Forsyth                  NC        10   1.24        19   1.05
+  39 049 Franklin                 Oh        10   1.24        19   1.05
+   Same State                               76   9.45       183  10.07
+   Region 1:   Northeast                    35   4.35        79   4.35
+   Region 2:   Midwest                      65   8.08       126   6.93
+   Region 3:   South                       311  38.68       720  39.60
+   Region 4:   West                         26   3.23        49   2.70
+      54 019   County Non-Migrants       13203            31598
+54 021   Gilmer Total Migration F WV       119              273
+  54 007 Braxton                  WV        14  11.76        32  11.72
+   Same State                               53  44.54       134  49.08
+   Same Region, Diff. State                 26  21.85        60  21.98
+   Different Region                         26  21.85        47  17.22
+      54 021   County Non-Migrants        1819             4441
+54 023   Grant Total Migration Fl WV       198              432
+  54 031 Hardy                    WV        22  11.11        55  12.73
+  54 057 Mineral                  WV        19   9.60        40   9.26
+  54 071 Pendleton                WV        12   6.06        21   4.86
+   Same State                               44  22.22        98  22.69
+   Same Region, Diff. State                 74  37.37       149  34.49
+   Different Region                         27  13.64        69  15.97
+      54 023   County Non-Migrants        3539             8217
+54 025   Greenbrier Total Migrati WV       650             1395
+  54 063 Monroe                   WV        34   5.23        74   5.30
+  54 089 Summers                  WV        30   4.62        68   4.87
+  54 067 Nicholas                 WV        26   4.00        51   3.66
+  54 019 Fayette                  WV        20   3.08        36   2.58
+  54 081 Raleigh                  WV        17   2.62        46   3.30
+  54 039 Kanawha                  WV        17   2.62        31   2.22
+  54 075 Pocahontas               WV        14   2.15        35   2.51
+  57 001 Foreign / Overseas       FR        11   1.69        21   1.51
+  51 059 Fairfax                  Va        10   1.54        14   1.00
+   Same State                               67  10.31       144  10.32
+   Region 1:   Northeast                    48   7.38       101   7.24
+   Region 2:   Midwest                      57   8.77       130   9.32
+   Region 3:   South                       282  43.38       607  43.51
+   Region 4:   West                         17   2.62        37   2.65
+      54 025   County Non-Migrants       10927            24926
+54 027   Hampshire Total Migratio WV       395              917
+  51 069 Frederick                Va        63  15.95       142  15.49
+  51 840 Winchester city          Va        20   5.06        52   5.67
+  54 057 Mineral                  WV        18   4.56        42   4.58
+  54 031 Hardy                    WV        15   3.80        43   4.69
+  54 065 Morgan                   WV        14   3.54        30   3.27
+  54 003 Berkeley                 WV        12   3.04        29   3.16
+  24 001 Allegany                 Md        12   3.04        25   2.73
+  24 033 Prince George's          Md        12   3.04        24   2.62
+  51 059 Fairfax                  Va        11   2.78        18   1.96
+  51 107 Loudoun                  Va        10   2.53        17   1.85
+   Same State                               32   8.10        80   8.72
+   Same Region, Diff. State                129  32.66       294  32.06
+   Different Region                         47  11.90       121  13.20
+      54 027   County Non-Migrants        5416            12564
+54 029   Hancock Total Migration  WV       583             1204
+  54 009 Brooke                   WV        75  12.86       155  12.87
+  39 029 Columbiana               Oh        47   8.06       110   9.14
+  39 081 Jefferson                Oh        38   6.52        72   5.98
+  42 003 Allegheny                Pa        35   6.00        73   6.06
+  42 125 Washington               Pa        34   5.83        64   5.32
+  42 007 Beaver                   Pa        20   3.43        53   4.40
+  39 049 Franklin                 Oh        10   1.72        17   1.41
+   Same State                               39   6.69        72   5.98
+   Region 1:   Northeast                    42   7.20       110   9.14
+   Region 2:   Midwest                      64  10.98       131  10.88
+   Region 3:   South                       146  25.04       288  23.92
+   Region 4:   West                         33   5.66        59   4.90
+      54 029   County Non-Migrants       12864            29110
+54 031   Hardy Total Migration Fl WV       212              457
+  54 027 Hampshire                WV        25  11.79        46  10.07
+  54 023 Grant                    WV        24  11.32        53  11.60
+  51 165 Rockingham               Va        14   6.60        33   7.22
+  54 057 Mineral                  WV        14   6.60        27   5.91
+  51 069 Frederick                Va        11   5.19        22   4.81
+  51 171 Shenandoah               Va        11   5.19        27   5.91
+   Same State                               26  12.26        68  14.88
+   Same Region, Diff. State                 66  31.13       128  28.01
+   Different Region                         21   9.91        53  11.60
+      54 031   County Non-Migrants        3870             8708
+54 033   Harrison Total Migration WV      1091             2351
+  54 049 Marion                   WV        81   7.42       172   7.32
+  54 061 Monongalia               WV        45   4.12        82   3.49
+  54 041 Lewis                    WV        45   4.12        99   4.21
+  54 091 Taylor                   WV        32   2.93        68   2.89
+  42 003 Allegheny                Pa        26   2.38        65   2.76
+  54 017 Doddridge                WV        24   2.20        57   2.42
+  54 039 Kanawha                  WV        19   1.74        35   1.49
+  54 001 Barbour                  WV        19   1.74        45   1.91
+  54 097 Upshur                   WV        19   1.74        44   1.87
+  54 107 Wood                     WV        18   1.65        44   1.87
+  57 001 Foreign / Overseas       FR        17   1.56        31   1.32
+  54 083 Randolph                 WV        16   1.47        39   1.66
+  51 059 Fairfax                  Va        16   1.47        33   1.40
+  51 153 Prince William           Va        16   1.47        30   1.28
+  51 840 Winchester city          Va        10    .92        29   1.23
+   Same State                              101   9.26       221   9.40
+   Region 1:   Northeast                   112  10.27       250  10.63
+   Region 2:   Midwest                     117  10.72       232   9.87
+   Region 3:   South                       311  28.51       657  27.95
+   Region 4:   West                         47   4.31       118   5.02
+      54 033   County Non-Migrants       22415            51986
+54 035   Jackson Total Migration  WV       426              938
+  54 039 Kanawha                  WV        77  18.08       172  18.34
+  54 107 Wood                     WV        25   5.87        51   5.44
+  54 087 Roane                    WV        18   4.23        39   4.16
+  54 053 Mason                    WV        14   3.29        41   4.37
+   Same State                               56  13.15       134  14.29
+   Region 1:   Northeast                    11   2.58        27   2.88
+   Region 2:   Midwest                      68  15.96       164  17.48
+   Region 3:   South                       146  34.27       290  30.92
+   Region 4:   West                         11   2.58        20   2.13
+      54 035   County Non-Migrants        8056            20088
+54 037   Jefferson Total Migratio WV      1184             2409
+  54 003 Berkeley                 WV       161  13.60       323  13.41
+  24 021 Frederick                Md       107   9.04       234   9.71
+  51 107 Loudoun                  Va       105   8.87       235   9.76
+  24 031 Montgomery               Md        92   7.77       202   8.39
+  51 059 Fairfax                  Va        64   5.41       125   5.19
+  54 039 Kanawha                  WV        59   4.98       105   4.36
+  24 033 Prince George's          Md        37   3.13        87   3.61
+  24 043 Washington               Md        26   2.20        42   1.74
+  51 153 Prince William           Va        22   1.86        44   1.83
+  51 043 Clarke                   Va        21   1.77        45   1.87
+  51 069 Frederick                Va        21   1.77        41   1.70
+  51 013 Arlington                Va        15   1.27        23    .95
+  11 001 Wash.,D.C.               DC        13   1.10        23    .95
+  57 001 Foreign / Overseas       FR        13   1.10        24   1.00
+  24 003 Anne Arundel             Md        13   1.10        24   1.00
+  51 840 Winchester city          Va        12   1.01        24   1.00
+   Same State                               80   6.76       139   5.77
+   Region 1:   Northeast                    65   5.49       124   5.15
+   Region 2:   Midwest                      41   3.46        93   3.86
+   Region 3:   South                       187  15.79       383  15.90
+   Region 4:   West                         30   2.53        69   2.86
+      54 037   County Non-Migrants       12560            28297
+54 039   Kanawha Total Migration  WV      3528             7086
+  54 079 Putnam                   WV       383  10.86       807  11.39
+  54 019 Fayette                  WV        97   2.75       173   2.44
+  54 005 Boone                    WV        97   2.75       184   2.60
+  54 011 Cabell                   WV        90   2.55       161   2.27
+  54 081 Raleigh                  WV        73   2.07       138   1.95
+  54 035 Jackson                  WV        69   1.96       137   1.93
+  54 043 Lincoln                  WV        61   1.73       132   1.86
+  54 087 Roane                    WV        58   1.64       120   1.69
+  37 119 Mecklenburg              NC        57   1.62       101   1.43
+  54 037 Jefferson                WV        53   1.50       115   1.62
+  54 061 Monongalia               WV        52   1.47       104   1.47
+  54 045 Logan                    WV        50   1.42       119   1.68
+  54 107 Wood                     WV        48   1.36        85   1.20
+  57 001 Foreign / Overseas       FR        48   1.36        90   1.27
+  42 003 Allegheny                Pa        39   1.11        78   1.10
+  54 015 Clay                     WV        33    .94        67    .95
+  37 183 Wake                     NC        31    .88        58    .82
+  39 049 Franklin                 Oh        30    .85        45    .64
+  48 201 Harris                   Tx        29    .82        76   1.07
+  54 067 Nicholas                 WV        25    .71        39    .55
+  54 033 Harrison                 WV        24    .68        49    .69
+  39 035 Cuyahoga                 Oh        24    .68        46    .65
+  54 055 Mercer                   WV        22    .62        49    .69
+  51 059 Fairfax                  Va        22    .62        44    .62
+  18 039 Elkhart                  In        21    .60        53    .75
+  12 095 Orange                   Fl        20    .57        33    .47
+  12 009 Brevard                  Fl        19    .54        33    .47
+  37 051 Cumberland               NC        19    .54        34    .48
+  12 099 Palm Beach               Fl        19    .54        44    .62
+  12 057 Hillsborough             Fl        19    .54        42    .59
+  17 031 Cook                     Il        18    .51        24    .34
+  51 153 Prince William           Va        18    .51        30    .42
+  51 810 Virginia Beach city      Va        18    .51        44    .62
+  54 049 Marion                   WV        16    .45        23    .32
+  21 067 Fayette                  Ky        16    .45        34    .48
+  54 007 Braxton                  WV        16    .45        28    .40
+  12 031 Duval                    Fl        16    .45        37    .52
+  54 099 Wayne                    WV        15    .43        35    .49
+  39 167 Washington               Oh        15    .43        36    .51
+  24 031 Montgomery               Md        15    .43        25    .35
+  54 047 McDowell                 WV        15    .43        26    .37
+  45 051 Horry                    SC        15    .43        35    .49
+  54 003 Berkeley                 WV        14    .40        27    .38
+  54 069 Ohio                     WV        14    .40        19    .27
+  06 073 San Diego                Ca        14    .40        28    .40
+  12 127 Volusia                  Fl        14    .40        23    .32
+  54 025 Greenbrier               WV        13    .37        30    .42
+  12 103 Pinellas                 Fl        13    .37        19    .27
+  51 760 Richmond city            Va        13    .37        25    .35
+  45 019 Charleston               SC        13    .37        30    .42
+  54 059 Mingo                    WV        12    .34        20    .28
+  12 011 Broward                  Fl        12    .34        24    .34
+  54 083 Randolph                 WV        12    .34        25    .35
+  39 061 Hamilton                 Oh        12    .34        20    .28
+  12 101 Pasco                    Fl        12    .34        27    .38
+  04 013 Maricopa                 Az        12    .34        24    .34
+  39 113 Montgomery               Oh        11    .31        15    .21
+  37 129 New Hanover              NC        11    .31        15    .21
+  24 033 Prince George's          Md        11    .31        14    .20
+  37 063 Durham                   NC        11    .31        25    .35
+  06 037 Los Angeles              Ca        11    .31        23    .32
+  54 053 Mason                    WV        11    .31        15    .21
+  37 133 Onslow                   NC        10    .28        28    .40
+  25 017 Middlesex                Ma        10    .28        21    .30
+  37 081 Guilford                 NC        10    .28        15    .21
+  21 111 Jefferson                Ky        10    .28        21    .30
+  54 109 Wyoming                  WV        10    .28        19    .27
+  48 469 Victoria                 Tx        10    .28        17    .24
+   Same State                               82   2.32       155   2.19
+   Region 1:   Northeast                   209   5.92       391   5.52
+   Region 2:   Midwest                     269   7.62       556   7.85
+   Region 3:   South                       730  20.69      1558  21.99
+   Region 4:   West                        107   3.03       224   3.16
+      54 039   County Non-Migrants       71965           157940
+54 041   Lewis Total Migration Fl WV       259              564
+  54 033 Harrison                 WV        39  15.06        79  14.01
+  54 097 Upshur                   WV        25   9.65        48   8.51
+  54 007 Braxton                  WV        15   5.79        27   4.79
+  54 021 Gilmer                   WV        14   5.41        39   6.91
+   Same State                               43  16.60        84  14.89
+   Region 1:   Northeast                    14   5.41        25   4.43
+   Region 2:   Midwest                      22   8.49        53   9.40
+   Region 3:   South                        76  29.34       182  32.27
+   Region 4:   West                         11   4.25        27   4.79
+      54 041   County Non-Migrants        5332            12267
+54 043   Lincoln Total Migration  WV       320              730
+  54 039 Kanawha                  WV        63  19.69       148  20.27
+  54 011 Cabell                   WV        33  10.31        78  10.68
+  54 005 Boone                    WV        24   7.50        59   8.08
+  54 045 Logan                    WV        15   4.69        44   6.03
+  39 035 Cuyahoga                 Oh        11   3.44        21   2.88
+   Same State                               30   9.38        71   9.73
+   Same Region, Diff. State                101  31.56       226  30.96
+   Different Region                         43  13.44        83  11.37
+      54 043   County Non-Migrants        5136            13060
+54 045   Logan Total Migration Fl WV       543             1204
+  54 059 Mingo                    WV        41   7.55        83   6.89
+  54 039 Kanawha                  WV        35   6.45        60   4.98
+  54 005 Boone                    WV        26   4.79        63   5.23
+  54 043 Lincoln                  WV        25   4.60        54   4.49
+  39 049 Franklin                 Oh        13   2.39        26   2.16
+  54 011 Cabell                   WV        13   2.39        19   1.58
+  37 035 Catawba                  NC        12   2.21        23   1.91
+  39 035 Cuyahoga                 Oh        11   2.03        28   2.33
+  37 057 Davidson                 NC        11   2.03        19   1.58
+   Same State                               53   9.76       142  11.79
+   Region 1:   Northeast                    22   4.05        51   4.24
+   Region 2:   Midwest                      50   9.21       123  10.22
+   Region 3:   South                       221  40.70       487  40.45
+   Region 4:   West                         10   1.84        26   2.16
+      54 045   County Non-Migrants       10860            27587
+54 047   McDowell Total Migration WV       385              874
+  37 035 Catawba                  NC        20   5.19        45   5.15
+  54 055 Mercer                   WV        20   5.19        45   5.15
+  37 057 Davidson                 NC        18   4.68        39   4.46
+  37 071 Gaston                   NC        18   4.68        51   5.84
+  51 089 Henry                    Va        14   3.64        31   3.55
+  37 097 Iredell                  NC        13   3.38        27   3.09
+  37 151 Randolph                 NC        11   2.86        29   3.32
+   Same State                               42  10.91        89  10.18
+   Same Region, Diff. State                185  48.05       424  48.51
+   Different Region                         44  11.43        94  10.76
+      54 047   County Non-Migrants        7297            18324
+54 049   Marion Total Migration F WV       844             1838
+  54 061 Monongalia               WV       112  13.27       240  13.06
+  54 033 Harrison                 WV        87  10.31       194  10.55
+  57 001 Foreign / Overseas       FR        23   2.73        40   2.18
+  54 039 Kanawha                  WV        14   1.66        33   1.80
+  54 091 Taylor                   WV        13   1.54        33   1.80
+  54 107 Wood                     WV        12   1.42        19   1.03
+  42 003 Allegheny                Pa        12   1.42        26   1.41
+  54 077 Preston                  WV        12   1.42        22   1.20
+  51 059 Fairfax                  Va        12   1.42        32   1.74
+  25 009 Essex                    Ma        11   1.30        26   1.41
+  51 153 Prince William           Va        10   1.18        21   1.14
+   Same State                               93  11.02       186  10.12
+   Region 1:   Northeast                    78   9.24       146   7.94
+   Region 2:   Midwest                      91  10.78       224  12.19
+   Region 3:   South                       227  26.90       508  27.64
+   Region 4:   West                         37   4.38        88   4.79
+      54 049   County Non-Migrants       18824            43173
+54 051   Marshall Total Migration WV       519             1081
+  54 069 Ohio                     WV       138  26.59       307  28.40
+  39 013 Belmont                  Oh        40   7.71        73   6.75
+  54 103 Wetzel                   WV        29   5.59        67   6.20
+  39 049 Franklin                 Oh        13   2.50        27   2.50
+  54 061 Monongalia               WV        10   1.93        24   2.22
+   Same State                               51   9.83        96   8.88
+   Region 1:   Northeast                    44   8.48        94   8.70
+   Region 2:   Midwest                      53  10.21       101   9.34
+   Region 3:   South                       126  24.28       265  24.51
+   Region 4:   West                         15   2.89        27   2.50
+      54 051   County Non-Migrants       12105            28068
+54 053   Mason Total Migration Fl WV       295              635
+  54 011 Cabell                   WV        30  10.17        76  11.97
+  39 053 Gallia                   Oh        30  10.17        66  10.39
+  54 035 Jackson                  WV        16   5.42        37   5.83
+  39 105 Meigs                    Oh        15   5.08        28   4.41
+  39 049 Franklin                 Oh        12   4.07        22   3.46
+  54 039 Kanawha                  WV        12   4.07        29   4.57
+   Same State                               38  12.88        74  11.65
+   Same Region, Diff. State                 86  29.15       193  30.39
+   Different Region                         56  18.98       110  17.32
+      54 053   County Non-Migrants        7571            18348
+54 055   Mercer Total Migration F WV      1043             2193
+  54 047 McDowell                 WV        90   8.63       211   9.62
+  51 185 Tazewell                 Va        81   7.77       162   7.39
+  54 081 Raleigh                  WV        28   2.68        52   2.37
+  54 089 Summers                  WV        22   2.11        42   1.92
+  54 109 Wyoming                  WV        21   2.01        52   2.37
+  54 039 Kanawha                  WV        20   1.92        39   1.78
+  57 001 Foreign / Overseas       FR        17   1.63        37   1.69
+  51 021 Bland                    Va        17   1.63        44   2.01
+  54 063 Monroe                   WV        14   1.34        24   1.09
+  37 119 Mecklenburg              NC        14   1.34        37   1.69
+  37 081 Guilford                 NC        13   1.25        28   1.28
+  54 019 Fayette                  WV        13   1.25        28   1.28
+  51 071 Giles                    Va        13   1.25        22   1.00
+  37 067 Forsyth                  NC        12   1.15        20    .91
+  39 049 Franklin                 Oh        11   1.05        21    .96
+  54 025 Greenbrier               WV        10    .96        19    .87
+  51 770 Roanoke city             Va        10    .96        20    .91
+   Same State                               45   4.31        94   4.29
+   Region 1:   Northeast                    41   3.93        82   3.74
+   Region 2:   Midwest                      64   6.14       127   5.79
+   Region 3:   South                       455  43.62       966  44.05
+   Region 4:   West                         32   3.07        66   3.01
+      54 055   County Non-Migrants       19179            44431
+54 057   Mineral Total Migration  WV       432              940
+  24 001 Allegany                 Md       131  30.32       299  31.81
+  54 027 Hampshire                WV        22   5.09        47   5.00
+  54 023 Grant                    WV        17   3.94        41   4.36
+  54 003 Berkeley                 WV        12   2.78        27   2.87
+  57 001 Foreign / Overseas       FR        11   2.55        20   2.13
+  51 059 Fairfax                  Va        10   2.31        14   1.49
+   Same State                               34   7.87        63   6.70
+   Region 1:   Northeast                    32   7.41        70   7.45
+   Region 2:   Midwest                      18   4.17        44   4.68
+   Region 3:   South                       133  30.79       283  30.11
+   Region 4:   West                         12   2.78        32   3.40
+      54 057   County Non-Migrants        8850            21134
+54 059   Mingo Total Migration Fl WV       393              907
+  21 195 Pike                     Ky        62  15.78       157  17.31
+  54 045 Logan                    WV        26   6.62        60   6.62
+  39 049 Franklin                 Oh        19   4.83        40   4.41
+  21 159 Martin                   Ky        15   3.82        41   4.52
+  54 099 Wayne                    WV        12   3.05        33   3.64
+  54 011 Cabell                   WV        11   2.80        15   1.65
+   Same State                               53  13.49       128  14.11
+   Same Region, Diff. State                147  37.40       307  33.85
+   Different Region                         48  12.21       126  13.89
+      54 059   County Non-Migrants        7889            20444
+54 061   Monongalia Total Migrati WV      1870             3487
+  54 049 Marion                   WV       107   5.72       221   6.34
+  54 077 Preston                  WV        73   3.90       137   3.93
+  42 059 Greene                   Pa        54   2.89        93   2.67
+  57 001 Foreign / Overseas       FR        53   2.83       122   3.50
+  54 033 Harrison                 WV        51   2.73        95   2.72
+  42 003 Allegheny                Pa        51   2.73        84   2.41
+  54 039 Kanawha                  WV        48   2.57        68   1.95
+  42 051 Fayette                  Pa        47   2.51        78   2.24
+  54 107 Wood                     WV        25   1.34        35   1.00
+  42 129 Westmoreland             Pa        23   1.23        37   1.06
+  54 083 Randolph                 WV        22   1.18        37   1.06
+  54 011 Cabell                   WV        21   1.12        31    .89
+  51 059 Fairfax                  Va        19   1.02        44   1.26
+  54 103 Wetzel                   WV        19   1.02        46   1.32
+  54 091 Taylor                   WV        18    .96        30    .86
+  54 081 Raleigh                  WV        17    .91        32    .92
+  54 069 Ohio                     WV        17    .91        26    .75
+  54 055 Mercer                   WV        15    .80        26    .75
+  54 051 Marshall                 WV        14    .75        19    .54
+  24 033 Prince George's          Md        14    .75        23    .66
+  39 035 Cuyahoga                 Oh        14    .75        21    .60
+  39 049 Franklin                 Oh        13    .70        19    .54
+  54 029 Hancock                  WV        13    .70        24    .69
+  54 025 Greenbrier               WV        12    .64        21    .60
+  54 003 Berkeley                 WV        12    .64        17    .49
+  24 031 Montgomery               Md        12    .64        26    .75
+  42 125 Washington               Pa        12    .64        17    .49
+  06 037 Los Angeles              Ca        11    .59        19    .54
+  54 093 Tucker                   WV        11    .59        16    .46
+  54 001 Barbour                  WV        11    .59        16    .46
+  54 057 Mineral                  WV        10    .53        14    .40
+  54 079 Putnam                   WV        10    .53        19    .54
+   Same State                              100   5.35       156   4.47
+   Region 1:   Northeast                   212  11.34       384  11.01
+   Region 2:   Midwest                     192  10.27       389  11.16
+   Region 3:   South                       408  21.82       811  23.26
+   Region 4:   West                        109   5.83       234   6.71
+      54 061   County Non-Migrants       21411            48125
+54 063   Monroe Total Migration F WV       240              525
+  54 025 Greenbrier               WV        29  12.08        64  12.19
+  54 055 Mercer                   WV        21   8.75        59  11.24
+  54 089 Summers                  WV        19   7.92        37   7.05
+  51 071 Giles                    Va        12   5.00        29   5.52
+   Same State                               30  12.50        69  13.14
+   Same Region, Diff. State                 96  40.00       205  39.05
+   Different Region                         33  13.75        62  11.81
+      54 063   County Non-Migrants        3670             8786
+54 065   Morgan Total Migration F WV       343              734
+  54 003 Berkeley                 WV        47  13.70       107  14.58
+  24 043 Washington               Md        43  12.54        96  13.08
+  24 031 Montgomery               Md        15   4.37        34   4.63
+  24 005 Baltimore                Md        15   4.37        30   4.09
+  24 033 Prince George's          Md        13   3.79        25   3.41
+  24 003 Anne Arundel             Md        12   3.50        23   3.13
+  51 069 Frederick                Va        10   2.92        26   3.54
+   Same State                               29   8.45        66   8.99
+   Same Region, Diff. State                115  33.53       229  31.20
+   Different Region                         44  12.83        98  13.35
+      54 065   County Non-Migrants        4240             9714
+54 067   Nicholas Total Migration WV       428              938
+  54 101 Webster                  WV        24   5.61        59   6.29
+  54 019 Fayette                  WV        24   5.61        62   6.61
+  54 039 Kanawha                  WV        17   3.97        32   3.41
+  54 025 Greenbrier               WV        14   3.27        30   3.20
+  54 045 Logan                    WV        10   2.34        24   2.56
+   Same State                               74  17.29       162  17.27
+   Same Region, Diff. State                188  43.93       405  43.18
+   Different Region                         77  17.99       164  17.48
+      54 067   County Non-Migrants        7373            18571
+54 069   Ohio Total Migration Flo WV       843             1689
+  54 051 Marshall                 WV       152  18.03       322  19.06
+  39 013 Belmont                  Oh       106  12.57       216  12.79
+  54 009 Brooke                   WV        29   3.44        57   3.37
+  42 003 Allegheny                Pa        23   2.73        42   2.49
+  39 081 Jefferson                Oh        23   2.73        49   2.90
+  39 049 Franklin                 Oh        19   2.25        32   1.89
+  54 061 Monongalia               WV        19   2.25        37   2.19
+  57 001 Foreign / Overseas       FR        18   2.14        25   1.48
+  42 125 Washington               Pa        16   1.90        30   1.78
+  54 103 Wetzel                   WV        13   1.54        17   1.01
+  54 029 Hancock                  WV        11   1.30        17   1.01
+   Same State                               54   6.41       109   6.45
+   Region 1:   Northeast                    72   8.54       154   9.12
+   Region 2:   Midwest                      83   9.85       162   9.59
+   Region 3:   South                       171  20.28       359  21.26
+   Region 4:   West                         34   4.03        61   3.61
+      54 069   County Non-Migrants       17822            38266
+54 071   Pendleton Total Migratio WV       153              336
+  57 001 Foreign / Overseas       FR        12   7.84        28   8.33
+  51 165 Rockingham               Va        10   6.54        18   5.36
+  54 023 Grant                    WV        10   6.54        23   6.85
+   Same State                               34  22.22        76  22.62
+   Same Region, Diff. State                 70  45.75       152  45.24
+   Different Region                         17  11.11        39  11.61
+      54 071   County Non-Migrants        2738             6235
+54 073   Pleasants Total Migratio WV       129              306
+  54 107 Wood                     WV        39  30.23        95  31.05
+  39 167 Washington               Oh        15  11.63        40  13.07
+  54 095 Tyler                    WV        14  10.85        33  10.78
+  54 085 Ritchie                  WV        11   8.53        25   8.17
+   Same State                               15  11.63        26   8.50
+   Same Region, Diff. State                 19  14.73        39  12.75
+   Different Region                         16  12.40        48  15.69
+      54 073   County Non-Migrants        2371             5686
+54 075   Pocahontas Total Migrati WV       159              324
+  54 025 Greenbrier               WV        19  11.95        43  13.27
+   Same State                               33  20.75        73  22.53
+   Same Region, Diff. State                 74  46.54       145  44.75
+   Different Region                         33  20.75        63  19.44
+      54 075   County Non-Migrants        2919             6666
+54 077   Preston Total Migration  WV       401              878
+  54 061 Monongalia               WV        90  22.44       211  24.03
+  24 023 Garrett                  Md        30   7.48        60   6.83
+  54 091 Taylor                   WV        14   3.49        36   4.10
+  42 051 Fayette                  Pa        11   2.74        21   2.39
+  54 003 Berkeley                 WV        10   2.49        27   3.08
+  54 049 Marion                   WV        10   2.49        20   2.28
+   Same State                               42  10.47       100  11.39
+   Region 1:   Northeast                    36   8.98        64   7.29
+   Region 2:   Midwest                      27   6.73        59   6.72
+   Region 3:   South                       120  29.93       254  28.93
+   Region 4:   West                         11   2.74        26   2.96
+      54 077   County Non-Migrants        8788            21781
+54 079   Putnam Total Migration F WV      1218             2972
+  54 039 Kanawha                  WV       544  44.66      1231  41.42
+  54 011 Cabell                   WV       107   8.78       273   9.19
+  54 053 Mason                    WV        26   2.13        63   2.12
+  54 043 Lincoln                  WV        17   1.40        54   1.82
+  54 107 Wood                     WV        11    .90        25    .84
+  54 019 Fayette                  WV        10    .82        29    .98
+   Same State                               75   6.16       206   6.93
+   Region 1:   Northeast                    52   4.27       135   4.54
+   Region 2:   Midwest                      98   8.05       282   9.49
+   Region 3:   South                       242  19.87       592  19.92
+   Region 4:   West                         26   2.13        65   2.19
+   Foreign                                  10    .82        17    .57
+      54 079   County Non-Migrants       13292            33087
+54 081   Raleigh Total Migration  WV      1288             2854
+  54 019 Fayette                  WV       119   9.24       265   9.29
+  54 109 Wyoming                  WV        51   3.96       123   4.31
+  54 089 Summers                  WV        45   3.49        93   3.26
+  54 039 Kanawha                  WV        37   2.87        71   2.49
+  54 055 Mercer                   WV        30   2.33        66   2.31
+  57 001 Foreign / Overseas       FR        24   1.86        45   1.58
+  54 005 Boone                    WV        23   1.79        76   2.66
+  37 119 Mecklenburg              NC        20   1.55        41   1.44
+  54 025 Greenbrier               WV        16   1.24        29   1.02
+  37 183 Wake                     NC        16   1.24        33   1.16
+  54 011 Cabell                   WV        12    .93        21    .74
+  39 035 Cuyahoga                 Oh        12    .93        30   1.05
+  39 049 Franklin                 Oh        12    .93        20    .70
+  37 035 Catawba                  NC        12    .93        29   1.02
+  51 153 Prince William           Va        12    .93        20    .70
+  54 061 Monongalia               WV        12    .93        16    .56
+  51 185 Tazewell                 Va        11    .85        23    .81
+  37 057 Davidson                 NC        11    .85        33   1.16
+  37 067 Forsyth                  NC        10    .78        19    .67
+   Same State                               99   7.69       209   7.32
+   Region 1:   Northeast                    68   5.28       149   5.22
+   Region 2:   Midwest                     103   8.00       243   8.51
+   Region 3:   South                       483  37.50      1094  38.33
+   Region 4:   West                         50   3.88       106   3.71
+      54 081   County Non-Migrants       21293            51564
+54 083   Randolph Total Migration WV       458             1007
+  54 001 Barbour                  WV        39   8.52        91   9.04
+  54 093 Tucker                   WV        28   6.11        63   6.26
+  54 075 Pocahontas               WV        11   2.40        24   2.38
+  54 033 Harrison                 WV        10   2.18        23   2.28
+  54 061 Monongalia               WV        10   2.18        12   1.19
+  51 153 Prince William           Va        10   2.18        23   2.28
+   Same State                               92  20.09       207  20.56
+   Region 1:   Northeast                    34   7.42        68   6.75
+   Region 2:   Midwest                      36   7.86        86   8.54
+   Region 3:   South                       170  37.12       377  37.44
+   Region 4:   West                         18   3.93        33   3.28
+      54 083   County Non-Migrants        8668            20255
+54 085   Ritchie Total Migration  WV       158              357
+  54 107 Wood                     WV        19  12.03        33   9.24
+  54 017 Doddridge                WV        14   8.86        35   9.80
+   Same State                               39  24.68       108  30.25
+   Same Region, Diff. State                 40  25.32        77  21.57
+   Different Region                         46  29.11       104  29.13
+      54 085   County Non-Migrants        3203             7449
+54 087   Roane Total Migration Fl WV       259              602
+  54 039 Kanawha                  WV        50  19.31       113  18.77
+  54 013 Calhoun                  WV        13   5.02        33   5.48
+  54 035 Jackson                  WV        11   4.25        27   4.49
+   Same State                               41  15.83        94  15.61
+   Region 1:   Northeast                    14   5.41        33   5.48
+   Region 2:   Midwest                      40  15.44       102  16.94
+   Region 3:   South                        79  30.50       180  29.90
+   Region 4:   West                         11   4.25        20   3.32
+      54 087   County Non-Migrants        3968             9830
+54 089   Summers Total Migration  WV       287              614
+  54 081 Raleigh                  WV        50  17.42       102  16.61
+  54 025 Greenbrier               WV        23   8.01        50   8.14
+  54 063 Monroe                   WV        23   8.01        50   8.14
+  54 055 Mercer                   WV        14   4.88        32   5.21
+  54 019 Fayette                  WV        12   4.18        30   4.89
+   Same State                               22   7.67        50   8.14
+   Same Region, Diff. State                109  37.98       230  37.46
+   Different Region                         34  11.85        70  11.40
+      54 089   County Non-Migrants        3513             8341
+54 091   Taylor Total Migration F WV       212              497
+  54 033 Harrison                 WV        29  13.68        72  14.49
+  54 049 Marion                   WV        17   8.02        46   9.26
+  54 061 Monongalia               WV        16   7.55        36   7.24
+  54 001 Barbour                  WV        15   7.08        32   6.44
+  54 077 Preston                  WV        12   5.66        21   4.23
+   Same State                               24  11.32        54  10.87
+   Region 1:   Northeast                    20   9.43        48   9.66
+   Region 2:   Midwest                      17   8.02        52  10.46
+   Region 3:   South                        52  24.53       115  23.14
+   Region 4:   West                         10   4.72        21   4.23
+      54 091   County Non-Migrants        4287            10281
+54 093   Tucker Total Migration F WV       131              269
+  54 083 Randolph                 WV        19  14.50        30  11.15
+   Same State                               40  30.53        87  32.34
+   Same Region, Diff. State                 50  38.17       101  37.55
+   Different Region                         22  16.79        51  18.96
+      54 093   County Non-Migrants        2486             5890
+54 095   Tyler Total Migration Fl WV       157              342
+  54 103 Wetzel                   WV        42  26.75        87  25.44
+  54 073 Pleasants                WV        14   8.92        29   8.48
+   Same State                               34  21.66        83  24.27
+   Same Region, Diff. State                 41  26.11        86  25.15
+   Different Region                         26  16.56        57  16.67
+      54 095   County Non-Migrants        2874             7244
+54 097   Upshur Total Migration F WV       347              759
+  54 041 Lewis                    WV        31   8.93        66   8.70
+  54 083 Randolph                 WV        20   5.76        50   6.59
+  54 033 Harrison                 WV        20   5.76        41   5.40
+  57 001 Foreign / Overseas       FR        10   2.88        14   1.84
+  54 001 Barbour                  WV        10   2.88        28   3.69
+   Same State                               53  15.27       105  13.83
+   Same Region, Diff. State                118  34.01       274  36.10
+   Different Region                         85  24.50       181  23.85
+      54 097   County Non-Migrants        6414            15691
+54 099   Wayne Total Migration Fl WV       845             1822
+  54 011 Cabell                   WV       304  35.98       644  35.35
+  39 087 Lawrence                 Oh        44   5.21        96   5.27
+  39 049 Franklin                 Oh        25   2.96        48   2.63
+  54 059 Mingo                    WV        21   2.49        58   3.18
+  21 019 Boyd                     Ky        20   2.37        42   2.31
+  57 001 Foreign / Overseas       FR        13   1.54        30   1.65
+  21 127 Lawrence                 Ky        13   1.54        35   1.92
+  54 045 Logan                    WV        10   1.18        20   1.10
+   Same State                               58   6.86       114   6.26
+   Region 1:   Northeast                    30   3.55        59   3.24
+   Region 2:   Midwest                      69   8.17       148   8.12
+   Region 3:   South                       215  25.44       481  26.40
+   Region 4:   West                         23   2.72        47   2.58
+      54 099   County Non-Migrants       11669            28312
+54 101   Webster Total Migration  WV       114              243
+  54 067 Nicholas                 WV        11   9.65        39  16.05
+   Same State                               30  26.32        60  24.69
+   Same Region, Diff. State                 47  41.23        99  40.74
+   Different Region                         26  22.81        45  18.52
+      54 101   County Non-Migrants        2551             6578
+54 103   Wetzel Total Migration F WV       313              747
+  54 051 Marshall                 WV        35  11.18       103  13.79
+  54 095 Tyler                    WV        35  11.18        73   9.77
+  39 111 Monroe                   Oh        14   4.47        38   5.09
+  54 033 Harrison                 WV        11   3.51        28   3.75
+  54 029 Hancock                  WV        10   3.19        24   3.21
+   Same State                               46  14.70       100  13.39
+   Same Region, Diff. State                 92  29.39       195  26.10
+   Different Region                         70  22.36       186  24.90
+      54 103   County Non-Migrants        6060            14877
+54 105   Wirt Total Migration Flo WV       119              282
+  54 107 Wood                     WV        48  40.34       120  42.55
+  54 035 Jackson                  WV        13  10.92        37  13.12
+   Same State                               22  18.49        44  15.60
+   Same Region, Diff. State                 23  19.33        45  15.96
+   Different Region                         13  10.92        36  12.77
+      54 105   County Non-Migrants        1522             3814
+54 107   Wood Total Migration Flo WV      1479             3107
+  39 167 Washington               Oh       196  13.25       369  11.88
+  54 105 Wirt                     WV        57   3.85       111   3.57
+  54 085 Ritchie                  WV        52   3.52       116   3.73
+  54 039 Kanawha                  WV        43   2.91        81   2.61
+  57 001 Foreign / Overseas       FR        37   2.50        72   2.32
+  54 035 Jackson                  WV        37   2.50        69   2.22
+  39 049 Franklin                 Oh        29   1.96        52   1.67
+  54 061 Monongalia               WV        26   1.76        53   1.71
+  54 073 Pleasants                WV        26   1.76        51   1.64
+  10 003 New Castle               De        22   1.49        55   1.77
+  54 011 Cabell                   WV        22   1.49        45   1.45
+  54 033 Harrison                 WV        20   1.35        45   1.45
+  54 013 Calhoun                  WV        17   1.15        40   1.29
+  42 003 Allegheny                Pa        16   1.08        37   1.19
+  39 009 Athens                   Oh        14    .95        29    .93
+  54 103 Wetzel                   WV        13    .88        32   1.03
+  48 201 Harris                   Tx        12    .81        35   1.13
+  54 049 Marion                   WV        11    .74        24    .77
+  54 087 Roane                    WV        10    .68        18    .58
+  12 011 Broward                  Fl        10    .68        11    .35
+  37 119 Mecklenburg              NC        10    .68        16    .51
+  51 810 Virginia Beach city      Va        10    .68        20    .64
+   Same State                              109   7.37       220   7.08
+   Region 1:   Northeast                   110   7.44       235   7.56
+   Region 2:   Midwest                     166  11.22       383  12.33
+   Region 3:   South                       346  23.39       757  24.36
+   Region 4:   West                         58   3.92       131   4.22
+      54 107   County Non-Migrants       30264            69699
+54 109   Wyoming Total Migration  WV       336              795
+  54 081 Raleigh                  WV        29   8.63        78   9.81
+  54 047 McDowell                 WV        18   5.36        44   5.53
+  37 067 Forsyth                  NC        15   4.46        32   4.03
+  51 089 Henry                    Va        13   3.87        30   3.77
+  54 059 Mingo                    WV        13   3.87        39   4.91
+  54 055 Mercer                   WV        11   3.27        29   3.65
+  37 081 Guilford                 NC        10   2.98        15   1.89
+   Same State                               50  14.88       134  16.86
+   Same Region, Diff. State                139  41.37       306  38.49
+   Different Region                         38  11.31        88  11.07
+      54 109   County Non-Migrants        7061            18461

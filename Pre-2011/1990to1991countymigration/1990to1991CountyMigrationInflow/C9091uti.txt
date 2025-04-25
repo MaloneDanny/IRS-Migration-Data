@@ -1,0 +1,698 @@
+49 001   Beaver Total Migration F Ut        96              234
+   All Migration Flows                      96 100.00       234 100.00
+      49 001   County Non-Migrants        1256             3796
+49 003   Box Elder Total Migratio Ut       616             1609
+  49 005 Cache                    Ut       117  18.99       296  18.40
+  49 057 Weber                    Ut       106  17.21       249  15.48
+  49 035 Salt Lake                Ut        50   8.12       123   7.64
+  49 011 Davis                    Ut        47   7.63       132   8.20
+  49 049 Utah                     Ut        25   4.06        69   4.29
+  06 037 Los Angeles              Ca        12   1.95        33   2.05
+  04 013 Maricopa                 Az        11   1.79        21   1.31
+  16 071 Oneida                   Id        11   1.79        26   1.62
+   Same State                               17   2.76        58   3.60
+   Region 1:   Northeast                    11   1.79        20   1.24
+   Region 2:   Midwest                      30   4.87        86   5.34
+   Region 3:   South                        53   8.60       142   8.83
+   Region 4:   West                        126  20.45       354  22.00
+      49 003   County Non-Migrants       10452            32448
+49 005   Cache Total Migration Fl Ut      1833             4283
+  49 035 Salt Lake                Ut       209  11.40       450  10.51
+  49 049 Utah                     Ut       153   8.35       390   9.11
+  49 003 Box Elder                Ut        98   5.35       232   5.42
+  49 057 Weber                    Ut        85   4.64       189   4.41
+  49 011 Davis                    Ut        84   4.58       200   4.67
+  16 041 Franklin                 Id        61   3.33       154   3.60
+  16 065 Madison                  Id        54   2.95       109   2.54
+  16 019 Bonneville               Id        34   1.85        58   1.35
+  49 053 Washington               Ut        26   1.42        59   1.38
+  16 005 Bannock                  Id        24   1.31        55   1.28
+  04 013 Maricopa                 Az        23   1.25        53   1.24
+  49 039 Sanpete                  Ut        23   1.25        57   1.33
+  16 011 Bingham                  Id        23   1.25        34    .79
+  06 059 Orange                   Ca        23   1.25        55   1.28
+  57 001 Foreign / Overseas       FR        23   1.25        52   1.21
+  16 029 Caribou                  Id        22   1.20        36    .84
+  06 073 San Diego                Ca        21   1.15        57   1.33
+  06 037 Los Angeles              Ca        18    .98        46   1.07
+  56 023 Lincoln                  Wy        17    .93        41    .96
+  49 047 Uintah                   Ut        17    .93        40    .93
+  49 045 Tooele                   Ut        14    .76        22    .51
+  49 007 Carbon                   Ut        13    .71        25    .58
+  06 071 San Bernardino           Ca        13    .71        29    .68
+  49 033 Rich                     Ut        13    .71        29    .68
+  16 007 Bear Lake                Id        13    .71        25    .58
+  49 037 San Juan                 Ut        12    .65        26    .61
+  16 071 Oneida                   Id        12    .65        25    .58
+  32 003 Clark                    Nv        12    .65        28    .65
+  53 033 King                     Wa        12    .65        19    .44
+  49 013 Duchesne                 Ut        12    .65        27    .63
+  16 031 Cassia                   Id        12    .65        22    .51
+  49 021 Iron                     Ut        11    .60        29    .68
+  16 001 Ada                      Id        11    .60        23    .54
+  16 043 Fremont                  Id        11    .60        21    .49
+  56 041 Uinta                    Wy        10    .55        17    .40
+  06 065 Riverside                Ca        10    .55        25    .58
+   Same State                               41   2.24        92   2.15
+   Region 1:   Northeast                    40   2.18        90   2.10
+   Region 2:   Midwest                      91   4.96       196   4.58
+   Region 3:   South                       135   7.36       348   8.13
+   Region 4:   West                        297  16.20       798  18.63
+      49 005   County Non-Migrants       17962            54236
+49 007   Carbon Total Migration F Ut       349              909
+  49 035 Salt Lake                Ut        61  17.48       162  17.82
+  49 015 Emery                    Ut        42  12.03       101  11.11
+  49 049 Utah                     Ut        24   6.88        65   7.15
+  04 013 Maricopa                 Az        10   2.87        23   2.53
+   Same State                               54  15.47       166  18.26
+   Same Region, Diff. State                114  32.66       281  30.91
+   Different Region                         44  12.61       111  12.21
+      49 007   County Non-Migrants        5770            16147
+49 009   Daggett Total Migration  Ut         0                0
+      49 009   County Non-Migrants          -1               -1
+49 011   Davis Total Migration Fl Ut      5285            13673
+  49 057 Weber                    Ut      1125  21.29      2793  20.43
+  49 035 Salt Lake                Ut      1097  20.76      2789  20.40
+  57 001 Foreign / Overseas       FR       433   8.19      1147   8.39
+  49 049 Utah                     Ut       177   3.35       470   3.44
+  49 005 Cache                    Ut       108   2.04       330   2.41
+  06 037 Los Angeles              Ca        84   1.59       199   1.46
+  32 003 Clark                    Nv        71   1.34       227   1.66
+  04 013 Maricopa                 Az        63   1.19       164   1.20
+  06 059 Orange                   Ca        49    .93       152   1.11
+  06 073 San Diego                Ca        45    .85       103    .75
+  49 003 Box Elder                Ut        42    .79       133    .97
+  16 001 Ada                      Id        38    .72       116    .85
+  53 033 King                     Wa        30    .57        98    .72
+  06 071 San Bernardino           Ca        30    .57        83    .61
+  06 067 Sacramento               Ca        27    .51        83    .61
+  49 029 Morgan                   Ut        21    .40        53    .39
+  49 045 Tooele                   Ut        21    .40        45    .33
+  16 005 Bannock                  Id        20    .38        67    .49
+  02 020 Anchorage Borough        Ak        19    .36        58    .42
+  16 019 Bonneville               Id        19    .36        50    .37
+  08 031 Denver                   Co        19    .36        37    .27
+  49 053 Washington               Ut        19    .36        43    .31
+  08 005 Arapahoe                 Co        19    .36        44    .32
+  48 029 Bexar                    Tx        19    .36        44    .32
+  06 085 Santa Clara              Ca        18    .34        48    .35
+  06 065 Riverside                Ca        18    .34        50    .37
+  04 019 Pima                     Az        17    .32        50    .37
+  06 013 Contra Costa             Ca        17    .32        50    .37
+  08 041 El Paso                  Co        16    .30        40    .29
+  15 003 Honolulu                 Hi        16    .30        40    .29
+  06 111 Ventura                  Ca        16    .30        37    .27
+  35 001 Bernalillo               NM        15    .28        36    .26
+  06 001 Alameda                  Ca        14    .26        33    .24
+  48 439 Tarrant                  Tx        14    .26        38    .28
+  53 053 Pierce                   Wa        13    .25        33    .24
+  33 015 Rockingham               NH        12    .23        32    .23
+  53 061 Snohomish                Wa        12    .23        45    .33
+  39 113 Montgomery               Oh        12    .23        24    .18
+  49 007 Carbon                   Ut        12    .23        24    .18
+  49 047 Uintah                   Ut        12    .23        42    .31
+  49 021 Iron                     Ut        12    .23        33    .24
+  08 059 Jefferson                Co        12    .23        29    .21
+  17 031 Cook                     Il        11    .21        17    .12
+  53 011 Clark                    Wa        11    .21        31    .23
+  48 201 Harris                   Tx        11    .21        26    .19
+  06 081 San Mateo                Ca        11    .21        15    .11
+  12 103 Pinellas                 Fl        11    .21        32    .23
+  35 045 San Juan                 NM        11    .21        23    .17
+  16 039 Elmore                   Id        10    .19        28    .20
+  12 011 Broward                  Fl        10    .19        24    .18
+  06 095 Solano                   Ca        10    .19        28    .20
+  56 041 Uinta                    Wy        10    .19        29    .21
+  06 029 Kern                     Ca        10    .19        40    .29
+   Same State                               59   1.12       203   1.48
+   Region 1:   Northeast                   140   2.65       297   2.17
+   Region 2:   Midwest                     311   5.88       739   5.40
+   Region 3:   South                       380   7.19      1054   7.71
+   Region 4:   West                        426   8.06      1075   7.86
+      49 011   County Non-Migrants       51337           153635
+49 013   Duchesne Total Migration Ut       231              649
+  49 035 Salt Lake                Ut        43  18.61       105  16.18
+  49 047 Uintah                   Ut        31  13.42       113  17.41
+  49 049 Utah                     Ut        25  10.82        54   8.32
+  32 003 Clark                    Nv        10   4.33        29   4.47
+   Same State                               43  18.61       116  17.87
+   Same Region, Diff. State                 58  25.11       171  26.35
+   Different Region                         21   9.09        61   9.40
+      49 013   County Non-Migrants        3067            10179
+49 015   Emery Total Migration Fl Ut       160              472
+  49 035 Salt Lake                Ut        22  13.75        65  13.77
+  49 007 Carbon                   Ut        21  13.13        66  13.98
+  49 049 Utah                     Ut        13   8.13        48  10.17
+   Same State                               37  23.13       100  21.19
+   Same Region, Diff. State                 51  31.88       148  31.36
+   Different Region                         16  10.00        45   9.53
+      49 015   County Non-Migrants        2559             8861
+49 017   Garfield Total Migration Ut       116              290
+   Same State                               44  37.93       133  45.86
+   Same Region, Diff. State                 57  49.14       124  42.76
+   Different Region                         15  12.93        33  11.38
+      49 017   County Non-Migrants        1044             3126
+49 019   Grand Total Migration Fl Ut       217              438
+  49 035 Salt Lake                Ut        19   8.76        45  10.27
+   Same State                               32  14.75        67  15.30
+   Region 1:   Northeast                    11   5.07        13   2.97
+   Region 2:   Midwest                      20   9.22        35   7.99
+   Region 3:   South                        19   8.76        42   9.59
+   Region 4:   West                        116  53.46       236  53.88
+      49 019   County Non-Migrants        1818             4459
+49 021   Iron Total Migration Flo Ut       673             1625
+  49 053 Washington               Ut        70  10.40       174  10.71
+  32 003 Clark                    Nv        68  10.10       136   8.37
+  49 035 Salt Lake                Ut        53   7.88       138   8.49
+  49 049 Utah                     Ut        50   7.43       125   7.69
+  06 037 Los Angeles              Ca        18   2.67        37   2.28
+  04 013 Maricopa                 Az        18   2.67        55   3.38
+  06 073 San Diego                Ca        18   2.67        36   2.22
+  49 025 Kane                     Ut        17   2.53        40   2.46
+  06 059 Orange                   Ca        17   2.53        44   2.71
+  49 017 Garfield                 Ut        15   2.23        35   2.15
+  49 011 Davis                    Ut        15   2.23        38   2.34
+  06 071 San Bernardino           Ca        13   1.93        31   1.91
+  49 041 Sevier                   Ut        13   1.93        38   2.34
+  04 005 Coconino                 Az        12   1.78        30   1.85
+  06 065 Riverside                Ca        12   1.78        31   1.91
+   Same State                               80  11.89       211  12.98
+   Region 1:   Northeast                    13   1.93        25   1.54
+   Region 2:   Midwest                      20   2.97        50   3.08
+   Region 3:   South                        36   5.35        83   5.11
+   Region 4:   West                        115  17.09       268  16.49
+      49 021   County Non-Migrants        4930            14715
+49 023   Juab Total Migration Flo Ut       115              332
+  49 049 Utah                     Ut        36  31.30       100  30.12
+  49 035 Salt Lake                Ut        15  13.04        47  14.16
+   All Migration Flows                      64  55.65       185  55.72
+      49 023   County Non-Migrants        1465             4531
+49 025   Kane Total Migration Flo Ut       126              318
+  04 005 Coconino                 Az        15  11.90        38  11.95
+  32 003 Clark                    Nv        15  11.90        28   8.81
+  49 053 Washington               Ut        10   7.94        34  10.69
+   Same State                               29  23.02        87  27.36
+   Same Region, Diff. State                 46  36.51       107  33.65
+   Different Region                         11   8.73        24   7.55
+      49 025   County Non-Migrants        1225             3719
+49 027   Millard Total Migration  Ut       183              521
+  49 035 Salt Lake                Ut        24  13.11        63  12.09
+  49 049 Utah                     Ut        16   8.74        39   7.49
+  49 053 Washington               Ut        11   6.01        31   5.95
+   Same State                               35  19.13       129  24.76
+   Same Region, Diff. State                 80  43.72       213  40.88
+   Different Region                         17   9.29        46   8.83
+      49 027   County Non-Migrants        2760             9473
+49 029   Morgan Total Migration F Ut       129              377
+  49 057 Weber                    Ut        36  27.91       110  29.18
+  49 011 Davis                    Ut        28  21.71        67  17.77
+  49 035 Salt Lake                Ut        12   9.30        31   8.22
+   Same State                               20  15.50        64  16.98
+   Same Region, Diff. State                 19  14.73        56  14.85
+   Different Region                         14  10.85        49  13.00
+      49 029   County Non-Migrants        1533             4792
+49 031   Piute Total Migration Fl Ut        27               72
+   Same State                               16  59.26        50  69.44
+   Region 4:   West                         11  40.74        22  30.56
+      49 031   County Non-Migrants         297              878
+49 033   Rich Total Migration Flo Ut        35               79
+   All Migration Flows                      35 100.00        79 100.00
+      49 033   County Non-Migrants         397             1396
+49 035   Salt Lake Total Migratio Ut     14246            30891
+  49 049 Utah                     Ut      1293   9.08      3005   9.73
+  49 011 Davis                    Ut      1199   8.42      2498   8.09
+  06 037 Los Angeles              Ca       506   3.55      1099   3.56
+  04 013 Maricopa                 Az       446   3.13      1042   3.37
+  49 057 Weber                    Ut       424   2.98       826   2.67
+  06 073 San Diego                Ca       302   2.12       635   2.06
+  49 005 Cache                    Ut       280   1.97       610   1.97
+  06 059 Orange                   Ca       279   1.96       660   2.14
+  32 003 Clark                    Nv       254   1.78       581   1.88
+  49 045 Tooele                   Ut       217   1.52       473   1.53
+  57 001 Foreign / Overseas       FR       210   1.47       456   1.48
+  49 053 Washington               Ut       183   1.28       351   1.14
+  49 043 Summit                   Ut       173   1.21       308   1.00
+  53 033 King                     Wa       172   1.21       370   1.20
+  16 001 Ada                      Id       133    .93       277    .90
+  06 071 San Bernardino           Ca       128    .90       297    .96
+  06 085 Santa Clara              Ca       120    .84       244    .79
+  16 005 Bannock                  Id       108    .76       230    .74
+  49 007 Carbon                   Ut       101    .71       225    .73
+  06 065 Riverside                Ca        99    .69       243    .79
+  06 067 Sacramento               Ca        99    .69       247    .80
+  32 031 Washoe                   Nv        94    .66       193    .62
+  06 001 Alameda                  Ca        93    .65       204    .66
+  08 059 Jefferson                Co        85    .60       194    .63
+  04 019 Pima                     Az        84    .59       176    .57
+  49 021 Iron                     Ut        81    .57       170    .55
+  15 003 Honolulu                 Hi        79    .55       195    .63
+  48 113 Dallas                   Tx        78    .55       150    .49
+  48 201 Harris                   Tx        76    .53       172    .56
+  32 007 Elko                     Nv        76    .53       149    .48
+  16 019 Bonneville               Id        75    .53       154    .50
+  08 005 Arapahoe                 Co        73    .51       189    .61
+  06 013 Contra Costa             Ca        72    .51       172    .56
+  17 031 Cook                     Il        72    .51       131    .42
+  49 039 Sanpete                  Ut        67    .47       168    .54
+  49 003 Box Elder                Ut        67    .47       134    .43
+  35 001 Bernalillo               NM        63    .44       134    .43
+  08 031 Denver                   Co        63    .44       119    .39
+  49 047 Uintah                   Ut        62    .44       132    .43
+  06 111 Ventura                  Ca        60    .42       139    .45
+  48 439 Tarrant                  Tx        60    .42       117    .38
+  08 041 El Paso                  Co        59    .41       128    .41
+  35 045 San Juan                 NM        56    .39       152    .49
+  41 051 Multnomah                Or        56    .39       124    .40
+  49 051 Wasatch                  Ut        51    .36       121    .39
+  49 041 Sevier                   Ut        51    .36       130    .42
+  41 067 Washington               Or        51    .36       119    .39
+  27 053 Hennepin                 Mn        50    .35        87    .28
+  25 017 Middlesex                Ma        49    .34        87    .28
+  06 081 San Mateo                Ca        47    .33       100    .32
+  56 037 Sweetwater               Wy        45    .32        98    .32
+  04 001 Apache                   Az        44    .31       135    .44
+  16 065 Madison                  Id        43    .30        88    .28
+  08 077 Mesa                     Co        42    .29        96    .31
+  53 053 Pierce                   Wa        42    .29        95    .31
+  48 141 El Paso                  Tx        40    .28       114    .37
+  04 005 Coconino                 Az        40    .28        97    .31
+  49 027 Millard                  Ut        40    .28        87    .28
+  39 049 Franklin                 Oh        40    .28        71    .23
+  06 083 Santa Barbara            Ca        39    .27        88    .28
+  49 013 Duchesne                 Ut        37    .26        94    .30
+  48 029 Bexar                    Tx        37    .26       107    .35
+  49 037 San Juan                 Ut        37    .26        91    .29
+  06 053 Monterey                 Ca        36    .25        86    .28
+  16 083 Twin Falls               Id        36    .25        64    .21
+  06 075 San Francisco            Ca        36    .25        64    .21
+  51 059 Fairfax                  Va        35    .25        90    .29
+  49 015 Emery                    Ut        35    .25        99    .32
+  53 061 Snohomish                Wa        35    .25        85    .28
+  56 041 Uinta                    Wy        35    .25        79    .26
+  08 001 Adams                    Co        32    .22        68    .22
+  56 023 Lincoln                  Wy        32    .22        59    .19
+  02 020 Anchorage Borough        Ak        32    .22        70    .23
+  06 019 Fresno                   Ca        31    .22        78    .25
+  53 063 Spokane                  Wa        31    .22        67    .22
+  56 025 Natrona                  Wy        31    .22        72    .23
+  06 029 Kern                     Ca        30    .21        83    .27
+  08 013 Boulder                  Co        30    .21        47    .15
+  16 011 Bingham                  Id        29    .20        53    .17
+  06 077 San Joaquin              Ca        29    .20        76    .25
+  31 055 Douglas                  Ne        28    .20        68    .22
+  04 015 Mohave                   Az        28    .20        65    .21
+  06 097 Sonoma                   Ca        27    .19        53    .17
+  06 095 Solano                   Ca        27    .19        70    .23
+  41 039 Lane                     Or        27    .19        63    .20
+  41 005 Clackamas                Or        27    .19        66    .21
+  35 031 McKinley                 NM        26    .18        68    .22
+  12 025 Dade                     Fl        26    .18        60    .19
+  56 039 Teton                    Wy        26    .18        35    .11
+  29 189 St. Louis                Mo        26    .18        61    .20
+  16 027 Canyon                   Id        26    .18        52    .17
+  56 021 Laramie                  Wy        25    .18        47    .15
+  13 067 Cobb                     Ga        25    .18        49    .16
+  30 063 Missoula                 Mt        24    .17        49    .16
+  36 061 New York                 NY        24    .17        41    .13
+  24 031 Montgomery               Md        24    .17        52    .17
+  08 069 Larimer                  Co        24    .17        43    .14
+  17 043 Du Page                  Il        23    .16        73    .24
+  09 001 Fairfield                Ct        23    .16        39    .13
+  48 453 Travis                   Tx        22    .15        59    .19
+  12 095 Orange                   Fl        21    .15        45    .15
+  32 033 White Pine               Nv        21    .15        54    .17
+  18 097 Marion                   In        21    .15        53    .17
+  13 121 Fulton                   Ga        21    .15        42    .14
+  12 011 Broward                  Fl        21    .15        44    .14
+  40 109 Oklahoma                 Ok        21    .15        52    .17
+  36 081 Queens                   NY        20    .14        40    .13
+  06 099 Stanislaus               Ca        20    .14        44    .14
+  04 025 Yavapai                  Az        20    .14        42    .14
+  25 027 Worcester                Ma        20    .14        38    .12
+  36 055 Monroe                   NY        20    .14        36    .12
+  25 009 Essex                    Ma        20    .14        37    .12
+  30 111 Yellowstone              Mt        20    .14        44    .14
+  26 125 Oakland                  Mi        20    .14        43    .14
+  20 091 Johnson                  Ks        19    .13        47    .15
+  16 067 Minidoka                 Id        19    .13        36    .12
+  56 001 Albany                   Wy        19    .13        30    .10
+  06 079 San Luis Obispo          Ca        19    .13        38    .12
+  25 025 Suffolk                  Ma        19    .13        23    .07
+  49 019 Grand                    Ut        19    .13        38    .12
+  09 003 Hartford                 Ct        18    .13        34    .11
+  42 091 Montgomery               Pa        18    .13        28    .09
+  13 089 De Kalb                  Ga        18    .13        31    .10
+  49 023 Juab                     Ut        18    .13        50    .16
+  09 009 New Haven                Ct        18    .13        29    .09
+  06 087 Santa Cruz               Ca        18    .13        62    .20
+  26 163 Wayne                    Mi        17    .12        32    .10
+  27 123 Ramsey                   Mn        17    .12        50    .16
+  39 061 Hamilton                 Oh        17    .12        27    .09
+  24 003 Anne Arundel             Md        17    .12        51    .17
+  53 005 Benton                   Wa        16    .11        51    .17
+  49 025 Kane                     Ut        16    .11        38    .12
+  20 173 Sedgwick                 Ks        16    .11        26    .08
+  53 011 Clark                    Wa        16    .11        48    .16
+  16 031 Cassia                   Id        16    .11        35    .11
+  16 007 Bear Lake                Id        16    .11        32    .10
+  30 013 Cascade                  Mt        16    .11        50    .16
+  55 025 Dane                     Wi        16    .11        32    .10
+  04 027 Yuma                     Az        16    .11        34    .11
+  17 097 Lake                     Il        15    .11        35    .11
+  12 057 Hillsborough             Fl        15    .11        22    .07
+  41 029 Jackson                  Or        15    .11        26    .08
+  48 085 Collin                   Tx        15    .11        53    .17
+  47 157 Shelby                   Tn        14    .10        27    .09
+  40 143 Tulsa                    Ok        14    .10        28    .09
+  34 025 Monmouth                 NJ        14    .10        28    .09
+  12 103 Pinellas                 Fl        14    .10        27    .09
+  53 035 Kitsap                   Wa        14    .10        28    .09
+  26 161 Washtenaw                Mi        14    .10        24    .08
+  19 153 Polk                     Ia        14    .10        32    .10
+  50 007 Chittenden               Vt        14    .10        17    .06
+  32 510 Carson City city         Nv        14    .10        25    .08
+  06 041 Marin                    Ca        14    .10        24    .08
+  13 215 Muscogee                 Ga        14    .10        37    .12
+  30 031 Gallatin                 Mt        14    .10        16    .05
+  51 013 Arlington                Va        13    .09        16    .05
+  08 101 Pueblo                   Co        13    .09        28    .09
+  12 099 Palm Beach               Fl        13    .09        20    .06
+  37 051 Cumberland               NC        13    .09        35    .11
+  25 021 Norfolk                  Ma        13    .09        20    .06
+  32 013 Humboldt                 Nv        13    .09        33    .11
+  29 095 Jackson                  Mo        13    .09        27    .09
+  36 103 Suffolk                  NY        13    .09        26    .08
+  53 067 Thurston                 Wa        13    .09        30    .10
+  26 065 Ingham                   Mi        13    .09        25    .08
+  04 003 Cochise                  Az        13    .09        29    .09
+  08 123 Weld                     Co        13    .09        22    .07
+  16 013 Blaine                   Id        13    .09        19    .06
+  34 003 Bergen                   NJ        13    .09        24    .08
+  41 047 Marion                   Or        12    .08        16    .05
+  04 017 Navajo                   Az        12    .08        31    .10
+  36 059 Nassau                   NY        12    .08        16    .05
+  06 023 Humboldt                 Ca        12    .08        24    .08
+  16 051 Jefferson                Id        12    .08        17    .06
+  51 153 Prince William           Va        12    .08        24    .08
+  16 041 Franklin                 Id        12    .08        22    .07
+  06 061 Placer                   Ca        12    .08        33    .11
+  37 119 Mecklenburg              NC        11    .08        15    .05
+  11 001 Wash.,D.C.               DC        11    .08        13    .04
+  08 035 Douglas                  Co        11    .08        25    .08
+  08 107 Routt                    Co        11    .08        19    .06
+  30 029 Flathead                 Mt        11    .08        32    .10
+  24 510 Baltimore city           Md        11    .08        14    .05
+  36 047 Kings                    NY        11    .08        22    .07
+  16 055 Kootenai                 Id        11    .08        27    .09
+  08 045 Garfield                 Co        11    .08        26    .08
+  39 113 Montgomery               Oh        11    .08        36    .12
+  55 079 Milwaukee                Wi        11    .08        24    .08
+  33 011 Hillsborough             NH        11    .08        32    .10
+  12 117 Seminole                 Fl        10    .07        22    .07
+  33 009 Grafton                  NH        10    .07        14    .05
+  37 063 Durham                   NC        10    .07        36    .12
+  36 029 Erie                     NY        10    .07        17    .06
+  42 003 Allegheny                Pa        10    .07        18    .06
+  24 027 Howard                   Md        10    .07        33    .11
+  35 013 Dona Ana                 NM        10    .07        22    .07
+  48 303 Lubbock                  Tx        10    .07        23    .07
+  06 007 Butte                    Ca        10    .07        21    .07
+  30 081 Ravalli                  Mt        10    .07        19    .06
+  53 029 Island                   Wa        10    .07        38    .12
+  39 035 Cuyahoga                 Oh        10    .07        21    .07
+  34 023 Middlesex                NJ        10    .07        23    .07
+  30 093 Silver Bow               Mt        10    .07        12    .04
+  21 111 Jefferson                Ky        10    .07        23    .07
+  13 063 Clayton                  Ga        10    .07        24    .08
+   Same State                               38    .27        73    .24
+   Region 1:   Northeast                   411   2.89       768   2.49
+   Region 2:   Midwest                     643   4.51      1307   4.23
+   Region 3:   South                       735   5.16      1631   5.28
+   Region 4:   West                        624   4.38      1326   4.29
+   Foreign                                  12    .08        52    .17
+      49 035   County Non-Migrants      219130           571324
+49 037   San Juan Total Migration Ut       248              677
+  35 045 San Juan                 NM        50  20.16       157  23.19
+  49 035 Salt Lake                Ut        20   8.06        43   6.35
+  08 083 Montezuma                Co        11   4.44        31   4.58
+  04 001 Apache                   Az        11   4.44        36   5.32
+  49 049 Utah                     Ut        10   4.03        32   4.73
+   Same State                               36  14.52        99  14.62
+   Same Region, Diff. State                 90  36.29       241  35.60
+   Different Region                         20   8.06        38   5.61
+      49 037   County Non-Migrants        1897             6376
+49 039   Sanpete Total Migration  Ut       330              973
+  49 035 Salt Lake                Ut        69  20.91       194  19.94
+  49 049 Utah                     Ut        58  17.58       193  19.84
+  49 011 Davis                    Ut        14   4.24        41   4.21
+  04 013 Maricopa                 Az        12   3.64        36   3.70
+  49 041 Sevier                   Ut        12   3.64        41   4.21
+   Same State                               41  12.42       108  11.10
+   Same Region, Diff. State                 97  29.39       283  29.09
+   Different Region                         27   8.18        77   7.91
+      49 039   County Non-Migrants        3713            12224
+49 041   Sevier Total Migration F Ut       282              757
+  49 035 Salt Lake                Ut        39  13.83       102  13.47
+  32 003 Clark                    Nv        20   7.09        55   7.27
+  49 049 Utah                     Ut        17   6.03        40   5.28
+  06 037 Los Angeles              Ca        11   3.90        25   3.30
+  49 039 Sanpete                  Ut        10   3.55        37   4.89
+   Same State                               75  26.60       180  23.78
+   Same Region, Diff. State                 73  25.89       205  27.08
+   Different Region                         37  13.12       113  14.93
+      49 041   County Non-Migrants        3762            11950
+49 043   Summit Total Migration F Ut       901             1847
+  49 035 Salt Lake                Ut       243  26.97       523  28.32
+  06 073 San Diego                Ca        29   3.22        55   2.98
+  49 051 Wasatch                  Ut        28   3.11        78   4.22
+  06 037 Los Angeles              Ca        27   3.00        52   2.82
+  49 011 Davis                    Ut        25   2.77        80   4.33
+  49 049 Utah                     Ut        20   2.22        46   2.49
+  49 057 Weber                    Ut        18   2.00        38   2.06
+  06 059 Orange                   Ca        18   2.00        32   1.73
+  06 065 Riverside                Ca        11   1.22        30   1.62
+  04 013 Maricopa                 Az        11   1.22        14    .76
+  32 003 Clark                    Nv        10   1.11        29   1.57
+  49 029 Morgan                   Ut        10   1.11        26   1.41
+   Same State                               17   1.89        45   2.44
+   Region 1:   Northeast                    90   9.99       130   7.04
+   Region 2:   Midwest                      69   7.66       101   5.47
+   Region 3:   South                        98  10.88       217  11.75
+   Region 4:   West                        177  19.64       351  19.00
+      49 043   County Non-Migrants        4749            11912
+49 045   Tooele Total Migration F Ut       681             1763
+  49 035 Salt Lake                Ut       170  24.96       421  23.88
+  57 001 Foreign / Overseas       FR        41   6.02       119   6.75
+  49 049 Utah                     Ut        29   4.26        90   5.10
+  32 007 Elko                     Nv        22   3.23        54   3.06
+  06 037 Los Angeles              Ca        14   2.06        38   2.16
+  49 011 Davis                    Ut        14   2.06        51   2.89
+  32 003 Clark                    Nv        13   1.91        20   1.13
+  49 005 Cache                    Ut        12   1.76        28   1.59
+   Same State                               40   5.87       109   6.18
+   Region 1:   Northeast                    22   3.23        55   3.12
+   Region 2:   Midwest                      53   7.78       127   7.20
+   Region 3:   South                        80  11.75       205  11.63
+   Region 4:   West                        171  25.11       446  25.30
+      49 045   County Non-Migrants        8439            22692
+49 047   Uintah Total Migration F Ut       519             1434
+  49 035 Salt Lake                Ut        62  11.95       153  10.67
+  49 013 Duchesne                 Ut        43   8.29       132   9.21
+  49 049 Utah                     Ut        32   6.17        93   6.49
+  08 103 Rio Blanco               Co        13   2.50        35   2.44
+  32 003 Clark                    Nv        13   2.50        30   2.09
+  04 013 Maricopa                 Az        10   1.93        29   2.02
+   Same State                               50   9.63       167  11.65
+   Region 1:   Northeast                    10   1.93        27   1.88
+   Region 2:   Midwest                      29   5.59        76   5.30
+   Region 3:   South                        47   9.06       146  10.18
+   Region 4:   West                        210  40.46       546  38.08
+      49 047   County Non-Migrants        5252            16462
+49 049   Utah Total Migration Flo Ut      5518            12930
+  49 035 Salt Lake                Ut       788  14.28      1840  14.23
+  04 013 Maricopa                 Az       196   3.55       474   3.67
+  06 037 Los Angeles              Ca       193   3.50       470   3.63
+  49 011 Davis                    Ut       171   3.10       420   3.25
+  06 059 Orange                   Ca       129   2.34       248   1.92
+  06 073 San Diego                Ca       113   2.05       257   1.99
+  32 003 Clark                    Nv       108   1.96       298   2.30
+  49 053 Washington               Ut       102   1.85       267   2.06
+  57 001 Foreign / Overseas       FR        92   1.67       282   2.18
+  06 085 Santa Clara              Ca        91   1.65       189   1.46
+  53 033 King                     Wa        87   1.58       200   1.55
+  49 005 Cache                    Ut        77   1.40       191   1.48
+  49 057 Weber                    Ut        72   1.30       137   1.06
+  06 071 San Bernardino           Ca        69   1.25       195   1.51
+  16 001 Ada                      Id        61   1.11       131   1.01
+  15 003 Honolulu                 Hi        48    .87       105    .81
+  06 067 Sacramento               Ca        48    .87       132   1.02
+  49 039 Sanpete                  Ut        46    .83       113    .87
+  06 065 Riverside                Ca        46    .83       126    .97
+  16 019 Bonneville               Id        42    .76        64    .49
+  06 111 Ventura                  Ca        41    .74        87    .67
+  06 001 Alameda                  Ca        37    .67        90    .70
+  49 013 Duchesne                 Ut        36    .65        94    .73
+  49 021 Iron                     Ut        35    .63        89    .69
+  49 007 Carbon                   Ut        35    .63        95    .73
+  49 051 Wasatch                  Ut        35    .63        96    .74
+  49 041 Sevier                   Ut        35    .63       103    .80
+  49 047 Uintah                   Ut        30    .54        68    .53
+  04 019 Pima                     Az        30    .54        80    .62
+  49 045 Tooele                   Ut        29    .53        65    .50
+  06 013 Contra Costa             Ca        29    .53        59    .46
+  49 023 Juab                     Ut        28    .51        74    .57
+  16 005 Bannock                  Id        28    .51        77    .60
+  08 005 Arapahoe                 Co        26    .47        68    .53
+  51 059 Fairfax                  Va        26    .47        50    .39
+  49 027 Millard                  Ut        26    .47        48    .37
+  16 065 Madison                  Id        26    .47        53    .41
+  48 201 Harris                   Tx        25    .45        90    .70
+  49 003 Box Elder                Ut        25    .45        62    .48
+  53 063 Spokane                  Wa        24    .43        63    .49
+  06 019 Fresno                   Ca        23    .42        53    .41
+  06 029 Kern                     Ca        23    .42        60    .46
+  53 053 Pierce                   Wa        23    .42        56    .43
+  41 067 Washington               Or        22    .40        40    .31
+  17 031 Cook                     Il        21    .38        46    .36
+  08 059 Jefferson                Co        21    .38        45    .35
+  32 031 Washoe                   Nv        20    .36        55    .43
+  53 061 Snohomish                Wa        20    .36        47    .36
+  53 011 Clark                    Wa        19    .34        40    .31
+  04 017 Navajo                   Az        19    .34        47    .36
+  24 031 Montgomery               Md        19    .34        47    .36
+  16 027 Canyon                   Id        18    .33        36    .28
+  35 045 San Juan                 NM        18    .33        44    .34
+  04 005 Coconino                 Az        17    .31        48    .37
+  53 005 Benton                   Wa        17    .31        38    .29
+  06 081 San Mateo                Ca        17    .31        37    .29
+  06 083 Santa Barbara            Ca        15    .27        35    .27
+  29 189 St. Louis                Mo        15    .27        23    .18
+  06 077 San Joaquin              Ca        15    .27        46    .36
+  16 031 Cassia                   Id        15    .27        23    .18
+  06 097 Sonoma                   Ca        15    .27        37    .29
+  08 041 El Paso                  Co        15    .27        37    .29
+  49 015 Emery                    Ut        15    .27        38    .29
+  35 001 Bernalillo               NM        15    .27        39    .30
+  48 439 Tarrant                  Tx        14    .25        51    .39
+  49 037 San Juan                 Ut        14    .25        30    .23
+  27 053 Hennepin                 Mn        14    .25        29    .22
+  06 007 Butte                    Ca        14    .25        24    .19
+  49 043 Summit                   Ut        13    .24        31    .24
+  16 011 Bingham                  Id        13    .24        16    .12
+  06 099 Stanislaus               Ca        13    .24        31    .24
+  16 051 Jefferson                Id        13    .24        21    .16
+  04 001 Apache                   Az        13    .24        33    .26
+  32 007 Elko                     Nv        13    .24        36    .28
+  48 029 Bexar                    Tx        13    .24        31    .24
+  41 047 Marion                   Or        13    .24        27    .21
+  41 005 Clackamas                Or        12    .22        29    .22
+  49 001 Beaver                   Ut        12    .22        30    .23
+  06 095 Solano                   Ca        11    .20        29    .22
+  56 041 Uinta                    Wy        11    .20        26    .20
+  02 020 Anchorage Borough        Ak        11    .20        27    .21
+  48 121 Denton                   Tx        11    .20        28    .22
+  08 013 Boulder                  Co        11    .20        32    .25
+  56 023 Lincoln                  Wy        11    .20        22    .17
+  41 045 Malheur                  Or        11    .20        16    .12
+  08 045 Garfield                 Co        10    .18        27    .21
+  41 051 Multnomah                Or        10    .18        29    .22
+  25 017 Middlesex                Ma        10    .18        23    .18
+  16 083 Twin Falls               Id        10    .18        18    .14
+  48 113 Dallas                   Tx        10    .18        27    .21
+  53 035 Kitsap                   Wa        10    .18        18    .14
+  16 041 Franklin                 Id        10    .18        24    .19
+  06 079 San Luis Obispo          Ca        10    .18        19    .15
+   Same State                               26    .47        63    .49
+   Region 1:   Northeast                   184   3.33       424   3.28
+   Region 2:   Midwest                     311   5.64       701   5.42
+   Region 3:   South                       467   8.46      1005   7.77
+   Region 4:   West                        567  10.28      1286   9.95
+      49 049   County Non-Migrants       61327           191922
+49 051   Wasatch Total Migration  Ut       267              685
+  49 035 Salt Lake                Ut        58  21.72       147  21.46
+  49 049 Utah                     Ut        36  13.48       105  15.33
+  49 043 Summit                   Ut        26   9.74        58   8.47
+   Same State                               32  11.99        73  10.66
+   Same Region, Diff. State                 75  28.09       208  30.36
+   Different Region                         40  14.98        94  13.72
+      49 051   County Non-Migrants        2636             8050
+49 053   Washington Total Migrati Ut      1861             4576
+  49 035 Salt Lake                Ut       271  14.56       673  14.71
+  32 003 Clark                    Nv       182   9.78       466  10.18
+  49 049 Utah                     Ut       101   5.43       303   6.62
+  49 021 Iron                     Ut        94   5.05       235   5.14
+  06 037 Los Angeles              Ca        83   4.46       171   3.74
+  49 011 Davis                    Ut        77   4.14       194   4.24
+  04 013 Maricopa                 Az        54   2.90       143   3.13
+  06 071 San Bernardino           Ca        44   2.36        98   2.14
+  06 073 San Diego                Ca        40   2.15        71   1.55
+  04 005 Coconino                 Az        37   1.99        90   1.97
+  06 065 Riverside                Ca        34   1.83        76   1.66
+  49 057 Weber                    Ut        33   1.77        76   1.66
+  49 005 Cache                    Ut        28   1.50        60   1.31
+  06 059 Orange                   Ca        28   1.50        63   1.38
+  49 025 Kane                     Ut        22   1.18        54   1.18
+  04 015 Mohave                   Az        21   1.13        61   1.33
+  49 041 Sevier                   Ut        17    .91        48   1.05
+  57 001 Foreign / Overseas       FR        14    .75        35    .76
+  49 017 Garfield                 Ut        13    .70        28    .61
+  49 027 Millard                  Ut        12    .64        38    .83
+  06 085 Santa Clara              Ca        11    .59        33    .72
+  06 111 Ventura                  Ca        11    .59        28    .61
+  49 039 Sanpete                  Ut        10    .54        25    .55
+  06 079 San Luis Obispo          Ca        10    .54        20    .44
+   Same State                               85   4.57       225   4.92
+   Region 1:   Northeast                    29   1.56        56   1.22
+   Region 2:   Midwest                      68   3.65       161   3.52
+   Region 3:   South                        76   4.08       195   4.26
+   Region 4:   West                        356  19.13       850  18.58
+      49 053   County Non-Migrants       11066            32275
+49 055   Wayne Total Migration Fl Ut        50              108
+  49 035 Salt Lake                Ut        10  20.00        22  20.37
+   All Migration Flows                      40  80.00        86  79.63
+      49 055   County Non-Migrants         515             1621
+49 057   Weber Total Migration Fl Ut      3713             8666
+  49 011 Davis                    Ut      1037  27.93      2499  28.84
+  49 035 Salt Lake                Ut       318   8.56       680   7.85
+  49 003 Box Elder                Ut       189   5.09       438   5.05
+  57 001 Foreign / Overseas       FR       150   4.04       388   4.48
+  49 005 Cache                    Ut        97   2.61       233   2.69
+  49 049 Utah                     Ut        92   2.48       216   2.49
+  06 037 Los Angeles              Ca        71   1.91       195   2.25
+  32 003 Clark                    Nv        63   1.70       141   1.63
+  49 029 Morgan                   Ut        60   1.62       144   1.66
+  04 013 Maricopa                 Az        58   1.56       150   1.73
+  06 073 San Diego                Ca        39   1.05        89   1.03
+  06 059 Orange                   Ca        39   1.05        81    .93
+  06 065 Riverside                Ca        36    .97        83    .96
+  06 071 San Bernardino           Ca        29    .78        62    .72
+  53 033 King                     Wa        26    .70        61    .70
+  49 053 Washington               Ut        23    .62        37    .43
+  16 005 Bannock                  Id        20    .54        34    .39
+  06 067 Sacramento               Ca        17    .46        44    .51
+  16 001 Ada                      Id        16    .43        36    .42
+  48 439 Tarrant                  Tx        15    .40        40    .46
+  56 041 Uinta                    Wy        14    .38        35    .40
+  48 201 Harris                   Tx        14    .38        34    .39
+  15 003 Honolulu                 Hi        13    .35        37    .43
+  04 019 Pima                     Az        13    .35        30    .35
+  49 045 Tooele                   Ut        13    .35        31    .36
+  08 077 Mesa                     Co        12    .32        26    .30
+  32 007 Elko                     Nv        12    .32        26    .30
+  16 065 Madison                  Id        12    .32        23    .27
+  56 021 Laramie                  Wy        12    .32        30    .35
+  08 041 El Paso                  Co        12    .32        35    .40
+  35 001 Bernalillo               NM        11    .30        30    .35
+  06 013 Contra Costa             Ca        11    .30        22    .25
+  08 005 Arapahoe                 Co        11    .30        22    .25
+  17 031 Cook                     Il        11    .30        15    .17
+  06 001 Alameda                  Ca        11    .30        19    .22
+  08 059 Jefferson                Co        10    .27        24    .28
+  06 085 Santa Clara              Ca        10    .27        27    .31
+  06 111 Ventura                  Ca        10    .27        22    .25
+   Same State                               62   1.67       131   1.51
+   Region 1:   Northeast                   104   2.80       205   2.37
+   Region 2:   Midwest                     213   5.74       475   5.48
+   Region 3:   South                       282   7.59       673   7.77
+   Region 4:   West                        445  11.98      1043  12.04
+      49 057   County Non-Migrants       49983           130200

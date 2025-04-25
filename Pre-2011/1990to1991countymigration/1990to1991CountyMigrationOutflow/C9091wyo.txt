@@ -1,0 +1,409 @@
+56 001   Albany Total Migration F Wy      1487             2841
+  56 021 Laramie                  Wy       137   9.21       255   8.98
+  56 025 Natrona                  Wy        71   4.77       145   5.10
+  08 069 Larimer                  Co        48   3.23        99   3.48
+  56 037 Sweetwater               Wy        36   2.42        77   2.71
+  08 005 Arapahoe                 Co        33   2.22        63   2.22
+  56 033 Sheridan                 Wy        30   2.02        48   1.69
+  56 013 Fremont                  Wy        30   2.02        56   1.97
+  08 031 Denver                   Co        28   1.88        41   1.44
+  56 005 Campbell                 Wy        27   1.82        46   1.62
+  56 007 Carbon                   Wy        27   1.82        61   2.15
+  57 001 Foreign / Overseas       FR        25   1.68        50   1.76
+  32 003 Clark                    Nv        20   1.34        32   1.13
+  08 059 Jefferson                Co        20   1.34        29   1.02
+  49 035 Salt Lake                Ut        19   1.28        30   1.06
+  06 073 San Diego                Ca        17   1.14        29   1.02
+  08 013 Boulder                  Co        16   1.08        30   1.06
+  56 039 Teton                    Wy        16   1.08        25    .88
+  06 037 Los Angeles              Ca        16   1.08        22    .77
+  56 029 Park                     Wy        16   1.08        33   1.16
+  08 123 Weld                     Co        15   1.01        39   1.37
+  04 013 Maricopa                 Az        14    .94        28    .99
+  35 001 Bernalillo               NM        14    .94        32   1.13
+  53 033 King                     Wa        13    .87        22    .77
+  08 001 Adams                    Co        13    .87        38   1.34
+  56 009 Converse                 Wy        12    .81        16    .56
+  32 031 Washoe                   Nv        12    .81        22    .77
+  56 015 Goshen                   Wy        12    .81        22    .77
+  56 041 Uinta                    Wy        12    .81        28    .99
+  02 020 Anchorage Borough        Ak        10    .67        14    .49
+  30 111 Yellowstone              Mt        10    .67        18    .63
+  16 019 Bonneville               Id        10    .67        23    .81
+  56 045 Weston                   Wy        10    .67        15    .53
+   Same State                               37   2.49        81   2.85
+   Region 1:   Northeast                    31   2.08        58   2.04
+   Region 2:   Midwest                     192  12.91       378  13.31
+   Region 3:   South                       143   9.62       271   9.54
+   Region 4:   West                        295  19.84       565  19.89
+      56 001   County Non-Migrants        8838            19239
+56 003   Big Horn Total Migration Wy       273              612
+  56 029 Park                     Wy        42  15.38        83  13.56
+  56 043 Washakie                 Wy        19   6.96        51   8.33
+  56 001 Albany                   Wy        14   5.13        31   5.07
+   Same State                               57  20.88       144  23.53
+   Same Region, Diff. State                114  41.76       252  41.18
+   Different Region                         27   9.89        51   8.33
+      56 003   County Non-Migrants        3172             8225
+56 005   Campbell Total Migration Wy       957             2145
+  56 025 Natrona                  Wy        58   6.06       124   5.78
+  56 033 Sheridan                 Wy        27   2.82        58   2.70
+  56 011 Crook                    Wy        27   2.82        66   3.08
+  04 013 Maricopa                 Az        26   2.72        44   2.05
+  56 001 Albany                   Wy        25   2.61        47   2.19
+  46 103 Pennington               SD        24   2.51        48   2.24
+  46 081 Lawrence                 SD        23   2.40        46   2.14
+  56 045 Weston                   Wy        19   1.99        40   1.86
+  56 037 Sweetwater               Wy        16   1.67        51   2.38
+  56 021 Laramie                  Wy        15   1.57        34   1.59
+  56 019 Johnson                  Wy        14   1.46        30   1.40
+  48 201 Harris                   Tx        12   1.25        32   1.49
+  57 001 Foreign / Overseas       FR        11   1.15        18    .84
+  30 111 Yellowstone              Mt        11   1.15        20    .93
+  32 007 Elko                     Nv        11   1.15        33   1.54
+  56 009 Converse                 Wy        10   1.04        22   1.03
+  35 045 San Juan                 NM        10   1.04        35   1.63
+   Same State                               47   4.91       140   6.53
+   Region 1:   Northeast                    15   1.57        20    .93
+   Region 2:   Midwest                     202  21.11       443  20.65
+   Region 3:   South                       100  10.45       221  10.30
+   Region 4:   West                        254  26.54       573  26.71
+      56 005   County Non-Migrants        9286            25230
+56 007   Carbon Total Migration F Wy       608             1367
+  56 001 Albany                   Wy        50   8.22       101   7.39
+  56 025 Natrona                  Wy        41   6.74        89   6.51
+  56 021 Laramie                  Wy        27   4.44        59   4.32
+  56 013 Fremont                  Wy        26   4.28        62   4.54
+  56 037 Sweetwater               Wy        25   4.11        63   4.61
+  56 005 Campbell                 Wy        14   2.30        32   2.34
+  08 069 Larimer                  Co        13   2.14        21   1.54
+  56 009 Converse                 Wy        10   1.64        21   1.54
+  04 013 Maricopa                 Az        10   1.64        21   1.54
+  32 007 Elko                     Nv        10   1.64        27   1.98
+  08 001 Adams                    Co        10   1.64        20   1.46
+   Same State                               46   7.57       125   9.14
+   Region 1:   Northeast                    10   1.64        27   1.98
+   Region 2:   Midwest                      66  10.86       142  10.39
+   Region 3:   South                        54   8.88       128   9.36
+   Region 4:   West                        196  32.24       429  31.38
+      56 007   County Non-Migrants        5212            12902
+56 009   Converse Total Migration Wy       377              849
+  56 025 Natrona                  Wy        77  20.42       162  19.08
+  56 001 Albany                   Wy        14   3.71        22   2.59
+  56 037 Sweetwater               Wy        13   3.45        35   4.12
+  56 005 Campbell                 Wy        11   2.92        36   4.24
+  56 021 Laramie                  Wy        11   2.92        30   3.53
+   Same State                               62  16.45       154  18.14
+   Same Region, Diff. State                120  31.83       262  30.86
+   Different Region                         69  18.30       148  17.43
+      56 009   County Non-Migrants        3366             8632
+56 011   Crook Total Migration Fl Wy       183              410
+  56 005 Campbell                 Wy        34  18.58        69  16.83
+  56 025 Natrona                  Wy        13   7.10        29   7.07
+  46 081 Lawrence                 SD        10   5.46        16   3.90
+  46 019 Butte                    SD        10   5.46        34   8.29
+   Same State                               38  20.77        96  23.41
+   Same Region, Diff. State                 40  21.86        72  17.56
+   Different Region                         38  20.77        94  22.93
+      56 011   County Non-Migrants        1730             4472
+56 013   Fremont Total Migration  Wy       830             1817
+  56 025 Natrona                  Wy        50   6.02        87   4.79
+  56 001 Albany                   Wy        46   5.54        85   4.68
+  56 037 Sweetwater               Wy        40   4.82       103   5.67
+  32 007 Elko                     Nv        21   2.53        53   2.92
+  57 001 Foreign / Overseas       FR        18   2.17        21   1.16
+  56 039 Teton                    Wy        17   2.05        32   1.76
+  56 007 Carbon                   Wy        17   2.05        42   2.31
+  56 021 Laramie                  Wy        17   2.05        36   1.98
+  56 005 Campbell                 Wy        13   1.57        35   1.93
+  04 013 Maricopa                 Az        13   1.57        21   1.16
+  56 029 Park                     Wy        13   1.57        27   1.49
+  08 031 Denver                   Co        13   1.57        20   1.10
+  30 111 Yellowstone              Mt        12   1.45        20   1.10
+  08 069 Larimer                  Co        12   1.45        25   1.38
+  56 009 Converse                 Wy        11   1.33        29   1.60
+  56 041 Uinta                    Wy        10   1.20        29   1.60
+  56 033 Sheridan                 Wy        10   1.20        31   1.71
+   Same State                               50   6.02       134   7.37
+   Region 1:   Northeast                    17   2.05        36   1.98
+   Region 2:   Midwest                      82   9.88       176   9.69
+   Region 3:   South                        60   7.23       114   6.27
+   Region 4:   West                        288  34.70       661  36.38
+      56 013   County Non-Migrants       10261            25138
+56 015   Goshen Total Migration F Wy       382              816
+  56 021 Laramie                  Wy        35   9.16        63   7.72
+  31 157 Scotts Bluff             Ne        35   9.16        78   9.56
+  56 025 Natrona                  Wy        19   4.97        33   4.04
+  56 001 Albany                   Wy        19   4.97        42   5.15
+  56 031 Platte                   Wy        17   4.45        38   4.66
+  08 069 Larimer                  Co        12   3.14        20   2.45
+   Same State                               43  11.26        80   9.80
+   Same Region, Diff. State                 98  25.65       213  26.10
+   Different Region                        104  27.23       249  30.51
+      56 015   County Non-Migrants        3796             9049
+56 017   Hot Springs Total Migrat Wy       187              405
+  56 013 Fremont                  Wy        21  11.23        50  12.35
+  56 029 Park                     Wy        20  10.70        45  11.11
+  56 025 Natrona                  Wy        13   6.95        27   6.67
+   Same State                               50  26.74       117  28.89
+   Same Region, Diff. State                 59  31.55       115  28.40
+   Different Region                         24  12.83        51  12.59
+      56 017   County Non-Migrants        1592             3594
+56 019   Johnson Total Migration  Wy       211              434
+  56 033 Sheridan                 Wy        25  11.85        56  12.90
+  56 025 Natrona                  Wy        22  10.43        46  10.60
+  56 005 Campbell                 Wy        10   4.74        24   5.53
+   Same State                               43  20.38        93  21.43
+   Same Region, Diff. State                 65  30.81       132  30.41
+   Different Region                         46  21.80        83  19.12
+      56 019   County Non-Migrants        2048             4751
+56 021   Laramie Total Migration  Wy      2791             5869
+  57 001 Foreign / Overseas       FR       169   6.06       358   6.10
+  56 001 Albany                   Wy       129   4.62       237   4.04
+  08 069 Larimer                  Co        92   3.30       185   3.15
+  08 005 Arapahoe                 Co        65   2.33       142   2.42
+  08 031 Denver                   Co        60   2.15        83   1.41
+  04 013 Maricopa                 Az        57   2.04       131   2.23
+  08 059 Jefferson                Co        57   2.04       118   2.01
+  56 025 Natrona                  Wy        54   1.93       114   1.94
+  53 033 King                     Wa        53   1.90        98   1.67
+  08 123 Weld                     Co        49   1.76        92   1.57
+  08 041 El Paso                  Co        42   1.50        88   1.50
+  08 001 Adams                    Co        41   1.47        79   1.35
+  53 061 Snohomish                Wa        37   1.33        77   1.31
+  32 003 Clark                    Nv        35   1.25        86   1.47
+  06 073 San Diego                Ca        30   1.07        46    .78
+  56 031 Platte                   Wy        29   1.04        55    .94
+  56 015 Goshen                   Wy        25    .90        50    .85
+  49 035 Salt Lake                Ut        25    .90        47    .80
+  56 007 Carbon                   Wy        25    .90        47    .80
+  06 037 Los Angeles              Ca        23    .82        41    .70
+  56 037 Sweetwater               Wy        22    .79        59   1.01
+  35 001 Bernalillo               NM        22    .79        39    .66
+  30 111 Yellowstone              Mt        20    .72        36    .61
+  04 019 Pima                     Az        19    .68        29    .49
+  08 013 Boulder                  Co        19    .68        40    .68
+  46 103 Pennington               SD        19    .68        47    .80
+  31 157 Scotts Bluff             Ne        18    .64        39    .66
+  06 071 San Bernardino           Ca        17    .61        38    .65
+  31 055 Douglas                  Ne        17    .61        36    .61
+  56 039 Teton                    Wy        14    .50        21    .36
+  56 013 Fremont                  Wy        14    .50        39    .66
+  56 033 Sheridan                 Wy        14    .50        32    .55
+  31 153 Sarpy                    Ne        14    .50        46    .78
+  31 111 Lincoln                  Ne        14    .50        18    .31
+  56 005 Campbell                 Wy        13    .47        27    .46
+  06 065 Riverside                Ca        13    .47        32    .55
+  32 007 Elko                     Nv        12    .43        28    .48
+  06 067 Sacramento               Ca        12    .43        24    .41
+  49 057 Weber                    Ut        12    .43        30    .51
+  06 059 Orange                   Ca        11    .39        17    .29
+  48 029 Bexar                    Tx        11    .39        23    .39
+  53 053 Pierce                   Wa        10    .36        18    .31
+  12 025 Dade                     Fl        10    .36        19    .32
+  27 053 Hennepin                 Mn        10    .36        28    .48
+  31 109 Lancaster                Ne        10    .36        21    .36
+  56 029 Park                     Wy        10    .36        21    .36
+   Same State                               47   1.68        98   1.67
+   Region 1:   Northeast                   107   3.83       230   3.92
+   Region 2:   Midwest                     359  12.86       800  13.63
+   Region 3:   South                       394  14.12       846  14.41
+   Region 4:   West                        410  14.69       914  15.57
+      56 021   County Non-Migrants       25198            57630
+56 023   Lincoln Total Migration  Wy       328              798
+  49 035 Salt Lake                Ut        32   9.76        59   7.39
+  56 041 Uinta                    Wy        24   7.32        90  11.28
+  49 005 Cache                    Ut        17   5.18        41   5.14
+  56 039 Teton                    Wy        14   4.27        22   2.76
+  56 037 Sweetwater               Wy        13   3.96        20   2.51
+  49 049 Utah                     Ut        11   3.35        22   2.76
+  56 001 Albany                   Wy        10   3.05        18   2.26
+   Same State                               43  13.11       127  15.91
+   Same Region, Diff. State                125  38.11       316  39.60
+   Different Region                         39  11.89        83  10.40
+      56 023   County Non-Migrants        3850            11503
+56 025   Natrona Total Migration  Wy      1805             3990
+  56 001 Albany                   Wy        69   3.82       126   3.16
+  56 009 Converse                 Wy        62   3.43       155   3.88
+  56 005 Campbell                 Wy        56   3.10       123   3.08
+  56 021 Laramie                  Wy        52   2.88       110   2.76
+  56 013 Fremont                  Wy        47   2.60       111   2.78
+  56 037 Sweetwater               Wy        38   2.11       104   2.61
+  04 013 Maricopa                 Az        37   2.05        63   1.58
+  56 033 Sheridan                 Wy        36   1.99        92   2.31
+  08 005 Arapahoe                 Co        34   1.88        81   2.03
+  49 035 Salt Lake                Ut        31   1.72        72   1.80
+  08 031 Denver                   Co        30   1.66        42   1.05
+  48 201 Harris                   Tx        29   1.61        71   1.78
+  57 001 Foreign / Overseas       FR        28   1.55        66   1.65
+  32 003 Clark                    Nv        28   1.55        45   1.13
+  56 029 Park                     Wy        27   1.50        54   1.35
+  08 059 Jefferson                Co        27   1.50        70   1.75
+  30 111 Yellowstone              Mt        23   1.27        48   1.20
+  56 007 Carbon                   Wy        23   1.27        43   1.08
+  08 041 El Paso                  Co        21   1.16        43   1.08
+  08 069 Larimer                  Co        21   1.16        37    .93
+  56 019 Johnson                  Wy        21   1.16        29    .73
+  08 001 Adams                    Co        18   1.00        39    .98
+  08 013 Boulder                  Co        17    .94        36    .90
+  40 109 Oklahoma                 Ok        16    .89        49   1.23
+  06 073 San Diego                Ca        16    .89        18    .45
+  56 031 Platte                   Wy        15    .83        37    .93
+  35 045 San Juan                 NM        15    .83        36    .90
+  56 041 Uinta                    Wy        15    .83        43   1.08
+  53 033 King                     Wa        14    .78        33    .83
+  06 037 Los Angeles              Ca        13    .72        28    .70
+  02 020 Anchorage Borough        Ak        11    .61        19    .48
+  56 015 Goshen                   Wy        11    .61        20    .50
+  06 029 Kern                     Ca        11    .61        32    .80
+  46 103 Pennington               SD        11    .61        23    .58
+  46 081 Lawrence                 SD        10    .55        25    .63
+   Same State                               54   2.99       121   3.03
+   Region 1:   Northeast                    29   1.61        61   1.53
+   Region 2:   Midwest                     212  11.75       510  12.78
+   Region 3:   South                       202  11.19       431  10.80
+   Region 4:   West                        375  20.78       844  21.15
+      56 025   County Non-Migrants       20852            48710
+56 027   Niobrara Total Migration Wy        67              156
+   Same State                               26  38.81        75  48.08
+   Same Region, Diff. State                 22  32.84        40  25.64
+   Different Region                         19  28.36        41  26.28
+      56 027   County Non-Migrants         900             1986
+56 029   Park Total Migration Flo Wy       783             1643
+  30 111 Yellowstone              Mt        56   7.15       110   6.70
+  56 025 Natrona                  Wy        29   3.70        65   3.96
+  56 013 Fremont                  Wy        24   3.07        51   3.10
+  56 003 Big Horn                 Wy        23   2.94        74   4.50
+  56 001 Albany                   Wy        22   2.81        37   2.25
+  57 001 Foreign / Overseas       FR        15   1.92        20   1.22
+  56 005 Campbell                 Wy        12   1.53        25   1.52
+  53 033 King                     Wa        11   1.40        17   1.03
+  32 003 Clark                    Nv        11   1.40        19   1.16
+  30 067 Park                     Mt        10   1.28        20   1.22
+  02 020 Anchorage Borough        Ak        10   1.28        22   1.34
+  56 037 Sweetwater               Wy        10   1.28        21   1.28
+   Same State                               70   8.94       160   9.74
+   Region 1:   Northeast                    11   1.40        18   1.10
+   Region 2:   Midwest                      83  10.60       204  12.42
+   Region 3:   South                        89  11.37       196  11.93
+   Region 4:   West                        297  37.93       584  35.54
+      56 029   County Non-Migrants        7673            18689
+56 031   Platte Total Migration F Wy       265              551
+  56 021 Laramie                  Wy        28  10.57        53   9.62
+  56 025 Natrona                  Wy        26   9.81        48   8.71
+  56 015 Goshen                   Wy        21   7.92        62  11.25
+  56 009 Converse                 Wy        14   5.28        38   6.90
+  56 001 Albany                   Wy        10   3.77        22   3.99
+   Same State                               28  10.57        60  10.89
+   Same Region, Diff. State                 80  30.19       152  27.59
+   Different Region                         58  21.89       116  21.05
+      56 031   County Non-Migrants        2885             6965
+56 033   Sheridan Total Migration Wy       754             1545
+  56 005 Campbell                 Wy        47   6.23       125   8.09
+  30 111 Yellowstone              Mt        45   5.97        91   5.89
+  56 025 Natrona                  Wy        39   5.17        82   5.31
+  56 001 Albany                   Wy        31   4.11        50   3.24
+  56 019 Johnson                  Wy        22   2.92        47   3.04
+  56 021 Laramie                  Wy        18   2.39        41   2.65
+  04 013 Maricopa                 Az        14   1.86        21   1.36
+  56 029 Park                     Wy        13   1.72        26   1.68
+  53 033 King                     Wa        13   1.72        13    .84
+  08 031 Denver                   Co        11   1.46        14    .91
+  06 073 San Diego                Ca        10   1.33        16   1.04
+  30 003 Big Horn                 Mt        10   1.33        26   1.68
+  46 103 Pennington               SD        10   1.33        27   1.75
+  32 007 Elko                     Nv        10   1.33        18   1.17
+   Same State                               56   7.43       129   8.35
+   Region 1:   Northeast                    14   1.86        35   2.27
+   Region 2:   Midwest                      91  12.07       191  12.36
+   Region 3:   South                        53   7.03        89   5.76
+   Region 4:   West                        247  32.76       504  32.62
+      56 033   County Non-Migrants        8360            18936
+56 035   Sublette Total Migration Wy       175              386
+  56 037 Sweetwater               Wy        19  10.86        37   9.59
+  56 001 Albany                   Wy        11   6.29        29   7.51
+  56 025 Natrona                  Wy        10   5.71        16   4.15
+   Same State                               36  20.57        87  22.54
+   Same Region, Diff. State                 61  34.86       137  35.49
+   Different Region                         38  21.71        80  20.73
+      56 035   County Non-Migrants        1629             3844
+56 037   Sweetwater Total Migrati Wy      1049             2363
+  49 035 Salt Lake                Ut        45   4.29        98   4.15
+  56 041 Uinta                    Wy        39   3.72       112   4.74
+  56 001 Albany                   Wy        38   3.62        71   3.00
+  57 001 Foreign / Overseas       FR        26   2.48        34   1.44
+  56 025 Natrona                  Wy        26   2.48        58   2.45
+  56 013 Fremont                  Wy        25   2.38        65   2.75
+  32 003 Clark                    Nv        24   2.29        61   2.58
+  56 023 Lincoln                  Wy        23   2.19        58   2.45
+  56 021 Laramie                  Wy        22   2.10        49   2.07
+  56 007 Carbon                   Wy        22   2.10        53   2.24
+  04 013 Maricopa                 Az        18   1.72        36   1.52
+  56 035 Sublette                 Wy        16   1.53        34   1.44
+  32 007 Elko                     Nv        13   1.24        34   1.44
+  16 005 Bannock                  Id        12   1.14        28   1.18
+  56 009 Converse                 Wy        10    .95        20    .85
+  56 005 Campbell                 Wy        10    .95        23    .97
+   Same State                               33   3.15        79   3.34
+   Region 1:   Northeast                    10    .95        24   1.02
+   Region 2:   Midwest                     107  10.20       228   9.65
+   Region 3:   South                       116  11.06       263  11.13
+   Region 4:   West                        414  39.47       935  39.57
+      56 037   County Non-Migrants       12563            33215
+56 039   Teton Total Migration Fl Wy       714             1149
+  49 035 Salt Lake                Ut        26   3.64        35   3.05
+  30 031 Gallatin                 Mt        24   3.36        35   3.05
+  04 013 Maricopa                 Az        19   2.66        30   2.61
+  56 001 Albany                   Wy        17   2.38        17   1.48
+  56 023 Lincoln                  Wy        17   2.38        33   2.87
+  16 081 Teton                    Id        17   2.38        41   3.57
+  56 025 Natrona                  Wy        13   1.82        20   1.74
+  56 013 Fremont                  Wy        13   1.82        21   1.83
+  56 035 Sublette                 Wy        11   1.54        17   1.48
+  16 019 Bonneville               Id        11   1.54        21   1.83
+  53 033 King                     Wa        11   1.54        19   1.65
+  08 013 Boulder                  Co        10   1.40        16   1.39
+  56 029 Park                     Wy        10   1.40        18   1.57
+  32 003 Clark                    Nv        10   1.40        21   1.83
+   Same State                               26   3.64        46   4.00
+   Region 1:   Northeast                    44   6.16        71   6.18
+   Region 2:   Midwest                      54   7.56        85   7.40
+   Region 3:   South                        79  11.06       130  11.31
+   Region 4:   West                        302  42.30       473  41.17
+      56 039   County Non-Migrants        5102             9880
+56 041   Uinta Total Migration Fl Wy       570             1396
+  56 037 Sweetwater               Wy        56   9.82       144  10.32
+  49 035 Salt Lake                Ut        35   6.14        79   5.66
+  56 025 Natrona                  Wy        16   2.81        45   3.22
+  49 057 Weber                    Ut        14   2.46        35   2.51
+  56 023 Lincoln                  Wy        13   2.28        30   2.15
+  56 013 Fremont                  Wy        11   1.93        19   1.36
+  49 049 Utah                     Ut        11   1.93        26   1.86
+  56 001 Albany                   Wy        10   1.75        18   1.29
+  49 011 Davis                    Ut        10   1.75        29   2.08
+  32 007 Elko                     Nv        10   1.75        27   1.93
+  49 005 Cache                    Ut        10   1.75        17   1.22
+   Same State                               41   7.19        92   6.59
+   Same Region, Diff. State                221  38.77       549  39.33
+   Different Region                        112  19.65       286  20.49
+      56 041   County Non-Migrants        5169            15264
+56 043   Washakie Total Migration Wy       264              638
+  56 003 Big Horn                 Wy        17   6.44        32   5.02
+  56 013 Fremont                  Wy        16   6.06        44   6.90
+  56 025 Natrona                  Wy        15   5.68        35   5.49
+  56 017 Hot Springs              Wy        14   5.30        40   6.27
+  56 021 Laramie                  Wy        13   4.92        34   5.33
+  56 029 Park                     Wy        10   3.79        40   6.27
+  56 005 Campbell                 Wy        10   3.79        25   3.92
+   Same State                               28  10.61        54   8.46
+   Same Region, Diff. State                 96  36.36       209  32.76
+   Different Region                         45  17.05       125  19.59
+      56 043   County Non-Migrants        2706             6794
+56 045   Weston Total Migration F Wy       192              417
+  56 005 Campbell                 Wy        17   8.85        38   9.11
+  56 025 Natrona                  Wy        15   7.81        22   5.28
+  56 001 Albany                   Wy        12   6.25        18   4.32
+   Same State                               42  21.88       101  24.22
+   Same Region, Diff. State                 51  26.56       110  26.38
+   Different Region                         55  28.65       128  30.70
+      56 045   County Non-Migrants        2259             5595

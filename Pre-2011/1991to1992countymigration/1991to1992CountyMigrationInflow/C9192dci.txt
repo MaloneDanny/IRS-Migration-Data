@@ -1,0 +1,248 @@
+11 001   Wash.,D.C. Total Migrati DC     21782            33401
+  24 033 Prince George's          Md      4043  18.56      7996  23.94
+  24 031 Montgomery               Md      2209  10.14      3337   9.99
+  51 013 Arlington                Va      1120   5.14      1514   4.53
+  51 059 Fairfax                  Va      1100   5.05      1860   5.57
+  57 005 APO / FPO Zip Code       FR       813   3.73      1683   5.04
+  57 001 Foreign / Overseas       FR       619   2.84       858   2.57
+  51 510 Alexandria city          Va       561   2.58       798   2.39
+  36 061 New York                 NY       435   2.00       553   1.66
+  06 037 Los Angeles              Ca       287   1.32       373   1.12
+  25 017 Middlesex                Ma       255   1.17       324    .97
+  17 031 Cook                     Il       227   1.04       283    .85
+  24 510 Baltimore city           Md       186    .85       271    .81
+  25 025 Suffolk                  Ma       182    .84       222    .66
+  42 101 Philadelphia             Pa       163    .75       201    .60
+  51 153 Prince William           Va       149    .68       281    .84
+  36 047 Kings                    NY       130    .60       176    .53
+  24 003 Anne Arundel             Md       126    .58       206    .62
+  06 073 San Diego                Ca       123    .56       156    .47
+  36 119 Westchester              NY       123    .56       159    .48
+  12 025 Dade                     Fl       118    .54       163    .49
+  09 001 Fairfield                Ct       104    .48       126    .38
+  09 009 New Haven                Ct        95    .44       105    .31
+  06 075 San Francisco            Ca        95    .44       115    .34
+  36 059 Nassau                   NY        94    .43       110    .33
+  06 001 Alameda                  Ca        91    .42       115    .34
+  36 081 Queens                   NY        91    .42       117    .35
+  24 005 Baltimore                Md        88    .40       111    .33
+  42 003 Allegheny                Pa        87    .40       107    .32
+  24 027 Howard                   Md        87    .40       121    .36
+  48 201 Harris                   Tx        81    .37       112    .34
+  09 003 Hartford                 Ct        80    .37        85    .25
+  48 113 Dallas                   Tx        79    .36       105    .31
+  13 121 Fulton                   Ga        76    .35        99    .30
+  53 033 King                     Wa        76    .35        87    .26
+  24 017 Charles                  Md        73    .34       135    .40
+  34 003 Bergen                   NJ        71    .33        88    .26
+  39 035 Cuyahoga                 Oh        70    .32        78    .23
+  25 021 Norfolk                  Ma        66    .30        76    .23
+  15 003 Honolulu                 Hi        64    .29       128    .38
+  06 085 Santa Clara              Ca        64    .29        77    .23
+  36 103 Suffolk                  NY        63    .29        73    .22
+  51 810 Virginia Beach city      Va        63    .29       119    .36
+  13 089 De Kalb                  Ga        62    .28        86    .26
+  51 760 Richmond city            Va        62    .28        84    .25
+  26 163 Wayne                    Mi        61    .28        85    .25
+  06 059 Orange                   Ca        59    .27        77    .23
+  27 053 Hennepin                 Mn        58    .27        66    .20
+  34 013 Essex                    NJ        58    .27        72    .22
+  48 453 Travis                   Tx        56    .26        67    .20
+  36 055 Monroe                   NY        56    .26        63    .19
+  51 710 Norfolk city             Va        54    .25        99    .30
+  26 161 Washtenaw                Mi        53    .24        68    .20
+  42 091 Montgomery               Pa        51    .23        56    .17
+  04 013 Maricopa                 Az        50    .23        64    .19
+  37 119 Mecklenburg              NC        50    .23        69    .21
+  12 011 Broward                  Fl        50    .23        63    .19
+  36 029 Erie                     NY        48    .22        53    .16
+  22 071 Orleans                  La        46    .21        64    .19
+  25 009 Essex                    Ma        46    .21        51    .15
+  34 021 Mercer                   NJ        46    .21        59    .18
+  37 183 Wake                     NC        46    .21        65    .19
+  34 025 Monmouth                 NJ        44    .20        57    .17
+  37 063 Durham                   NC        43    .20        56    .17
+  51 600 Fairfax city             Va        43    .20        64    .19
+  29 189 St. Louis                Mo        42    .19        66    .20
+  34 027 Morris                   NJ        42    .19        54    .16
+  10 003 New Castle               De        42    .19        49    .15
+  12 057 Hillsborough             Fl        42    .19        64    .19
+  08 031 Denver                   Co        42    .19        64    .19
+  48 029 Bexar                    Tx        42    .19        67    .20
+  12 031 Duval                    Fl        41    .19        86    .26
+  47 157 Shelby                   Tn        40    .18        57    .17
+  37 135 Orange                   NC        39    .18        48    .14
+  51 610 Falls Church city        Va        39    .18        53    .16
+  42 029 Chester                  Pa        39    .18        42    .13
+  39 061 Hamilton                 Oh        39    .18        60    .18
+  36 005 Bronx                    NY        38    .17        52    .16
+  06 067 Sacramento               Ca        38    .17        51    .15
+  44 007 Providence               RI        37    .17        42    .13
+  37 051 Cumberland               NC        37    .17        68    .20
+  26 125 Oakland                  Mi        36    .17        43    .13
+  42 045 Delaware                 Pa        36    .17        46    .14
+  06 071 San Bernardino           Ca        36    .17        50    .15
+  36 067 Onondaga                 NY        35    .16        43    .13
+  37 133 Onslow                   NC        35    .16        65    .19
+  55 079 Milwaukee                Wi        34    .16        44    .13
+  06 081 San Mateo                Ca        34    .16        45    .13
+  39 049 Franklin                 Oh        34    .16        43    .13
+  51 003 Albemarle                Va        34    .16        47    .14
+  25 027 Worcester                Ma        33    .15        41    .12
+  37 081 Guilford                 NC        33    .15        49    .15
+  51 087 Henrico                  Va        33    .15        40    .12
+  23 019 Penobscot                Me        32    .15        32    .10
+  34 023 Middlesex                NJ        32    .15        50    .15
+  42 017 Bucks                    Pa        32    .15        36    .11
+  45 019 Charleston               SC        31    .14        42    .13
+  12 103 Pinellas                 Fl        31    .14        35    .10
+  45 079 Richland                 SC        31    .14        48    .14
+  55 025 Dane                     Wi        31    .14        32    .10
+  34 017 Hudson                   NJ        31    .14        41    .12
+  48 439 Tarrant                  Tx        30    .14        37    .11
+  24 021 Frederick                Md        30    .14        48    .14
+  04 019 Pima                     Az        30    .14        40    .12
+  34 039 Union                    NJ        29    .13        36    .11
+  24 037 St. Mary's               Md        29    .13        51    .15
+  51 540 Charlottesville city     Va        28    .13        32    .10
+  51 107 Loudoun                  Va        28    .13        49    .15
+  34 005 Burlington               NJ        28    .13        38    .11
+  12 095 Orange                   Fl        28    .13        34    .10
+  45 085 Sumter                   SC        27    .12        33    .10
+  51 650 Hampton city             Va        27    .12        45    .13
+  39 113 Montgomery               Oh        27    .12        42    .13
+  34 007 Camden                   NJ        27    .12        35    .10
+  37 067 Forsyth                  NC        26    .12        39    .12
+  40 109 Oklahoma                 Ok        26    .12        39    .12
+  25 015 Hampshire                Ma        26    .12        26    .08
+  36 001 Albany                   NY        26    .12        29    .09
+  47 037 Davidson                 Tn        25    .11        38    .11
+  06 013 Contra Costa             Ca        25    .11        31    .09
+  09 011 New London               Ct        25    .11        34    .10
+  41 051 Multnomah                Or        25    .11        33    .10
+  25 013 Hampden                  Ma        24    .11        25    .07
+  24 009 Calvert                  Md        24    .11        36    .11
+  12 099 Palm Beach               Fl        24    .11        31    .09
+  25 001 Barnstable               Ma        24    .11        28    .08
+  22 033 East Baton Rouge         La        24    .11        31    .09
+  25 023 Plymouth                 Ma        23    .11        28    .08
+  01 073 Jefferson                Al        23    .11        31    .09
+  06 053 Monterey                 Ca        23    .11        40    .12
+  27 123 Ramsey                   Mn        23    .11        27    .08
+  18 097 Marion                   In        23    .11        29    .09
+  35 001 Bernalillo               NM        22    .10        25    .07
+  25 005 Bristol                  Ma        22    .10        29    .09
+  21 111 Jefferson                Ky        22    .10        30    .09
+  33 011 Hillsborough             NH        22    .10        23    .07
+  12 001 Alachua                  Fl        22    .10        26    .08
+  29 510 St. Louis city           Mo        21    .10        26    .08
+  06 019 Fresno                   Ca        21    .10        28    .08
+  34 035 Somerset                 NJ        21    .10        23    .07
+  53 053 Pierce                   Wa        21    .10        36    .11
+  08 005 Arapahoe                 Co        21    .10        30    .09
+  42 041 Cumberland               Pa        20    .09        29    .09
+  08 041 El Paso                  Co        20    .09        39    .12
+  12 033 Escambia                 Fl        20    .09        35    .10
+  34 029 Ocean                    NJ        20    .09        25    .07
+  29 095 Jackson                  Mo        20    .09        23    .07
+  23 005 Cumberland               Me        20    .09        26    .08
+  34 031 Passaic                  NJ        20    .09        24    .07
+  48 141 El Paso                  Tx        19    .09        40    .12
+  08 013 Boulder                  Co        19    .09        26    .08
+  09 007 Middlesex                Ct        19    .09        20    .06
+  51 700 Newport News city        Va        19    .09        27    .08
+  06 065 Riverside                Ca        18    .08        29    .09
+  17 097 Lake                     Il        18    .08        24    .07
+  13 067 Cobb                     Ga        18    .08        24    .07
+  51 041 Chesterfield             Va        18    .08        26    .08
+  42 071 Lancaster                Pa        18    .08        18    .05
+  36 109 Tompkins                 NY        18    .08        22    .07
+  17 019 Champaign                Il        18    .08        28    .08
+  12 115 Sarasota                 Fl        17    .08        21    .06
+  42 133 York                     Pa        17    .08        22    .07
+  36 027 Dutchess                 NY        17    .08        19    .06
+  12 009 Brevard                  Fl        17    .08        22    .07
+  42 043 Dauphin                  Pa        17    .08        21    .06
+  32 003 Clark                    Nv        17    .08        26    .08
+  02 020 Anchorage Borough        Ak        16    .07        31    .09
+  51 179 Stafford                 Va        16    .07        41    .12
+  36 087 Rockland                 NY        16    .07        16    .05
+  21 067 Fayette                  Ky        16    .07        18    .05
+  37 195 Wilson                   NC        16    .07        35    .10
+  20 091 Johnson                  Ks        16    .07        23    .07
+  06 083 Santa Barbara            Ca        16    .07        17    .05
+  18 105 Monroe                   In        16    .07        18    .05
+  55 073 Marathon                 Wi        16    .07        16    .05
+  47 093 Knox                     Tn        16    .07        19    .06
+  19 153 Polk                     Ia        15    .07        20    .06
+  09 005 Litchfield               Ct        15    .07        15    .04
+  35 049 Santa Fe                 NM        15    .07        16    .05
+  50 007 Chittenden               Vt        14    .06        20    .06
+  39 153 Summit                   Oh        14    .06        14    .04
+  48 479 Webb                     Tx        14    .06        29    .09
+  12 073 Leon                     Fl        14    .06        16    .05
+  49 035 Salt Lake                Ut        14    .06        19    .06
+  26 065 Ingham                   Mi        14    .06        14    .04
+  37 049 Craven                   NC        14    .06        28    .08
+  34 001 Atlantic                 NJ        14    .06        15    .04
+  17 043 Du Page                  Il        14    .06        17    .05
+  31 055 Douglas                  Ne        14    .06        16    .05
+  05 119 Pulaski                  Ar        14    .06        17    .05
+  17 185 Wabash                   Il        13    .06        13    .04
+  36 085 Richmond                 NY        13    .06        14    .04
+  19 103 Johnson                  Ia        13    .06        13    .04
+  51 061 Fauquier                 Va        13    .06        20    .06
+  06 111 Ventura                  Ca        13    .06        26    .08
+  10 005 Sussex                   De        13    .06        16    .05
+  13 245 Richmond                 Ga        13    .06        19    .06
+  25 003 Berkshire                Ma        13    .06        13    .04
+  48 027 Bell                     Tx        13    .06        25    .07
+  40 143 Tulsa                    Ok        13    .06        16    .05
+  20 045 Douglas                  Ks        13    .06        19    .06
+  13 135 Gwinnett                 Ga        12    .06        17    .05
+  42 027 Centre                   Pa        12    .06        12    .04
+  36 111 Ulster                   NY        12    .06        12    .04
+  08 059 Jefferson                Co        12    .06        22    .07
+  45 075 Orangeburg               SC        12    .06        17    .05
+  33 013 Merrimack                NH        12    .06        12    .04
+  42 079 Luzerne                  Pa        12    .06        12    .04
+  36 007 Broome                   NY        12    .06        14    .04
+  41 047 Marion                   Or        11    .05        15    .04
+  12 127 Volusia                  Fl        11    .05        17    .05
+  41 039 Lane                     Or        11    .05        12    .04
+  51 550 Chesapeake city          Va        11    .05        15    .04
+  45 045 Greenville               SC        11    .05        17    .05
+  51 177 Spotsylvania             Va        11    .05        20    .06
+  33 009 Grafton                  NH        11    .05        12    .04
+  55 087 Outagamie                Wi        11    .05        11    .03
+  13 059 Clarke                   Ga        11    .05        14    .04
+  39 095 Lucas                    Oh        11    .05        16    .05
+  22 115 Vernon                   La        11    .05        22    .07
+  37 147 Pitt                     NC        11    .05        12    .04
+  42 011 Berks                    Pa        11    .05        11    .03
+  51 095 James City               Va        11    .05        19    .06
+  36 071 Orange                   NY        11    .05        15    .04
+  51 165 Rockingham               Va        11    .05        12    .04
+  42 095 Northampton              Pa        10    .05        10    .03
+  06 113 Yolo                     Ca        10    .05        10    .03
+  18 089 Lake                     In        10    .05        12    .04
+  28 047 Harrison                 Ms        10    .05        24    .07
+  44 009 Washington               RI        10    .05        10    .03
+  37 107 Lenoir                   NC        10    .05        16    .05
+  37 191 Wayne                    NC        10    .05        18    .05
+  20 173 Sedgwick                 Ks        10    .05        15    .04
+  33 015 Rockingham               NH        10    .05        10    .03
+  44 003 Kent                     RI        10    .05        13    .04
+  51 199 York                     Va        10    .05        19    .06
+  45 051 Horry                    SC        10    .05        11    .03
+  51 033 Caroline                 Va        10    .05        16    .05
+  06 029 Kern                     Ca        10    .05        19    .06
+  57 007 Foreign / Virgin Islands FR        10    .05        21    .06
+  13 051 Chatham                  Ga        10    .05        10    .03
+  57 003 Foreign / Puerto Rico    FR        10    .05        25    .07
+  12 071 Lee                      Fl        10    .05        11    .03
+   Region 1:   Northeast                   349   1.60       433   1.30
+   Region 2:   Midwest                     506   2.32       638   1.91
+   Region 3:   South                      1027   4.71      1581   4.73
+   Region 4:   West                        308   1.41       464   1.39
+      11 001   County Non-Migrants      222875           406841

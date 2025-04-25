@@ -1,0 +1,1678 @@
+40 001   Adair Total Migration Fl Ok       430             1075
+  40 021 Cherokee                 Ok        80  18.60       215  20.00
+  05 007 Benton                   Ar        69  16.05       195  18.14
+  05 143 Washington               Ar        35   8.14        80   7.44
+  40 041 Delaware                 Ok        23   5.35        57   5.30
+  40 135 Sequoyah                 Ok        16   3.72        35   3.26
+  40 143 Tulsa                    Ok        15   3.49        36   3.35
+   Same State                               55  12.79       130  12.09
+   Same Region, Diff. State                 54  12.56       112  10.42
+   Different Region                         83  19.30       215  20.00
+      40 001   County Non-Migrants        5435            13686
+40 003   Alfalfa Total Migration  Ok       117              260
+  40 047 Garfield                 Ok        18  15.38        45  17.31
+  40 151 Woods                    Ok        17  14.53        35  13.46
+   Same State                               44  37.61        93  35.77
+   Same Region, Diff. State                 14  11.97        33  12.69
+   Different Region                         24  20.51        54  20.77
+      40 003   County Non-Migrants        1960             4403
+40 005   Atoka Total Migration Fl Ok       268              639
+  40 013 Bryan                    Ok        36  13.43        88  13.77
+  40 109 Oklahoma                 Ok        20   7.46        40   6.26
+  40 121 Pittsburg                Ok        18   6.72        45   7.04
+  40 029 Coal                     Ok        10   3.73        34   5.32
+   Same State                               72  26.87       178  27.86
+   Region 2:   Midwest                      15   5.60        31   4.85
+   Region 3:   South                        70  26.12       169  26.45
+   Region 4:   West                         27  10.07        54   8.45
+      40 005   County Non-Migrants        3057             7538
+40 007   Beaver Total Migration F Ok       157              395
+  20 175 Seward                   Ks        31  19.75        87  22.03
+  40 139 Texas                    Ok        11   7.01        28   7.09
+   Same State                               35  22.29        80  20.25
+   Same Region, Diff. State                 37  23.57        88  22.28
+   Different Region                         43  27.39       112  28.35
+      40 007   County Non-Migrants        1901             4625
+40 009   Beckham Total Migration  Ok       440              990
+  40 039 Custer                   Ok        39   8.86        76   7.68
+  40 149 Washita                  Ok        38   8.64        85   8.59
+  40 129 Roger Mills              Ok        32   7.27        80   8.08
+  40 109 Oklahoma                 Ok        31   7.05        57   5.76
+  40 027 Cleveland                Ok        11   2.50        21   2.12
+   Same State                              101  22.95       255  25.76
+   Same Region, Diff. State                121  27.50       268  27.07
+   Different Region                         67  15.23       148  14.95
+      40 009   County Non-Migrants        5688            13598
+40 011   Blaine Total Migration F Ok       230              506
+  40 109 Oklahoma                 Ok        27  11.74        55  10.87
+  40 093 Major                    Ok        15   6.52        30   5.93
+  40 017 Canadian                 Ok        14   6.09        30   5.93
+  40 043 Dewey                    Ok        13   5.65        35   6.92
+  40 039 Custer                   Ok        10   4.35        19   3.75
+  40 015 Caddo                    Ok        10   4.35        28   5.53
+   Same State                               64  27.83       156  30.83
+   Same Region, Diff. State                 29  12.61        50   9.88
+   Different Region                         48  20.87       103  20.36
+      40 011   County Non-Migrants        3679             8655
+40 013   Bryan Total Migration Fl Ok       860             1912
+  48 181 Grayson                  Tx       168  19.53       425  22.23
+  48 113 Dallas                   Tx        47   5.47       100   5.23
+  40 005 Atoka                    Ok        33   3.84        79   4.13
+  40 109 Oklahoma                 Ok        30   3.49        55   2.88
+  40 095 Marshall                 Ok        27   3.14        56   2.93
+  40 089 McCurtain                Ok        20   2.33        44   2.30
+  40 019 Carter                   Ok        20   2.33        45   2.35
+  40 069 Johnston                 Ok        18   2.09        41   2.14
+  48 439 Tarrant                  Tx        18   2.09        37   1.94
+  40 023 Choctaw                  Ok        17   1.98        31   1.62
+  40 121 Pittsburg                Ok        16   1.86        34   1.78
+  48 121 Denton                   Tx        15   1.74        42   2.20
+  40 143 Tulsa                    Ok        14   1.63        29   1.52
+  40 127 Pushmataha               Ok        14   1.63        26   1.36
+  40 027 Cleveland                Ok        12   1.40        23   1.20
+  48 201 Harris                   Tx        10   1.16        18    .94
+   Same State                               88  10.23       212  11.09
+   Region 1:   Northeast                    11   1.28        22   1.15
+   Region 2:   Midwest                      48   5.58        96   5.02
+   Region 3:   South                       159  18.49       350  18.31
+   Region 4:   West                         75   8.72       147   7.69
+      40 013   County Non-Migrants        8634            20080
+40 015   Caddo Total Migration Fl Ok       606             1490
+  40 109 Oklahoma                 Ok        65  10.73       131   8.79
+  40 031 Comanche                 Ok        52   8.58       141   9.46
+  40 039 Custer                   Ok        43   7.10       110   7.38
+  40 051 Grady                    Ok        41   6.77       111   7.45
+  40 017 Canadian                 Ok        27   4.46        70   4.70
+  40 027 Cleveland                Ok        25   4.13        61   4.09
+  48 113 Dallas                   Tx        13   2.15        29   1.95
+  57 005 APO / FPO Zip Code       FR        12   1.98        36   2.42
+  40 011 Blaine                   Ok        12   1.98        33   2.21
+  40 075 Kiowa                    Ok        11   1.82        36   2.42
+   Same State                              113  18.65       305  20.47
+   Same Region, Diff. State                 80  13.20       192  12.89
+   Different Region                        112  18.48       235  15.77
+      40 015   County Non-Migrants        8510            20840
+40 017   Canadian Total Migration Ok      2315             5482
+  40 109 Oklahoma                 Ok      1059  45.75      2428  44.29
+  40 027 Cleveland                Ok        88   3.80       202   3.68
+  40 051 Grady                    Ok        38   1.64        94   1.71
+  40 011 Blaine                   Ok        31   1.34        69   1.26
+  40 039 Custer                   Ok        28   1.21        56   1.02
+  40 073 Kingfisher               Ok        27   1.17        60   1.09
+  40 143 Tulsa                    Ok        25   1.08        60   1.09
+  48 439 Tarrant                  Tx        24   1.04        51    .93
+  57 005 APO / FPO Zip Code       FR        22    .95        57   1.04
+  40 015 Caddo                    Ok        21    .91        44    .80
+  48 113 Dallas                   Tx        20    .86        51    .93
+  06 037 Los Angeles              Ca        19    .82        36    .66
+  40 125 Pottawatomie             Ok        19    .82        49    .89
+  40 009 Beckham                  Ok        17    .73        54    .99
+  04 013 Maricopa                 Az        17    .73        46    .84
+  40 087 McClain                  Ok        16    .69        33    .60
+  40 119 Payne                    Ok        16    .69        35    .64
+  40 031 Comanche                 Ok        16    .69        43    .78
+  40 137 Stephens                 Ok        13    .56        33    .60
+  40 047 Garfield                 Ok        13    .56        32    .58
+  40 019 Carter                   Ok        12    .52        40    .73
+  48 201 Harris                   Tx        12    .52        19    .35
+  48 029 Bexar                    Tx        10    .43        28    .51
+  06 073 San Diego                Ca        10    .43        20    .36
+   Same State                              151   6.52       364   6.64
+   Region 1:   Northeast                    42   1.81       103   1.88
+   Region 2:   Midwest                     179   7.73       442   8.06
+   Region 3:   South                       211   9.11       554  10.11
+   Region 4:   West                        159   6.87       379   6.91
+      40 017   County Non-Migrants       21607            54642
+40 019   Carter Total Migration F Ok       936             2145
+  40 085 Love                     Ok        58   6.20       128   5.97
+  40 109 Oklahoma                 Ok        55   5.88       107   4.99
+  48 113 Dallas                   Tx        40   4.27        84   3.92
+  40 095 Marshall                 Ok        36   3.85        88   4.10
+  40 137 Stephens                 Ok        33   3.53        86   4.01
+  40 049 Garvin                   Ok        24   2.56        60   2.80
+  40 123 Pontotoc                 Ok        21   2.24        44   2.05
+  48 439 Tarrant                  Tx        21   2.24        42   1.96
+  40 067 Jefferson                Ok        21   2.24        42   1.96
+  40 069 Johnston                 Ok        21   2.24        35   1.63
+  40 099 Murray                   Ok        19   2.03        54   2.52
+  48 485 Wichita                  Tx        15   1.60        41   1.91
+  40 027 Cleveland                Ok        14   1.50        33   1.54
+  48 121 Denton                   Tx        13   1.39        27   1.26
+  48 097 Cooke                    Tx        12   1.28        28   1.31
+  57 005 APO / FPO Zip Code       FR        11   1.18        18    .84
+  48 201 Harris                   Tx        10   1.07        34   1.59
+  40 017 Canadian                 Ok        10   1.07        27   1.26
+  40 031 Comanche                 Ok        10   1.07        20    .93
+   Same State                              134  14.32       315  14.69
+   Same Region, Diff. State                172  18.38       381  17.76
+   Different Region                        186  19.87       451  21.03
+      40 019   County Non-Migrants       13116            31172
+40 021   Cherokee Total Migration Ok       994             2173
+  40 143 Tulsa                    Ok       116  11.67       234  10.77
+  40 101 Muskogee                 Ok        90   9.05       205   9.43
+  40 001 Adair                    Ok        70   7.04       165   7.59
+  40 145 Wagoner                  Ok        51   5.13       110   5.06
+  40 109 Oklahoma                 Ok        35   3.52        69   3.18
+  40 097 Mayes                    Ok        30   3.02        63   2.90
+  40 041 Delaware                 Ok        24   2.41        59   2.72
+  40 135 Sequoyah                 Ok        21   2.11        36   1.66
+  40 131 Rogers                   Ok        21   2.11        44   2.02
+  05 007 Benton                   Ar        18   1.81        40   1.84
+  40 079 Le Flore                 Ok        17   1.71        40   1.84
+  40 111 Okmulgee                 Ok        14   1.41        30   1.38
+  40 027 Cleveland                Ok        14   1.41        27   1.24
+  40 115 Ottawa                   Ok        13   1.31        24   1.10
+  40 119 Payne                    Ok        12   1.21        21    .97
+  05 143 Washington               Ar        12   1.21        25   1.15
+  40 147 Washington               Ok        10   1.01        22   1.01
+  40 121 Pittsburg                Ok        10   1.01        19    .87
+   Same State                              106  10.66       227  10.45
+   Region 1:   Northeast                    13   1.31        28   1.29
+   Region 2:   Midwest                      72   7.24       166   7.64
+   Region 3:   South                       139  13.98       289  13.30
+   Region 4:   West                         86   8.65       230  10.58
+      40 021   County Non-Migrants        9154            21879
+40 023   Choctaw Total Migration  Ok       335              818
+  40 127 Pushmataha               Ok        37  11.04       104  12.71
+  48 277 Lamar                    Tx        34  10.15        83  10.15
+  40 089 McCurtain                Ok        28   8.36        66   8.07
+  40 013 Bryan                    Ok        18   5.37        33   4.03
+  48 113 Dallas                   Tx        16   4.78        39   4.77
+   Same State                               59  17.61       149  18.22
+   Same Region, Diff. State                 86  25.67       217  26.53
+   Different Region                         57  17.01       127  15.53
+      40 023   County Non-Migrants        3984             9594
+40 025   Cimarron Total Migration Ok        69              165
+   Same State                               22  31.88        54  32.73
+   Region 2:   Midwest                      11  15.94        26  15.76
+   Region 3:   South                        23  33.33        63  38.18
+   Region 4:   West                         13  18.84        22  13.33
+      40 025   County Non-Migrants        1121             2719
+40 027   Cleveland Total Migratio Ok      6263            12673
+  40 109 Oklahoma                 Ok      2439  38.94      5071  40.01
+  40 087 McClain                  Ok       195   3.11       451   3.56
+  40 143 Tulsa                    Ok       184   2.94       299   2.36
+  40 125 Pottawatomie             Ok       119   1.90       246   1.94
+  40 017 Canadian                 Ok       117   1.87       239   1.89
+  57 005 APO / FPO Zip Code       FR       117   1.87       282   2.23
+  57 001 Foreign / Overseas       FR       108   1.72       134   1.06
+  40 051 Grady                    Ok        91   1.45       172   1.36
+  48 113 Dallas                   Tx        90   1.44       158   1.25
+  40 049 Garvin                   Ok        72   1.15       136   1.07
+  48 439 Tarrant                  Tx        67   1.07       155   1.22
+  40 031 Comanche                 Ok        65   1.04       109    .86
+  40 019 Carter                   Ok        57    .91       102    .80
+  06 037 Los Angeles              Ca        56    .89       115    .91
+  48 201 Harris                   Tx        53    .85       102    .80
+  40 123 Pontotoc                 Ok        49    .78        89    .70
+  06 073 San Diego                Ca        43    .69        75    .59
+  40 119 Payne                    Ok        41    .65        63    .50
+  40 039 Custer                   Ok        38    .61        64    .51
+  40 137 Stephens                 Ok        32    .51        66    .52
+  04 013 Maricopa                 Az        27    .43        49    .39
+  06 059 Orange                   Ca        25    .40        41    .32
+  40 081 Lincoln                  Ok        25    .40        56    .44
+  40 015 Caddo                    Ok        25    .40        49    .39
+  40 047 Garfield                 Ok        25    .40        42    .33
+  40 101 Muskogee                 Ok        24    .38        40    .32
+  20 173 Sedgwick                 Ks        23    .37        45    .36
+  40 153 Woodward                 Ok        22    .35        46    .36
+  40 133 Seminole                 Ok        21    .34        47    .37
+  40 121 Pittsburg                Ok        20    .32        45    .36
+  48 029 Bexar                    Tx        19    .30        49    .39
+  40 065 Jackson                  Ok        18    .29        33    .26
+  29 095 Jackson                  Mo        18    .29        36    .28
+  48 085 Collin                   Tx        18    .29        43    .34
+  40 071 Kay                      Ok        18    .29        24    .19
+  40 021 Cherokee                 Ok        17    .27        28    .22
+  48 121 Denton                   Tx        16    .26        30    .24
+  53 033 King                     Wa        16    .26        35    .28
+  08 041 El Paso                  Co        16    .26        37    .29
+  40 131 Rogers                   Ok        16    .26        26    .21
+  32 003 Clark                    Nv        15    .24        35    .28
+  40 037 Creek                    Ok        15    .24        33    .26
+  05 119 Pulaski                  Ar        15    .24        37    .29
+  40 083 Logan                    Ok        15    .24        30    .24
+  15 003 Honolulu                 Hi        14    .22        32    .25
+  40 079 Le Flore                 Ok        14    .22        24    .19
+  40 099 Murray                   Ok        14    .22        25    .20
+  40 135 Sequoyah                 Ok        14    .22        23    .18
+  40 009 Beckham                  Ok        14    .22        31    .24
+  51 059 Fairfax                  Va        14    .22        33    .26
+  06 067 Sacramento               Ca        13    .21        21    .17
+  40 063 Hughes                   Ok        13    .21        27    .21
+  48 181 Grayson                  Tx        13    .21        32    .25
+  04 019 Pima                     Az        13    .21        30    .24
+  48 375 Potter                   Tx        13    .21        30    .24
+  40 111 Okmulgee                 Ok        13    .21        25    .20
+  35 001 Bernalillo               NM        13    .21        27    .21
+  48 485 Wichita                  Tx        12    .19        28    .22
+  06 071 San Bernardino           Ca        11    .18        23    .18
+  06 029 Kern                     Ca        11    .18        19    .15
+  40 147 Washington               Ok        11    .18        16    .13
+  48 453 Travis                   Tx        10    .16        19    .15
+  06 065 Riverside                Ca        10    .16        23    .18
+  40 013 Bryan                    Ok        10    .16        21    .17
+  06 085 Santa Clara              Ca        10    .16        28    .22
+  48 141 El Paso                  Tx        10    .16        26    .21
+  12 095 Orange                   Fl        10    .16        15    .12
+  17 031 Cook                     Il        10    .16        15    .12
+  39 113 Montgomery               Oh        10    .16        25    .20
+   Same State                              157   2.51       271   2.14
+   Region 1:   Northeast                   123   1.96       253   2.00
+   Region 2:   Midwest                     354   5.65       735   5.80
+   Region 3:   South                       587   9.37      1240   9.78
+   Region 4:   West                        240   3.83       492   3.88
+      40 027   County Non-Migrants       45748           106569
+40 029   Coal Total Migration Flo Ok       118              308
+  40 123 Pontotoc                 Ok        10   8.47        32  10.39
+   Same State                               55  46.61       151  49.03
+   Same Region, Diff. State                 30  25.42        71  23.05
+   Different Region                         23  19.49        54  17.53
+      40 029   County Non-Migrants        1545             3646
+40 031   Comanche Total Migration Ok      7065            16599
+  57 005 APO / FPO Zip Code       FR      2670  37.79      6870  41.39
+  40 109 Oklahoma                 Ok       133   1.88       276   1.66
+  40 137 Stephens                 Ok        75   1.06       163    .98
+  15 003 Honolulu                 Hi        71   1.00       206   1.24
+  48 113 Dallas                   Tx        62    .88       130    .78
+  48 029 Bexar                    Tx        61    .86       146    .88
+  40 015 Caddo                    Ok        58    .82       127    .77
+  48 439 Tarrant                  Tx        45    .64       117    .70
+  08 041 El Paso                  Co        44    .62       121    .73
+  48 027 Bell                     Tx        43    .61       105    .63
+  37 051 Cumberland               NC        42    .59       126    .76
+  40 143 Tulsa                    Ok        39    .55        84    .51
+  48 141 El Paso                  Tx        38    .54       104    .63
+  06 037 Los Angeles              Ca        38    .54        64    .39
+  48 201 Harris                   Tx        36    .51        73    .44
+  06 053 Monterey                 Ca        34    .48        82    .49
+  40 141 Tillman                  Ok        33    .47        68    .41
+  48 485 Wichita                  Tx        32    .45        74    .45
+  17 031 Cook                     Il        32    .45        51    .31
+  04 013 Maricopa                 Az        30    .42        49    .30
+  06 073 San Diego                Ca        29    .41        59    .36
+  40 033 Cotton                   Ok        28    .40        62    .37
+  40 027 Cleveland                Ok        28    .40        58    .35
+  40 065 Jackson                  Ok        26    .37        54    .33
+  51 059 Fairfax                  Va        25    .35        69    .42
+  53 053 Pierce                   Wa        25    .35        77    .46
+  06 071 San Bernardino           Ca        23    .33        67    .40
+  36 045 Jefferson                NY        21    .30        65    .39
+  12 095 Orange                   Fl        20    .28        36    .22
+  02 020 Anchorage Borough        Ak        20    .28        69    .42
+  20 103 Leavenworth              Ks        20    .28        63    .38
+  40 051 Grady                    Ok        20    .28        61    .37
+  47 125 Montgomery               Tn        20    .28        51    .31
+  29 189 St. Louis                Mo        19    .27        40    .24
+  40 019 Carter                   Ok        19    .27        42    .25
+  13 245 Richmond                 Ga        18    .25        40    .24
+  06 059 Orange                   Ca        18    .25        38    .23
+  06 067 Sacramento               Ca        18    .25        34    .20
+  26 163 Wayne                    Mi        17    .24        34    .20
+  20 061 Geary                    Ks        16    .23        43    .26
+  18 097 Marion                   In        16    .23        33    .20
+  36 071 Orange                   NY        15    .21        20    .12
+  02 090 Fairbanks North Star Bor Ak        15    .21        49    .30
+  37 119 Mecklenburg              NC        15    .21        23    .14
+  04 019 Pima                     Az        15    .21        27    .16
+  57 003 Foreign / Puerto Rico    FR        15    .21        49    .30
+  12 031 Duval                    Fl        15    .21        35    .21
+  20 173 Sedgwick                 Ks        15    .21        36    .22
+  13 215 Muscogee                 Ga        15    .21        42    .25
+  57 001 Foreign / Overseas       FR        15    .21        51    .31
+  40 119 Payne                    Ok        14    .20        26    .16
+  48 453 Travis                   Tx        14    .20        26    .16
+  48 121 Denton                   Tx        13    .18        27    .16
+  01 089 Madison                  Al        13    .18        34    .20
+  51 710 Norfolk city             Va        13    .18        34    .20
+  48 099 Coryell                  Tx        13    .18        35    .21
+  21 047 Christian                Ky        13    .18        47    .28
+  12 103 Pinellas                 Fl        13    .18        25    .15
+  12 057 Hillsborough             Fl        12    .17        24    .14
+  32 003 Clark                    Nv        12    .17        20    .12
+  48 303 Lubbock                  Tx        12    .17        26    .16
+  39 153 Summit                   Oh        12    .17        19    .11
+  21 093 Hardin                   Ky        12    .17        40    .24
+  22 115 Vernon                   La        12    .17        33    .20
+  37 133 Onslow                   NC        12    .17        35    .21
+  47 157 Shelby                   Tn        12    .17        31    .19
+  04 003 Cochise                  Az        12    .17        35    .21
+  40 101 Muskogee                 Ok        12    .17        32    .19
+  24 003 Anne Arundel             Md        12    .17        37    .22
+  42 101 Philadelphia             Pa        12    .17        22    .13
+  29 095 Jackson                  Mo        12    .17        28    .17
+  12 025 Dade                     Fl        11    .16        19    .11
+  13 051 Chatham                  Ga        11    .16        24    .14
+  13 121 Fulton                   Ga        11    .16        25    .15
+  36 081 Queens                   NY        11    .16        24    .14
+  13 179 Liberty                  Ga        11    .16        25    .15
+  51 810 Virginia Beach city      Va        11    .16        30    .18
+  26 145 Saginaw                  Mi        11    .16        18    .11
+  05 119 Pulaski                  Ar        10    .14        16    .10
+  40 125 Pottawatomie             Ok        10    .14        28    .17
+  08 005 Arapahoe                 Co        10    .14        22    .13
+  45 019 Charleston               SC        10    .14        18    .11
+  36 047 Kings                    NY        10    .14        19    .11
+  48 487 Wilbarger                Tx        10    .14        22    .13
+  12 099 Palm Beach               Fl        10    .14        23    .14
+  55 079 Milwaukee                Wi        10    .14        18    .11
+  35 001 Bernalillo               NM        10    .14        24    .14
+   Same State                              156   2.21       361   2.17
+   Region 1:   Northeast                   308   4.36       595   3.58
+   Region 2:   Midwest                     583   8.25      1169   7.04
+   Region 3:   South                      1099  15.56      2372  14.29
+   Region 4:   West                        293   4.15       648   3.90
+      40 031   County Non-Migrants       30716            74616
+40 033   Cotton Total Migration F Ok       153              374
+  40 031 Comanche                 Ok        40  26.14       103  27.54
+  48 485 Wichita                  Tx        21  13.73        55  14.71
+  57 005 APO / FPO Zip Code       FR        10   6.54        32   8.56
+   Same State                               36  23.53        80  21.39
+   Same Region, Diff. State                 27  17.65        58  15.51
+   Different Region                         19  12.42        46  12.30
+      40 033   County Non-Migrants        1923             4559
+40 035   Craig Total Migration Fl Ok       369              866
+  40 143 Tulsa                    Ok        54  14.63       115  13.28
+  40 097 Mayes                    Ok        40  10.84       102  11.78
+  40 115 Ottawa                   Ok        35   9.49        88  10.16
+  40 131 Rogers                   Ok        24   6.50        60   6.93
+  40 041 Delaware                 Ok        20   5.42        52   6.00
+  40 109 Oklahoma                 Ok        10   2.71        21   2.42
+  40 147 Washington               Ok        10   2.71        26   3.00
+   Same State                               36   9.76        68   7.85
+   Same Region, Diff. State                 44  11.92       108  12.47
+   Different Region                         96  26.02       226  26.10
+      40 035   County Non-Migrants        4532            10327
+40 037   Creek Total Migration Fl Ok      1656             3771
+  40 143 Tulsa                    Ok       745  44.99      1723  45.69
+  40 119 Payne                    Ok        46   2.78       124   3.29
+  40 109 Oklahoma                 Ok        40   2.42        82   2.17
+  40 117 Pawnee                   Ok        36   2.17        78   2.07
+  40 113 Osage                    Ok        32   1.93        65   1.72
+  40 111 Okmulgee                 Ok        32   1.93        83   2.20
+  40 145 Wagoner                  Ok        26   1.57        59   1.56
+  40 131 Rogers                   Ok        22   1.33        47   1.25
+  40 027 Cleveland                Ok        18   1.09        35    .93
+  40 101 Muskogee                 Ok        14    .85        30    .80
+  57 005 APO / FPO Zip Code       FR        14    .85        27    .72
+  40 081 Lincoln                  Ok        14    .85        33    .88
+  06 073 San Diego                Ca        14    .85        28    .74
+  48 201 Harris                   Tx        13    .79        26    .69
+  48 113 Dallas                   Tx        12    .72        34    .90
+  04 013 Maricopa                 Az        11    .66        22    .58
+  40 021 Cherokee                 Ok        10    .60        22    .58
+  40 047 Garfield                 Ok        10    .60        23    .61
+   Same State                              148   8.94       322   8.54
+   Region 1:   Northeast                    22   1.33        61   1.62
+   Region 2:   Midwest                     118   7.13       262   6.95
+   Region 3:   South                       139   8.39       316   8.38
+   Region 4:   West                        120   7.25       269   7.13
+      40 037   County Non-Migrants       18591            45870
+40 039   Custer Total Migration F Ok       769             1624
+  40 109 Oklahoma                 Ok        55   7.15        94   5.79
+  40 015 Caddo                    Ok        54   7.02       123   7.57
+  40 149 Washita                  Ok        46   5.98       106   6.53
+  40 009 Beckham                  Ok        27   3.51        52   3.20
+  40 011 Blaine                   Ok        23   2.99        48   2.96
+  40 017 Canadian                 Ok        21   2.73        42   2.59
+  40 027 Cleveland                Ok        21   2.73        49   3.02
+  40 075 Kiowa                    Ok        16   2.08        37   2.28
+  40 043 Dewey                    Ok        16   2.08        26   1.60
+  40 065 Jackson                  Ok        16   2.08        27   1.66
+  40 129 Roger Mills              Ok        15   1.95        29   1.79
+  40 153 Woodward                 Ok        15   1.95        27   1.66
+  40 143 Tulsa                    Ok        13   1.69        29   1.79
+  57 005 APO / FPO Zip Code       FR        10   1.30        22   1.35
+  40 119 Payne                    Ok        10   1.30        15    .92
+   Same State                              135  17.56       267  16.44
+   Region 1:   Northeast                    16   2.08        35   2.16
+   Region 2:   Midwest                      63   8.19       141   8.68
+   Region 3:   South                       132  17.17       305  18.78
+   Region 4:   West                         65   8.45       150   9.24
+      40 039   County Non-Migrants        7869            18967
+40 041   Delaware Total Migration Ok       913             2078
+  40 143 Tulsa                    Ok        91   9.97       218  10.49
+  40 115 Ottawa                   Ok        79   8.65       184   8.85
+  05 007 Benton                   Ar        77   8.43       189   9.10
+  40 097 Mayes                    Ok        56   6.13       129   6.21
+  29 097 Jasper                   Mo        28   3.07        58   2.79
+  40 035 Craig                    Ok        28   3.07        56   2.69
+  29 119 McDonald                 Mo        27   2.96        66   3.18
+  40 001 Adair                    Ok        24   2.63        76   3.66
+  40 131 Rogers                   Ok        17   1.86        36   1.73
+  40 147 Washington               Ok        15   1.64        36   1.73
+  40 109 Oklahoma                 Ok        14   1.53        28   1.35
+  40 021 Cherokee                 Ok        14   1.53        28   1.35
+  48 113 Dallas                   Tx        13   1.42        21   1.01
+  57 005 APO / FPO Zip Code       FR        11   1.20        21   1.01
+  05 143 Washington               Ar        10   1.10        22   1.06
+   Same State                               79   8.65       190   9.14
+   Same Region, Diff. State                 90   9.86       192   9.24
+   Different Region                        240  26.29       528  25.41
+      40 041   County Non-Migrants        7396            17424
+40 043   Dewey Total Migration Fl Ok       125              312
+  40 153 Woodward                 Ok        15  12.00        39  12.50
+  40 039 Custer                   Ok        10   8.00        24   7.69
+   Same State                               64  51.20       156  50.00
+   Same Region, Diff. State                 15  12.00        40  12.82
+   Different Region                         21  16.80        53  16.99
+      40 043   County Non-Migrants        1862             4429
+40 045   Ellis Total Migration Fl Ok        99              235
+  40 153 Woodward                 Ok        22  22.22        52  22.13
+   Same State                               36  36.36        93  39.57
+   Same Region, Diff. State                 26  26.26        49  20.85
+   Different Region                         15  15.15        41  17.45
+      40 045   County Non-Migrants        1469             3382
+40 047   Garfield Total Migration Ok      1503             3321
+  40 109 Oklahoma                 Ok        80   5.32       146   4.40
+  08 041 El Paso                  Co        76   5.06       103   3.10
+  57 005 APO / FPO Zip Code       FR        55   3.66       136   4.10
+  40 143 Tulsa                    Ok        43   2.86        88   2.65
+  40 093 Major                    Ok        38   2.53        92   2.77
+  40 053 Grant                    Ok        35   2.33        77   2.32
+  20 173 Sedgwick                 Ks        33   2.20        77   2.32
+  40 073 Kingfisher               Ok        32   2.13        74   2.23
+  40 003 Alfalfa                  Ok        31   2.06        69   2.08
+  40 027 Cleveland                Ok        26   1.73        71   2.14
+  40 011 Blaine                   Ok        26   1.73        50   1.51
+  40 119 Payne                    Ok        25   1.66        51   1.54
+  40 071 Kay                      Ok        23   1.53        51   1.54
+  40 103 Noble                    Ok        20   1.33        58   1.75
+  48 113 Dallas                   Tx        17   1.13        28    .84
+  48 029 Bexar                    Tx        16   1.06        44   1.32
+  40 017 Canadian                 Ok        16   1.06        33    .99
+  40 153 Woodward                 Ok        16   1.06        36   1.08
+  04 013 Maricopa                 Az        16   1.06        33    .99
+  48 439 Tarrant                  Tx        15   1.00        34   1.02
+  40 151 Woods                    Ok        15   1.00        33    .99
+  40 083 Logan                    Ok        15   1.00        35   1.05
+  06 037 Los Angeles              Ca        13    .86        30    .90
+  40 031 Comanche                 Ok        12    .80        33    .99
+  48 201 Harris                   Tx        11    .73        26    .78
+  40 039 Custer                   Ok        10    .67        20    .60
+  06 073 San Diego                Ca        10    .67        22    .66
+   Same State                              149   9.91       365  10.99
+   Region 1:   Northeast                    38   2.53        72   2.17
+   Region 2:   Midwest                     195  12.97       435  13.10
+   Region 3:   South                       273  18.16       639  19.24
+   Region 4:   West                        123   8.18       260   7.83
+      40 047   County Non-Migrants       18701            42694
+40 049   Garvin Total Migration F Ok       598             1433
+  40 109 Oklahoma                 Ok        50   8.36       108   7.54
+  40 027 Cleveland                Ok        49   8.19       121   8.44
+  40 123 Pontotoc                 Ok        45   7.53       114   7.96
+  40 087 McClain                  Ok        39   6.52       106   7.40
+  40 099 Murray                   Ok        36   6.02        75   5.23
+  40 051 Grady                    Ok        22   3.68        70   4.88
+  40 137 Stephens                 Ok        16   2.68        38   2.65
+  40 019 Carter                   Ok        15   2.51        44   3.07
+   Same State                              120  20.07       272  18.98
+   Same Region, Diff. State                100  16.72       227  15.84
+   Different Region                        106  17.73       258  18.00
+      40 049   County Non-Migrants        8240            19481
+40 051   Grady Total Migration Fl Ok       976             2313
+  40 109 Oklahoma                 Ok       182  18.65       450  19.46
+  40 027 Cleveland                Ok        62   6.35       145   6.27
+  40 015 Caddo                    Ok        58   5.94       138   5.97
+  40 087 McClain                  Ok        48   4.92       122   5.27
+  40 137 Stephens                 Ok        47   4.82        92   3.98
+  40 017 Canadian                 Ok        36   3.69        84   3.63
+  40 049 Garvin                   Ok        35   3.59        71   3.07
+  40 031 Comanche                 Ok        29   2.97        82   3.55
+  48 113 Dallas                   Tx        15   1.54        31   1.34
+  40 143 Tulsa                    Ok        14   1.43        31   1.34
+  57 005 APO / FPO Zip Code       FR        12   1.23        26   1.12
+   Same State                              126  12.91       309  13.36
+   Same Region, Diff. State                125  12.81       280  12.11
+   Different Region                        187  19.16       452  19.54
+      40 051   County Non-Migrants       11869            28872
+40 053   Grant Total Migration Fl Ok       117              277
+  40 047 Garfield                 Ok        21  17.95        51  18.41
+   Same State                               42  35.90       101  36.46
+   Same Region, Diff. State                 16  13.68        45  16.25
+   Different Region                         38  32.48        80  28.88
+      40 053   County Non-Migrants        1855             4237
+40 055   Greer Total Migration Fl Ok       136              315
+  40 065 Jackson                  Ok        13   9.56        29   9.21
+  40 075 Kiowa                    Ok        12   8.82        25   7.94
+   Same State                               37  27.21        81  25.71
+   Same Region, Diff. State                 39  28.68       101  32.06
+   Different Region                         35  25.74        79  25.08
+      40 055   County Non-Migrants        1667             3726
+40 057   Harmon Total Migration F Ok        63              143
+   All Migration Flows                      63 100.00       143 100.00
+      40 057   County Non-Migrants        1003             2507
+40 059   Harper Total Migration F Ok        87              160
+   Same State                               44  50.57        77  48.13
+   Same Region, Diff. State                 19  21.84        37  23.13
+   Different Region                         24  27.59        46  28.75
+      40 059   County Non-Migrants        1439             3334
+40 061   Haskell Total Migration  Ok       230              531
+  40 079 Le Flore                 Ok        30  13.04        73  13.75
+  40 121 Pittsburg                Ok        19   8.26        49   9.23
+  40 143 Tulsa                    Ok        14   6.09        27   5.08
+  40 101 Muskogee                 Ok        13   5.65        29   5.46
+  05 131 Sebastian                Ar        12   5.22        20   3.77
+  40 109 Oklahoma                 Ok        10   4.35        21   3.95
+   Same State                               50  21.74       120  22.60
+   Same Region, Diff. State                 40  17.39        85  16.01
+   Different Region                         42  18.26       107  20.15
+      40 061   County Non-Migrants        3264             7929
+40 063   Hughes Total Migration F Ok       263              646
+  40 133 Seminole                 Ok        33  12.55        80  12.38
+  40 123 Pontotoc                 Ok        23   8.75        48   7.43
+  40 121 Pittsburg                Ok        20   7.60        54   8.36
+  40 109 Oklahoma                 Ok        17   6.46        37   5.73
+  40 143 Tulsa                    Ok        11   4.18        20   3.10
+   Same State                               76  28.90       185  28.64
+   Same Region, Diff. State                 53  20.15       145  22.45
+   Different Region                         30  11.41        77  11.92
+      40 063   County Non-Migrants        3631             8323
+40 065   Jackson Total Migration  Ok      1177             2805
+  57 005 APO / FPO Zip Code       FR       183  15.55       570  20.32
+  40 109 Oklahoma                 Ok        31   2.63        63   2.25
+  40 075 Kiowa                    Ok        25   2.12        48   1.71
+  40 141 Tillman                  Ok        22   1.87        48   1.71
+  48 029 Bexar                    Tx        19   1.61        48   1.71
+  06 071 San Bernardino           Ca        18   1.53        60   2.14
+  34 005 Burlington               NJ        17   1.44        51   1.82
+  48 439 Tarrant                  Tx        15   1.27        44   1.57
+  40 055 Greer                    Ok        14   1.19        37   1.32
+  40 031 Comanche                 Ok        14   1.19        29   1.03
+  48 113 Dallas                   Tx        14   1.19        31   1.11
+  40 057 Harmon                   Ok        12   1.02        30   1.07
+  40 027 Cleveland                Ok        12   1.02        25    .89
+  48 485 Wichita                  Tx        12   1.02        25    .89
+  06 095 Solano                   Ca        11    .93        37   1.32
+  17 163 St. Clair                Il        10    .85        33   1.18
+  06 067 Sacramento               Ca        10    .85        20    .71
+   Same State                              105   8.92       222   7.91
+   Region 1:   Northeast                    55   4.67       106   3.78
+   Region 2:   Midwest                     138  11.72       267   9.52
+   Region 3:   South                       300  25.49       687  24.49
+   Region 4:   West                        140  11.89       324  11.55
+      40 065   County Non-Migrants        8328            20822
+40 067   Jefferson Total Migratio Ok       176              439
+  40 137 Stephens                 Ok        23  13.07        60  13.67
+  40 019 Carter                   Ok        12   6.82        26   5.92
+   Same State                               52  29.55       124  28.25
+   Same Region, Diff. State                 64  36.36       169  38.50
+   Different Region                         25  14.20        60  13.67
+      40 067   County Non-Migrants        1976             4656
+40 069   Johnston Total Migration Ok       261              629
+  40 019 Carter                   Ok        27  10.34        56   8.90
+  40 013 Bryan                    Ok        20   7.66        54   8.59
+  40 123 Pontotoc                 Ok        20   7.66        43   6.84
+  40 095 Marshall                 Ok        15   5.75        42   6.68
+  48 113 Dallas                   Tx        13   4.98        33   5.25
+  40 099 Murray                   Ok        12   4.60        33   5.25
+   Same State                               71  27.20       176  27.98
+   Same Region, Diff. State                 48  18.39       119  18.92
+   Different Region                         35  13.41        73  11.61
+      40 069   County Non-Migrants        2493             6030
+40 071   Kay Total Migration Flow Ok      1181             2685
+  40 113 Osage                    Ok        97   8.21       233   8.68
+  40 109 Oklahoma                 Ok        75   6.35       164   6.11
+  20 035 Cowley                   Ks        52   4.40       124   4.62
+  40 143 Tulsa                    Ok        48   4.06       104   3.87
+  40 119 Payne                    Ok        46   3.90        94   3.50
+  48 201 Harris                   Tx        37   3.13       101   3.76
+  20 173 Sedgwick                 Ks        33   2.79        81   3.02
+  40 103 Noble                    Ok        32   2.71        97   3.61
+  40 047 Garfield                 Ok        25   2.12        57   2.12
+  48 113 Dallas                   Tx        16   1.35        38   1.42
+  40 053 Grant                    Ok        13   1.10        29   1.08
+  40 117 Pawnee                   Ok        13   1.10        35   1.30
+  48 439 Tarrant                  Tx        12   1.02        22    .82
+  06 059 Orange                   Ca        11    .93        15    .56
+  20 191 Sumner                   Ks        10    .85        17    .63
+  40 081 Lincoln                  Ok        10    .85        20    .74
+   Same State                              149  12.62       354  13.18
+   Region 1:   Northeast                    24   2.03        50   1.86
+   Region 2:   Midwest                     144  12.19       319  11.88
+   Region 3:   South                       197  16.68       445  16.57
+   Region 4:   West                        126  10.67       263   9.80
+   Foreign                                  11    .93        23    .86
+      40 071   County Non-Migrants       16303            38435
+40 073   Kingfisher Total Migrati Ok       263              618
+  40 109 Oklahoma                 Ok        47  17.87       106  17.15
+  40 047 Garfield                 Ok        26   9.89        70  11.33
+  40 017 Canadian                 Ok        19   7.22        40   6.47
+  40 083 Logan                    Ok        15   5.70        38   6.15
+  40 011 Blaine                   Ok        11   4.18        37   5.99
+   Same State                               58  22.05       132  21.36
+   Same Region, Diff. State                 44  16.73        96  15.53
+   Different Region                         43  16.35        99  16.02
+      40 073   County Non-Migrants        4466            10715
+40 075   Kiowa Total Migration Fl Ok       220              507
+  40 109 Oklahoma                 Ok        20   9.09        42   8.28
+  40 031 Comanche                 Ok        16   7.27        38   7.50
+  40 055 Greer                    Ok        10   4.55        21   4.14
+   Same State                               76  34.55       183  36.09
+   Same Region, Diff. State                 47  21.36       127  25.05
+   Different Region                         51  23.18        96  18.93
+      40 075   County Non-Migrants        3277             7560
+40 077   Latimer Total Migration  Ok       235              562
+  40 121 Pittsburg                Ok        37  15.74        97  17.26
+  40 079 Le Flore                 Ok        24  10.21        64  11.39
+  40 127 Pushmataha               Ok        11   4.68        25   4.45
+   Same State                               83  35.32       207  36.83
+   Same Region, Diff. State                 47  20.00       103  18.33
+   Different Region                         33  14.04        66  11.74
+      40 077   County Non-Migrants        2754             6877
+40 079   Le Flore Total Migration Ok       936             2225
+  05 131 Sebastian                Ar       193  20.62       449  20.18
+  40 135 Sequoyah                 Ok        40   4.27        87   3.91
+  40 077 Latimer                  Ok        30   3.21        84   3.78
+  40 143 Tulsa                    Ok        25   2.67        59   2.65
+  05 033 Crawford                 Ar        24   2.56        58   2.61
+  40 061 Haskell                  Ok        22   2.35        57   2.56
+  57 005 APO / FPO Zip Code       FR        21   2.24        37   1.66
+  40 109 Oklahoma                 Ok        20   2.14        50   2.25
+  40 127 Pushmataha               Ok        19   2.03        50   2.25
+  48 113 Dallas                   Tx        14   1.50        22    .99
+  05 127 Scott                    Ar        11   1.18        38   1.71
+  40 121 Pittsburg                Ok        11   1.18        21    .94
+   Same State                              136  14.53       359  16.13
+   Region 1:   Northeast                    13   1.39        20    .90
+   Region 2:   Midwest                      59   6.30       135   6.07
+   Region 3:   South                       172  18.38       400  17.98
+   Region 4:   West                        126  13.46       299  13.44
+      40 079   County Non-Migrants       12202            30115
+40 081   Lincoln Total Migration  Ok       661             1508
+  40 109 Oklahoma                 Ok       128  19.36       309  20.49
+  40 125 Pottawatomie             Ok        76  11.50       178  11.80
+  40 119 Payne                    Ok        50   7.56       120   7.96
+  40 037 Creek                    Ok        24   3.63        54   3.58
+  40 143 Tulsa                    Ok        19   2.87        32   2.12
+  40 027 Cleveland                Ok        18   2.72        37   2.45
+  40 107 Okfuskee                 Ok        14   2.12        33   2.19
+  40 017 Canadian                 Ok        11   1.66        20   1.33
+   Same State                               89  13.46       233  15.45
+   Region 1:   Northeast                    10   1.51        24   1.59
+   Region 2:   Midwest                      36   5.45        87   5.77
+   Region 3:   South                       100  15.13       199  13.20
+   Region 4:   West                         74  11.20       151  10.01
+   Foreign                                  12   1.82        31   2.06
+      40 081   County Non-Migrants        7954            19477
+40 083   Logan Total Migration Fl Ok       755             1719
+  40 109 Oklahoma                 Ok       317  41.99       710  41.30
+  40 119 Payne                    Ok        30   3.97        70   4.07
+  40 143 Tulsa                    Ok        17   2.25        37   2.15
+  40 047 Garfield                 Ok        15   1.99        39   2.27
+  40 017 Canadian                 Ok        13   1.72        31   1.80
+  40 073 Kingfisher               Ok        12   1.59        37   2.15
+  40 103 Noble                    Ok        11   1.46        33   1.92
+  57 005 APO / FPO Zip Code       FR        11   1.46        20   1.16
+  48 439 Tarrant                  Tx        11   1.46        39   2.27
+  40 027 Cleveland                Ok        11   1.46        23   1.34
+  04 013 Maricopa                 Az        10   1.32        18   1.05
+   Same State                               77  10.20       169   9.83
+   Same Region, Diff. State                 98  12.98       219  12.74
+   Different Region                        122  16.16       274  15.94
+      40 083   County Non-Migrants        7419            17672
+40 085   Love Total Migration Flo Ok       210              511
+  40 019 Carter                   Ok        48  22.86       113  22.11
+  48 097 Cooke                    Tx        21  10.00        64  12.52
+  48 439 Tarrant                  Tx        10   4.76        24   4.70
+   Same State                               36  17.14        88  17.22
+   Same Region, Diff. State                 60  28.57       158  30.92
+   Different Region                         35  16.67        64  12.52
+      40 085   County Non-Migrants        2379             5691
+40 087   McClain Total Migration  Ok       729             1771
+  40 109 Oklahoma                 Ok       195  26.75       456  25.75
+  40 027 Cleveland                Ok       166  22.77       401  22.64
+  40 051 Grady                    Ok        51   7.00       142   8.02
+  40 049 Garvin                   Ok        36   4.94        99   5.59
+  40 017 Canadian                 Ok        15   2.06        36   2.03
+  57 005 APO / FPO Zip Code       FR        12   1.65        21   1.19
+  40 125 Pottawatomie             Ok        10   1.37        19   1.07
+   Same State                               97  13.31       248  14.00
+   Same Region, Diff. State                 73  10.01       199  11.24
+   Different Region                         74  10.15       150   8.47
+      40 087   County Non-Migrants        6822            16973
+40 089   McCurtain Total Migratio Ok       610             1453
+  40 023 Choctaw                  Ok        33   5.41        77   5.30
+  05 133 Sevier                   Ar        28   4.59        67   4.61
+  40 109 Oklahoma                 Ok        26   4.26        56   3.85
+  57 005 APO / FPO Zip Code       FR        22   3.61        34   2.34
+  40 143 Tulsa                    Ok        18   2.95        38   2.62
+  40 145 Wagoner                  Ok        17   2.79        40   2.75
+  40 013 Bryan                    Ok        17   2.79        43   2.96
+  48 113 Dallas                   Tx        17   2.79        38   2.62
+  05 081 Little River             Ar        16   2.62        40   2.75
+  48 387 Red River                Tx        16   2.62        39   2.68
+  48 037 Bowie                    Tx        14   2.30        35   2.41
+  05 113 Polk                     Ar        13   2.13        35   2.41
+   Same State                               91  14.92       227  15.62
+   Same Region, Diff. State                192  31.48       468  32.21
+   Different Region                         90  14.75       216  14.87
+      40 089   County Non-Migrants        8909            22050
+40 091   McIntosh Total Migration Ok       468             1022
+  40 101 Muskogee                 Ok        58  12.39       138  13.50
+  40 109 Oklahoma                 Ok        43   9.19        82   8.02
+  40 143 Tulsa                    Ok        34   7.26        64   6.26
+  40 111 Okmulgee                 Ok        31   6.62        72   7.05
+  40 121 Pittsburg                Ok        23   4.91        54   5.28
+  40 027 Cleveland                Ok        11   2.35        22   2.15
+   Same State                              100  21.37       232  22.70
+   Same Region, Diff. State                 80  17.09       169  16.54
+   Different Region                         88  18.80       189  18.49
+      40 091   County Non-Migrants        4677            10802
+40 093   Major Total Migration Fl Ok       166              394
+  40 047 Garfield                 Ok        27  16.27        50  12.69
+  40 011 Blaine                   Ok        16   9.64        38   9.64
+  40 003 Alfalfa                  Ok        11   6.63        26   6.60
+   Same State                               61  36.75       162  41.12
+   Region 2:   Midwest                      16   9.64        34   8.63
+   Region 3:   South                        22  13.25        50  12.69
+   Region 4:   West                         13   7.83        34   8.63
+      40 093   County Non-Migrants        2560             6180
+40 095   Marshall Total Migration Ok       351              823
+  40 019 Carter                   Ok        31   8.83        63   7.65
+  40 109 Oklahoma                 Ok        27   7.69        56   6.80
+  40 013 Bryan                    Ok        17   4.84        48   5.83
+  48 113 Dallas                   Tx        14   3.99        30   3.65
+  40 069 Johnston                 Ok        13   3.70        30   3.65
+  48 439 Tarrant                  Tx        13   3.70        26   3.16
+  40 085 Love                     Ok        11   3.13        26   3.16
+  40 049 Garvin                   Ok        10   2.85        18   2.19
+   Same State                               77  21.94       180  21.87
+   Same Region, Diff. State                 80  22.79       204  24.79
+   Different Region                         58  16.52       142  17.25
+      40 095   County Non-Migrants        3153             7169
+40 097   Mayes Total Migration Fl Ok       775             1756
+  40 143 Tulsa                    Ok       143  18.45       314  17.88
+  40 131 Rogers                   Ok        79  10.19       190  10.82
+  40 041 Delaware                 Ok        44   5.68       103   5.87
+  40 021 Cherokee                 Ok        31   4.00        81   4.61
+  40 145 Wagoner                  Ok        27   3.48        61   3.47
+  40 035 Craig                    Ok        24   3.10        46   2.62
+  40 101 Muskogee                 Ok        21   2.71        60   3.42
+  40 109 Oklahoma                 Ok        14   1.81        29   1.65
+   Same State                               93  12.00       212  12.07
+   Region 1:   Northeast                    12   1.55        27   1.54
+   Region 2:   Midwest                      80  10.32       181  10.31
+   Region 3:   South                       130  16.77       282  16.06
+   Region 4:   West                         77   9.94       170   9.68
+      40 097   County Non-Migrants        9957            24756
+40 099   Murray Total Migration F Ok       306              716
+  40 049 Garvin                   Ok        34  11.11        74  10.34
+  40 019 Carter                   Ok        32  10.46        86  12.01
+  40 109 Oklahoma                 Ok        23   7.52        52   7.26
+  40 123 Pontotoc                 Ok        19   6.21        44   6.15
+  40 027 Cleveland                Ok        14   4.58        36   5.03
+  40 069 Johnston                 Ok        13   4.25        36   5.03
+   Same State                               66  21.57       161  22.49
+   Same Region, Diff. State                 52  16.99       116  16.20
+   Different Region                         53  17.32       111  15.50
+      40 099   County Non-Migrants        3398             8008
+40 101   Muskogee Total Migration Ok      1456             3281
+  40 143 Tulsa                    Ok       179  12.29       383  11.67
+  40 145 Wagoner                  Ok       137   9.41       321   9.78
+  40 021 Cherokee                 Ok        83   5.70       175   5.33
+  40 091 McIntosh                 Ok        60   4.12       138   4.21
+  40 109 Oklahoma                 Ok        60   4.12       136   4.15
+  40 135 Sequoyah                 Ok        44   3.02       107   3.26
+  40 111 Okmulgee                 Ok        26   1.79        66   2.01
+  48 113 Dallas                   Tx        22   1.51        39   1.19
+  40 121 Pittsburg                Ok        21   1.44        42   1.28
+  40 097 Mayes                    Ok        19   1.30        37   1.13
+  40 061 Haskell                  Ok        18   1.24        46   1.40
+  57 005 APO / FPO Zip Code       FR        17   1.17        26    .79
+  40 027 Cleveland                Ok        17   1.17        36   1.10
+  48 439 Tarrant                  Tx        15   1.03        37   1.13
+  05 131 Sebastian                Ar        15   1.03        38   1.16
+  40 131 Rogers                   Ok        12    .82        25    .76
+  40 125 Pottawatomie             Ok        12    .82        30    .91
+  40 123 Pontotoc                 Ok        12    .82        32    .98
+  40 037 Creek                    Ok        11    .76        30    .91
+  40 031 Comanche                 Ok        11    .76        33   1.01
+  06 037 Los Angeles              Ca        11    .76        22    .67
+  40 079 Le Flore                 Ok        11    .76        29    .88
+  40 119 Payne                    Ok        10    .69        20    .61
+   Same State                              113   7.76       252   7.68
+   Region 1:   Northeast                    29   1.99        68   2.07
+   Region 2:   Midwest                     121   8.31       271   8.26
+   Region 3:   South                       229  15.73       514  15.67
+   Region 4:   West                        141   9.68       328  10.00
+      40 101   County Non-Migrants       20349            48661
+40 103   Noble Total Migration Fl Ok       244              592
+  40 119 Payne                    Ok        42  17.21       100  16.89
+  40 071 Kay                      Ok        20   8.20        50   8.45
+  40 109 Oklahoma                 Ok        18   7.38        44   7.43
+  40 047 Garfield                 Ok        15   6.15        40   6.76
+   Same State                               73  29.92       180  30.41
+   Same Region, Diff. State                 32  13.11        70  11.82
+   Different Region                         44  18.03       108  18.24
+      40 103   County Non-Migrants        3429             8096
+40 105   Nowata Total Migration F Ok       199              502
+  20 125 Montgomery               Ks        34  17.09        80  15.94
+  40 147 Washington               Ok        32  16.08        80  15.94
+  40 131 Rogers                   Ok        20  10.05        52  10.36
+  40 143 Tulsa                    Ok        17   8.54        46   9.16
+   Same State                               50  25.13       112  22.31
+   Same Region, Diff. State                 20  10.05        62  12.35
+   Different Region                         26  13.07        70  13.94
+      40 105   County Non-Migrants        2996             7079
+40 107   Okfuskee Total Migration Ok       243              586
+  40 109 Oklahoma                 Ok        33  13.58        61  10.41
+  40 111 Okmulgee                 Ok        18   7.41        42   7.17
+  40 037 Creek                    Ok        17   7.00        51   8.70
+  40 133 Seminole                 Ok        15   6.17        37   6.31
+  40 063 Hughes                   Ok        14   5.76        40   6.83
+  40 125 Pottawatomie             Ok        14   5.76        29   4.95
+  40 081 Lincoln                  Ok        14   5.76        41   7.00
+  40 143 Tulsa                    Ok        13   5.35        31   5.29
+   Same State                               43  17.70        97  16.55
+   Same Region, Diff. State                 34  13.99        84  14.33
+   Different Region                         28  11.52        73  12.46
+      40 107   County Non-Migrants        2939             7113
+40 109   Oklahoma Total Migration Ok     16648            33549
+  40 027 Cleveland                Ok      2517  15.12      4880  14.55
+  40 017 Canadian                 Ok      1053   6.33      2059   6.14
+  57 005 APO / FPO Zip Code       FR       625   3.75      1485   4.43
+  40 143 Tulsa                    Ok       502   3.02       986   2.94
+  48 113 Dallas                   Tx       383   2.30       681   2.03
+  40 125 Pottawatomie             Ok       325   1.95       726   2.16
+  40 083 Logan                    Ok       308   1.85       639   1.90
+  40 051 Grady                    Ok       238   1.43       513   1.53
+  48 439 Tarrant                  Tx       227   1.36       445   1.33
+  40 119 Payne                    Ok       215   1.29       348   1.04
+  48 201 Harris                   Tx       210   1.26       427   1.27
+  06 037 Los Angeles              Ca       204   1.23       373   1.11
+  40 031 Comanche                 Ok       180   1.08       364   1.08
+  40 081 Lincoln                  Ok       160    .96       323    .96
+  40 087 McClain                  Ok       159    .96       328    .98
+  40 047 Garfield                 Ok       150    .90       267    .80
+  20 173 Sedgwick                 Ks       138    .83       298    .89
+  04 013 Maricopa                 Az       124    .74       277    .83
+  06 073 San Diego                Ca       112    .67       206    .61
+  40 039 Custer                   Ok       111    .67       206    .61
+  40 133 Seminole                 Ok       107    .64       220    .66
+  48 029 Bexar                    Tx       107    .64       213    .63
+  40 137 Stephens                 Ok       103    .62       195    .58
+  29 095 Jackson                  Mo        95    .57       180    .54
+  40 019 Carter                   Ok        91    .55       164    .49
+  40 101 Muskogee                 Ok        86    .52       163    .49
+  57 001 Foreign / Overseas       FR        85    .51       150    .45
+  40 071 Kay                      Ok        84    .50       147    .44
+  40 049 Garvin                   Ok        83    .50       141    .42
+  40 123 Pontotoc                 Ok        83    .50       140    .42
+  06 059 Orange                   Ca        82    .49       151    .45
+  40 015 Caddo                    Ok        78    .47       151    .45
+  06 071 San Bernardino           Ca        77    .46       172    .51
+  48 453 Travis                   Tx        74    .44       119    .35
+  40 073 Kingfisher               Ok        73    .44       133    .40
+  15 003 Honolulu                 Hi        71    .43       184    .55
+  32 003 Clark                    Nv        70    .42       141    .42
+  17 031 Cook                     Il        64    .38       130    .39
+  40 121 Pittsburg                Ok        62    .37       120    .36
+  08 041 El Paso                  Co        61    .37       150    .45
+  48 121 Denton                   Tx        60    .36       123    .37
+  05 119 Pulaski                  Ar        57    .34       123    .37
+  40 153 Woodward                 Ok        54    .32       102    .30
+  35 001 Bernalillo               NM        54    .32        96    .29
+  40 009 Beckham                  Ok        53    .32        98    .29
+  48 141 El Paso                  Tx        52    .31       123    .37
+  28 047 Harrison                 Ms        51    .31       100    .30
+  40 107 Okfuskee                 Ok        50    .30       107    .32
+  48 485 Wichita                  Tx        50    .30        99    .30
+  47 157 Shelby                   Tn        49    .29       112    .33
+  40 011 Blaine                   Ok        49    .29        91    .27
+  40 147 Washington               Ok        47    .28        97    .29
+  40 065 Jackson                  Ok        47    .28        97    .29
+  40 037 Creek                    Ok        47    .28        78    .23
+  48 329 Midland                  Tx        46    .28       130    .39
+  53 033 King                     Wa        44    .26        89    .27
+  48 085 Collin                   Tx        44    .26       114    .34
+  05 131 Sebastian                Ar        43    .26        83    .25
+  20 091 Johnson                  Ks        42    .25        84    .25
+  06 065 Riverside                Ca        41    .25       112    .33
+  48 303 Lubbock                  Tx        41    .25        85    .25
+  48 375 Potter                   Tx        40    .24        90    .27
+  29 189 St. Louis                Mo        40    .24        75    .22
+  08 005 Arapahoe                 Co        40    .24        83    .25
+  06 001 Alameda                  Ca        39    .23        72    .21
+  12 057 Hillsborough             Fl        38    .23        74    .22
+  06 067 Sacramento               Ca        37    .22        79    .24
+  04 019 Pima                     Az        36    .22        75    .22
+  02 020 Anchorage Borough        Ak        35    .21        82    .24
+  05 143 Washington               Ar        35    .21        66    .20
+  40 095 Marshall                 Ok        35    .21        63    .19
+  47 037 Davidson                 Tn        34    .20        66    .20
+  06 085 Santa Clara              Ca        33    .20        65    .19
+  48 027 Bell                     Tx        33    .20        72    .21
+  40 021 Cherokee                 Ok        32    .19        67    .20
+  29 077 Greene                   Mo        32    .19        67    .20
+  40 091 McIntosh                 Ok        31    .19        50    .15
+  40 131 Rogers                   Ok        31    .19        44    .13
+  12 011 Broward                  Fl        31    .19        53    .16
+  40 063 Hughes                   Ok        31    .19        63    .19
+  40 079 Le Flore                 Ok        30    .18        55    .16
+  53 053 Pierce                   Wa        30    .18        78    .23
+  40 075 Kiowa                    Ok        30    .18        56    .17
+  08 031 Denver                   Co        30    .18        40    .12
+  12 095 Orange                   Fl        30    .18        64    .19
+  40 013 Bryan                    Ok        29    .17        58    .17
+  48 309 McLennan                 Tx        29    .17        63    .19
+  48 381 Randall                  Tx        29    .17        60    .18
+  06 029 Kern                     Ca        29    .17        74    .22
+  48 181 Grayson                  Tx        29    .17        57    .17
+  06 111 Ventura                  Ca        28    .17        63    .19
+  12 025 Dade                     Fl        28    .17        61    .18
+  06 053 Monterey                 Ca        28    .17        61    .18
+  12 031 Duval                    Fl        27    .16        55    .16
+  48 355 Nueces                   Tx        26    .16        57    .17
+  48 423 Smith                    Tx        26    .16        48    .14
+  48 441 Taylor                   Tx        26    .16        63    .19
+  40 149 Washita                  Ok        26    .16        49    .15
+  40 111 Okmulgee                 Ok        26    .16        44    .13
+  48 157 Fort Bend                Tx        25    .15        72    .21
+  40 135 Sequoyah                 Ok        25    .15        44    .13
+  51 059 Fairfax                  Va        25    .15        52    .15
+  40 089 McCurtain                Ok        24    .14        46    .14
+  40 151 Woods                    Ok        24    .14        38    .11
+  40 099 Murray                   Ok        24    .14        40    .12
+  40 145 Wagoner                  Ok        23    .14        62    .18
+  31 153 Sarpy                    Ne        23    .14        58    .17
+  08 059 Jefferson                Co        22    .13        35    .10
+  39 035 Cuyahoga                 Oh        22    .13        35    .10
+  40 103 Noble                    Ok        22    .13        40    .12
+  37 119 Mecklenburg              NC        21    .13        41    .12
+  40 077 Latimer                  Ok        21    .13        39    .12
+  12 091 Okaloosa                 Fl        21    .13        51    .15
+  49 035 Salt Lake                Ut        21    .13        58    .17
+  31 055 Douglas                  Ne        20    .12        40    .12
+  25 017 Middlesex                Ma        20    .12        36    .11
+  18 097 Marion                   In        20    .12        37    .11
+  20 177 Shawnee                  Ks        20    .12        38    .11
+  40 113 Osage                    Ok        20    .12        36    .11
+  11 001 Wash.,D.C.               DC        19    .11        30    .09
+  20 175 Seward                   Ks        19    .11        38    .11
+  05 007 Benton                   Ar        19    .11        34    .10
+  40 139 Texas                    Ok        19    .11        31    .09
+  29 047 Clay                     Mo        19    .11        39    .12
+  40 093 Major                    Ok        19    .11        41    .12
+  40 127 Pushmataha               Ok        19    .11        31    .09
+  26 125 Oakland                  Mi        19    .11        37    .11
+  12 103 Pinellas                 Fl        19    .11        40    .12
+  13 089 De Kalb                  Ga        18    .11        31    .09
+  42 003 Allegheny                Pa        18    .11        40    .12
+  35 035 Otero                    NM        18    .11        48    .14
+  17 163 St. Clair                Il        18    .11        40    .12
+  51 810 Virginia Beach city      Va        18    .11        34    .10
+  06 083 Santa Barbara            Ca        17    .10        44    .13
+  29 145 Newton                   Mo        17    .10        27    .08
+  40 141 Tillman                  Ok        17    .10        27    .08
+  40 097 Mayes                    Ok        17    .10        28    .08
+  48 061 Cameron                  Tx        16    .10        35    .10
+  09 003 Hartford                 Ct        16    .10        38    .11
+  48 233 Hutchinson               Tx        16    .10        33    .10
+  22 033 East Baton Rouge         La        16    .10        27    .08
+  27 053 Hennepin                 Mn        16    .10        34    .10
+  24 031 Montgomery               Md        16    .10        38    .11
+  40 115 Ottawa                   Ok        16    .10        31    .09
+  06 013 Contra Costa             Ca        15    .09        29    .09
+  12 005 Bay                      Fl        15    .09        33    .10
+  08 001 Adams                    Co        15    .09        33    .10
+  22 071 Orleans                  La        15    .09        31    .09
+  08 013 Boulder                  Co        15    .09        26    .08
+  35 013 Dona Ana                 NM        15    .09        33    .10
+  55 079 Milwaukee                Wi        15    .09        31    .09
+  24 033 Prince George's          Md        15    .09        35    .10
+  40 023 Choctaw                  Ok        15    .09        23    .07
+  40 041 Delaware                 Ok        15    .09        29    .09
+  29 097 Jasper                   Mo        15    .09        33    .10
+  06 075 San Francisco            Ca        15    .09        21    .06
+  12 033 Escambia                 Fl        15    .09        38    .11
+  40 055 Greer                    Ok        14    .08        29    .09
+  53 061 Snohomish                Wa        14    .08        32    .10
+  51 510 Alexandria city          Va        14    .08        20    .06
+  39 113 Montgomery               Oh        14    .08        30    .09
+  01 073 Jefferson                Al        14    .08        22    .07
+  51 710 Norfolk city             Va        14    .08        31    .09
+  20 155 Reno                     Ks        14    .08        28    .08
+  17 097 Lake                     Il        14    .08        44    .13
+  05 069 Jefferson                Ar        14    .08        39    .12
+  33 011 Hillsborough             NH        14    .08        25    .07
+  22 017 Caddo                    La        14    .08        28    .08
+  26 163 Wayne                    Mi        14    .08        20    .06
+  40 043 Dewey                    Ok        14    .08        18    .05
+  12 009 Brevard                  Fl        13    .08        22    .07
+  05 093 Mississippi              Ar        13    .08        39    .12
+  19 153 Polk                     Ia        13    .08        26    .08
+  17 043 Du Page                  Il        13    .08        20    .06
+  13 067 Cobb                     Ga        13    .08        22    .07
+  40 117 Pawnee                   Ok        13    .08        27    .08
+  28 049 Hinds                    Ms        13    .08        24    .07
+  12 127 Volusia                  Fl        13    .08        29    .09
+  24 005 Baltimore                Md        12    .07        27    .08
+  39 153 Summit                   Oh        12    .07        33    .10
+  09 009 New Haven                Ct        12    .07        26    .08
+  31 109 Lancaster                Ne        12    .07        13    .04
+  29 510 St. Louis city           Mo        12    .07        22    .07
+  13 121 Fulton                   Ga        12    .07        17    .05
+  29 183 St. Charles              Mo        12    .07        32    .10
+  40 069 Johnston                 Ok        12    .07        21    .06
+  48 167 Galveston                Tx        12    .07        24    .07
+  06 099 Stanislaus               Ca        12    .07        23    .07
+  49 011 Davis                    Ut        11    .07        31    .09
+  36 061 New York                 NY        11    .07        13    .04
+  40 035 Craig                    Ok        11    .07        19    .06
+  10 003 New Castle               De        11    .07        24    .07
+  39 061 Hamilton                 Oh        11    .07        27    .08
+  39 057 Greene                   Oh        11    .07        22    .07
+  48 215 Hidalgo                  Tx        11    .07        23    .07
+  48 491 Williamson               Tx        11    .07        27    .08
+  48 037 Bowie                    Tx        11    .07        36    .11
+  22 051 Jefferson                La        11    .07        21    .06
+  48 451 Tom Green                Tx        11    .07        24    .07
+  29 019 Boone                    Mo        11    .07        22    .07
+  48 277 Lamar                    Tx        11    .07        28    .08
+  48 339 Montgomery               Tx        11    .07        22    .07
+  29 037 Cass                     Mo        11    .07        17    .05
+  09 001 Fairfield                Ct        11    .07        18    .05
+  48 135 Ector                    Tx        11    .07        23    .07
+  04 015 Mohave                   Az        11    .07        21    .06
+  37 051 Cumberland               NC        11    .07        24    .07
+  48 041 Brazos                   Tx        11    .07        28    .08
+  02 090 Fairbanks North Star Bor Ak        10    .06        25    .07
+  22 115 Vernon                   La        10    .06        22    .07
+  12 099 Palm Beach               Fl        10    .06        16    .05
+  06 019 Fresno                   Ca        10    .06        14    .04
+  22 015 Bossier                  La        10    .06        26    .08
+  53 011 Clark                    Wa        10    .06        20    .06
+  35 005 Chaves                   NM        10    .06        30    .09
+  53 063 Spokane                  Wa        10    .06        19    .06
+  32 031 Washoe                   Nv        10    .06        19    .06
+  37 081 Guilford                 NC        10    .06        20    .06
+  45 045 Greenville               SC        10    .06        21    .06
+  06 095 Solano                   Ca        10    .06        22    .07
+  42 071 Lancaster                Pa        10    .06        20    .06
+  12 115 Sarasota                 Fl        10    .06        18    .05
+  39 017 Butler                   Oh        10    .06        13    .04
+  20 015 Butler                   Ks        10    .06        22    .07
+  36 029 Erie                     NY        10    .06        12    .04
+  40 005 Atoka                    Ok        10    .06        23    .07
+   Same State                               80    .48       135    .40
+   Region 1:   Northeast                   366   2.20       714   2.13
+   Region 2:   Midwest                     853   5.12      1740   5.19
+   Region 3:   South                      1268   7.62      2795   8.33
+   Region 4:   West                        399   2.40       801   2.39
+      40 109   County Non-Migrants      208150           456472
+40 111   Okmulgee Total Migration Ok       871             1956
+  40 143 Tulsa                    Ok       211  24.23       449  22.96
+  40 037 Creek                    Ok        46   5.28       104   5.32
+  40 109 Oklahoma                 Ok        37   4.25        77   3.94
+  40 101 Muskogee                 Ok        33   3.79        79   4.04
+  40 091 McIntosh                 Ok        30   3.44        67   3.43
+  40 107 Okfuskee                 Ok        29   3.33        74   3.78
+  40 063 Hughes                   Ok        20   2.30        56   2.86
+  48 113 Dallas                   Tx        14   1.61        30   1.53
+  57 005 APO / FPO Zip Code       FR        14   1.61        20   1.02
+  40 145 Wagoner                  Ok        12   1.38        26   1.33
+   Same State                              158  18.14       371  18.97
+   Same Region, Diff. State                103  11.83       232  11.86
+   Different Region                        164  18.83       371  18.97
+      40 111   County Non-Migrants       10075            23910
+40 113   Osage Total Migration Fl Ok       984             2291
+  40 143 Tulsa                    Ok       343  34.86       804  35.09
+  40 071 Kay                      Ok       126  12.80       297  12.96
+  40 147 Washington               Ok        76   7.72       189   8.25
+  40 037 Creek                    Ok        35   3.56        66   2.88
+  40 117 Pawnee                   Ok        31   3.15        84   3.67
+  40 109 Oklahoma                 Ok        19   1.93        34   1.48
+  40 131 Rogers                   Ok        16   1.63        35   1.53
+  40 119 Payne                    Ok        11   1.12        16    .70
+  06 037 Los Angeles              Ca        10   1.02        25   1.09
+   Same State                               81   8.23       187   8.16
+   Same Region, Diff. State                 87   8.84       203   8.86
+   Different Region                        149  15.14       351  15.32
+      40 113   County Non-Migrants        9365            22632
+40 115   Ottawa Total Migration F Ok       756             1684
+  40 041 Delaware                 Ok        81  10.71       187  11.10
+  40 143 Tulsa                    Ok        50   6.61       113   6.71
+  29 097 Jasper                   Mo        44   5.82       103   6.12
+  40 035 Craig                    Ok        44   5.82       118   7.01
+  29 145 Newton                   Mo        33   4.37        70   4.16
+  20 021 Cherokee                 Ks        28   3.70        71   4.22
+  29 077 Greene                   Mo        13   1.72        28   1.66
+  40 097 Mayes                    Ok        11   1.46        30   1.78
+  40 109 Oklahoma                 Ok        10   1.32        22   1.31
+   Same State                               86  11.38       202  12.00
+   Same Region, Diff. State                135  17.86       283  16.81
+   Different Region                        221  29.23       457  27.14
+      40 115   County Non-Migrants        9408            22014
+40 117   Pawnee Total Migration F Ok       460             1089
+  40 143 Tulsa                    Ok       121  26.30       275  25.25
+  40 119 Payne                    Ok        37   8.04        78   7.16
+  40 113 Osage                    Ok        36   7.83        95   8.72
+  40 037 Creek                    Ok        33   7.17        82   7.53
+  40 103 Noble                    Ok        11   2.39        30   2.75
+   Same State                               80  17.39       192  17.63
+   Same Region, Diff. State                 57  12.39       125  11.48
+   Different Region                         85  18.48       212  19.47
+      40 117   County Non-Migrants        4575            10959
+40 119   Payne Total Migration Fl Ok      2237             4043
+  40 143 Tulsa                    Ok       229  10.24       364   9.00
+  40 109 Oklahoma                 Ok       201   8.99       337   8.34
+  57 001 Foreign / Overseas       FR       141   6.30       159   3.93
+  40 081 Lincoln                  Ok        82   3.67       171   4.23
+  40 037 Creek                    Ok        69   3.08       181   4.48
+  40 071 Kay                      Ok        56   2.50        90   2.23
+  40 047 Garfield                 Ok        51   2.28        86   2.13
+  40 103 Noble                    Ok        50   2.24       103   2.55
+  40 083 Logan                    Ok        40   1.79        89   2.20
+  40 147 Washington               Ok        40   1.79        65   1.61
+  40 117 Pawnee                   Ok        39   1.74        90   2.23
+  40 027 Cleveland                Ok        28   1.25        43   1.06
+  40 125 Pottawatomie             Ok        27   1.21        49   1.21
+  48 439 Tarrant                  Tx        26   1.16        50   1.24
+  40 131 Rogers                   Ok        24   1.07        30    .74
+  40 031 Comanche                 Ok        21    .94        24    .59
+  40 017 Canadian                 Ok        21    .94        41   1.01
+  20 173 Sedgwick                 Ks        17    .76        29    .72
+  48 113 Dallas                   Tx        17    .76        32    .79
+  40 137 Stephens                 Ok        16    .72        29    .72
+  40 113 Osage                    Ok        15    .67        28    .69
+  40 121 Pittsburg                Ok        13    .58        23    .57
+  57 005 APO / FPO Zip Code       FR        12    .54        22    .54
+  06 073 San Diego                Ca        12    .54        17    .42
+  48 201 Harris                   Tx        12    .54        18    .45
+  40 041 Delaware                 Ok        11    .49        23    .57
+  29 077 Greene                   Mo        11    .49        24    .59
+  40 139 Texas                    Ok        10    .45        24    .59
+  40 015 Caddo                    Ok        10    .45        15    .37
+  06 071 San Bernardino           Ca        10    .45        23    .57
+  29 095 Jackson                  Mo        10    .45        15    .37
+  40 101 Muskogee                 Ok        10    .45        19    .47
+  40 115 Ottawa                   Ok        10    .45        17    .42
+   Same State                              234  10.46       438  10.83
+   Region 1:   Northeast                    47   2.10        85   2.10
+   Region 2:   Midwest                     191   8.54       386   9.55
+   Region 3:   South                       250  11.18       478  11.82
+   Region 4:   West                        174   7.78       326   8.06
+      40 119   County Non-Migrants       16785            37929
+40 121   Pittsburg Total Migratio Ok       912             2107
+  40 109 Oklahoma                 Ok        65   7.13       152   7.21
+  40 143 Tulsa                    Ok        46   5.04        99   4.70
+  40 077 Latimer                  Ok        42   4.61       106   5.03
+  40 091 McIntosh                 Ok        27   2.96        59   2.80
+  48 113 Dallas                   Tx        27   2.96        61   2.90
+  40 063 Hughes                   Ok        24   2.63        50   2.37
+  57 005 APO / FPO Zip Code       FR        23   2.52        44   2.09
+  40 061 Haskell                  Ok        18   1.97        44   2.09
+  40 123 Pontotoc                 Ok        17   1.86        39   1.85
+  40 027 Cleveland                Ok        17   1.86        37   1.76
+  48 439 Tarrant                  Tx        16   1.75        30   1.42
+  48 201 Harris                   Tx        16   1.75        37   1.76
+  40 127 Pushmataha               Ok        14   1.54        35   1.66
+  40 013 Bryan                    Ok        14   1.54        29   1.38
+  40 125 Pottawatomie             Ok        13   1.43        23   1.09
+  40 079 Le Flore                 Ok        13   1.43        34   1.61
+  40 101 Muskogee                 Ok        13   1.43        30   1.42
+  40 005 Atoka                    Ok        10   1.10        21   1.00
+   Same State                              145  15.90       372  17.66
+   Region 1:   Northeast                    11   1.21        30   1.42
+   Region 2:   Midwest                      57   6.25       118   5.60
+   Region 3:   South                       164  17.98       386  18.32
+   Region 4:   West                        120  13.16       271  12.86
+      40 121   County Non-Migrants       12267            28374
+40 123   Pontotoc Total Migration Ok       748             1603
+  40 109 Oklahoma                 Ok        53   7.09       106   6.61
+  40 049 Garvin                   Ok        46   6.15       103   6.43
+  40 133 Seminole                 Ok        30   4.01        74   4.62
+  40 125 Pottawatomie             Ok        29   3.88        61   3.81
+  40 027 Cleveland                Ok        26   3.48        47   2.93
+  40 143 Tulsa                    Ok        24   3.21        45   2.81
+  40 029 Coal                     Ok        24   3.21        42   2.62
+  40 019 Carter                   Ok        19   2.54        38   2.37
+  40 121 Pittsburg                Ok        17   2.27        33   2.06
+  40 063 Hughes                   Ok        15   2.01        22   1.37
+  40 099 Murray                   Ok        15   2.01        37   2.31
+  48 113 Dallas                   Tx        15   2.01        28   1.75
+  40 005 Atoka                    Ok        12   1.60        27   1.68
+  40 095 Marshall                 Ok        12   1.60        29   1.81
+  40 089 McCurtain                Ok        12   1.60        19   1.19
+  40 069 Johnston                 Ok        12   1.60        28   1.75
+  48 439 Tarrant                  Tx        11   1.47        24   1.50
+  57 005 APO / FPO Zip Code       FR        10   1.34        26   1.62
+   Same State                              130  17.38       274  17.09
+   Same Region, Diff. State                114  15.24       251  15.66
+   Different Region                        122  16.31       289  18.03
+      40 123   County Non-Migrants        9647            22395
+40 125   Pottawatomie Total Migra Ok      1447             3262
+  40 109 Oklahoma                 Ok       331  22.87       781  23.94
+  40 081 Lincoln                  Ok        98   6.77       237   7.27
+  40 027 Cleveland                Ok        95   6.57       204   6.25
+  40 133 Seminole                 Ok        87   6.01       187   5.73
+  40 123 Pontotoc                 Ok        34   2.35        73   2.24
+  40 143 Tulsa                    Ok        28   1.94        67   2.05
+  48 113 Dallas                   Tx        21   1.45        45   1.38
+  40 119 Payne                    Ok        20   1.38        43   1.32
+  57 005 APO / FPO Zip Code       FR        18   1.24        33   1.01
+  48 439 Tarrant                  Tx        17   1.17        34   1.04
+  40 107 Okfuskee                 Ok        17   1.17        32    .98
+  40 087 McClain                  Ok        16   1.11        43   1.32
+  40 017 Canadian                 Ok        15   1.04        31    .95
+  06 037 Los Angeles              Ca        14    .97        25    .77
+  40 049 Garvin                   Ok        13    .90        30    .92
+  40 031 Comanche                 Ok        11    .76        22    .67
+  06 071 San Bernardino           Ca        10    .69        19    .58
+   Same State                              176  12.16       378  11.59
+   Region 1:   Northeast                    19   1.31        43   1.32
+   Region 2:   Midwest                      89   6.15       184   5.64
+   Region 3:   South                       198  13.68       472  14.47
+   Region 4:   West                        120   8.29       279   8.55
+      40 125   County Non-Migrants       17331            41391
+40 127   Pushmataha Total Migrati Ok       257              621
+  40 023 Choctaw                  Ok        26  10.12        68  10.95
+  40 077 Latimer                  Ok        13   5.06        42   6.76
+  40 109 Oklahoma                 Ok        10   3.89        19   3.06
+   Same State                               90  35.02       218  35.10
+   Same Region, Diff. State                 73  28.40       166  26.73
+   Different Region                         45  17.51       108  17.39
+      40 127   County Non-Migrants        2598             6254
+40 129   Roger Mills Total Migrat Ok        65              160
+  40 009 Beckham                  Ok        24  36.92        58  36.25
+   All Migration Flows                      41  63.08       102  63.75
+      40 129   County Non-Migrants        1173             2845
+40 131   Rogers Total Migration F Ok      1721             4010
+  40 143 Tulsa                    Ok       738  42.88      1734  43.24
+  40 097 Mayes                    Ok        81   4.71       200   4.99
+  40 145 Wagoner                  Ok        62   3.60       169   4.21
+  40 035 Craig                    Ok        28   1.63        61   1.52
+  40 109 Oklahoma                 Ok        25   1.45        53   1.32
+  40 037 Creek                    Ok        22   1.28        40   1.00
+  57 005 APO / FPO Zip Code       FR        21   1.22        41   1.02
+  40 147 Washington               Ok        19   1.10        46   1.15
+  40 119 Payne                    Ok        17    .99        22    .55
+  40 115 Ottawa                   Ok        15    .87        34    .85
+  40 021 Cherokee                 Ok        15    .87        32    .80
+  40 027 Cleveland                Ok        15    .87        28    .70
+  48 201 Harris                   Tx        14    .81        39    .97
+  40 041 Delaware                 Ok        14    .81        25    .62
+  48 439 Tarrant                  Tx        13    .76        31    .77
+  40 105 Nowata                   Ok        13    .76        28    .70
+  40 113 Osage                    Ok        11    .64        28    .70
+  06 037 Los Angeles              Ca        11    .64        24    .60
+  04 013 Maricopa                 Az        10    .58        35    .87
+  40 101 Muskogee                 Ok        10    .58        27    .67
+  48 113 Dallas                   Tx        10    .58        19    .47
+   Same State                               96   5.58       223   5.56
+   Region 1:   Northeast                    23   1.34        45   1.12
+   Region 2:   Midwest                     132   7.67       319   7.96
+   Region 3:   South                       182  10.58       415  10.35
+   Region 4:   West                        124   7.21       292   7.28
+      40 131   County Non-Migrants       17227            42859
+40 133   Seminole Total Migration Ok       537             1209
+  40 125 Pottawatomie             Ok        90  16.76       217  17.95
+  40 109 Oklahoma                 Ok        54  10.06       110   9.10
+  40 123 Pontotoc                 Ok        31   5.77        72   5.96
+  40 063 Hughes                   Ok        27   5.03        67   5.54
+  40 107 Okfuskee                 Ok        23   4.28        48   3.97
+  40 143 Tulsa                    Ok        16   2.98        47   3.89
+  40 027 Cleveland                Ok        14   2.61        32   2.65
+  40 081 Lincoln                  Ok        12   2.23        25   2.07
+  40 121 Pittsburg                Ok        12   2.23        37   3.06
+  48 439 Tarrant                  Tx        10   1.86        22   1.82
+   Same State                               79  14.71       167  13.81
+   Same Region, Diff. State                 89  16.57       207  17.12
+   Different Region                         80  14.90       158  13.07
+      40 133   County Non-Migrants        6924            16536
+40 135   Sequoyah Total Migration Ok       771             1839
+  05 131 Sebastian                Ar       162  21.01       377  20.50
+  40 079 Le Flore                 Ok        44   5.71       118   6.42
+  40 101 Muskogee                 Ok        38   4.93        96   5.22
+  05 033 Crawford                 Ar        35   4.54        94   5.11
+  40 143 Tulsa                    Ok        28   3.63        63   3.43
+  40 109 Oklahoma                 Ok        24   3.11        45   2.45
+  40 021 Cherokee                 Ok        19   2.46        41   2.23
+  57 005 APO / FPO Zip Code       FR        15   1.95        29   1.58
+  40 001 Adair                    Ok        13   1.69        38   2.07
+  40 145 Wagoner                  Ok        10   1.30        21   1.14
+   Same State                               79  10.25       184  10.01
+   Same Region, Diff. State                130  16.86       286  15.55
+   Different Region                        174  22.57       447  24.31
+      40 135   County Non-Migrants        9726            23680
+40 137   Stephens Total Migration Ok       878             2151
+  40 031 Comanche                 Ok        80   9.11       183   8.51
+  40 109 Oklahoma                 Ok        62   7.06       143   6.65
+  40 051 Grady                    Ok        46   5.24        90   4.18
+  40 019 Carter                   Ok        29   3.30        71   3.30
+  57 005 APO / FPO Zip Code       FR        27   3.08        74   3.44
+  40 067 Jefferson                Ok        25   2.85        74   3.44
+  40 027 Cleveland                Ok        25   2.85        62   2.88
+  48 113 Dallas                   Tx        24   2.73        50   2.32
+  48 439 Tarrant                  Tx        21   2.39        53   2.46
+  48 485 Wichita                  Tx        19   2.16        56   2.60
+  40 049 Garvin                   Ok        16   1.82        32   1.49
+  40 143 Tulsa                    Ok        15   1.71        27   1.26
+  40 017 Canadian                 Ok        13   1.48        30   1.39
+  40 119 Payne                    Ok        12   1.37        27   1.26
+  40 033 Cotton                   Ok        10   1.14        26   1.21
+  48 201 Harris                   Tx        10   1.14        26   1.21
+   Same State                              116  13.21       290  13.48
+   Region 1:   Northeast                    17   1.94        43   2.00
+   Region 2:   Midwest                      63   7.18       151   7.02
+   Region 3:   South                       175  19.93       451  20.97
+   Region 4:   West                         73   8.31       192   8.93
+      40 137   County Non-Migrants       13017            31353
+40 139   Texas Total Migration Fl Ok       395              957
+  20 175 Seward                   Ks        30   7.59        70   7.31
+  40 025 Cimarron                 Ok        15   3.80        48   5.02
+  48 195 Hansford                 Tx        14   3.54        35   3.66
+  40 007 Beaver                   Ok        13   3.29        21   2.19
+   Same State                               75  18.99       172  17.97
+   Same Region, Diff. State                110  27.85       264  27.59
+   Different Region                        138  34.94       347  36.26
+      40 139   County Non-Migrants        4920            12112
+40 141   Tillman Total Migration  Ok       188              474
+  40 031 Comanche                 Ok        19  10.11        55  11.60
+  40 065 Jackson                  Ok        13   6.91        33   6.96
+  48 485 Wichita                  Tx        13   6.91        25   5.27
+  40 075 Kiowa                    Ok        12   6.38        32   6.75
+   Same State                               50  26.60       125  26.37
+   Same Region, Diff. State                 56  29.79       145  30.59
+   Different Region                         25  13.30        59  12.45
+      40 141   County Non-Migrants        2904             7024
+40 143   Tulsa Total Migration Fl Ok     13836            28130
+  40 037 Creek                    Ok       791   5.72      1707   6.07
+  40 145 Wagoner                  Ok       727   5.25      1554   5.52
+  40 131 Rogers                   Ok       680   4.91      1369   4.87
+  40 109 Oklahoma                 Ok       556   4.02      1031   3.67
+  40 113 Osage                    Ok       316   2.28       688   2.45
+  48 113 Dallas                   Tx       300   2.17       596   2.12
+  48 201 Harris                   Tx       293   2.12       616   2.19
+  40 101 Muskogee                 Ok       259   1.87       512   1.82
+  48 439 Tarrant                  Tx       243   1.76       498   1.77
+  40 119 Payne                    Ok       237   1.71       387   1.38
+  40 111 Okmulgee                 Ok       232   1.68       481   1.71
+  40 147 Washington               Ok       209   1.51       418   1.49
+  06 037 Los Angeles              Ca       189   1.37       382   1.36
+  40 027 Cleveland                Ok       163   1.18       313   1.11
+  40 117 Pawnee                   Ok       138   1.00       294   1.05
+  57 005 APO / FPO Zip Code       FR       133    .96       261    .93
+  40 097 Mayes                    Ok       131    .95       275    .98
+  06 073 San Diego                Ca       124    .90       257    .91
+  40 021 Cherokee                 Ok       114    .82       203    .72
+  04 013 Maricopa                 Az       105    .76       208    .74
+  17 031 Cook                     Il       104    .75       186    .66
+  20 173 Sedgwick                 Ks        96    .69       223    .79
+  06 059 Orange                   Ca        96    .69       195    .69
+  57 001 Foreign / Overseas       FR        96    .69       151    .54
+  20 091 Johnson                  Ks        75    .54       171    .61
+  29 077 Greene                   Mo        75    .54       127    .45
+  05 131 Sebastian                Ar        71    .51       146    .52
+  48 453 Travis                   Tx        68    .49       117    .42
+  40 115 Ottawa                   Ok        67    .48       131    .47
+  12 025 Dade                     Fl        64    .46       140    .50
+  29 189 St. Louis                Mo        64    .46       143    .51
+  05 119 Pulaski                  Ar        64    .46       136    .48
+  29 097 Jasper                   Mo        63    .46       110    .39
+  05 143 Washington               Ar        63    .46       123    .44
+  40 071 Kay                      Ok        60    .43       112    .40
+  40 121 Pittsburg                Ok        56    .40       119    .42
+  47 157 Shelby                   Tn        56    .40       108    .38
+  40 017 Canadian                 Ok        52    .38       132    .47
+  32 003 Clark                    Nv        52    .38        95    .34
+  29 095 Jackson                  Mo        51    .37        95    .34
+  40 031 Comanche                 Ok        51    .37       111    .39
+  06 071 San Bernardino           Ca        50    .36       111    .39
+  05 007 Benton                   Ar        50    .36        91    .32
+  48 029 Bexar                    Tx        49    .35       117    .42
+  40 041 Delaware                 Ok        49    .35        72    .26
+  40 047 Garfield                 Ok        46    .33        88    .31
+  12 011 Broward                  Fl        45    .33        99    .35
+  40 091 McIntosh                 Ok        45    .33        87    .31
+  40 125 Pottawatomie             Ok        44    .32        94    .33
+  40 079 Le Flore                 Ok        44    .32        88    .31
+  40 135 Sequoyah                 Ok        44    .32        84    .30
+  48 085 Collin                   Tx        43    .31       108    .38
+  40 123 Pontotoc                 Ok        43    .31        75    .27
+  08 005 Arapahoe                 Co        42    .30        97    .34
+  27 053 Hennepin                 Mn        42    .30        86    .31
+  48 121 Denton                   Tx        41    .30        87    .31
+  40 035 Craig                    Ok        41    .30        71    .25
+  47 037 Davidson                 Tn        37    .27        64    .23
+  35 001 Bernalillo               NM        36    .26        68    .24
+  53 033 King                     Wa        35    .25        81    .29
+  06 001 Alameda                  Ca        35    .25        64    .23
+  06 065 Riverside                Ca        34    .25        70    .25
+  48 303 Lubbock                  Tx        33    .24        84    .30
+  06 085 Santa Clara              Ca        31    .22        56    .20
+  06 111 Ventura                  Ca        31    .22        62    .22
+  20 125 Montgomery               Ks        30    .22        57    .20
+  06 029 Kern                     Ca        30    .22        90    .32
+  08 059 Jefferson                Co        30    .22        57    .20
+  40 105 Nowata                   Ok        29    .21        55    .20
+  40 013 Bryan                    Ok        28    .20        54    .19
+  51 810 Virginia Beach city      Va        28    .20        59    .21
+  31 055 Douglas                  Ne        28    .20        49    .17
+  48 141 El Paso                  Tx        27    .20        61    .22
+  40 081 Lincoln                  Ok        27    .20        51    .18
+  48 027 Bell                     Tx        27    .20        54    .19
+  12 095 Orange                   Fl        27    .20        41    .15
+  13 089 De Kalb                  Ga        26    .19        40    .14
+  12 103 Pinellas                 Fl        26    .19        45    .16
+  08 041 El Paso                  Co        26    .19        58    .21
+  15 003 Honolulu                 Hi        26    .19        62    .22
+  17 043 Du Page                  Il        26    .19        72    .26
+  12 057 Hillsborough             Fl        26    .19        59    .21
+  48 485 Wichita                  Tx        25    .18        52    .18
+  08 001 Adams                    Co        25    .18        54    .19
+  19 153 Polk                     Ia        25    .18        58    .21
+  18 097 Marion                   In        25    .18        50    .18
+  48 245 Jefferson                Tx        25    .18        52    .18
+  40 133 Seminole                 Ok        25    .18        41    .15
+  22 033 East Baton Rouge         La        24    .17        53    .19
+  13 067 Cobb                     Ga        24    .17        58    .21
+  40 019 Carter                   Ok        23    .17        57    .20
+  40 039 Custer                   Ok        23    .17        40    .14
+  06 067 Sacramento               Ca        23    .17        41    .15
+  40 083 Logan                    Ok        23    .17        48    .17
+  40 107 Okfuskee                 Ok        22    .16        44    .16
+  29 145 Newton                   Mo        22    .16        41    .15
+  13 135 Gwinnett                 Ga        22    .16        41    .15
+  48 339 Montgomery               Tx        22    .16        43    .15
+  24 031 Montgomery               Md        22    .16        48    .17
+  40 051 Grady                    Ok        22    .16        47    .17
+  53 061 Snohomish                Wa        22    .16        61    .22
+  36 061 New York                 NY        22    .16        32    .11
+  29 183 St. Charles              Mo        21    .15        42    .15
+  40 001 Adair                    Ok        21    .15        39    .14
+  29 047 Clay                     Mo        20    .14        43    .15
+  40 089 McCurtain                Ok        20    .14        51    .18
+  53 053 Pierce                   Wa        20    .14        52    .18
+  20 177 Shawnee                  Ks        19    .14        34    .12
+  12 031 Duval                    Fl        19    .14        43    .15
+  37 119 Mecklenburg              NC        19    .14        42    .15
+  06 013 Contra Costa             Ca        19    .14        40    .14
+  20 037 Crawford                 Ks        19    .14        33    .12
+  22 051 Jefferson                La        19    .14        44    .16
+  22 017 Caddo                    La        18    .13        44    .16
+  48 375 Potter                   Tx        18    .13        35    .12
+  08 013 Boulder                  Co        18    .13        28    .10
+  08 031 Denver                   Co        18    .13        27    .10
+  36 081 Queens                   NY        18    .13        30    .11
+  12 071 Lee                      Fl        18    .13        37    .13
+  29 019 Boone                    Mo        17    .12        36    .13
+  35 045 San Juan                 NM        17    .12        37    .13
+  40 137 Stephens                 Ok        17    .12        36    .13
+  06 053 Monterey                 Ca        17    .12        43    .15
+  48 381 Randall                  Tx        17    .12        31    .11
+  48 183 Gregg                    Tx        17    .12        31    .11
+  26 163 Wayne                    Mi        17    .12        29    .10
+  36 103 Suffolk                  NY        17    .12        39    .14
+  20 045 Douglas                  Ks        17    .12        23    .08
+  39 035 Cuyahoga                 Oh        17    .12        37    .13
+  48 181 Grayson                  Tx        17    .12        37    .13
+  05 033 Crawford                 Ar        17    .12        35    .12
+  12 099 Palm Beach               Fl        17    .12        40    .14
+  40 061 Haskell                  Ok        16    .12        39    .14
+  42 003 Allegheny                Pa        16    .12        27    .10
+  48 157 Fort Bend                Tx        16    .12        37    .13
+  37 081 Guilford                 NC        16    .12        27    .10
+  04 019 Pima                     Az        16    .12        37    .13
+  09 001 Fairfield                Ct        16    .12        38    .14
+  48 039 Brazoria                 Tx        16    .12        46    .16
+  36 059 Nassau                   NY        16    .12        25    .09
+  48 329 Midland                  Tx        16    .12        35    .12
+  22 019 Calcasieu                La        15    .11        46    .16
+  48 167 Galveston                Tx        15    .11        34    .12
+  48 355 Nueces                   Tx        15    .11        36    .13
+  49 035 Salt Lake                Ut        15    .11        38    .14
+  48 441 Taylor                   Tx        15    .11        35    .12
+  11 001 Wash.,D.C.               DC        15    .11        22    .08
+  13 121 Fulton                   Ga        15    .11        28    .10
+  26 125 Oakland                  Mi        15    .11        28    .10
+  29 510 St. Louis city           Mo        15    .11        32    .11
+  20 021 Cherokee                 Ks        15    .11        24    .09
+  24 033 Prince George's          Md        14    .10        32    .11
+  20 209 Wyandotte                Ks        14    .10        26    .09
+  20 155 Reno                     Ks        14    .10        32    .11
+  37 051 Cumberland               NC        14    .10        32    .11
+  39 061 Hamilton                 Oh        14    .10        30    .11
+  48 309 McLennan                 Tx        14    .10        31    .11
+  17 119 Madison                  Il        14    .10        24    .09
+  51 059 Fairfax                  Va        14    .10        32    .11
+  40 063 Hughes                   Ok        14    .10        33    .12
+  17 097 Lake                     Il        13    .09        24    .09
+  25 017 Middlesex                Ma        13    .09        27    .10
+  20 035 Cowley                   Ks        13    .09        27    .10
+  20 099 Labette                  Ks        13    .09        19    .07
+  26 099 Macomb                   Mi        13    .09        24    .09
+  41 051 Multnomah                Or        13    .09        23    .08
+  09 009 New Haven                Ct        13    .09        26    .09
+  48 277 Lamar                    Tx        12    .09        21    .07
+  48 215 Hidalgo                  Tx        12    .09        29    .10
+  36 029 Erie                     NY        12    .09        28    .10
+  42 101 Philadelphia             Pa        12    .09        24    .09
+  48 135 Ector                    Tx        12    .09        32    .11
+  37 067 Forsyth                  NC        12    .09        25    .09
+  06 083 Santa Barbara            Ca        12    .09        19    .07
+  21 111 Jefferson                Ky        12    .09        24    .09
+  09 003 Hartford                 Ct        12    .09        18    .06
+  06 077 San Joaquin              Ca        12    .09        20    .07
+  34 013 Essex                    NJ        12    .09        22    .08
+  48 037 Bowie                    Tx        12    .09        23    .08
+  55 079 Milwaukee                Wi        12    .09        29    .10
+  01 073 Jefferson                Al        12    .09        25    .09
+  47 065 Hamilton                 Tn        11    .08        22    .08
+  06 075 San Francisco            Ca        11    .08        16    .06
+  12 127 Volusia                  Fl        11    .08        19    .07
+  31 109 Lancaster                Ne        11    .08        19    .07
+  06 095 Solano                   Ca        11    .08        22    .08
+  29 119 McDonald                 Mo        11    .08        22    .08
+  06 019 Fresno                   Ca        11    .08        21    .07
+  01 097 Mobile                   Al        11    .08        27    .10
+  55 025 Dane                     Wi        11    .08        15    .05
+  04 015 Mohave                   Az        11    .08        22    .08
+  24 510 Baltimore city           Md        11    .08        17    .06
+  26 049 Genesee                  Mi        11    .08        32    .11
+  39 049 Franklin                 Oh        11    .08        23    .08
+  12 115 Sarasota                 Fl        11    .08        15    .05
+  48 041 Brazos                   Tx        11    .08        17    .06
+  29 021 Buchanan                 Mo        11    .08        20    .07
+  29 071 Franklin                 Mo        11    .08        36    .13
+  29 037 Cass                     Mo        10    .07        22    .08
+  32 031 Washoe                   Nv        10    .07        21    .07
+  20 161 Riley                    Ks        10    .07        22    .08
+  25 027 Worcester                Ma        10    .07        21    .07
+  22 071 Orleans                  La        10    .07        23    .08
+  19 113 Linn                     Ia        10    .07        20    .07
+  40 015 Caddo                    Ok        10    .07        28    .10
+  48 423 Smith                    Tx        10    .07        27    .10
+  06 099 Stanislaus               Ca        10    .07        27    .10
+  12 009 Brevard                  Fl        10    .07        22    .08
+  45 045 Greenville               SC        10    .07        28    .10
+  12 105 Polk                     Fl        10    .07        20    .07
+  40 049 Garvin                   Ok        10    .07        18    .06
+  05 051 Garland                  Ar        10    .07        16    .06
+  12 021 Collier                  Fl        10    .07        27    .10
+  35 025 Lea                      NM        10    .07        24    .09
+  12 117 Seminole                 Fl        10    .07        20    .07
+   Same State                              145   1.05       322   1.14
+   Region 1:   Northeast                   371   2.68       691   2.46
+   Region 2:   Midwest                     954   6.90      1833   6.52
+   Region 3:   South                      1120   8.09      2427   8.63
+   Region 4:   West                        358   2.59       723   2.57
+      40 143   County Non-Migrants      172694           387109
+40 145   Wagoner Total Migration  Ok      1639             3874
+  40 143 Tulsa                    Ok       783  47.77      1847  47.68
+  40 101 Muskogee                 Ok       126   7.69       292   7.54
+  40 131 Rogers                   Ok        51   3.11       140   3.61
+  40 021 Cherokee                 Ok        36   2.20        73   1.88
+  40 097 Mayes                    Ok        24   1.46        58   1.50
+  40 037 Creek                    Ok        21   1.28        47   1.21
+  40 113 Osage                    Ok        12    .73        19    .49
+  40 091 McIntosh                 Ok        12    .73        36    .93
+  40 109 Oklahoma                 Ok        11    .67        24    .62
+  40 111 Okmulgee                 Ok        11    .67        19    .49
+  48 113 Dallas                   Tx        11    .67        21    .54
+  57 005 APO / FPO Zip Code       FR        10    .61        19    .49
+  40 027 Cleveland                Ok        10    .61        16    .41
+   Same State                              107   6.53       265   6.84
+   Region 1:   Northeast                    23   1.40        53   1.37
+   Region 2:   Midwest                     104   6.35       246   6.35
+   Region 3:   South                       196  11.96       490  12.65
+   Region 4:   West                         91   5.55       209   5.39
+      40 145   County Non-Migrants       12643            32075
+40 147   Washington Total Migrati Ok      1076             2418
+  40 143 Tulsa                    Ok       130  12.08       300  12.41
+  40 113 Osage                    Ok        80   7.43       183   7.57
+  40 105 Nowata                   Ok        63   5.86       145   6.00
+  40 109 Oklahoma                 Ok        36   3.35        67   2.77
+  20 125 Montgomery               Ks        34   3.16        78   3.23
+  48 201 Harris                   Tx        22   2.04        56   2.32
+  48 113 Dallas                   Tx        18   1.67        28   1.16
+  40 131 Rogers                   Ok        18   1.67        40   1.65
+  40 119 Payne                    Ok        17   1.58        38   1.57
+  40 027 Cleveland                Ok        16   1.49        30   1.24
+  04 013 Maricopa                 Az        11   1.02        19    .79
+  06 037 Los Angeles              Ca        11   1.02        21    .87
+  48 439 Tarrant                  Tx        11   1.02        29   1.20
+  57 001 Foreign / Overseas       FR        11   1.02        33   1.36
+  57 005 APO / FPO Zip Code       FR        11   1.02        23    .95
+  20 091 Johnson                  Ks        10    .93        28   1.16
+  20 173 Sedgwick                 Ks        10    .93        13    .54
+   Same State                              113  10.50       248  10.26
+   Region 1:   Northeast                    20   1.86        53   2.19
+   Region 2:   Midwest                     146  13.57       322  13.32
+   Region 3:   South                       183  17.01       416  17.20
+   Region 4:   West                        105   9.76       248  10.26
+      40 147   County Non-Migrants       16567            39246
+40 149   Washita Total Migration  Ok       257              654
+  40 039 Custer                   Ok        64  24.90       162  24.77
+  40 009 Beckham                  Ok        28  10.89        75  11.47
+  40 109 Oklahoma                 Ok        15   5.84        31   4.74
+   Same State                               61  23.74       150  22.94
+   Region 2:   Midwest                      23   8.95        56   8.56
+   Region 3:   South                        36  14.01        99  15.14
+   Region 4:   West                         30  11.67        81  12.39
+      40 149   County Non-Migrants        3407             8118
+40 151   Woods Total Migration Fl Ok       237              525
+  40 153 Woodward                 Ok        19   8.02        38   7.24
+  40 003 Alfalfa                  Ok        14   5.91        33   6.29
+  40 047 Garfield                 Ok        13   5.49        21   4.00
+   Same State                               91  38.40       208  39.62
+   Same Region, Diff. State                 33  13.92        74  14.10
+   Different Region                         67  28.27       151  28.76
+      40 151   County Non-Migrants        3078             6620
+40 153   Woodward Total Migration Ok       439             1053
+  40 109 Oklahoma                 Ok        38   8.66        75   7.12
+  40 045 Ellis                    Ok        23   5.24        53   5.03
+  40 151 Woods                    Ok        20   4.56        43   4.08
+  40 027 Cleveland                Ok        16   3.64        27   2.56
+  40 059 Harper                   Ok        14   3.19        42   3.99
+  40 043 Dewey                    Ok        14   3.19        24   2.28
+  40 047 Garfield                 Ok        12   2.73        34   3.23
+  40 139 Texas                    Ok        12   2.73        34   3.23
+  40 007 Beaver                   Ok        11   2.51        28   2.66
+  40 119 Payne                    Ok        10   2.28        27   2.56
+   Same State                               82  18.68       202  19.18
+   Same Region, Diff. State                 82  18.68       206  19.56
+   Different Region                        105  23.92       258  24.50
+      40 153   County Non-Migrants        5891            14403

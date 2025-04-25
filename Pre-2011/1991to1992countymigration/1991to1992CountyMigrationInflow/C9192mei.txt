@@ -1,0 +1,449 @@
+23 001   Androscoggin Total Migra Me      1757             3313
+  23 005 Cumberland               Me       376  21.40       707  21.34
+  23 017 Oxford                   Me       180  10.24       315   9.51
+  23 011 Kennebec                 Me       159   9.05       278   8.39
+  23 023 Sagadahoc                Me        99   5.63       195   5.89
+  23 007 Franklin                 Me        91   5.18       174   5.25
+  23 019 Penobscot                Me        52   2.96        83   2.51
+  23 031 York                     Me        50   2.85        95   2.87
+  57 005 APO / FPO Zip Code       FR        34   1.94        72   2.17
+  25 017 Middlesex                Ma        25   1.42        32    .97
+  23 003 Aroostook                Me        21   1.20        29    .88
+  09 003 Hartford                 Ct        17    .97        27    .81
+  25 025 Suffolk                  Ma        15    .85        27    .81
+  23 029 Washington               Me        14    .80        31    .94
+  23 015 Lincoln                  Me        13    .74        24    .72
+  25 009 Essex                    Ma        13    .74        24    .72
+  25 027 Worcester                Ma        12    .68        21    .63
+  23 027 Waldo                    Me        10    .57        18    .54
+  33 015 Rockingham               NH        10    .57        16    .48
+   Same State                               21   1.20        32    .97
+   Region 1:   Northeast                   222  12.64       429  12.95
+   Region 2:   Midwest                      48   2.73       100   3.02
+   Region 3:   South                       194  11.04       413  12.47
+   Region 4:   West                         81   4.61       171   5.16
+      23 001   County Non-Migrants       35569            79166
+23 003   Aroostook Total Migratio Me      1530             3143
+  57 005 APO / FPO Zip Code       FR       183  11.96       480  15.27
+  23 019 Penobscot                Me       107   6.99       219   6.97
+  23 005 Cumberland               Me        77   5.03       125   3.98
+  09 003 Hartford                 Ct        66   4.31       121   3.85
+  23 029 Washington               Me        42   2.75        88   2.80
+  23 031 York                     Me        29   1.90        56   1.78
+  09 009 New Haven                Ct        28   1.83        47   1.50
+  23 001 Androscoggin             Me        28   1.83        72   2.29
+  23 011 Kennebec                 Me        22   1.44        34   1.08
+  25 017 Middlesex                Ma        22   1.44        44   1.40
+  33 015 Rockingham               NH        22   1.44        53   1.69
+  25 027 Worcester                Ma        18   1.18        41   1.30
+  57 001 Foreign / Overseas       FR        16   1.05        33   1.05
+  33 011 Hillsborough             NH        14    .92        31    .99
+  04 013 Maricopa                 Az        11    .72        25    .80
+  09 005 Litchfield               Ct        10    .65        18    .57
+  06 067 Sacramento               Ca        10    .65        23    .73
+   Same State                               56   3.66       112   3.56
+   Region 1:   Northeast                   271  17.71       496  15.78
+   Region 2:   Midwest                     116   7.58       215   6.84
+   Region 3:   South                       247  16.14       530  16.86
+   Region 4:   West                        135   8.82       280   8.91
+      23 003   County Non-Migrants       28455            66770
+23 005   Cumberland Total Migrati Me      6240            10910
+  23 031 York                     Me       944  15.13      1660  15.22
+  23 023 Sagadahoc                Me       414   6.63       754   6.91
+  23 001 Androscoggin             Me       402   6.44       739   6.77
+  23 019 Penobscot                Me       255   4.09       377   3.46
+  23 011 Kennebec                 Me       226   3.62       331   3.03
+  25 017 Middlesex                Ma       180   2.88       284   2.60
+  23 017 Oxford                   Me       164   2.63       327   3.00
+  57 005 APO / FPO Zip Code       FR       141   2.26       243   2.23
+  23 015 Lincoln                  Me        91   1.46       143   1.31
+  23 003 Aroostook                Me        91   1.46       129   1.18
+  25 025 Suffolk                  Ma        85   1.36       129   1.18
+  25 009 Essex                    Ma        85   1.36       144   1.32
+  33 015 Rockingham               NH        84   1.35       142   1.30
+  23 013 Knox                     Me        73   1.17       118   1.08
+  23 025 Somerset                 Me        66   1.06       107    .98
+  33 011 Hillsborough             NH        64   1.03        99    .91
+  09 003 Hartford                 Ct        62    .99       106    .97
+  25 021 Norfolk                  Ma        60    .96        94    .86
+  57 001 Foreign / Overseas       FR        51    .82        82    .75
+  25 027 Worcester                Ma        50    .80        83    .76
+  23 007 Franklin                 Me        49    .79        62    .57
+  09 001 Fairfield                Ct        48    .77        88    .81
+  12 031 Duval                    Fl        45    .72        79    .72
+  23 009 Hancock                  Me        43    .69        64    .59
+  09 009 New Haven                Ct        37    .59        58    .53
+  06 073 San Diego                Ca        36    .58        69    .63
+  36 061 New York                 NY        36    .58        49    .45
+  51 810 Virginia Beach city      Va        35    .56       102    .93
+  06 037 Los Angeles              Ca        35    .56        46    .42
+  44 007 Providence               RI        35    .56        62    .57
+  23 027 Waldo                    Me        35    .56        55    .50
+  25 013 Hampden                  Ma        33    .53        61    .56
+  50 007 Chittenden               Vt        32    .51        48    .44
+  33 003 Carroll                  NH        32    .51        44    .40
+  23 029 Washington               Me        32    .51        64    .59
+  25 023 Plymouth                 Ma        30    .48        55    .50
+  33 013 Merrimack                NH        29    .46        47    .43
+  33 017 Strafford                NH        27    .43        48    .44
+  25 005 Bristol                  Ma        27    .43        43    .39
+  51 059 Fairfax                  Va        26    .42        67    .61
+  11 001 Wash.,D.C.               DC        24    .38        32    .29
+  12 103 Pinellas                 Fl        24    .38        30    .27
+  09 011 New London               Ct        24    .38        50    .46
+  12 011 Broward                  Fl        23    .37        36    .33
+  17 031 Cook                     Il        22    .35        40    .37
+  15 003 Honolulu                 Hi        20    .32        51    .47
+  33 009 Grafton                  NH        20    .32        33    .30
+  36 047 Kings                    NY        19    .30        30    .27
+  12 099 Palm Beach               Fl        19    .30        31    .28
+  25 001 Barnstable               Ma        19    .30        36    .33
+  04 013 Maricopa                 Az        18    .29        33    .30
+  06 075 San Francisco            Ca        18    .29        25    .23
+  42 101 Philadelphia             Pa        18    .29        34    .31
+  24 031 Montgomery               Md        18    .29        44    .40
+  12 095 Orange                   Fl        17    .27        34    .31
+  12 033 Escambia                 Fl        16    .26        41    .38
+  51 710 Norfolk city             Va        16    .26        49    .45
+  36 103 Suffolk                  NY        16    .26        22    .20
+  25 015 Hampshire                Ma        16    .26        25    .23
+  29 189 St. Louis                Mo        16    .26        25    .23
+  44 005 Newport                  RI        15    .24        29    .27
+  12 127 Volusia                  Fl        14    .22        23    .21
+  53 033 King                     Wa        14    .22        19    .17
+  33 001 Belknap                  NH        13    .21        14    .13
+  48 113 Dallas                   Tx        13    .21        20    .18
+  09 007 Middlesex                Ct        13    .21        18    .16
+  33 005 Cheshire                 NH        13    .21        22    .20
+  39 049 Franklin                 Oh        12    .19        17    .16
+  36 059 Nassau                   NY        12    .19        15    .14
+  04 019 Pima                     Az        12    .19        26    .24
+  42 017 Bucks                    Pa        12    .19        34    .31
+  09 005 Litchfield               Ct        11    .18        15    .14
+  48 201 Harris                   Tx        11    .18        28    .26
+  36 119 Westchester              NY        11    .18        22    .20
+  47 157 Shelby                   Tn        11    .18        26    .24
+  24 003 Anne Arundel             Md        11    .18        22    .20
+  51 013 Arlington                Va        11    .18        15    .14
+  34 027 Morris                   NJ        11    .18        17    .16
+  27 053 Hennepin                 Mn        11    .18        16    .15
+  12 115 Sarasota                 Fl        11    .18        13    .12
+  33 007 Coos                     NH        10    .16        17    .16
+  42 003 Allegheny                Pa        10    .16        16    .15
+  12 057 Hillsborough             Fl        10    .16        20    .18
+  36 087 Rockland                 NY        10    .16        19    .17
+  06 059 Orange                   Ca        10    .16        17    .16
+  36 081 Queens                   NY        10    .16        16    .15
+  24 037 St. Mary's               Md        10    .16        19    .17
+  32 003 Clark                    Nv        10    .16        11    .10
+  12 019 Clay                     Fl        10    .16        23    .21
+   All Migration Flows                    1235  19.79      2338  21.43
+      23 005   County Non-Migrants       91777           192794
+23 007   Franklin Total Migration Me       608             1159
+  23 001 Androscoggin             Me       100  16.45       192  16.57
+  23 011 Kennebec                 Me        59   9.70       104   8.97
+  23 017 Oxford                   Me        53   8.72       128  11.04
+  23 005 Cumberland               Me        52   8.55        81   6.99
+  23 025 Somerset                 Me        51   8.39        90   7.77
+  23 019 Penobscot                Me        22   3.62        39   3.36
+  23 031 York                     Me        12   1.97        17   1.47
+  25 017 Middlesex                Ma        11   1.81        19   1.64
+   Same State                               35   5.76        55   4.75
+   Region 1:   Northeast                   132  21.71       251  21.66
+   Region 2:   Midwest                      10   1.64        20   1.73
+   Region 3:   South                        44   7.24       101   8.71
+   Region 4:   West                         27   4.44        62   5.35
+      23 007   County Non-Migrants        9883            22753
+23 009   Hancock Total Migration  Me      1234             2378
+  23 019 Penobscot                Me       226  18.31       422  17.75
+  23 005 Cumberland               Me        52   4.21        89   3.74
+  57 005 APO / FPO Zip Code       FR        50   4.05       118   4.96
+  23 029 Washington               Me        45   3.65        96   4.04
+  23 027 Waldo                    Me        36   2.92        71   2.99
+  25 017 Middlesex                Ma        25   2.03        44   1.85
+  23 031 York                     Me        24   1.94        46   1.93
+  23 011 Kennebec                 Me        22   1.78        47   1.98
+  23 003 Aroostook                Me        20   1.62        43   1.81
+  09 009 New Haven                Ct        18   1.46        32   1.35
+  12 099 Palm Beach               Fl        18   1.46        24   1.01
+  12 033 Escambia                 Fl        15   1.22        34   1.43
+  09 003 Hartford                 Ct        15   1.22        30   1.26
+  36 061 New York                 NY        13   1.05        15    .63
+  23 015 Lincoln                  Me        12    .97        25   1.05
+  25 027 Worcester                Ma        12    .97        24   1.01
+  23 013 Knox                     Me        11    .89        16    .67
+  25 009 Essex                    Ma        11    .89        24   1.01
+  33 015 Rockingham               NH        10    .81        19    .80
+   Same State                               35   2.84        73   3.07
+   Region 1:   Northeast                   236  19.12       448  18.84
+   Region 2:   Midwest                      61   4.94       103   4.33
+   Region 3:   South                       159  12.88       325  13.67
+   Region 4:   West                         96   7.78       188   7.91
+   Foreign                                  12    .97        22    .93
+      23 009   County Non-Migrants       17436            38033
+23 011   Kennebec Total Migration Me      2079             3954
+  23 025 Somerset                 Me       325  15.63       649  16.41
+  23 001 Androscoggin             Me       235  11.30       464  11.73
+  23 005 Cumberland               Me       179   8.61       290   7.33
+  23 019 Penobscot                Me        94   4.52       157   3.97
+  23 023 Sagadahoc                Me        93   4.47       192   4.86
+  23 015 Lincoln                  Me        80   3.85       153   3.87
+  23 027 Waldo                    Me        60   2.89       128   3.24
+  23 007 Franklin                 Me        56   2.69       129   3.26
+  23 031 York                     Me        51   2.45        82   2.07
+  23 003 Aroostook                Me        39   1.88        77   1.95
+  25 017 Middlesex                Ma        37   1.78        68   1.72
+  23 013 Knox                     Me        34   1.64        57   1.44
+  57 005 APO / FPO Zip Code       FR        33   1.59        54   1.37
+  23 017 Oxford                   Me        24   1.15        44   1.11
+  33 011 Hillsborough             NH        24   1.15        49   1.24
+  25 009 Essex                    Ma        21   1.01        36    .91
+  09 003 Hartford                 Ct        20    .96        29    .73
+  25 027 Worcester                Ma        19    .91        38    .96
+  33 015 Rockingham               NH        16    .77        32    .81
+  12 103 Pinellas                 Fl        15    .72        30    .76
+  25 025 Suffolk                  Ma        13    .63        18    .46
+  50 007 Chittenden               Vt        13    .63        37    .94
+  23 009 Hancock                  Me        12    .58        16    .40
+  06 073 San Diego                Ca        11    .53        13    .33
+  25 021 Norfolk                  Ma        10    .48        18    .46
+  51 059 Fairfax                  Va        10    .48        16    .40
+  06 037 Los Angeles              Ca        10    .48        18    .46
+   Same State                               14    .67        17    .43
+   Region 1:   Northeast                   226  10.87       419  10.60
+   Region 2:   Midwest                      51   2.45        98   2.48
+   Region 3:   South                       180   8.66       386   9.76
+   Region 4:   West                         74   3.56       140   3.54
+      23 011   County Non-Migrants       41547            92817
+23 013   Knox Total Migration Flo Me       755             1414
+  23 015 Lincoln                  Me        85  11.26       163  11.53
+  23 027 Waldo                    Me        58   7.68        97   6.86
+  23 019 Penobscot                Me        46   6.09        75   5.30
+  23 005 Cumberland               Me        45   5.96        91   6.44
+  23 011 Kennebec                 Me        34   4.50        69   4.88
+  25 017 Middlesex                Ma        23   3.05        48   3.39
+  23 009 Hancock                  Me        16   2.12        36   2.55
+  23 001 Androscoggin             Me        16   2.12        25   1.77
+  25 009 Essex                    Ma        14   1.85        28   1.98
+  23 031 York                     Me        14   1.85        29   2.05
+  57 005 APO / FPO Zip Code       FR        12   1.59        21   1.49
+  09 003 Hartford                 Ct        11   1.46        20   1.41
+  23 023 Sagadahoc                Me        11   1.46        16   1.13
+  25 025 Suffolk                  Ma        10   1.32        17   1.20
+  25 021 Norfolk                  Ma        10   1.32        20   1.41
+   Same State                               22   2.91        42   2.97
+   Region 1:   Northeast                   159  21.06       296  20.93
+   Region 2:   Midwest                      31   4.11        68   4.81
+   Region 3:   South                        94  12.45       182  12.87
+   Region 4:   West                         44   5.83        71   5.02
+      23 013   County Non-Migrants       13269            28855
+23 015   Lincoln Total Migration  Me       717             1384
+  23 011 Kennebec                 Me       111  15.48       226  16.33
+  23 023 Sagadahoc                Me        79  11.02       180  13.01
+  23 005 Cumberland               Me        69   9.62       110   7.95
+  23 013 Knox                     Me        55   7.67       123   8.89
+  25 017 Middlesex                Ma        25   3.49        58   4.19
+  23 019 Penobscot                Me        24   3.35        30   2.17
+  23 031 York                     Me        19   2.65        42   3.03
+  23 027 Waldo                    Me        16   2.23        33   2.38
+  23 001 Androscoggin             Me        11   1.53        20   1.45
+  25 009 Essex                    Ma        10   1.39        19   1.37
+   Same State                               28   3.91        60   4.34
+   Region 1:   Northeast                   142  19.80       238  17.20
+   Region 2:   Midwest                      22   3.07        36   2.60
+   Region 3:   South                        66   9.21       121   8.74
+   Region 4:   West                         40   5.58        88   6.36
+      23 015   County Non-Migrants       11304            25145
+23 017   Oxford Total Migration F Me      1033             2031
+  23 001 Androscoggin             Me       201  19.46       407  20.04
+  23 005 Cumberland               Me       173  16.75       317  15.61
+  23 031 York                     Me        70   6.78       141   6.94
+  33 003 Carroll                  NH        49   4.74       112   5.51
+  23 007 Franklin                 Me        47   4.55        96   4.73
+  23 011 Kennebec                 Me        25   2.42        49   2.41
+  23 019 Penobscot                Me        23   2.23        32   1.58
+  25 009 Essex                    Ma        20   1.94        42   2.07
+  25 017 Middlesex                Ma        20   1.94        50   2.46
+  57 005 APO / FPO Zip Code       FR        16   1.55        34   1.67
+  23 023 Sagadahoc                Me        13   1.26        24   1.18
+  33 015 Rockingham               NH        10    .97        15    .74
+  25 005 Bristol                  Ma        10    .97        16    .79
+   Same State                               43   4.16        85   4.19
+   Region 1:   Northeast                   155  15.00       285  14.03
+   Region 2:   Midwest                      26   2.52        69   3.40
+   Region 3:   South                        82   7.94       165   8.12
+   Region 4:   West                         50   4.84        92   4.53
+      23 017   County Non-Migrants       17730            40172
+23 019   Penobscot Total Migratio Me      2600             4705
+  23 009 Hancock                  Me       234   9.00       446   9.48
+  23 003 Aroostook                Me       179   6.88       318   6.76
+  23 005 Cumberland               Me       148   5.69       266   5.65
+  23 027 Waldo                    Me       136   5.23       223   4.74
+  23 025 Somerset                 Me       122   4.69       230   4.89
+  23 021 Piscataquis              Me       116   4.46       245   5.21
+  23 011 Kennebec                 Me       115   4.42       187   3.97
+  57 001 Foreign / Overseas       FR        90   3.46        95   2.02
+  23 029 Washington               Me        79   3.04       132   2.81
+  23 031 York                     Me        65   2.50       102   2.17
+  23 001 Androscoggin             Me        58   2.23       106   2.25
+  57 005 APO / FPO Zip Code       FR        49   1.88       102   2.17
+  25 017 Middlesex                Ma        37   1.42        55   1.17
+  09 003 Hartford                 Ct        30   1.15        46    .98
+  23 007 Franklin                 Me        29   1.12        51   1.08
+  09 009 New Haven                Ct        28   1.08        55   1.17
+  33 011 Hillsborough             NH        28   1.08        53   1.13
+  23 017 Oxford                   Me        27   1.04        40    .85
+  33 015 Rockingham               NH        23    .88        33    .70
+  23 013 Knox                     Me        21    .81        36    .77
+  23 015 Lincoln                  Me        21    .81        35    .74
+  25 009 Essex                    Ma        21    .81        37    .79
+  09 011 New London               Ct        18    .69        32    .68
+  25 025 Suffolk                  Ma        16    .62        23    .49
+  25 027 Worcester                Ma        16    .62        28    .60
+  25 021 Norfolk                  Ma        16    .62        31    .66
+  44 007 Providence               RI        15    .58        32    .68
+  12 103 Pinellas                 Fl        15    .58        25    .53
+  23 023 Sagadahoc                Me        14    .54        22    .47
+  33 013 Merrimack                NH        13    .50        28    .60
+  50 007 Chittenden               Vt        12    .46        12    .26
+  33 017 Strafford                NH        12    .46        27    .57
+  09 001 Fairfield                Ct        12    .46        20    .43
+   Region 1:   Northeast                   267  10.27       527  11.20
+   Region 2:   Midwest                     108   4.15       194   4.12
+   Region 3:   South                       285  10.96       570  12.11
+   Region 4:   West                        125   4.81       241   5.12
+      23 019   County Non-Migrants       49086           109947
+23 021   Piscataquis Total Migrat Me       364              750
+  23 019 Penobscot                Me        92  25.27       192  25.60
+  23 025 Somerset                 Me        27   7.42        57   7.60
+  23 005 Cumberland               Me        18   4.95        33   4.40
+  23 031 York                     Me        12   3.30        19   2.53
+   Same State                               41  11.26        87  11.60
+   Same Region, Diff. State                108  29.67       228  30.40
+   Different Region                         66  18.13       134  17.87
+      23 021   County Non-Migrants        6361            14679
+23 023   Sagadahoc Total Migratio Me      1303             2630
+  23 005 Cumberland               Me       393  30.16       747  28.40
+  23 001 Androscoggin             Me        99   7.60       178   6.77
+  23 011 Kennebec                 Me        80   6.14       156   5.93
+  23 015 Lincoln                  Me        70   5.37       144   5.48
+  57 005 APO / FPO Zip Code       FR        60   4.60       133   5.06
+  06 073 San Diego                Ca        29   2.23        54   2.05
+  23 031 York                     Me        22   1.69        41   1.56
+  51 810 Virginia Beach city      Va        21   1.61        70   2.66
+  12 031 Duval                    Fl        19   1.46        59   2.24
+  23 019 Penobscot                Me        16   1.23        24    .91
+  23 013 Knox                     Me        12    .92        25    .95
+  51 710 Norfolk city             Va        10    .77        29   1.10
+   Same State                               32   2.46        55   2.09
+   Region 1:   Northeast                   166  12.74       335  12.74
+   Region 2:   Midwest                      46   3.53        85   3.23
+   Region 3:   South                       174  13.35       382  14.52
+   Region 4:   West                         54   4.14       113   4.30
+      23 023   County Non-Migrants       11091            25694
+23 025   Somerset Total Migration Me      1006             2012
+  23 011 Kennebec                 Me       341  33.90       677  33.65
+  23 019 Penobscot                Me       149  14.81       293  14.56
+  23 005 Cumberland               Me        39   3.88        72   3.58
+  23 007 Franklin                 Me        33   3.28        64   3.18
+  23 027 Waldo                    Me        28   2.78        55   2.73
+  23 021 Piscataquis              Me        28   2.78        54   2.68
+  23 031 York                     Me        19   1.89        41   2.04
+  23 001 Androscoggin             Me        18   1.79        38   1.89
+  57 005 APO / FPO Zip Code       FR        17   1.69        26   1.29
+  25 017 Middlesex                Ma        17   1.69        23   1.14
+  23 003 Aroostook                Me        13   1.29        30   1.49
+  25 021 Norfolk                  Ma        10    .99        20    .99
+   Same State                               33   3.28        65   3.23
+   Region 1:   Northeast                   136  13.52       305  15.16
+   Region 2:   Midwest                      19   1.89        36   1.79
+   Region 3:   South                        76   7.55       140   6.96
+   Region 4:   West                         30   2.98        73   3.63
+      23 025   County Non-Migrants       16312            37903
+23 027   Waldo Total Migration Fl Me       734             1440
+  23 019 Penobscot                Me       143  19.48       291  20.21
+  23 011 Kennebec                 Me        78  10.63       152  10.56
+  23 013 Knox                     Me        70   9.54       135   9.38
+  23 005 Cumberland               Me        32   4.36        54   3.75
+  23 009 Hancock                  Me        32   4.36        61   4.24
+  23 025 Somerset                 Me        26   3.54        65   4.51
+  25 017 Middlesex                Ma        13   1.77        23   1.60
+  23 029 Washington               Me        11   1.50        22   1.53
+  09 009 New Haven                Ct        11   1.50        22   1.53
+  23 003 Aroostook                Me        11   1.50        22   1.53
+  23 015 Lincoln                  Me        10   1.36        22   1.53
+   Same State                               26   3.54        51   3.54
+   Region 1:   Northeast                   156  21.25       291  20.21
+   Region 2:   Midwest                      24   3.27        53   3.68
+   Region 3:   South                        53   7.22        98   6.81
+   Region 4:   West                         38   5.18        78   5.42
+      23 027   County Non-Migrants       10847            24965
+23 029   Washington Total Migrati Me       656             1355
+  23 019 Penobscot                Me        76  11.59       161  11.88
+  23 009 Hancock                  Me        45   6.86        91   6.72
+  23 003 Aroostook                Me        37   5.64        71   5.24
+  23 005 Cumberland               Me        28   4.27        61   4.50
+  57 005 APO / FPO Zip Code       FR        22   3.35        36   2.66
+  57 001 Foreign / Overseas       FR        13   1.98        29   2.14
+  25 017 Middlesex                Ma        13   1.98        20   1.48
+  23 011 Kennebec                 Me        13   1.98        19   1.40
+  23 031 York                     Me        13   1.98        26   1.92
+  25 027 Worcester                Ma        10   1.52        28   2.07
+   Same State                               48   7.32        92   6.79
+   Region 1:   Northeast                   166  25.30       319  23.54
+   Region 2:   Midwest                      27   4.12        62   4.58
+   Region 3:   South                       102  15.55       224  16.53
+   Region 4:   West                         43   6.55       116   8.56
+      23 029   County Non-Migrants       11642            26331
+23 031   York Total Migration Flo Me      3853             7280
+  23 005 Cumberland               Me       951  24.68      1681  23.09
+  33 017 Strafford                NH       352   9.14       737  10.12
+  33 015 Rockingham               NH       308   7.99       536   7.36
+  25 017 Middlesex                Ma       189   4.91       337   4.63
+  25 009 Essex                    Ma       128   3.32       255   3.50
+  23 001 Androscoggin             Me        76   1.97       137   1.88
+  23 019 Penobscot                Me        74   1.92       142   1.95
+  23 017 Oxford                   Me        72   1.87       147   2.02
+  57 005 APO / FPO Zip Code       FR        53   1.38       113   1.55
+  23 011 Kennebec                 Me        51   1.32        79   1.09
+  33 011 Hillsborough             NH        50   1.30        77   1.06
+  25 027 Worcester                Ma        49   1.27        94   1.29
+  25 025 Suffolk                  Ma        47   1.22        70    .96
+  09 003 Hartford                 Ct        44   1.14        82   1.13
+  25 021 Norfolk                  Ma        39   1.01        67    .92
+  33 003 Carroll                  NH        31    .80        54    .74
+  23 003 Aroostook                Me        31    .80        61    .84
+  33 013 Merrimack                NH        28    .73        54    .74
+  25 013 Hampden                  Ma        26    .67        43    .59
+  09 009 New Haven                Ct        24    .62        52    .71
+  23 023 Sagadahoc                Me        23    .60        36    .49
+  25 005 Bristol                  Ma        22    .57        44    .60
+  23 009 Hancock                  Me        22    .57        33    .45
+  51 810 Virginia Beach city      Va        22    .57        64    .88
+  09 011 New London               Ct        21    .55        57    .78
+  25 023 Plymouth                 Ma        21    .55        46    .63
+  09 001 Fairfield                Ct        21    .55        36    .49
+  23 013 Knox                     Me        17    .44        29    .40
+  06 073 San Diego                Ca        17    .44        35    .48
+  33 001 Belknap                  NH        17    .44        33    .45
+  23 025 Somerset                 Me        16    .42        35    .48
+  12 127 Volusia                  Fl        15    .39        22    .30
+  12 011 Broward                  Fl        14    .36        21    .29
+  12 103 Pinellas                 Fl        14    .36        28    .38
+  06 037 Los Angeles              Ca        14    .36        28    .38
+  50 007 Chittenden               Vt        13    .34        30    .41
+  36 091 Saratoga                 NY        13    .34        22    .30
+  51 710 Norfolk city             Va        13    .34        32    .44
+  04 013 Maricopa                 Az        12    .31        22    .30
+  23 007 Franklin                 Me        12    .31        19    .26
+  23 029 Washington               Me        12    .31        27    .37
+  23 015 Lincoln                  Me        12    .31        23    .32
+  23 027 Waldo                    Me        12    .31        16    .22
+  12 099 Palm Beach               Fl        12    .31        19    .26
+  36 061 New York                 NY        11    .29        21    .29
+  36 103 Suffolk                  NY        11    .29        26    .36
+  44 007 Providence               RI        10    .26        21    .29
+  08 013 Boulder                  Co        10    .26        10    .14
+  51 700 Newport News city        Va        10    .26        28    .38
+   All Migration Flows                     791  20.53      1599  21.96
+      23 031   County Non-Migrants       60998           136563

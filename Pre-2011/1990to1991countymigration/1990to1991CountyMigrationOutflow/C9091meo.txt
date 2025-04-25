@@ -1,0 +1,533 @@
+23 001   Androscoggin Total Migra Me      2427             4727
+  23 005 Cumberland               Me       439  18.09       734  15.53
+  23 011 Kennebec                 Me       297  12.24       620  13.12
+  23 017 Oxford                   Me       208   8.57       434   9.18
+  23 023 Sagadahoc                Me       119   4.90       243   5.14
+  23 007 Franklin                 Me       106   4.37       225   4.76
+  23 031 York                     Me        69   2.84       114   2.41
+  23 019 Penobscot                Me        64   2.64       128   2.71
+  57 001 Foreign / Overseas       FR        40   1.65        67   1.42
+  23 003 Aroostook                Me        26   1.07        59   1.25
+  25 017 Middlesex                Ma        25   1.03        38    .80
+  23 015 Lincoln                  Me        19    .78        28    .59
+  25 025 Suffolk                  Ma        18    .74        18    .38
+  12 103 Pinellas                 Fl        18    .74        40    .85
+  25 009 Essex                    Ma        16    .66        28    .59
+  23 025 Somerset                 Me        16    .66        27    .57
+  23 009 Hancock                  Me        15    .62        26    .55
+  51 810 Virginia Beach city      Va        13    .54        32    .68
+  25 027 Worcester                Ma        13    .54        17    .36
+  23 027 Waldo                    Me        13    .54        38    .80
+  12 031 Duval                    Fl        13    .54        24    .51
+  12 011 Broward                  Fl        13    .54        26    .55
+  04 013 Maricopa                 Az        12    .49        14    .30
+  23 029 Washington               Me        12    .49        28    .59
+  33 015 Rockingham               NH        11    .45        11    .23
+  06 073 San Diego                Ca        11    .45        20    .42
+  23 013 Knox                     Me        11    .45        17    .36
+  48 215 Hidalgo                  Tx        11    .45        28    .59
+  09 003 Hartford                 Ct        10    .41        18    .38
+  12 099 Palm Beach               Fl        10    .41        15    .32
+  12 009 Brevard                  Fl        10    .41        16    .34
+   All Migration Flows                     769  31.69      1594  33.72
+      23 001   County Non-Migrants       35982            79976
+23 003   Aroostook Total Migratio Me      1802             3803
+  23 019 Penobscot                Me       181  10.04       319   8.39
+  57 001 Foreign / Overseas       FR       167   9.27       381  10.02
+  23 005 Cumberland               Me       106   5.88       149   3.92
+  23 031 York                     Me        47   2.61        72   1.89
+  23 011 Kennebec                 Me        46   2.55        73   1.92
+  09 003 Hartford                 Ct        35   1.94        49   1.29
+  23 029 Washington               Me        32   1.78        51   1.34
+  36 065 Oneida                   NY        22   1.22        47   1.24
+  25 017 Middlesex                Ma        21   1.17        37    .97
+  23 001 Androscoggin             Me        21   1.17        37    .97
+  06 047 Merced                   Ca        18   1.00        60   1.58
+  08 041 El Paso                  Co        18   1.00        46   1.21
+  09 009 New Haven                Ct        14    .78        27    .71
+  23 007 Franklin                 Me        12    .67        25    .66
+  33 015 Rockingham               NH        12    .67        19    .50
+  32 003 Clark                    Nv        11    .61        29    .76
+  23 009 Hancock                  Me        11    .61        20    .53
+  09 011 New London               Ct        11    .61        20    .53
+  48 439 Tarrant                  Tx        11    .61        32    .84
+  04 013 Maricopa                 Az        11    .61        24    .63
+  09 005 Litchfield               Ct        11    .61        15    .39
+  23 025 Somerset                 Me        10    .55        26    .68
+  53 063 Spokane                  Wa        10    .55        32    .84
+   Same State                               39   2.16        98   2.58
+   Region 1:   Northeast                   246  13.65       465  12.23
+   Region 2:   Midwest                     170   9.43       452  11.89
+   Region 3:   South                       358  19.87       851  22.38
+   Region 4:   West                        151   8.38       347   9.12
+      23 003   County Non-Migrants       28359            66737
+23 005   Cumberland Total Migrati Me      6906            12322
+  23 031 York                     Me      1060  15.35      1875  15.22
+  23 023 Sagadahoc                Me       438   6.34       861   6.99
+  23 001 Androscoggin             Me       401   5.81       745   6.05
+  23 011 Kennebec                 Me       223   3.23       366   2.97
+  23 019 Penobscot                Me       207   3.00       345   2.80
+  57 001 Foreign / Overseas       FR       177   2.56       313   2.54
+  23 017 Oxford                   Me       146   2.11       265   2.15
+  25 017 Middlesex                Ma       126   1.82       163   1.32
+  25 025 Suffolk                  Ma        92   1.33       103    .84
+  23 015 Lincoln                  Me        88   1.27       157   1.27
+  33 015 Rockingham               NH        80   1.16       124   1.01
+  23 003 Aroostook                Me        71   1.03       121    .98
+  25 009 Essex                    Ma        69   1.00        98    .80
+  23 013 Knox                     Me        68    .98       128   1.04
+  06 037 Los Angeles              Ca        56    .81        88    .71
+  25 021 Norfolk                  Ma        55    .80        91    .74
+  09 003 Hartford                 Ct        54    .78        84    .68
+  23 025 Somerset                 Me        52    .75        92    .75
+  12 031 Duval                    Fl        51    .74       118    .96
+  33 011 Hillsborough             NH        50    .72        64    .52
+  12 103 Pinellas                 Fl        50    .72        80    .65
+  23 007 Franklin                 Me        49    .71        70    .57
+  23 009 Hancock                  Me        45    .65        75    .61
+  06 073 San Diego                Ca        42    .61        92    .75
+  12 099 Palm Beach               Fl        40    .58        70    .57
+  36 061 New York                 NY        38    .55        49    .40
+  33 017 Strafford                NH        38    .55        51    .41
+  06 075 San Francisco            Ca        37    .54        46    .37
+  23 029 Washington               Me        37    .54        82    .67
+  17 031 Cook                     Il        37    .54        61    .50
+  53 033 King                     Wa        36    .52        46    .37
+  33 003 Carroll                  NH        35    .51        66    .54
+  23 027 Waldo                    Me        35    .51        60    .49
+  50 007 Chittenden               Vt        32    .46        45    .37
+  51 059 Fairfax                  Va        31    .45        70    .57
+  51 810 Virginia Beach city      Va        31    .45        88    .71
+  25 027 Worcester                Ma        29    .42        55    .45
+  04 013 Maricopa                 Az        29    .42        52    .42
+  12 011 Broward                  Fl        28    .41        49    .40
+  12 057 Hillsborough             Fl        26    .38        50    .41
+  12 127 Volusia                  Fl        26    .38        48    .39
+  12 095 Orange                   Fl        25    .36        51    .41
+  12 033 Escambia                 Fl        25    .36        60    .49
+  12 019 Clay                     Fl        25    .36        87    .71
+  25 023 Plymouth                 Ma        24    .35        37    .30
+  09 009 New Haven                Ct        22    .32        28    .23
+  12 025 Dade                     Fl        21    .30        32    .26
+  24 037 St. Mary's               Md        21    .30        53    .43
+  25 013 Hampden                  Ma        21    .30        38    .31
+  12 115 Sarasota                 Fl        21    .30        49    .40
+  42 091 Montgomery               Pa        20    .29        51    .41
+  25 005 Bristol                  Ma        20    .29        34    .28
+  12 021 Collier                  Fl        20    .29        28    .23
+  24 031 Montgomery               Md        19    .28        35    .28
+  15 003 Honolulu                 Hi        19    .28        23    .19
+  09 011 New London               Ct        19    .28        34    .28
+  44 007 Providence               RI        19    .28        29    .24
+  11 001 Wash.,D.C.               DC        18    .26        24    .19
+  25 001 Barnstable               Ma        18    .26        25    .20
+  06 001 Alameda                  Ca        18    .26        28    .23
+  33 009 Grafton                  NH        18    .26        22    .18
+  12 101 Pasco                    Fl        18    .26        33    .27
+  36 055 Monroe                   NY        18    .26        36    .29
+  36 047 Kings                    NY        17    .25        19    .15
+  12 009 Brevard                  Fl        17    .25        28    .23
+  23 021 Piscataquis              Me        16    .23        32    .26
+  12 071 Lee                      Fl        16    .23        24    .19
+  36 001 Albany                   NY        16    .23        29    .24
+  42 101 Philadelphia             Pa        16    .23        26    .21
+  09 001 Fairfield                Ct        16    .23        21    .17
+  12 105 Polk                     Fl        15    .22        26    .21
+  33 013 Merrimack                NH        15    .22        19    .15
+  36 081 Queens                   NY        15    .22        24    .19
+  06 085 Santa Clara              Ca        15    .22        23    .19
+  39 035 Cuyahoga                 Oh        15    .22        26    .21
+  12 081 Manatee                  Fl        15    .22        31    .25
+  12 087 Monroe                   Fl        15    .22        26    .21
+  42 003 Allegheny                Pa        15    .22        27    .22
+  06 059 Orange                   Ca        15    .22        22    .18
+  47 157 Shelby                   Tn        14    .20        34    .28
+  51 013 Arlington                Va        14    .20        20    .16
+  34 003 Bergen                   NJ        14    .20        25    .20
+  48 113 Dallas                   Tx        14    .20        22    .18
+  42 017 Bucks                    Pa        14    .20        30    .24
+  36 083 Rensselaer               NY        14    .20        20    .16
+  44 005 Newport                  RI        14    .20        27    .22
+  12 117 Seminole                 Fl        14    .20        28    .23
+  36 067 Onondaga                 NY        14    .20        23    .19
+  09 007 Middlesex                Ct        13    .19        18    .15
+  39 049 Franklin                 Oh        13    .19        18    .15
+  32 003 Clark                    Nv        13    .19        20    .16
+  27 053 Hennepin                 Mn        13    .19        25    .20
+  04 019 Pima                     Az        12    .17        24    .19
+  24 033 Prince George's          Md        12    .17        25    .20
+  35 049 Santa Fe                 NM        12    .17        22    .18
+  12 015 Charlotte                Fl        12    .17        25    .20
+  25 015 Hampshire                Ma        12    .17        19    .15
+  06 065 Riverside                Ca        11    .16        25    .20
+  40 143 Tulsa                    Ok        11    .16        32    .26
+  12 069 Lake                     Fl        11    .16        17    .14
+  36 091 Saratoga                 NY        11    .16        18    .15
+  08 031 Denver                   Co        11    .16        17    .14
+  51 710 Norfolk city             Va        11    .16        25    .20
+  09 013 Tolland                  Ct        11    .16        17    .14
+  24 003 Anne Arundel             Md        10    .14        21    .17
+  36 103 Suffolk                  NY        10    .14        17    .14
+  36 029 Erie                     NY        10    .14        18    .15
+  48 201 Harris                   Tx        10    .14        20    .16
+  37 133 Onslow                   NC        10    .14        23    .19
+  45 019 Charleston               SC        10    .14        18    .15
+  34 027 Morris                   NJ        10    .14        15    .12
+  24 005 Baltimore                Md        10    .14        20    .16
+  48 029 Bexar                    Tx        10    .14        16    .13
+  18 089 Lake                     In        10    .14        17    .14
+  12 083 Marion                   Fl        10    .14        17    .14
+  08 013 Boulder                  Co        10    .14        15    .12
+   Region 1:   Northeast                   337   4.88       647   5.25
+   Region 2:   Midwest                     264   3.82       500   4.06
+   Region 3:   South                       575   8.33      1144   9.28
+   Region 4:   West                        282   4.08       492   3.99
+      23 005   County Non-Migrants       92011           192636
+23 007   Franklin Total Migration Me       710             1266
+  23 001 Androscoggin             Me       114  16.06       204  16.11
+  23 011 Kennebec                 Me        69   9.72       112   8.85
+  23 005 Cumberland               Me        67   9.44        94   7.42
+  23 025 Somerset                 Me        47   6.62        98   7.74
+  23 017 Oxford                   Me        34   4.79        63   4.98
+  23 019 Penobscot                Me        24   3.38        36   2.84
+  23 031 York                     Me        19   2.68        31   2.45
+  57 001 Foreign / Overseas       FR        16   2.25        29   2.29
+  23 009 Hancock                  Me        10   1.41        28   2.21
+   Same State                               31   4.37        56   4.42
+   Region 1:   Northeast                   116  16.34       182  14.38
+   Region 2:   Midwest                      27   3.80        50   3.95
+   Region 3:   South                        95  13.38       205  16.19
+   Region 4:   West                         41   5.77        78   6.16
+      23 007   County Non-Migrants        9880            22797
+23 009   Hancock Total Migration  Me      1087             2015
+  23 019 Penobscot                Me       215  19.78       403  20.00
+  57 001 Foreign / Overseas       FR        73   6.72       147   7.30
+  23 005 Cumberland               Me        54   4.97        84   4.17
+  23 029 Washington               Me        50   4.60        92   4.57
+  23 027 Waldo                    Me        35   3.22        69   3.42
+  25 017 Middlesex                Ma        23   2.12        35   1.74
+  23 011 Kennebec                 Me        21   1.93        36   1.79
+  23 031 York                     Me        20   1.84        29   1.44
+  12 099 Palm Beach               Fl        15   1.38        20    .99
+  23 025 Somerset                 Me        13   1.20        31   1.54
+  23 013 Knox                     Me        12   1.10        26   1.29
+  12 103 Pinellas                 Fl        12   1.10        22   1.09
+  51 810 Virginia Beach city      Va        11   1.01        29   1.44
+   Same State                               38   3.50        66   3.28
+   Region 1:   Northeast                   194  17.85       330  16.38
+   Region 2:   Midwest                      47   4.32        92   4.57
+   Region 3:   South                       160  14.72       322  15.98
+   Region 4:   West                         94   8.65       182   9.03
+      23 009   County Non-Migrants       17255            37863
+23 011   Kennebec Total Migration Me      2415             4368
+  23 025 Somerset                 Me       360  14.91       747  17.10
+  23 005 Cumberland               Me       240   9.94       327   7.49
+  23 001 Androscoggin             Me       169   7.00       320   7.33
+  23 019 Penobscot                Me       142   5.88       255   5.84
+  23 015 Lincoln                  Me        82   3.40       155   3.55
+  23 027 Waldo                    Me        79   3.27       135   3.09
+  23 007 Franklin                 Me        73   3.02       142   3.25
+  23 023 Sagadahoc                Me        63   2.61       120   2.75
+  23 031 York                     Me        57   2.36        93   2.13
+  57 001 Foreign / Overseas       FR        42   1.74        56   1.28
+  23 013 Knox                     Me        42   1.74        78   1.79
+  25 017 Middlesex                Ma        38   1.57        55   1.26
+  23 003 Aroostook                Me        34   1.41        62   1.42
+  23 017 Oxford                   Me        24    .99        43    .98
+  12 103 Pinellas                 Fl        22    .91        45   1.03
+  23 009 Hancock                  Me        19    .79        33    .76
+  33 011 Hillsborough             NH        17    .70        27    .62
+  25 025 Suffolk                  Ma        16    .66        18    .41
+  33 015 Rockingham               NH        15    .62        29    .66
+  09 003 Hartford                 Ct        15    .62        23    .53
+  25 027 Worcester                Ma        14    .58        22    .50
+  23 029 Washington               Me        14    .58        22    .50
+  25 009 Essex                    Ma        12    .50        24    .55
+  12 057 Hillsborough             Fl        11    .46        24    .55
+  25 021 Norfolk                  Ma        10    .41        20    .46
+  23 021 Piscataquis              Me        10    .41        16    .37
+  09 009 New Haven                Ct        10    .41        22    .50
+  51 059 Fairfax                  Va        10    .41        23    .53
+  12 095 Orange                   Fl        10    .41        14    .32
+   Region 1:   Northeast                   209   8.65       392   8.97
+   Region 2:   Midwest                     101   4.18       204   4.67
+   Region 3:   South                       316  13.08       580  13.28
+   Region 4:   West                        139   5.76       242   5.54
+      23 011   County Non-Migrants       41719            93204
+23 013   Knox Total Migration Flo Me       824             1437
+  23 027 Waldo                    Me        84  10.19       155  10.79
+  23 015 Lincoln                  Me        83  10.07       181  12.60
+  23 005 Cumberland               Me        77   9.34       125   8.70
+  23 019 Penobscot                Me        37   4.49        53   3.69
+  23 011 Kennebec                 Me        32   3.88        53   3.69
+  23 031 York                     Me        26   3.16        37   2.57
+  25 017 Middlesex                Ma        22   2.67        27   1.88
+  57 001 Foreign / Overseas       FR        17   2.06        27   1.88
+  23 001 Androscoggin             Me        14   1.70        19   1.32
+  23 009 Hancock                  Me        13   1.58        28   1.95
+  23 029 Washington               Me        10   1.21        25   1.74
+   Same State                               32   3.88        61   4.24
+   Region 1:   Northeast                   131  15.90       208  14.47
+   Region 2:   Midwest                      36   4.37        69   4.80
+   Region 3:   South                       111  13.47       209  14.54
+   Region 4:   West                         99  12.01       160  11.13
+      23 013   County Non-Migrants       13098            28538
+23 015   Lincoln Total Migration  Me       799             1486
+  23 013 Knox                     Me       138  17.27       303  20.39
+  23 011 Kennebec                 Me       103  12.89       201  13.53
+  23 005 Cumberland               Me        99  12.39       165  11.10
+  23 023 Sagadahoc                Me        71   8.89       114   7.67
+  23 001 Androscoggin             Me        20   2.50        30   2.02
+  57 001 Foreign / Overseas       FR        17   2.13        35   2.36
+  23 019 Penobscot                Me        15   1.88        25   1.68
+  23 031 York                     Me        15   1.88        28   1.88
+  23 027 Waldo                    Me        10   1.25        22   1.48
+   Same State                               30   3.75        46   3.10
+   Region 1:   Northeast                   103  12.89       166  11.17
+   Region 2:   Midwest                      24   3.00        50   3.36
+   Region 3:   South                       104  13.02       200  13.46
+   Region 4:   West                         50   6.26       101   6.80
+      23 015   County Non-Migrants       11234            25074
+23 017   Oxford Total Migration F Me      1199             2207
+  23 001 Androscoggin             Me       206  17.18       340  15.41
+  23 005 Cumberland               Me       152  12.68       270  12.23
+  33 003 Carroll                  NH        58   4.84        90   4.08
+  23 031 York                     Me        56   4.67        99   4.49
+  23 007 Franklin                 Me        43   3.59        94   4.26
+  23 011 Kennebec                 Me        32   2.67        72   3.26
+  23 019 Penobscot                Me        32   2.67        69   3.13
+  57 001 Foreign / Overseas       FR        17   1.42        24   1.09
+  23 025 Somerset                 Me        17   1.42        30   1.36
+  23 023 Sagadahoc                Me        12   1.00        22   1.00
+  33 007 Coos                     NH        12   1.00        20    .91
+  25 027 Worcester                Ma        11    .92        22   1.00
+  23 009 Hancock                  Me        11    .92        16    .72
+  33 015 Rockingham               NH        11    .92        13    .59
+  33 017 Strafford                NH        10    .83        18    .82
+  25 017 Middlesex                Ma        10    .83        13    .59
+  12 103 Pinellas                 Fl        10    .83        15    .68
+   Same State                               27   2.25        54   2.45
+   Region 1:   Northeast                   162  13.51       297  13.46
+   Region 2:   Midwest                      40   3.34        84   3.81
+   Region 3:   South                       190  15.85       417  18.89
+   Region 4:   West                         80   6.67       128   5.80
+      23 017   County Non-Migrants       17958            40696
+23 019   Penobscot Total Migratio Me      3139             5590
+  23 009 Hancock                  Me       247   7.87       435   7.78
+  23 005 Cumberland               Me       231   7.36       354   6.33
+  23 025 Somerset                 Me       148   4.71       305   5.46
+  23 027 Waldo                    Me       146   4.65       270   4.83
+  23 003 Aroostook                Me       139   4.43       251   4.49
+  23 011 Kennebec                 Me       133   4.24       216   3.86
+  23 021 Piscataquis              Me       106   3.38       219   3.92
+  23 029 Washington               Me        84   2.68       151   2.70
+  23 031 York                     Me        69   2.20       123   2.20
+  57 001 Foreign / Overseas       FR        69   2.20       123   2.20
+  23 001 Androscoggin             Me        48   1.53        74   1.32
+  25 017 Middlesex                Ma        44   1.40        60   1.07
+  12 103 Pinellas                 Fl        37   1.18        50    .89
+  23 013 Knox                     Me        31    .99        52    .93
+  33 011 Hillsborough             NH        30    .96        52    .93
+  23 007 Franklin                 Me        27    .86        54    .97
+  25 025 Suffolk                  Ma        26    .83        27    .48
+  12 099 Palm Beach               Fl        24    .76        37    .66
+  23 017 Oxford                   Me        21    .67        39    .70
+  25 009 Essex                    Ma        20    .64        39    .70
+  33 015 Rockingham               NH        20    .64        44    .79
+  23 015 Lincoln                  Me        20    .64        38    .68
+  25 027 Worcester                Ma        19    .61        32    .57
+  48 201 Harris                   Tx        18    .57        30    .54
+  23 023 Sagadahoc                Me        18    .57        28    .50
+  09 003 Hartford                 Ct        17    .54        33    .59
+  09 009 New Haven                Ct        16    .51        25    .45
+  12 127 Volusia                  Fl        16    .51        37    .66
+  25 021 Norfolk                  Ma        16    .51        17    .30
+  04 013 Maricopa                 Az        16    .51        30    .54
+  33 017 Strafford                NH        15    .48        36    .64
+  12 057 Hillsborough             Fl        14    .45        17    .30
+  33 013 Merrimack                NH        14    .45        32    .57
+  09 001 Fairfield                Ct        14    .45        20    .36
+  25 023 Plymouth                 Ma        13    .41        23    .41
+  12 011 Broward                  Fl        13    .41        21    .38
+  12 095 Orange                   Fl        13    .41        19    .34
+  12 105 Polk                     Fl        13    .41        24    .43
+  09 011 New London               Ct        13    .41        17    .30
+  12 031 Duval                    Fl        12    .38        32    .57
+  53 033 King                     Wa        12    .38        22    .39
+  06 037 Los Angeles              Ca        12    .38        30    .54
+  44 007 Providence               RI        11    .35        17    .30
+  06 073 San Diego                Ca        11    .35        18    .32
+  12 009 Brevard                  Fl        11    .35        24    .43
+  09 013 Tolland                  Ct        10    .32        13    .23
+  12 005 Bay                      Fl        10    .32        20    .36
+  15 003 Honolulu                 Hi        10    .32        15    .27
+  50 007 Chittenden               Vt        10    .32        16    .29
+  25 013 Hampden                  Ma        10    .32        19    .34
+  25 005 Bristol                  Ma        10    .32        12    .21
+   Region 1:   Northeast                   280   8.92       512   9.16
+   Region 2:   Midwest                     154   4.91       312   5.58
+   Region 3:   South                       419  13.35       744  13.31
+   Region 4:   West                        179   5.70       330   5.90
+      23 019   County Non-Migrants       49463           110799
+23 021   Piscataquis Total Migrat Me       424              794
+  23 019 Penobscot                Me       127  29.95       243  30.60
+  23 025 Somerset                 Me        35   8.25        67   8.44
+  23 005 Cumberland               Me        18   4.25        28   3.53
+  23 031 York                     Me        13   3.07        15   1.89
+  23 011 Kennebec                 Me        11   2.59        18   2.27
+   Same State                               45  10.61        92  11.59
+   Region 1:   Northeast                    77  18.16       149  18.77
+   Region 2:   Midwest                      11   2.59        18   2.27
+   Region 3:   South                        53  12.50       108  13.60
+   Region 4:   West                         34   8.02        56   7.05
+      23 021   County Non-Migrants        6394            14890
+23 023   Sagadahoc Total Migratio Me      1462             2999
+  23 005 Cumberland               Me       420  28.73       806  26.88
+  23 011 Kennebec                 Me       112   7.66       221   7.37
+  23 001 Androscoggin             Me       107   7.32       214   7.14
+  23 015 Lincoln                  Me        76   5.20       160   5.34
+  57 001 Foreign / Overseas       FR        71   4.86       124   4.13
+  12 031 Duval                    Fl        30   2.05        84   2.80
+  23 019 Penobscot                Me        24   1.64        41   1.37
+  23 031 York                     Me        17   1.16        25    .83
+  51 810 Virginia Beach city      Va        14    .96        46   1.53
+  48 355 Nueces                   Tx        13    .89        40   1.33
+  25 017 Middlesex                Ma        13    .89        22    .73
+  06 073 San Diego                Ca        12    .82        30   1.00
+  25 009 Essex                    Ma        10    .68        11    .37
+  23 013 Knox                     Me        10    .68        31   1.03
+  24 037 St. Mary's               Md        10    .68        28    .93
+   Same State                               35   2.39        78   2.60
+   Region 1:   Northeast                   134   9.17       268   8.94
+   Region 2:   Midwest                      64   4.38       150   5.00
+   Region 3:   South                       205  14.02       453  15.11
+   Region 4:   West                         85   5.81       167   5.57
+      23 023   County Non-Migrants       11153            25879
+23 025   Somerset Total Migration Me      1151             2138
+  23 011 Kennebec                 Me       343  29.80       643  30.07
+  23 019 Penobscot                Me       155  13.47       271  12.68
+  23 007 Franklin                 Me        54   4.69       112   5.24
+  23 005 Cumberland               Me        45   3.91        71   3.32
+  23 027 Waldo                    Me        26   2.26        57   2.67
+  23 001 Androscoggin             Me        22   1.91        43   2.01
+  23 021 Piscataquis              Me        22   1.91        49   2.29
+  57 001 Foreign / Overseas       FR        19   1.65        25   1.17
+  23 003 Aroostook                Me        16   1.39        31   1.45
+  23 031 York                     Me        15   1.30        26   1.22
+  25 009 Essex                    Ma        13   1.13        24   1.12
+  25 017 Middlesex                Ma        13   1.13        15    .70
+  23 017 Oxford                   Me        12   1.04        21    .98
+  23 009 Hancock                  Me        11    .96        17    .80
+  12 103 Pinellas                 Fl        10    .87        15    .70
+   Same State                               25   2.17        42   1.96
+   Region 1:   Northeast                   118  10.25       204   9.54
+   Region 2:   Midwest                      34   2.95        76   3.55
+   Region 3:   South                       142  12.34       293  13.70
+   Region 4:   West                         56   4.87       103   4.82
+      23 025   County Non-Migrants       16372            37876
+23 027   Waldo Total Migration Fl Me       705             1293
+  23 019 Penobscot                Me       144  20.43       263  20.34
+  23 013 Knox                     Me        64   9.08       106   8.20
+  23 011 Kennebec                 Me        64   9.08       114   8.82
+  23 005 Cumberland               Me        47   6.67        66   5.10
+  23 025 Somerset                 Me        35   4.96        77   5.96
+  23 009 Hancock                  Me        31   4.40        60   4.64
+  23 015 Lincoln                  Me        14   1.99        29   2.24
+  23 031 York                     Me        10   1.42        17   1.31
+  25 017 Middlesex                Ma        10   1.42        12    .93
+   Same State                               30   4.26        54   4.18
+   Region 1:   Northeast                   108  15.32       213  16.47
+   Region 2:   Midwest                      21   2.98        50   3.87
+   Region 3:   South                        81  11.49       149  11.52
+   Region 4:   West                         46   6.52        83   6.42
+      23 027   County Non-Migrants       10750            24755
+23 029   Washington Total Migrati Me       599             1170
+  23 019 Penobscot                Me        97  16.19       178  15.21
+  23 009 Hancock                  Me        43   7.18        93   7.95
+  23 005 Cumberland               Me        33   5.51        50   4.27
+  23 003 Aroostook                Me        24   4.01        52   4.44
+  57 001 Foreign / Overseas       FR        22   3.67        39   3.33
+  23 031 York                     Me        21   3.51        49   4.19
+  23 011 Kennebec                 Me        19   3.17        41   3.50
+  23 027 Waldo                    Me        12   2.00        31   2.65
+   Same State                               37   6.18        72   6.15
+   Region 1:   Northeast                   109  18.20       208  17.78
+   Region 2:   Midwest                      28   4.67        52   4.44
+   Region 3:   South                       114  19.03       226  19.32
+   Region 4:   West                         40   6.68        79   6.75
+      23 029   County Non-Migrants       11485            26093
+23 031   York Total Migration Flo Me      4609             8424
+  23 005 Cumberland               Me      1123  24.37      1976  23.46
+  33 017 Strafford                NH       359   7.79       610   7.24
+  33 015 Rockingham               NH       334   7.25       541   6.42
+  25 017 Middlesex                Ma        96   2.08       133   1.58
+  57 001 Foreign / Overseas       FR        79   1.71       128   1.52
+  23 019 Penobscot                Me        79   1.71       153   1.82
+  25 009 Essex                    Ma        67   1.45       121   1.44
+  23 001 Androscoggin             Me        59   1.28        90   1.07
+  23 017 Oxford                   Me        56   1.22       109   1.29
+  23 011 Kennebec                 Me        54   1.17       101   1.20
+  23 003 Aroostook                Me        53   1.15        92   1.09
+  33 011 Hillsborough             NH        50   1.08        75    .89
+  09 011 New London               Ct        46   1.00       116   1.38
+  33 003 Carroll                  NH        44    .95        87   1.03
+  25 025 Suffolk                  Ma        40    .87        52    .62
+  12 103 Pinellas                 Fl        36    .78        71    .84
+  45 019 Charleston               SC        36    .78        79    .94
+  12 099 Palm Beach               Fl        33    .72        53    .63
+  25 027 Worcester                Ma        31    .67        54    .64
+  12 011 Broward                  Fl        30    .65        53    .63
+  33 013 Merrimack                NH        26    .56        41    .49
+  23 023 Sagadahoc                Me        26    .56        43    .51
+  09 003 Hartford                 Ct        25    .54        46    .55
+  04 013 Maricopa                 Az        24    .52        33    .39
+  12 127 Volusia                  Fl        24    .52        53    .63
+  06 037 Los Angeles              Ca        23    .50        37    .44
+  25 021 Norfolk                  Ma        23    .50        33    .39
+  12 095 Orange                   Fl        23    .50        41    .49
+  06 073 San Diego                Ca        22    .48        39    .46
+  23 025 Somerset                 Me        22    .48        30    .36
+  12 115 Sarasota                 Fl        21    .46        38    .45
+  23 029 Washington               Me        20    .43        46    .55
+  23 015 Lincoln                  Me        19    .41        32    .38
+  13 039 Camden                   Ga        19    .41        57    .68
+  12 009 Brevard                  Fl        17    .37        36    .43
+  23 013 Knox                     Me        17    .37        26    .31
+  45 015 Berkeley                 SC        17    .37        48    .57
+  12 071 Lee                      Fl        16    .35        37    .44
+  51 810 Virginia Beach city      Va        16    .35        39    .46
+  12 097 Osceola                  Fl        16    .35        25    .30
+  09 009 New Haven                Ct        15    .33        22    .26
+  09 001 Fairfield                Ct        15    .33        31    .37
+  23 009 Hancock                  Me        14    .30        22    .26
+  15 003 Honolulu                 Hi        14    .30        21    .25
+  12 089 Nassau                   Fl        14    .30        50    .59
+  12 105 Polk                     Fl        13    .28        28    .33
+  12 021 Collier                  Fl        13    .28        28    .33
+  23 007 Franklin                 Me        13    .28        22    .26
+  12 025 Dade                     Fl        13    .28        26    .31
+  12 057 Hillsborough             Fl        13    .28        23    .27
+  25 005 Bristol                  Ma        13    .28        28    .33
+  33 009 Grafton                  NH        13    .28        18    .21
+  36 083 Rensselaer               NY        12    .26        19    .23
+  53 033 King                     Wa        12    .26        19    .23
+  17 031 Cook                     Il        12    .26        19    .23
+  23 027 Waldo                    Me        12    .26        22    .26
+  37 183 Wake                     NC        12    .26        25    .30
+  25 023 Plymouth                 Ma        12    .26        24    .28
+  50 007 Chittenden               Vt        12    .26        17    .20
+  23 021 Piscataquis              Me        11    .24        15    .18
+  25 013 Hampden                  Ma        11    .24        20    .24
+  48 201 Harris                   Tx        11    .24        19    .23
+  53 035 Kitsap                   Wa        10    .22        30    .36
+  12 081 Manatee                  Fl        10    .22        14    .17
+  36 091 Saratoga                 NY        10    .22        19    .23
+  51 059 Fairfax                  Va        10    .22        21    .25
+  36 061 New York                 NY        10    .22        13    .15
+  25 001 Barnstable               Ma        10    .22        16    .19
+  24 003 Anne Arundel             Md        10    .22        19    .23
+   Region 1:   Northeast                   307   6.66       568   6.74
+   Region 2:   Midwest                     155   3.36       346   4.11
+   Region 3:   South                       419   9.09       889  10.55
+   Region 4:   West                        257   5.58       497   5.90
+      23 031   County Non-Migrants       61049           136656

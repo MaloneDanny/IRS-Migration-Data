@@ -1,0 +1,673 @@
+16 001   Ada Total Migration Flow Id      4763             9929
+  16 027 Canyon                   Id       672  14.11      1534  15.45
+  53 033 King                     Wa       170   3.57       284   2.86
+  49 035 Salt Lake                Ut       133   2.79       277   2.79
+  16 083 Twin Falls               Id       115   2.41       234   2.36
+  04 013 Maricopa                 Az        98   2.06       181   1.82
+  16 045 Gem                      Id        93   1.95       225   2.27
+  57 001 Foreign / Overseas       FR        79   1.66       155   1.56
+  16 005 Bannock                  Id        74   1.55       139   1.40
+  16 057 Latah                    Id        74   1.55       127   1.28
+  16 085 Valley                   Id        70   1.47       169   1.70
+  16 015 Boise                    Id        67   1.41       162   1.63
+  16 039 Elmore                   Id        64   1.34       138   1.39
+  49 049 Utah                     Ut        61   1.28       131   1.32
+  16 019 Bonneville               Id        59   1.24       149   1.50
+  53 063 Spokane                  Wa        58   1.22       105   1.06
+  32 003 Clark                    Nv        58   1.22       111   1.12
+  06 037 Los Angeles              Ca        57   1.20       102   1.03
+  16 075 Payette                  Id        56   1.18       134   1.35
+  41 051 Multnomah                Or        56   1.18       105   1.06
+  53 053 Pierce                   Wa        54   1.13        96    .97
+  41 067 Washington               Or        52   1.09       123   1.24
+  06 073 San Diego                Ca        45    .94        78    .79
+  06 085 Santa Clara              Ca        44    .92        60    .60
+  06 059 Orange                   Ca        43    .90        61    .61
+  41 045 Malheur                  Or        42    .88        85    .86
+  16 055 Kootenai                 Id        42    .88        95    .96
+  16 013 Blaine                   Id        40    .84        67    .67
+  53 061 Snohomish                Wa        38    .80        74    .75
+  53 011 Clark                    Wa        38    .80        84    .85
+  49 011 Davis                    Ut        38    .80       116   1.17
+  32 007 Elko                     Nv        37    .78        79    .80
+  32 031 Washoe                   Nv        35    .73        63    .63
+  41 039 Lane                     Or        34    .71        62    .62
+  41 047 Marion                   Or        32    .67        68    .68
+  41 005 Clackamas                Or        27    .57        54    .54
+  16 087 Washington               Id        27    .57        56    .56
+  06 067 Sacramento               Ca        25    .52        48    .48
+  16 053 Jerome                   Id        25    .52        69    .69
+  16 069 Nez Perce                Id        24    .50        45    .45
+  06 071 San Bernardino           Ca        24    .50        45    .45
+  02 020 Anchorage Borough        Ak        22    .46        39    .39
+  53 005 Benton                   Wa        21    .44        48    .48
+  16 047 Gooding                  Id        21    .44        43    .43
+  16 073 Owyhee                   Id        20    .42        50    .50
+  16 011 Bingham                  Id        20    .42        45    .45
+  08 031 Denver                   Co        20    .42        39    .39
+  08 005 Arapahoe                 Co        20    .42        44    .44
+  48 113 Dallas                   Tx        19    .40        38    .38
+  30 111 Yellowstone              Mt        18    .38        37    .37
+  15 003 Honolulu                 Hi        18    .38        25    .25
+  06 081 San Mateo                Ca        17    .36        27    .27
+  41 017 Deschutes                Or        17    .36        33    .33
+  04 019 Pima                     Az        17    .36        40    .40
+  49 057 Weber                    Ut        16    .34        36    .36
+  41 061 Union                    Or        16    .34        35    .35
+  41 029 Jackson                  Or        16    .34        35    .35
+  06 075 San Francisco            Ca        15    .31        19    .19
+  06 013 Contra Costa             Ca        15    .31        35    .35
+  16 003 Adams                    Id        15    .31        30    .30
+  30 031 Gallatin                 Mt        15    .31        24    .24
+  53 035 Kitsap                   Wa        15    .31        27    .27
+  08 041 El Paso                  Co        14    .29        28    .28
+  16 031 Cassia                   Id        14    .29        28    .28
+  16 059 Lemhi                    Id        13    .27        25    .25
+  53 077 Yakima                   Wa        13    .27        30    .30
+  30 063 Missoula                 Mt        13    .27        24    .24
+  08 069 Larimer                  Co        13    .27        26    .26
+  53 029 Island                   Wa        12    .25        21    .21
+  53 073 Whatcom                  Wa        12    .25        37    .37
+  16 049 Idaho                    Id        12    .25        26    .26
+  16 067 Minidoka                 Id        12    .25        31    .31
+  41 059 Umatilla                 Or        11    .23        21    .21
+  49 005 Cache                    Ut        11    .23        23    .23
+  16 017 Bonner                   Id        11    .23        23    .23
+  17 031 Cook                     Il        11    .23        21    .21
+  16 035 Clearwater               Id        11    .23        26    .26
+  53 067 Thurston                 Wa        11    .23        19    .19
+  53 075 Whitman                  Wa        11    .23        13    .13
+  41 001 Baker                    Or        10    .21        18    .18
+  56 021 Laramie                  Wy        10    .21        20    .20
+  53 071 Walla Walla              Wa        10    .21        15    .15
+  16 043 Fremont                  Id        10    .21        21    .21
+  08 059 Jefferson                Co        10    .21        28    .28
+  53 025 Grant                    Wa        10    .21        25    .25
+  06 053 Monterey                 Ca        10    .21        20    .20
+  53 015 Cowlitz                  Wa        10    .21        19    .19
+  32 013 Humboldt                 Nv        10    .21        23    .23
+   Same State                               60   1.26       121   1.22
+   Region 1:   Northeast                    88   1.85       161   1.62
+   Region 2:   Midwest                     254   5.33       558   5.62
+   Region 3:   South                       328   6.89       709   7.14
+   Region 4:   West                        485  10.18      1030  10.37
+      16 001   County Non-Migrants       70574           164500
+16 003   Adams Total Migration Fl Id        96              221
+  16 001 Ada                      Id        17  17.71        33  14.93
+   All Migration Flows                      79  82.29       188  85.07
+      16 003   County Non-Migrants        1005             2518
+16 005   Bannock Total Migration  Id      1784             4249
+  16 001 Ada                      Id       170   9.53       399   9.39
+  16 019 Bonneville               Id       118   6.61       251   5.91
+  16 011 Bingham                  Id       113   6.33       310   7.30
+  49 035 Salt Lake                Ut       108   6.05       230   5.41
+  16 077 Power                    Id        43   2.41       145   3.41
+  16 083 Twin Falls               Id        42   2.35        98   2.31
+  57 001 Foreign / Overseas       FR        30   1.68        55   1.29
+  16 027 Canyon                   Id        30   1.68        72   1.69
+  49 049 Utah                     Ut        28   1.57        77   1.81
+  53 033 King                     Wa        26   1.46        42    .99
+  49 005 Cache                    Ut        24   1.35        55   1.29
+  06 107 Tulare                   Ca        22   1.23        61   1.44
+  32 003 Clark                    Nv        22   1.23        59   1.39
+  16 013 Blaine                   Id        22   1.23        46   1.08
+  06 037 Los Angeles              Ca        21   1.18        31    .73
+  49 011 Davis                    Ut        20   1.12        67   1.58
+  49 057 Weber                    Ut        20   1.12        34    .80
+  53 063 Spokane                  Wa        19   1.07        38    .89
+  04 013 Maricopa                 Az        19   1.07        42    .99
+  16 029 Caribou                  Id        17    .95        49   1.15
+  16 057 Latah                    Id        17    .95        38    .89
+  16 031 Cassia                   Id        16    .90        44   1.04
+  06 073 San Diego                Ca        15    .84        33    .78
+  16 055 Kootenai                 Id        14    .78        33    .78
+  41 051 Multnomah                Or        14    .78        27    .64
+  53 053 Pierce                   Wa        14    .78        32    .75
+  32 007 Elko                     Nv        13    .73        34    .80
+  16 065 Madison                  Id        12    .67        33    .78
+  30 111 Yellowstone              Mt        12    .67        32    .75
+  16 053 Jerome                   Id        12    .67        29    .68
+  06 059 Orange                   Ca        11    .62        20    .47
+  16 051 Jefferson                Id        11    .62        20    .47
+  16 007 Bear Lake                Id        10    .56        18    .42
+  16 041 Franklin                 Id        10    .56        42    .99
+  16 067 Minidoka                 Id        10    .56        22    .52
+   Same State                               70   3.92       195   4.59
+   Region 1:   Northeast                    40   2.24        68   1.60
+   Region 2:   Midwest                      98   5.49       235   5.53
+   Region 3:   South                       107   6.00       261   6.14
+   Region 4:   West                        364  20.40       872  20.52
+      16 005   County Non-Migrants       19454            51333
+16 007   Bear Lake Total Migratio Id       111              288
+  49 035 Salt Lake                Ut        16  14.41        32  11.11
+  49 005 Cache                    Ut        13  11.71        25   8.68
+   All Migration Flows                      82  73.87       231  80.21
+      16 007   County Non-Migrants        1605             4890
+16 009   Benewah Total Migration  Id       224              514
+  16 055 Kootenai                 Id        40  17.86        91  17.70
+  53 063 Spokane                  Wa        30  13.39        75  14.59
+  16 057 Latah                    Id        12   5.36        24   4.67
+   Same State                               42  18.75       106  20.62
+   Same Region, Diff. State                 85  37.95       179  34.82
+   Different Region                         15   6.70        39   7.59
+      16 009   County Non-Migrants        2444             6267
+16 011   Bingham Total Migration  Id       753             1817
+  16 019 Bonneville               Id       157  20.85       394  21.68
+  16 005 Bannock                  Id       118  15.67       250  13.76
+  49 035 Salt Lake                Ut        29   3.85        53   2.92
+  16 077 Power                    Id        27   3.59        99   5.45
+  16 001 Ada                      Id        25   3.32        49   2.70
+  49 005 Cache                    Ut        23   3.05        34   1.87
+  16 051 Jefferson                Id        18   2.39        48   2.64
+  16 083 Twin Falls               Id        16   2.12        53   2.92
+  49 049 Utah                     Ut        13   1.73        16    .88
+  04 013 Maricopa                 Az        11   1.46        24   1.32
+  16 065 Madison                  Id        10   1.33        25   1.38
+   Same State                               72   9.56       195  10.73
+   Same Region, Diff. State                177  23.51       434  23.89
+   Different Region                         57   7.57       143   7.87
+      16 011   County Non-Migrants       10080            31260
+16 013   Blaine Total Migration F Id       605             1042
+  16 001 Ada                      Id        88  14.55       149  14.30
+  16 083 Twin Falls               Id        45   7.44        79   7.58
+  53 033 King                     Wa        41   6.78        53   5.09
+  49 035 Salt Lake                Ut        13   2.15        19   1.82
+  16 063 Lincoln                  Id        12   1.98        31   2.98
+  16 053 Jerome                   Id        12   1.98        24   2.30
+  16 005 Bannock                  Id        12   1.98        20   1.92
+  06 059 Orange                   Ca        11   1.82        18   1.73
+  06 037 Los Angeles              Ca        10   1.65        14   1.34
+   Same State                               76  12.56       180  17.27
+   Region 1:   Northeast                    17   2.81        25   2.40
+   Region 2:   Midwest                      23   3.80        48   4.61
+   Region 3:   South                        27   4.46        47   4.51
+   Region 4:   West                        218  36.03       335  32.15
+      16 013   County Non-Migrants        4769             9942
+16 015   Boise Total Migration Fl Id       133              275
+  16 001 Ada                      Id        57  42.86       107  38.91
+  16 027 Canyon                   Id        12   9.02        26   9.45
+   Same State                               24  18.05        48  17.45
+   Same Region, Diff. State                 29  21.80        76  27.64
+   Different Region                         11   8.27        18   6.55
+      16 015   County Non-Migrants         892             2189
+16 017   Bonner Total Migration F Id       655             1320
+  16 055 Kootenai                 Id       108  16.49       239  18.11
+  53 063 Spokane                  Wa        65   9.92       112   8.48
+  53 033 King                     Wa        30   4.58        54   4.09
+  53 051 Pend Oreille             Wa        21   3.21        39   2.95
+  16 001 Ada                      Id        17   2.60        26   1.97
+  57 001 Foreign / Overseas       FR        17   2.60        21   1.59
+  16 021 Boundary                 Id        16   2.44        38   2.88
+  16 057 Latah                    Id        16   2.44        26   1.97
+  06 059 Orange                   Ca        10   1.53        18   1.36
+  04 013 Maricopa                 Az        10   1.53        15   1.14
+   Same State                               30   4.58        68   5.15
+   Same Region, Diff. State                257  39.24       552  41.82
+   Different Region                         58   8.85       112   8.48
+      16 017   County Non-Migrants        7877            19155
+16 019   Bonneville Total Migrati Id      2215             5197
+  16 051 Jefferson                Id       147   6.64       422   8.12
+  16 011 Bingham                  Id       132   5.96       401   7.72
+  57 001 Foreign / Overseas       FR       114   5.15       163   3.14
+  16 001 Ada                      Id       112   5.06       233   4.48
+  16 005 Bannock                  Id       109   4.92       256   4.93
+  53 035 Kitsap                   Wa        87   3.93       188   3.62
+  49 035 Salt Lake                Ut        75   3.39       154   2.96
+  06 073 San Diego                Ca        53   2.39       106   2.04
+  49 049 Utah                     Ut        42   1.90        64   1.23
+  51 700 Newport News city        Va        36   1.63        78   1.50
+  16 065 Madison                  Id        35   1.58        93   1.79
+  49 005 Cache                    Ut        34   1.53        58   1.12
+  53 033 King                     Wa        33   1.49        59   1.14
+  15 003 Honolulu                 Hi        26   1.17        53   1.02
+  16 043 Fremont                  Id        25   1.13        82   1.58
+  04 013 Maricopa                 Az        24   1.08        52   1.00
+  09 011 New London               Ct        23   1.04        58   1.12
+  53 005 Benton                   Wa        20    .90        63   1.21
+  16 083 Twin Falls               Id        20    .90        54   1.04
+  16 057 Latah                    Id        20    .90        46    .89
+  06 095 Solano                   Ca        19    .86        47    .90
+  49 011 Davis                    Ut        19    .86        50    .96
+  16 027 Canyon                   Id        18    .81        49    .94
+  32 003 Clark                    Nv        17    .77        44    .85
+  08 001 Adams                    Co        16    .72        47    .90
+  08 059 Jefferson                Co        16    .72        47    .90
+  06 001 Alameda                  Ca        14    .63        35    .67
+  41 051 Multnomah                Or        13    .59        24    .46
+  51 650 Hampton city             Va        13    .59        33    .63
+  35 001 Bernalillo               NM        13    .59        30    .58
+  08 013 Boulder                  Co        12    .54        33    .63
+  16 013 Blaine                   Id        12    .54        17    .33
+  56 039 Teton                    Wy        12    .54        24    .46
+  16 023 Butte                    Id        11    .50        34    .65
+  16 067 Minidoka                 Id        11    .50        35    .67
+  45 003 Aiken                    SC        11    .50        26    .50
+  53 053 Pierce                   Wa        10    .45        16    .31
+  06 071 San Bernardino           Ca        10    .45        24    .46
+   Same State                               79   3.57       216   4.16
+   Region 1:   Northeast                    49   2.21       126   2.42
+   Region 2:   Midwest                     109   4.92       236   4.54
+   Region 3:   South                       217   9.80       536  10.31
+   Region 4:   West                        347  15.67       785  15.10
+      16 019   County Non-Migrants       21513            59961
+16 021   Boundary Total Migration Id       222              539
+  16 055 Kootenai                 Id        43  19.37        90  16.70
+  53 063 Spokane                  Wa        19   8.56        28   5.19
+  16 017 Bonner                   Id        14   6.31        22   4.08
+  53 077 Yakima                   Wa        12   5.41        56  10.39
+   Same State                               24  10.81        55  10.20
+   Same Region, Diff. State                 84  37.84       222  41.19
+   Different Region                         26  11.71        66  12.24
+      16 021   County Non-Migrants        2362             6270
+16 023   Butte Total Migration Fl Id        99              290
+  16 019 Bonneville               Id        14  14.14        40  13.79
+  16 005 Bannock                  Id        10  10.10        27   9.31
+   All Migration Flows                      75  75.76       223  76.90
+      16 023   County Non-Migrants         835             2349
+16 025   Camas Total Migration Fl Id        14               37
+   All Migration Flows                      14 100.00        37 100.00
+      16 025   County Non-Migrants         250              617
+16 027   Canyon Total Migration F Id      2163             4789
+  16 001 Ada                      Id       682  31.53      1379  28.80
+  16 073 Owyhee                   Id        64   2.96       156   3.26
+  16 075 Payette                  Id        53   2.45       121   2.53
+  04 013 Maricopa                 Az        37   1.71        89   1.86
+  41 045 Malheur                  Or        36   1.66       100   2.09
+  16 083 Twin Falls               Id        32   1.48        80   1.67
+  16 045 Gem                      Id        32   1.48        83   1.73
+  57 001 Foreign / Overseas       FR        31   1.43        62   1.29
+  41 051 Multnomah                Or        28   1.29        44    .92
+  49 035 Salt Lake                Ut        26   1.20        52   1.09
+  53 033 King                     Wa        24   1.11        46    .96
+  16 057 Latah                    Id        24   1.11        37    .77
+  48 215 Hidalgo                  Tx        23   1.06        82   1.71
+  06 037 Los Angeles              Ca        22   1.02        60   1.25
+  16 005 Bannock                  Id        20    .92        53   1.11
+  49 049 Utah                     Ut        18    .83        36    .75
+  16 085 Valley                   Id        17    .79        39    .81
+  53 053 Pierce                   Wa        16    .74        23    .48
+  06 073 San Diego                Ca        16    .74        28    .58
+  16 055 Kootenai                 Id        15    .69        37    .77
+  06 071 San Bernardino           Ca        14    .65        31    .65
+  53 063 Spokane                  Wa        13    .60        35    .73
+  32 003 Clark                    Nv        12    .55        22    .46
+  32 031 Washoe                   Nv        12    .55        22    .46
+  41 039 Lane                     Or        11    .51        24    .50
+  16 015 Boise                    Id        11    .51        19    .40
+  02 020 Anchorage Borough        Ak        11    .51        31    .65
+  41 059 Umatilla                 Or        11    .51        25    .52
+  16 087 Washington               Id        11    .51        39    .81
+  41 005 Clackamas                Or        11    .51        28    .58
+  16 039 Elmore                   Id        10    .46        23    .48
+  15 003 Honolulu                 Hi        10    .46        21    .44
+  41 067 Washington               Or        10    .46        19    .40
+  16 013 Blaine                   Id        10    .46        24    .50
+   Same State                               82   3.79       212   4.43
+   Region 1:   Northeast                    27   1.25        71   1.48
+   Region 2:   Midwest                     105   4.85       217   4.53
+   Region 3:   South                       131   6.06       303   6.33
+   Region 4:   West                        445  20.57      1016  21.22
+      16 027   County Non-Migrants       26721            68579
+16 029   Caribou Total Migration  Id       152              337
+  49 005 Cache                    Ut        22  14.47        36  10.68
+  16 005 Bannock                  Id        18  11.84        37  10.98
+   All Migration Flows                     112  73.68       264  78.34
+      16 029   County Non-Migrants        2048             6317
+16 031   Cassia Total Migration F Id       575             1469
+  16 067 Minidoka                 Id       165  28.70       451  30.70
+  16 001 Ada                      Id        47   8.17        96   6.54
+  16 083 Twin Falls               Id        44   7.65        93   6.33
+  16 005 Bannock                  Id        25   4.35        71   4.83
+  49 035 Salt Lake                Ut        16   2.78        35   2.38
+  49 049 Utah                     Ut        15   2.61        23   1.57
+  16 019 Bonneville               Id        12   2.09        32   2.18
+  49 005 Cache                    Ut        12   2.09        22   1.50
+   Same State                               57   9.91       168  11.44
+   Same Region, Diff. State                137  23.83       360  24.51
+   Different Region                         45   7.83       118   8.03
+      16 031   County Non-Migrants        5375            15867
+16 033   Clark Total Migration Fl Id        31               76
+   Same State                               20  64.52        46  60.53
+   Region 4:   West                         11  35.48        30  39.47
+      16 033   County Non-Migrants         237              611
+16 035   Clearwater Total Migrati Id       270              554
+  16 069 Nez Perce                Id        61  22.59       151  27.26
+  16 057 Latah                    Id        23   8.52        54   9.75
+  16 049 Idaho                    Id        14   5.19        25   4.51
+  16 061 Lewis                    Id        11   4.07        18   3.25
+  16 055 Kootenai                 Id        11   4.07        15   2.71
+  53 003 Asotin                   Wa        10   3.70        19   3.43
+   All Migration Flows                     140  51.85       272  49.10
+      16 035   County Non-Migrants        2606             6251
+16 037   Custer Total Migration F Id       135              296
+  16 013 Blaine                   Id        10   7.41        16   5.41
+   All Migration Flows                     125  92.59       280  94.59
+      16 037   County Non-Migrants        1241             3212
+16 039   Elmore Total Migration F Id      1187             3003
+  57 001 Foreign / Overseas       FR       219  18.45       596  19.85
+  16 001 Ada                      Id       168  14.15       346  11.52
+  35 009 Curry                    NM        22   1.85        87   2.90
+  16 027 Canyon                   Id        21   1.77        61   2.03
+  04 013 Maricopa                 Az        20   1.68        47   1.57
+  16 083 Twin Falls               Id        18   1.52        47   1.57
+  16 073 Owyhee                   Id        16   1.35        49   1.63
+  16 005 Bannock                  Id        13   1.10        30   1.00
+  06 037 Los Angeles              Ca        13   1.10        43   1.43
+  16 057 Latah                    Id        13   1.10        25    .83
+  53 063 Spokane                  Wa        12   1.01        37   1.23
+  53 053 Pierce                   Wa        11    .93        28    .93
+  16 047 Gooding                  Id        11    .93        32   1.07
+  32 003 Clark                    Nv        11    .93        36   1.20
+  02 020 Anchorage Borough        Ak        11    .93        34   1.13
+  49 011 Davis                    Ut        10    .84        28    .93
+  16 053 Jerome                   Id        10    .84        26    .87
+   Same State                               47   3.96       150   5.00
+   Region 1:   Northeast                    55   4.63       105   3.50
+   Region 2:   Midwest                     117   9.86       280   9.32
+   Region 3:   South                       159  13.40       403  13.42
+   Region 4:   West                        210  17.69       513  17.08
+      16 039   County Non-Migrants        6092            15964
+16 041   Franklin Total Migration Id       176              450
+  49 005 Cache                    Ut        61  34.66       154  34.22
+  49 035 Salt Lake                Ut        12   6.82        22   4.89
+  49 049 Utah                     Ut        10   5.68        24   5.33
+  16 005 Bannock                  Id        10   5.68        27   6.00
+   All Migration Flows                      83  47.16       223  49.56
+      16 041   County Non-Migrants        2442             7905
+16 043   Fremont Total Migration  Id       257              662
+  16 065 Madison                  Id        42  16.34        95  14.35
+  16 019 Bonneville               Id        32  12.45        65   9.82
+  16 051 Jefferson                Id        12   4.67        34   5.14
+  49 005 Cache                    Ut        11   4.28        21   3.17
+  16 001 Ada                      Id        10   3.89        20   3.02
+  16 081 Teton                    Id        10   3.89        44   6.65
+  16 005 Bannock                  Id        10   3.89        22   3.32
+   Same State                               25   9.73        58   8.76
+   Same Region, Diff. State                 88  34.24       235  35.50
+   Different Region                         17   6.61        68  10.27
+      16 043   County Non-Migrants        3053             9078
+16 045   Gem Total Migration Flow Id       310              721
+  16 001 Ada                      Id        88  28.39       162  22.47
+  16 027 Canyon                   Id        45  14.52       116  16.09
+   Same State                               53  17.10       135  18.72
+   Region 2:   Midwest                      10   3.23        27   3.74
+   Region 3:   South                        14   4.52        28   3.88
+   Region 4:   West                        100  32.26       253  35.09
+      16 045   County Non-Migrants        3541             8928
+16 047   Gooding Total Migration  Id       344              789
+  16 083 Twin Falls               Id        71  20.64       150  19.01
+  16 001 Ada                      Id        38  11.05        68   8.62
+  16 053 Jerome                   Id        30   8.72        77   9.76
+  16 013 Blaine                   Id        11   3.20        26   3.30
+  16 063 Lincoln                  Id        11   3.20        38   4.82
+  16 039 Elmore                   Id        11   3.20        28   3.55
+   Same State                               51  14.83       118  14.96
+   Same Region, Diff. State                 92  26.74       216  27.38
+   Different Region                         29   8.43        68   8.62
+      16 047   County Non-Migrants        3454             8908
+16 049   Idaho Total Migration Fl Id       383              816
+  16 069 Nez Perce                Id        66  17.23       132  16.18
+  16 061 Lewis                    Id        25   6.53        71   8.70
+  16 001 Ada                      Id        24   6.27        28   3.43
+  16 057 Latah                    Id        20   5.22        38   4.66
+  16 055 Kootenai                 Id        14   3.66        28   3.43
+  53 003 Asotin                   Wa        10   2.61        21   2.57
+   Same State                               51  13.32       109  13.36
+   Same Region, Diff. State                148  38.64       337  41.30
+   Different Region                         25   6.53        52   6.37
+      16 049   County Non-Migrants        4014             9939
+16 051   Jefferson Total Migratio Id       458             1264
+  16 019 Bonneville               Id       168  36.68       457  36.16
+  16 065 Madison                  Id        38   8.30       106   8.39
+  16 005 Bannock                  Id        15   3.28        42   3.32
+  16 011 Bingham                  Id        13   2.84        46   3.64
+  49 049 Utah                     Ut        13   2.84        21   1.66
+  49 035 Salt Lake                Ut        12   2.62        17   1.34
+  16 001 Ada                      Id        11   2.40        36   2.85
+  04 013 Maricopa                 Az        11   2.40        33   2.61
+  16 033 Clark                    Id        10   2.18        30   2.37
+   Same State                               41   8.95       119   9.41
+   Same Region, Diff. State                 88  19.21       231  18.28
+   Different Region                         38   8.30       126   9.97
+      16 051   County Non-Migrants        4465            14539
+16 053   Jerome Total Migration F Id       511             1191
+  16 083 Twin Falls               Id       146  28.57       335  28.13
+  16 047 Gooding                  Id        51   9.98       143  12.01
+  16 001 Ada                      Id        48   9.39        88   7.39
+  16 005 Bannock                  Id        18   3.52        30   2.52
+  16 067 Minidoka                 Id        15   2.94        47   3.95
+  16 013 Blaine                   Id        15   2.94        33   2.77
+  16 063 Lincoln                  Id        10   1.96        34   2.85
+   Same State                               42   8.22       103   8.65
+   Same Region, Diff. State                121  23.68       276  23.17
+   Different Region                         45   8.81       102   8.56
+      16 053   County Non-Migrants        4324            11669
+16 055   Kootenai Total Migration Id      1890             3751
+  53 063 Spokane                  Wa       394  20.85       776  20.69
+  53 033 King                     Wa       102   5.40       162   4.32
+  16 017 Bonner                   Id        78   4.13       172   4.59
+  16 079 Shoshone                 Id        61   3.23       113   3.01
+  16 057 Latah                    Id        61   3.23       115   3.07
+  16 001 Ada                      Id        55   2.91       115   3.07
+  53 061 Snohomish                Wa        42   2.22        78   2.08
+  16 009 Benewah                  Id        32   1.69        77   2.05
+  57 001 Foreign / Overseas       FR        28   1.48        50   1.33
+  04 013 Maricopa                 Az        27   1.43        55   1.47
+  53 053 Pierce                   Wa        27   1.43        56   1.49
+  16 069 Nez Perce                Id        27   1.43        61   1.63
+  06 073 San Diego                Ca        21   1.11        27    .72
+  53 005 Benton                   Wa        20   1.06        55   1.47
+  41 067 Washington               Or        18    .95        38   1.01
+  32 003 Clark                    Nv        18    .95        42   1.12
+  06 037 Los Angeles              Ca        17    .90        28    .75
+  41 051 Multnomah                Or        14    .74        19    .51
+  53 065 Stevens                  Wa        14    .74        34    .91
+  16 021 Boundary                 Id        13    .69        28    .75
+  53 011 Clark                    Wa        13    .69        22    .59
+  06 059 Orange                   Ca        12    .63        20    .53
+  53 035 Kitsap                   Wa        12    .63        38   1.01
+  53 067 Thurston                 Wa        12    .63        21    .56
+  30 029 Flathead                 Mt        12    .63        24    .64
+  06 085 Santa Clara              Ca        11    .58        14    .37
+  49 035 Salt Lake                Ut        11    .58        27    .72
+  53 077 Yakima                   Wa        10    .53        22    .59
+  53 025 Grant                    Wa        10    .53        12    .32
+  02 020 Anchorage Borough        Ak        10    .53        17    .45
+   Same State                               57   3.02       132   3.52
+   Region 1:   Northeast                    27   1.43        42   1.12
+   Region 2:   Midwest                      73   3.86       144   3.84
+   Region 3:   South                       101   5.34       224   5.97
+   Region 4:   West                        450  23.81       891  23.75
+      16 055   County Non-Migrants       22212            52274
+16 057   Latah Total Migration Fl Id      1212             2308
+  16 001 Ada                      Id       109   8.99       195   8.45
+  16 069 Nez Perce                Id        83   6.85       175   7.58
+  53 033 King                     Wa        80   6.60       103   4.46
+  53 063 Spokane                  Wa        62   5.12       115   4.98
+  16 055 Kootenai                 Id        56   4.62        97   4.20
+  53 075 Whitman                  Wa        55   4.54       107   4.64
+  57 001 Foreign / Overseas       FR        24   1.98        52   2.25
+  16 009 Benewah                  Id        23   1.90        49   2.12
+  16 035 Clearwater               Id        20   1.65        45   1.95
+  41 051 Multnomah                Or        19   1.57        38   1.65
+  16 027 Canyon                   Id        18   1.49        30   1.30
+  16 017 Bonner                   Id        18   1.49        35   1.52
+  16 019 Bonneville               Id        17   1.40        24   1.04
+  53 003 Asotin                   Wa        16   1.32        33   1.43
+  53 005 Benton                   Wa        13   1.07        27   1.17
+  16 083 Twin Falls               Id        11    .91        23   1.00
+  53 061 Snohomish                Wa        11    .91        17    .74
+  16 079 Shoshone                 Id        11    .91        22    .95
+  06 037 Los Angeles              Ca        11    .91        15    .65
+  16 005 Bannock                  Id        11    .91        28   1.21
+  04 013 Maricopa                 Az        11    .91        16    .69
+  16 013 Blaine                   Id        10    .83        22    .95
+  41 039 Lane                     Or        10    .83        16    .69
+   Same State                               53   4.37       112   4.85
+   Region 1:   Northeast                    17   1.40        42   1.82
+   Region 2:   Midwest                      62   5.12       123   5.33
+   Region 3:   South                        77   6.35       167   7.24
+   Region 4:   West                        304  25.08       580  25.13
+      16 057   County Non-Migrants        8831            20323
+16 059   Lemhi Total Migration Fl Id       217              470
+  16 001 Ada                      Id        21   9.68        39   8.30
+  16 005 Bannock                  Id        15   6.91        28   5.96
+  16 019 Bonneville               Id        11   5.07        28   5.96
+   Same State                               45  20.74       115  24.47
+   Same Region, Diff. State                106  48.85       224  47.66
+   Different Region                         19   8.76        36   7.66
+      16 059   County Non-Migrants        2161             5202
+16 061   Lewis Total Migration Fl Id       136              314
+  16 049 Idaho                    Id        27  19.85        74  23.57
+  16 069 Nez Perce                Id        24  17.65        53  16.88
+  16 057 Latah                    Id        10   7.35        18   5.73
+  16 035 Clearwater               Id        10   7.35        31   9.87
+   All Migration Flows                      65  47.79       138  43.95
+      16 061   County Non-Migrants        1356             3427
+16 063   Lincoln Total Migration  Id       113              271
+  16 047 Gooding                  Id        19  16.81        38  14.02
+  16 083 Twin Falls               Id        14  12.39        35  12.92
+  16 013 Blaine                   Id        10   8.85        17   6.27
+   All Migration Flows                      70  61.95       181  66.79
+      16 063   County Non-Migrants         904             2347
+16 065   Madison Total Migration  Id       614             1573
+  49 005 Cache                    Ut        54   8.79       109   6.93
+  16 043 Fremont                  Id        50   8.14       145   9.22
+  16 005 Bannock                  Id        49   7.98       131   8.33
+  16 019 Bonneville               Id        47   7.65       113   7.18
+  49 035 Salt Lake                Ut        43   7.00        88   5.59
+  16 051 Jefferson                Id        31   5.05        87   5.53
+  49 049 Utah                     Ut        26   4.23        53   3.37
+  16 001 Ada                      Id        19   3.09        64   4.07
+  49 057 Weber                    Ut        12   1.95        23   1.46
+  16 057 Latah                    Id        10   1.63        25   1.59
+   Same State                               43   7.00       133   8.46
+   Region 1:   Northeast                    12   1.95        30   1.91
+   Region 2:   Midwest                      23   3.75        43   2.73
+   Region 3:   South                        35   5.70        92   5.85
+   Region 4:   West                        160  26.06       437  27.78
+      16 065   County Non-Migrants        4073            14274
+16 067   Minidoka Total Migration Id       549             1391
+  16 031 Cassia                   Id       147  26.78       384  27.61
+  16 001 Ada                      Id        42   7.65        73   5.25
+  16 083 Twin Falls               Id        38   6.92        68   4.89
+  16 027 Canyon                   Id        19   3.46        59   4.24
+  49 035 Salt Lake                Ut        19   3.46        36   2.59
+  16 053 Jerome                   Id        18   3.28        62   4.46
+  16 005 Bannock                  Id        14   2.55        38   2.73
+  16 013 Blaine                   Id        13   2.37        34   2.44
+  57 001 Foreign / Overseas       FR        12   2.19        22   1.58
+   Same State                               49   8.93       156  11.21
+   Same Region, Diff. State                122  22.22       303  21.78
+   Different Region                         56  10.20       156  11.21
+      16 067   County Non-Migrants        5891            16848
+16 069   Nez Perce Total Migratio Id       971             1953
+  53 003 Asotin                   Wa       172  17.71       363  18.59
+  16 057 Latah                    Id        71   7.31       135   6.91
+  16 001 Ada                      Id        54   5.56       108   5.53
+  53 063 Spokane                  Wa        48   4.94        82   4.20
+  16 035 Clearwater               Id        31   3.19        68   3.48
+  16 049 Idaho                    Id        31   3.19        60   3.07
+  16 055 Kootenai                 Id        27   2.78        54   2.76
+  53 033 King                     Wa        26   2.68        37   1.89
+  16 061 Lewis                    Id        22   2.27        51   2.61
+  57 001 Foreign / Overseas       FR        16   1.65        25   1.28
+  41 051 Multnomah                Or        15   1.54        25   1.28
+  53 005 Benton                   Wa        10   1.03        24   1.23
+   Same State                               61   6.28       132   6.76
+   Region 1:   Northeast                    19   1.96        33   1.69
+   Region 2:   Midwest                      34   3.50        74   3.79
+   Region 3:   South                        41   4.22        91   4.66
+   Region 4:   West                        293  30.18       591  30.26
+      16 069   County Non-Migrants       11052            25305
+16 071   Oneida Total Migration F Id        65              159
+  49 005 Cache                    Ut        12  18.46        25  15.72
+  49 003 Box Elder                Ut        11  16.92        26  16.35
+   All Migration Flows                      42  64.62       108  67.92
+      16 071   County Non-Migrants         951             2809
+16 073   Owyhee Total Migration F Id       278              677
+  16 027 Canyon                   Id       101  36.33       241  35.60
+  16 001 Ada                      Id        31  11.15        63   9.31
+  16 039 Elmore                   Id        20   7.19        69  10.19
+   Same State                               30  10.79        83  12.26
+   Same Region, Diff. State                 74  26.62       168  24.82
+   Different Region                         22   7.91        53   7.83
+      16 073   County Non-Migrants        1991             5530
+16 075   Payette Total Migration  Id       476             1050
+  41 045 Malheur                  Or       107  22.48       220  20.95
+  16 001 Ada                      Id        65  13.66       120  11.43
+  16 027 Canyon                   Id        45   9.45        90   8.57
+  16 087 Washington               Id        24   5.04        60   5.71
+  04 013 Maricopa                 Az        11   2.31        35   3.33
+   Same State                               45   9.45       104   9.90
+   Same Region, Diff. State                137  28.78       303  28.86
+   Different Region                         42   8.82       118  11.24
+      16 075   County Non-Migrants        4463            11506
+16 077   Power Total Migration Fl Id       173              442
+  16 005 Bannock                  Id        54  31.21       130  29.41
+  16 011 Bingham                  Id        20  11.56        74  16.74
+  16 001 Ada                      Id        10   5.78        17   3.85
+   Same State                               33  19.08        96  21.72
+   Same Region, Diff. State                 42  24.28        96  21.72
+   Different Region                         14   8.09        29   6.56
+      16 077   County Non-Migrants        1868             5323
+16 079   Shoshone Total Migration Id       373              767
+  16 055 Kootenai                 Id        91  24.40       176  22.95
+  53 063 Spokane                  Wa        18   4.83        31   4.04
+  53 033 King                     Wa        14   3.75        25   3.26
+  53 019 Ferry                    Wa        11   2.95        27   3.52
+  16 057 Latah                    Id        11   2.95        19   2.48
+  57 001 Foreign / Overseas       FR        10   2.68        12   1.56
+   Same State                               36   9.65        84  10.95
+   Same Region, Diff. State                157  42.09       349  45.50
+   Different Region                         25   6.70        44   5.74
+      16 079   County Non-Migrants        4289            10037
+16 081   Teton Total Migration Fl Id       112              251
+  16 019 Bonneville               Id        11   9.82        34  13.55
+   Same State                               25  22.32        57  22.71
+   Same Region, Diff. State                 64  57.14       136  54.18
+   Different Region                         12  10.71        24   9.56
+      16 081   County Non-Migrants         931             2687
+16 083   Twin Falls Total Migrati Id      1265             2862
+  16 001 Ada                      Id       194  15.34       395  13.80
+  16 053 Jerome                   Id       132  10.43       328  11.46
+  16 047 Gooding                  Id        59   4.66       136   4.75
+  16 005 Bannock                  Id        44   3.48       115   4.02
+  32 007 Elko                     Nv        40   3.16        81   2.83
+  49 035 Salt Lake                Ut        36   2.85        64   2.24
+  16 019 Bonneville               Id        28   2.21        73   2.55
+  16 031 Cassia                   Id        28   2.21        64   2.24
+  16 067 Minidoka                 Id        26   2.06        55   1.92
+  16 027 Canyon                   Id        25   1.98        80   2.80
+  16 013 Blaine                   Id        22   1.74        59   2.06
+  53 033 King                     Wa        21   1.66        39   1.36
+  04 013 Maricopa                 Az        16   1.26        32   1.12
+  16 057 Latah                    Id        15   1.19        32   1.12
+  57 001 Foreign / Overseas       FR        14   1.11        32   1.12
+  06 073 San Diego                Ca        11    .87        15    .52
+  53 063 Spokane                  Wa        10    .79        15    .52
+  49 049 Utah                     Ut        10    .79        18    .63
+  32 003 Clark                    Nv        10    .79        23    .80
+   Same State                               81   6.40       211   7.37
+   Region 1:   Northeast                    17   1.34        27    .94
+   Region 2:   Midwest                      54   4.27       128   4.47
+   Region 3:   South                        86   6.80       206   7.20
+   Region 4:   West                        286  22.61       634  22.15
+      16 083   County Non-Migrants       16782            42008
+16 085   Valley Total Migration F Id       234              481
+  16 001 Ada                      Id        72  30.77       131  27.23
+  16 027 Canyon                   Id        16   6.84        37   7.69
+   Same State                               41  17.52        84  17.46
+   Same Region, Diff. State                 83  35.47       182  37.84
+   Different Region                         22   9.40        47   9.77
+      16 085   County Non-Migrants        2088             4964
+16 087   Washington Total Migrati Id       259              593
+  16 001 Ada                      Id        36  13.90        60  10.12
+  41 045 Malheur                  Or        27  10.42        69  11.64
+  16 075 Payette                  Id        24   9.27        75  12.65
+  16 027 Canyon                   Id        14   5.41        38   6.41
+  16 003 Adams                    Id        13   5.02        30   5.06
+   Same State                               28  10.81        59   9.95
+   Same Region, Diff. State                 88  33.98       192  32.38
+   Different Region                         29  11.20        70  11.80
+      16 087   County Non-Migrants        2405             6168

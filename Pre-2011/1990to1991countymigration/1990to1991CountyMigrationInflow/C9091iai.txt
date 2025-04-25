@@ -1,0 +1,1595 @@
+19 001   Adair Total Migration Fl Ia       160              329
+  19 153 Polk                     Ia        26  16.25        48  14.59
+  19 175 Union                    Ia        18  11.25        36  10.94
+  19 077 Guthrie                  Ia        14   8.75        31   9.42
+  19 049 Dallas                   Ia        12   7.50        29   8.81
+   Same State                               51  31.88       102  31.00
+   Same Region, Diff. State                 16  10.00        33  10.03
+   Different Region                         23  14.38        50  15.20
+      19 001   County Non-Migrants        2995             6920
+19 003   Adams Total Migration Fl Ia        96              216
+  19 175 Union                    Ia        13  13.54        18   8.33
+   Same State                               51  53.13       135  62.50
+   Same Region, Diff. State                 13  13.54        23  10.65
+   Different Region                         19  19.79        40  18.52
+      19 003   County Non-Migrants        1666             3859
+19 005   Allamakee Total Migratio Ia       242              461
+  19 191 Winneshiek               Ia        31  12.81        68  14.75
+  19 043 Clayton                  Ia        23   9.50        36   7.81
+  19 065 Fayette                  Ia        14   5.79        28   6.07
+  19 113 Linn                     Ia        13   5.37        20   4.34
+   Same State                               39  16.12        72  15.62
+   Same Region, Diff. State                 80  33.06       160  34.71
+   Different Region                         42  17.36        77  16.70
+      19 005   County Non-Migrants        5009            12021
+19 007   Appanoose Total Migratio Ia       245              529
+  19 185 Wayne                    Ia        17   6.94        36   6.81
+  19 153 Polk                     Ia        17   6.94        37   6.99
+  19 179 Wapello                  Ia        12   4.90        24   4.54
+  19 135 Monroe                   Ia        10   4.08        20   3.78
+   Same State                               79  32.24       179  33.84
+   Region 2:   Midwest                      59  24.08       130  24.57
+   Region 3:   South                        27  11.02        56  10.59
+   Region 4:   West                         24   9.80        47   8.88
+      19 007   County Non-Migrants        4428            10196
+19 009   Audubon Total Migration  Ia       122              270
+  19 029 Cass                     Ia        23  18.85        50  18.52
+  19 027 Carroll                  Ia        10   8.20        27  10.00
+  19 165 Shelby                   Ia        10   8.20        19   7.04
+   Same State                               45  36.89       107  39.63
+   Same Region, Diff. State                 14  11.48        30  11.11
+   Different Region                         20  16.39        37  13.70
+      19 009   County Non-Migrants        2589             6018
+19 011   Benton Total Migration F Ia       521             1088
+  19 113 Linn                     Ia       221  42.42       456  41.91
+  19 095 Iowa                     Ia        31   5.95        63   5.79
+  19 171 Tama                     Ia        24   4.61        43   3.95
+  19 013 Black Hawk               Ia        13   2.50        25   2.30
+  19 103 Johnson                  Ia        12   2.30        26   2.39
+   Same State                               84  16.12       163  14.98
+   Region 1:   Northeast                    11   2.11        22   2.02
+   Region 2:   Midwest                      57  10.94       140  12.87
+   Region 3:   South                        38   7.29        89   8.18
+   Region 4:   West                         30   5.76        61   5.61
+      19 011   County Non-Migrants        7524            17886
+19 013   Black Hawk Total Migrati Ia      2503             4712
+  19 153 Polk                     Ia       134   5.35       230   4.88
+  19 017 Bremer                   Ia       122   4.87       238   5.05
+  19 113 Linn                     Ia       108   4.31       184   3.90
+  19 019 Buchanan                 Ia        82   3.28       151   3.20
+  19 075 Grundy                   Ia        61   2.44        96   2.04
+  19 103 Johnson                  Ia        61   2.44        96   2.04
+  19 023 Butler                   Ia        53   2.12       103   2.19
+  57 001 Foreign / Overseas       FR        51   2.04       100   2.12
+  19 171 Tama                     Ia        44   1.76        91   1.93
+  19 127 Marshall                 Ia        44   1.76        91   1.93
+  19 061 Dubuque                  Ia        40   1.60        59   1.25
+  19 033 Cerro Gordo              Ia        37   1.48        53   1.12
+  19 169 Story                    Ia        36   1.44        47   1.00
+  27 053 Hennepin                 Mn        35   1.40        67   1.42
+  19 065 Fayette                  Ia        33   1.32        54   1.15
+  19 011 Benton                   Ia        31   1.24        57   1.21
+  19 083 Hardin                   Ia        31   1.24        55   1.17
+  19 163 Scott                    Ia        31   1.24        49   1.04
+  19 037 Chickasaw                Ia        30   1.20        50   1.06
+  17 031 Cook                     Il        29   1.16        60   1.27
+  04 013 Maricopa                 Az        27   1.08        43    .91
+  48 113 Dallas                   Tx        23    .92        43    .91
+  06 073 San Diego                Ca        21    .84        39    .83
+  31 055 Douglas                  Ne        21    .84        47   1.00
+  06 037 Los Angeles              Ca        20    .80        39    .83
+  19 067 Floyd                    Ia        19    .76        29    .62
+  19 187 Webster                  Ia        18    .72        35    .74
+  19 055 Delaware                 Ia        16    .64        28    .59
+  19 105 Jones                    Ia        13    .52        20    .42
+  19 193 Woodbury                 Ia        13    .52        29    .62
+  19 099 Jasper                   Ia        11    .44        16    .34
+  19 087 Henry                    Ia        11    .44        21    .45
+  19 125 Marion                   Ia        11    .44        25    .53
+  19 079 Hamilton                 Ia        11    .44        21    .45
+  19 191 Winneshiek               Ia        11    .44        18    .38
+  19 021 Buena Vista              Ia        11    .44        25    .53
+  20 173 Sedgwick                 Ks        10    .40        28    .59
+  19 157 Poweshiek                Ia        10    .40        15    .32
+  19 045 Clinton                  Ia        10    .40        18    .38
+   Same State                              256  10.23       441   9.36
+   Region 1:   Northeast                    54   2.16       109   2.31
+   Region 2:   Midwest                     431  17.22       889  18.87
+   Region 3:   South                       238   9.51       507  10.76
+   Region 4:   West                        144   5.75       296   6.28
+      19 013   County Non-Migrants       40678            93264
+19 015   Boone Total Migration Fl Ia       601             1247
+  19 169 Story                    Ia       119  19.80       215  17.24
+  19 153 Polk                     Ia        77  12.81       159  12.75
+  19 049 Dallas                   Ia        41   6.82        95   7.62
+  19 079 Hamilton                 Ia        27   4.49        55   4.41
+  19 073 Greene                   Ia        15   2.50        23   1.84
+   Same State                              143  23.79       295  23.66
+   Region 1:   Northeast                    12   2.00        24   1.92
+   Region 2:   Midwest                      85  14.14       188  15.08
+   Region 3:   South                        39   6.49       103   8.26
+   Region 4:   West                         43   7.15        90   7.22
+      19 015   County Non-Migrants        8773            20135
+19 017   Bremer Total Migration F Ia       513             1149
+  19 013 Black Hawk               Ia       117  22.81       268  23.32
+  19 023 Butler                   Ia        42   8.19        86   7.48
+  19 065 Fayette                  Ia        21   4.09        47   4.09
+  19 037 Chickasaw                Ia        20   3.90        55   4.79
+  19 019 Buchanan                 Ia        14   2.73        35   3.05
+  19 153 Polk                     Ia        12   2.34        24   2.09
+   Same State                              122  23.78       262  22.80
+   Same Region, Diff. State                 90  17.54       219  19.06
+   Different Region                         75  14.62       153  13.32
+      19 017   County Non-Migrants        7728            18985
+19 019   Buchanan Total Migration Ia       389              821
+  19 013 Black Hawk               Ia        70  17.99       164  19.98
+  19 113 Linn                     Ia        58  14.91       129  15.71
+  19 065 Fayette                  Ia        43  11.05        98  11.94
+  19 153 Polk                     Ia        14   3.60        22   2.68
+  19 055 Delaware                 Ia        13   3.34        26   3.17
+   Same State                               77  19.79       149  18.15
+   Same Region, Diff. State                 54  13.88       128  15.59
+   Different Region                         60  15.42       105  12.79
+      19 019   County Non-Migrants        6885            17566
+19 021   Buena Vista Total Migrat Ia       475             1092
+  19 161 Sac                      Ia        29   6.11        56   5.13
+  19 041 Clay                     Ia        22   4.63        51   4.67
+  19 153 Polk                     Ia        18   3.79        31   2.84
+  19 151 Pocahontas               Ia        18   3.79        39   3.57
+  19 193 Woodbury                 Ia        17   3.58        31   2.84
+  19 035 Cherokee                 Ia        16   3.37        40   3.66
+  19 147 Palo Alto                Ia        14   2.95        28   2.56
+  19 187 Webster                  Ia        13   2.74        29   2.66
+  48 165 Gaines                   Tx        10   2.11        44   4.03
+   Same State                              121  25.47       282  25.82
+   Same Region, Diff. State                101  21.26       242  22.16
+   Different Region                         96  20.21       219  20.05
+      19 021   County Non-Migrants        6839            16352
+19 023   Butler Total Migration F Ia       275              646
+  19 013 Black Hawk               Ia        49  17.82       109  16.87
+  19 017 Bremer                   Ia        40  14.55        95  14.71
+  19 075 Grundy                   Ia        14   5.09        41   6.35
+  19 083 Hardin                   Ia        12   4.36        28   4.33
+  19 067 Floyd                    Ia        12   4.36        32   4.95
+  19 069 Franklin                 Ia        11   4.00        34   5.26
+   Same State                               69  25.09       161  24.92
+   Same Region, Diff. State                 30  10.91        62   9.60
+   Different Region                         38  13.82        84  13.00
+      19 023   County Non-Migrants        5494            13516
+19 025   Calhoun Total Migration  Ia       266              596
+  19 187 Webster                  Ia        53  19.92       122  20.47
+  19 161 Sac                      Ia        20   7.52        47   7.89
+  19 027 Carroll                  Ia        12   4.51        23   3.86
+  19 151 Pocahontas               Ia        11   4.14        23   3.86
+   Same State                               95  35.71       196  32.89
+   Same Region, Diff. State                 25   9.40        62  10.40
+   Different Region                         50  18.80       123  20.64
+      19 025   County Non-Migrants        4085             9530
+19 027   Carroll Total Migration  Ia       372              758
+  19 153 Polk                     Ia        38  10.22        75   9.89
+  19 047 Crawford                 Ia        33   8.87        75   9.89
+  19 161 Sac                      Ia        28   7.53        57   7.52
+  19 073 Greene                   Ia        19   5.11        35   4.62
+  19 025 Calhoun                  Ia        15   4.03        41   5.41
+  19 009 Audubon                  Ia        14   3.76        26   3.43
+   Same State                              114  30.65       227  29.95
+   Same Region, Diff. State                 59  15.86       126  16.62
+   Different Region                         52  13.98        96  12.66
+      19 027   County Non-Migrants        7784            19294
+19 029   Cass Total Migration Flo Ia       302              646
+  19 155 Pottawattamie            Ia        23   7.62        59   9.13
+  19 009 Audubon                  Ia        22   7.28        44   6.81
+  19 153 Polk                     Ia        21   6.95        44   6.81
+  19 137 Montgomery               Ia        15   4.97        28   4.33
+  31 055 Douglas                  Ne        13   4.30        20   3.10
+  19 001 Adair                    Ia        12   3.97        25   3.87
+   Same State                               88  29.14       202  31.27
+   Same Region, Diff. State                 51  16.89       105  16.25
+   Different Region                         57  18.87       119  18.42
+      19 029   County Non-Migrants        5518            12858
+19 031   Cedar Total Migration Fl Ia       414              856
+  19 103 Johnson                  Ia        81  19.57       166  19.39
+  19 139 Muscatine                Ia        59  14.25       128  14.95
+  19 113 Linn                     Ia        40   9.66        74   8.64
+  19 163 Scott                    Ia        38   9.18        77   9.00
+  19 105 Jones                    Ia        19   4.59        31   3.62
+  19 045 Clinton                  Ia        13   3.14        30   3.50
+   Same State                               68  16.43       142  16.59
+   Same Region, Diff. State                 44  10.63        89  10.40
+   Different Region                         52  12.56       119  13.90
+      19 031   County Non-Migrants        6210            14366
+19 033   Cerro Gordo Total Migrat Ia      1093             2174
+  19 067 Floyd                    Ia        83   7.59       151   6.95
+  19 195 Worth                    Ia        76   6.95       146   6.72
+  19 153 Polk                     Ia        52   4.76        99   4.55
+  19 069 Franklin                 Ia        47   4.30        96   4.42
+  19 081 Hancock                  Ia        42   3.84        78   3.59
+  19 189 Winnebago                Ia        35   3.20        61   2.81
+  19 013 Black Hawk               Ia        31   2.84        45   2.07
+  19 131 Mitchell                 Ia        30   2.74        54   2.48
+  19 103 Johnson                  Ia        25   2.29        45   2.07
+  19 169 Story                    Ia        19   1.74        34   1.56
+  27 053 Hennepin                 Mn        17   1.56        33   1.52
+  04 013 Maricopa                 Az        16   1.46        35   1.61
+  27 047 Freeborn                 Mn        15   1.37        30   1.38
+  19 037 Chickasaw                Ia        13   1.19        14    .64
+  19 197 Wright                   Ia        13   1.19        20    .92
+  19 109 Kossuth                  Ia        13   1.19        18    .83
+  19 023 Butler                   Ia        10    .91        13    .60
+  19 017 Bremer                   Ia        10    .91        17    .78
+  19 113 Linn                     Ia        10    .91        24   1.10
+   Same State                              161  14.73       342  15.73
+   Region 1:   Northeast                    23   2.10        53   2.44
+   Region 2:   Midwest                     196  17.93       438  20.15
+   Region 3:   South                        74   6.77       172   7.91
+   Region 4:   West                         82   7.50       156   7.18
+      19 033   County Non-Migrants       16666            37447
+19 035   Cherokee Total Migration Ia       262              562
+  19 021 Buena Vista              Ia        24   9.16        53   9.43
+  19 149 Plymouth                 Ia        22   8.40        45   8.01
+  19 193 Woodbury                 Ia        12   4.58        21   3.74
+  19 093 Ida                      Ia        10   3.82        25   4.45
+   Same State                               90  34.35       209  37.19
+   Same Region, Diff. State                 53  20.23       103  18.33
+   Different Region                         51  19.47       106  18.86
+      19 035   County Non-Migrants        5067            12009
+19 037   Chickasaw Total Migratio Ia       198              408
+  19 017 Bremer                   Ia        29  14.65        52  12.75
+  19 013 Black Hawk               Ia        17   8.59        33   8.09
+  19 067 Floyd                    Ia        16   8.08        38   9.31
+  19 065 Fayette                  Ia        10   5.05        25   6.13
+   Same State                               57  28.79       106  25.98
+   Same Region, Diff. State                 36  18.18        91  22.30
+   Different Region                         33  16.67        63  15.44
+      19 037   County Non-Migrants        4894            11814
+19 039   Clarke Total Migration F Ia       198              428
+  19 153 Polk                     Ia        30  15.15        53  12.38
+  19 053 Decatur                  Ia        21  10.61        49  11.45
+  19 181 Warren                   Ia        17   8.59        44  10.28
+   Same State                               79  39.90       168  39.25
+   Same Region, Diff. State                 20  10.10        40   9.35
+   Different Region                         31  15.66        74  17.29
+      19 039   County Non-Migrants        2876             6622
+19 041   Clay Total Migration Flo Ia       427              898
+  19 059 Dickinson                Ia        37   8.67        81   9.02
+  19 141 O'Brien                  Ia        29   6.79        69   7.68
+  19 021 Buena Vista              Ia        27   6.32        54   6.01
+  19 147 Palo Alto                Ia        19   4.45        44   4.90
+  19 153 Polk                     Ia        18   4.22        42   4.68
+  19 035 Cherokee                 Ia        14   3.28        34   3.79
+  19 033 Cerro Gordo              Ia        10   2.34        15   1.67
+  19 193 Woodbury                 Ia        10   2.34        30   3.34
+  31 055 Douglas                  Ne        10   2.34        21   2.34
+   Same State                               90  21.08       186  20.71
+   Same Region, Diff. State                 96  22.48       183  20.38
+   Different Region                         67  15.69       139  15.48
+      19 041   County Non-Migrants        6129            14479
+19 043   Clayton Total Migration  Ia       280              522
+  19 055 Delaware                 Ia        30  10.71        59  11.30
+  55 023 Crawford                 Wi        22   7.86        32   6.13
+  19 061 Dubuque                  Ia        21   7.50        45   8.62
+  19 065 Fayette                  Ia        16   5.71        35   6.70
+  19 005 Allamakee                Ia        14   5.00        32   6.13
+  19 113 Linn                     Ia        14   5.00        25   4.79
+  57 001 Foreign / Overseas       FR        12   4.29        15   2.87
+   Same State                               66  23.57       122  23.37
+   Same Region, Diff. State                 46  16.43        83  15.90
+   Different Region                         39  13.93        74  14.18
+      19 043   County Non-Migrants        6532            15894
+19 045   Clinton Total Migration  Ia       927             1875
+  19 163 Scott                    Ia       133  14.35       295  15.73
+  19 097 Jackson                  Ia        92   9.92       196  10.45
+  17 195 Whiteside                Il        71   7.66       131   6.99
+  17 015 Carroll                  Il        29   3.13        56   2.99
+  19 113 Linn                     Ia        26   2.80        62   3.31
+  57 001 Foreign / Overseas       FR        22   2.37        44   2.35
+  17 161 Rock Island              Il        22   2.37        42   2.24
+  19 061 Dubuque                  Ia        16   1.73        32   1.71
+  19 153 Polk                     Ia        14   1.51        26   1.39
+  19 139 Muscatine                Ia        11   1.19        21   1.12
+  17 031 Cook                     Il        10   1.08        23   1.23
+  19 031 Cedar                    Ia        10   1.08        16    .85
+   Same State                               85   9.17       166   8.85
+   Region 1:   Northeast                    23   2.48        50   2.67
+   Region 2:   Midwest                     168  18.12       332  17.71
+   Region 3:   South                       113  12.19       216  11.52
+   Region 4:   West                         82   8.85       167   8.91
+      19 045   County Non-Migrants       18006            41672
+19 047   Crawford Total Migration Ia       305              649
+  19 165 Shelby                   Ia        20   6.56        37   5.70
+  19 027 Carroll                  Ia        20   6.56        42   6.47
+  19 085 Harrison                 Ia        16   5.25        43   6.63
+  19 193 Woodbury                 Ia        15   4.92        40   6.16
+  19 133 Monona                   Ia        14   4.59        20   3.08
+  19 021 Buena Vista              Ia        12   3.93        28   4.31
+  31 055 Douglas                  Ne        12   3.93        22   3.39
+  19 155 Pottawattamie            Ia        12   3.93        22   3.39
+  19 153 Polk                     Ia        11   3.61        22   3.39
+  19 161 Sac                      Ia        11   3.61        23   3.54
+   Same State                               61  20.00       128  19.72
+   Same Region, Diff. State                 52  17.05       120  18.49
+   Different Region                         49  16.07       102  15.72
+      19 047   County Non-Migrants        5898            14120
+19 049   Dallas Total Migration F Ia      1035             2317
+  19 153 Polk                     Ia       401  38.74       859  37.07
+  19 015 Boone                    Ia        41   3.96        91   3.93
+  19 077 Guthrie                  Ia        38   3.67        92   3.97
+  19 121 Madison                  Ia        36   3.48        62   2.68
+  19 169 Story                    Ia        22   2.13        47   2.03
+  19 181 Warren                   Ia        18   1.74        30   1.29
+  19 073 Greene                   Ia        15   1.45        33   1.42
+  06 071 San Bernardino           Ca        14   1.35        41   1.77
+  19 103 Johnson                  Ia        11   1.06        14    .60
+  06 037 Los Angeles              Ca        11   1.06        26   1.12
+  31 055 Douglas                  Ne        10    .97        24   1.04
+  19 001 Adair                    Ia        10    .97        19    .82
+  19 113 Linn                     Ia        10    .97        30   1.29
+  19 027 Carroll                  Ia        10    .97        25   1.08
+   Same State                              161  15.56       352  15.19
+   Region 1:   Northeast                    11   1.06        23    .99
+   Region 2:   Midwest                      90   8.70       242  10.44
+   Region 3:   South                        45   4.35        83   3.58
+   Region 4:   West                         81   7.83       224   9.67
+      19 049   County Non-Migrants       10351            24709
+19 051   Davis Total Migration Fl Ia       160              363
+  19 179 Wapello                  Ia        52  32.50       108  29.75
+   Same State                               52  32.50       115  31.68
+   Same Region, Diff. State                 36  22.50        84  23.14
+   Different Region                         20  12.50        56  15.43
+      19 051   County Non-Migrants        2638             6580
+19 053   Decatur Total Migration  Ia       178              387
+  19 153 Polk                     Ia        24  13.48        44  11.37
+  19 039 Clarke                   Ia        14   7.87        37   9.56
+  19 185 Wayne                    Ia        11   6.18        25   6.46
+   Same State                               38  21.35        82  21.19
+   Same Region, Diff. State                 49  27.53       108  27.91
+   Different Region                         42  23.60        91  23.51
+      19 053   County Non-Migrants        2409             5723
+19 055   Delaware Total Migration Ia       310              664
+  19 113 Linn                     Ia        52  16.77        98  14.76
+  19 061 Dubuque                  Ia        42  13.55        83  12.50
+  19 043 Clayton                  Ia        32  10.32        82  12.35
+  19 105 Jones                    Ia        17   5.48        40   6.02
+  19 019 Buchanan                 Ia        11   3.55        19   2.86
+  57 001 Foreign / Overseas       FR        10   3.23        15   2.26
+  19 013 Black Hawk               Ia        10   3.23        25   3.77
+   Same State                               57  18.39       108  16.27
+   Same Region, Diff. State                 43  13.87       126  18.98
+   Different Region                         36  11.61        68  10.24
+      19 055   County Non-Migrants        6065            15368
+19 057   Des Moines Total Migrati Ia       870             1772
+  19 087 Henry                    Ia        75   8.62       142   8.01
+  19 111 Lee                      Ia        74   8.51       121   6.83
+  17 071 Henderson                Il        46   5.29        72   4.06
+  39 095 Lucas                    Oh        41   4.71        95   5.36
+  19 115 Louisa                   Ia        40   4.60       101   5.70
+  19 163 Scott                    Ia        30   3.45        51   2.88
+  19 103 Johnson                  Ia        26   2.99        42   2.37
+  19 153 Polk                     Ia        14   1.61        31   1.75
+  57 001 Foreign / Overseas       FR        13   1.49        27   1.52
+  04 013 Maricopa                 Az        12   1.38        24   1.35
+  17 067 Hancock                  Il        12   1.38        21   1.19
+  19 013 Black Hawk               Ia        10   1.15        18   1.02
+   Same State                               80   9.20       163   9.20
+   Region 1:   Northeast                    21   2.41        35   1.98
+   Region 2:   Midwest                     203  23.33       428  24.15
+   Region 3:   South                       104  11.95       269  15.18
+   Region 4:   West                         69   7.93       132   7.45
+      19 057   County Non-Migrants       15269            34380
+19 059   Dickinson Total Migratio Ia       469              931
+  19 041 Clay                     Ia        50  10.66       102  10.96
+  19 063 Emmet                    Ia        40   8.53        73   7.84
+  19 153 Polk                     Ia        16   3.41        34   3.65
+  19 193 Woodbury                 Ia        15   3.20        31   3.33
+  19 141 O'Brien                  Ia        15   3.20        27   2.90
+  04 013 Maricopa                 Az        14   2.99        29   3.11
+  19 021 Buena Vista              Ia        13   2.77        22   2.36
+  19 103 Johnson                  Ia        10   2.13        16   1.72
+  31 055 Douglas                  Ne        10   2.13        19   2.04
+   Same State                              110  23.45       197  21.16
+   Region 1:   Northeast                    12   2.56        29   3.11
+   Region 2:   Midwest                     103  21.96       226  24.27
+   Region 3:   South                        24   5.12        48   5.16
+   Region 4:   West                         37   7.89        78   8.38
+      19 059   County Non-Migrants        5636            12551
+19 061   Dubuque Total Migration  Ia      1397             2793
+  17 085 Jo Daviess               Il        94   6.73       177   6.34
+  19 097 Jackson                  Ia        68   4.87       135   4.83
+  55 043 Grant                    Wi        63   4.51       135   4.83
+  19 113 Linn                     Ia        62   4.44       114   4.08
+  19 055 Delaware                 Ia        45   3.22        94   3.37
+  19 153 Polk                     Ia        42   3.01        90   3.22
+  19 103 Johnson                  Ia        40   2.86        65   2.33
+  17 031 Cook                     Il        35   2.51        72   2.58
+  19 163 Scott                    Ia        34   2.43        56   2.01
+  19 105 Jones                    Ia        28   2.00        50   1.79
+  19 013 Black Hawk               Ia        26   1.86        50   1.79
+  19 043 Clayton                  Ia        23   1.65        41   1.47
+  57 001 Foreign / Overseas       FR        22   1.57        39   1.40
+  04 013 Maricopa                 Az        18   1.29        42   1.50
+  19 045 Clinton                  Ia        16   1.15        27    .97
+  17 043 Du Page                  Il        16   1.15        33   1.18
+  06 073 San Diego                Ca        15   1.07        32   1.15
+  55 025 Dane                     Wi        13    .93        29   1.04
+  27 053 Hennepin                 Mn        13    .93        26    .93
+  48 439 Tarrant                  Tx        10    .72        25    .90
+  17 201 Winnebago                Il        10    .72        20    .72
+  55 079 Milwaukee                Wi        10    .72        21    .75
+   Same State                              137   9.81       273   9.77
+   Region 1:   Northeast                    45   3.22        92   3.29
+   Region 2:   Midwest                     228  16.32       444  15.90
+   Region 3:   South                       149  10.67       297  10.63
+   Region 4:   West                        135   9.66       314  11.24
+      19 061   County Non-Migrants       30975            73711
+19 063   Emmet Total Migration Fl Ia       289              583
+  19 059 Dickinson                Ia        30  10.38        50   8.58
+  19 147 Palo Alto                Ia        15   5.19        31   5.32
+  19 109 Kossuth                  Ia        14   4.84        38   6.52
+  19 041 Clay                     Ia        12   4.15        19   3.26
+   Same State                               90  31.14       167  28.64
+   Region 2:   Midwest                      64  22.15       128  21.96
+   Region 3:   South                        40  13.84        92  15.78
+   Region 4:   West                         24   8.30        58   9.95
+      19 063   County Non-Migrants        3921             9423
+19 065   Fayette Total Migration  Ia       432              919
+  19 019 Buchanan                 Ia        59  13.66       135  14.69
+  19 043 Clayton                  Ia        31   7.18        59   6.42
+  19 191 Winneshiek               Ia        25   5.79        41   4.46
+  19 013 Black Hawk               Ia        23   5.32        45   4.90
+  19 113 Linn                     Ia        20   4.63        30   3.26
+  19 017 Bremer                   Ia        19   4.40        46   5.01
+  19 005 Allamakee                Ia        17   3.94        36   3.92
+  19 037 Chickasaw                Ia        11   2.55        20   2.18
+   Same State                               77  17.82       166  18.06
+   Same Region, Diff. State                 69  15.97       158  17.19
+   Different Region                         81  18.75       183  19.91
+      19 065   County Non-Migrants        7421            17764
+19 067   Floyd Total Migration Fl Ia       341              675
+  19 033 Cerro Gordo              Ia        55  16.13       105  15.56
+  19 037 Chickasaw                Ia        33   9.68        62   9.19
+  19 131 Mitchell                 Ia        13   3.81        22   3.26
+  19 013 Black Hawk               Ia        13   3.81        24   3.56
+   Same State                               89  26.10       183  27.11
+   Same Region, Diff. State                 70  20.53       152  22.52
+   Different Region                         68  19.94       127  18.81
+      19 067   County Non-Migrants        6047            14136
+19 069   Franklin Total Migration Ia       220              466
+  19 033 Cerro Gordo              Ia        23  10.45        44   9.44
+  19 197 Wright                   Ia        20   9.09        41   8.80
+  19 083 Hardin                   Ia        16   7.27        34   7.30
+  19 023 Butler                   Ia        15   6.82        42   9.01
+  19 153 Polk                     Ia        12   5.45        17   3.65
+   Same State                               69  31.36       150  32.19
+   Same Region, Diff. State                 30  13.64        69  14.81
+   Different Region                         35  15.91        69  14.81
+      19 069   County Non-Migrants        3878             9082
+19 071   Fremont Total Migration  Ia       164              387
+  19 129 Mills                    Ia        24  14.63        45  11.63
+  19 145 Page                     Ia        19  11.59        43  11.11
+  31 055 Douglas                  Ne        15   9.15        36   9.30
+  19 155 Pottawattamie            Ia        13   7.93        22   5.68
+  29 005 Atchison                 Mo        10   6.10        30   7.75
+   Same State                               19  11.59        41  10.59
+   Same Region, Diff. State                 40  24.39       106  27.39
+   Different Region                         24  14.63        64  16.54
+      19 071   County Non-Migrants        2744             6474
+19 073   Greene Total Migration F Ia       231              508
+  19 049 Dallas                   Ia        24  10.39        56  11.02
+  19 153 Polk                     Ia        23   9.96        49   9.65
+  19 187 Webster                  Ia        11   4.76        20   3.94
+  19 027 Carroll                  Ia        11   4.76        23   4.53
+  19 077 Guthrie                  Ia        11   4.76        24   4.72
+  19 015 Boone                    Ia        11   4.76        22   4.33
+  19 025 Calhoun                  Ia        10   4.33        29   5.71
+   Same State                               53  22.94       107  21.06
+   Same Region, Diff. State                 35  15.15        80  15.75
+   Different Region                         42  18.18        98  19.29
+      19 073   County Non-Migrants        3669             8426
+19 075   Grundy Total Migration F Ia       234              532
+  19 013 Black Hawk               Ia        59  25.21       168  31.58
+  19 127 Marshall                 Ia        22   9.40        50   9.40
+  19 083 Hardin                   Ia        15   6.41        27   5.08
+  19 023 Butler                   Ia        15   6.41        23   4.32
+  19 171 Tama                     Ia        13   5.56        23   4.32
+   Same State                               51  21.79       128  24.06
+   Same Region, Diff. State                 30  12.82        56  10.53
+   Different Region                         29  12.39        57  10.71
+      19 075   County Non-Migrants        4283            10248
+19 077   Guthrie Total Migration  Ia       320              710
+  19 153 Polk                     Ia        83  25.94       176  24.79
+  19 049 Dallas                   Ia        53  16.56       122  17.18
+  19 001 Adair                    Ia        20   6.25        38   5.35
+  19 027 Carroll                  Ia        16   5.00        30   4.23
+   Same State                               72  22.50       168  23.66
+   Same Region, Diff. State                 31   9.69        69   9.72
+   Different Region                         45  14.06       107  15.07
+      19 077   County Non-Migrants        3918             8932
+19 079   Hamilton Total Migration Ia       381              842
+  19 187 Webster                  Ia        46  12.07       109  12.95
+  19 169 Story                    Ia        44  11.55        94  11.16
+  19 197 Wright                   Ia        30   7.87        68   8.08
+  19 015 Boone                    Ia        16   4.20        33   3.92
+  19 083 Hardin                   Ia        16   4.20        24   2.85
+  19 153 Polk                     Ia        15   3.94        27   3.21
+   Same State                              107  28.08       238  28.27
+   Same Region, Diff. State                 57  14.96       137  16.27
+   Different Region                         50  13.12       112  13.30
+      19 079   County Non-Migrants        5841            13368
+19 081   Hancock Total Migration  Ia       233              479
+  19 033 Cerro Gordo              Ia        49  21.03        95  19.83
+  19 189 Winnebago                Ia        31  13.30        76  15.87
+  19 197 Wright                   Ia        18   7.73        33   6.89
+  19 109 Kossuth                  Ia        15   6.44        29   6.05
+  19 153 Polk                     Ia        10   4.29        21   4.38
+   Same State                               61  26.18       135  28.18
+   Same Region, Diff. State                 24  10.30        45   9.39
+   Different Region                         25  10.73        45   9.39
+      19 081   County Non-Migrants        4449            10867
+19 083   Hardin Total Migration F Ia       432              886
+  19 127 Marshall                 Ia        31   7.18        55   6.21
+  19 169 Story                    Ia        30   6.94        54   6.09
+  19 069 Franklin                 Ia        24   5.56        46   5.19
+  19 153 Polk                     Ia        21   4.86        30   3.39
+  19 075 Grundy                   Ia        21   4.86        33   3.72
+  19 079 Hamilton                 Ia        15   3.47        28   3.16
+  19 013 Black Hawk               Ia        12   2.78        19   2.14
+  19 023 Butler                   Ia        12   2.78        21   2.37
+   Same State                              120  27.78       273  30.81
+   Region 1:   Northeast                    10   2.31        20   2.26
+   Region 2:   Midwest                      55  12.73       135  15.24
+   Region 3:   South                        45  10.42        98  11.06
+   Region 4:   West                         36   8.33        74   8.35
+      19 083   County Non-Migrants        7000            16174
+19 085   Harrison Total Migration Ia       311              695
+  19 155 Pottawattamie            Ia        63  20.26       124  17.84
+  31 055 Douglas                  Ne        58  18.65       119  17.12
+  19 165 Shelby                   Ia        15   4.82        35   5.04
+  31 177 Washington               Ne        13   4.18        31   4.46
+  31 153 Sarpy                    Ne        11   3.54        27   3.88
+  19 047 Crawford                 Ia        10   3.22        18   2.59
+  19 133 Monona                   Ia        10   3.22        29   4.17
+   Same State                               38  12.22        96  13.81
+   Same Region, Diff. State                 42  13.50        97  13.96
+   Different Region                         51  16.40       119  17.12
+      19 085   County Non-Migrants        5063            11989
+19 087   Henry Total Migration Fl Ia       462              986
+  19 057 Des Moines               Ia        61  13.20       133  13.49
+  19 111 Lee                      Ia        35   7.58        72   7.30
+  19 183 Washington               Ia        29   6.28        62   6.29
+  19 101 Jefferson                Ia        25   5.41        40   4.06
+  19 115 Louisa                   Ia        18   3.90        45   4.56
+  19 103 Johnson                  Ia        13   2.81        28   2.84
+  19 177 Van Buren                Ia        10   2.16        16   1.62
+  19 153 Polk                     Ia        10   2.16        21   2.13
+   Same State                               94  20.35       202  20.49
+   Same Region, Diff. State                 90  19.48       202  20.49
+   Different Region                         77  16.67       165  16.73
+      19 087   County Non-Migrants        6614            15490
+19 089   Howard Total Migration F Ia       196              424
+  19 191 Winneshiek               Ia        29  14.80        66  15.57
+  19 037 Chickasaw                Ia        18   9.18        36   8.49
+  27 045 Fillmore                 Mn        10   5.10        22   5.19
+   Same State                               54  27.55       110  25.94
+   Same Region, Diff. State                 61  31.12       143  33.73
+   Different Region                         24  12.24        47  11.08
+      19 089   County Non-Migrants        3687             8736
+19 091   Humboldt Total Migration Ia       190              427
+  19 187 Webster                  Ia        20  10.53        44  10.30
+  19 151 Pocahontas               Ia        13   6.84        36   8.43
+  19 197 Wright                   Ia        12   6.32        29   6.79
+  19 109 Kossuth                  Ia        10   5.26        21   4.92
+   Same State                               75  39.47       170  39.81
+   Same Region, Diff. State                 23  12.11        51  11.94
+   Different Region                         37  19.47        76  17.80
+      19 091   County Non-Migrants        3956             9419
+19 093   Ida Total Migration Flow Ia       149              352
+  19 193 Woodbury                 Ia        17  11.41        37  10.51
+  19 161 Sac                      Ia        12   8.05        27   7.67
+   Same State                               72  48.32       193  54.83
+   Same Region, Diff. State                 24  16.11        50  14.20
+   Different Region                         24  16.11        45  12.78
+      19 093   County Non-Migrants        2867             7168
+19 095   Iowa Total Migration Flo Ia       294              613
+  19 113 Linn                     Ia        59  20.07       113  18.43
+  19 103 Johnson                  Ia        33  11.22        64  10.44
+  19 011 Benton                   Ia        26   8.84        53   8.65
+  19 157 Poweshiek                Ia        18   6.12        35   5.71
+  19 183 Washington               Ia        15   5.10        33   5.38
+  19 107 Keokuk                   Ia        10   3.40        26   4.24
+   Same State                               49  16.67       110  17.94
+   Same Region, Diff. State                 42  14.29        69  11.26
+   Different Region                         42  14.29       110  17.94
+      19 095   County Non-Migrants        5591            12834
+19 097   Jackson Total Migration  Ia       378              813
+  19 045 Clinton                  Ia        77  20.37       153  18.82
+  19 061 Dubuque                  Ia        62  16.40       126  15.50
+  19 163 Scott                    Ia        20   5.29        41   5.04
+  19 113 Linn                     Ia        15   3.97        36   4.43
+  19 105 Jones                    Ia        12   3.17        24   2.95
+   Same State                               58  15.34       137  16.85
+   Same Region, Diff. State                 77  20.37       187  23.00
+   Different Region                         57  15.08       109  13.41
+      19 097   County Non-Migrants        7194            17061
+19 099   Jasper Total Migration F Ia       627             1357
+  19 153 Polk                     Ia       149  23.76       318  23.43
+  19 157 Poweshiek                Ia        43   6.86        93   6.85
+  19 125 Marion                   Ia        29   4.63        66   4.86
+  19 169 Story                    Ia        26   4.15        48   3.54
+  19 127 Marshall                 Ia        23   3.67        46   3.39
+  19 123 Mahaska                  Ia        15   2.39        31   2.28
+  19 103 Johnson                  Ia        10   1.59        21   1.55
+   Same State                              150  23.92       335  24.69
+   Same Region, Diff. State                 90  14.35       208  15.33
+   Different Region                         92  14.67       191  14.08
+      19 099   County Non-Migrants       12704            29718
+19 101   Jefferson Total Migratio Ia       379              762
+  19 177 Van Buren                Ia        27   7.12        58   7.61
+  19 179 Wapello                  Ia        21   5.54        56   7.35
+  19 087 Henry                    Ia        19   5.01        41   5.38
+  24 031 Montgomery               Md        15   3.96        27   3.54
+  19 183 Washington               Ia        13   3.43        29   3.81
+  19 107 Keokuk                   Ia        12   3.17        29   3.81
+   Same State                               67  17.68       147  19.29
+   Region 1:   Northeast                    41  10.82        65   8.53
+   Region 2:   Midwest                      70  18.47       143  18.77
+   Region 3:   South                        43  11.35        80  10.50
+   Region 4:   West                         51  13.46        87  11.42
+      19 101   County Non-Migrants        5189            11698
+19 103   Johnson Total Migration  Ia      3681             5928
+  19 113 Linn                     Ia       376  10.21       616  10.39
+  19 153 Polk                     Ia       177   4.81       258   4.35
+  17 031 Cook                     Il       132   3.59       186   3.14
+  19 183 Washington               Ia       126   3.42       217   3.66
+  19 163 Scott                    Ia       115   3.12       162   2.73
+  19 139 Muscatine                Ia        85   2.31       138   2.33
+  19 013 Black Hawk               Ia        79   2.15       116   1.96
+  19 031 Cedar                    Ia        76   2.06       147   2.48
+  19 095 Iowa                     Ia        62   1.68       104   1.75
+  19 169 Story                    Ia        62   1.68        89   1.50
+  19 061 Dubuque                  Ia        58   1.58        84   1.42
+  57 001 Foreign / Overseas       FR        42   1.14        67   1.13
+  06 037 Los Angeles              Ca        37   1.01        62   1.05
+  19 193 Woodbury                 Ia        34    .92        46    .78
+  19 033 Cerro Gordo              Ia        34    .92        47    .79
+  27 053 Hennepin                 Mn        34    .92        53    .89
+  17 161 Rock Island              Il        32    .87        52    .88
+  19 045 Clinton                  Ia        32    .87        35    .59
+  19 057 Des Moines               Ia        29    .79        50    .84
+  19 179 Wapello                  Ia        27    .73        36    .61
+  19 127 Marshall                 Ia        26    .71        47    .79
+  06 073 San Diego                Ca        26    .71        46    .78
+  19 011 Benton                   Ia        25    .68        43    .73
+  17 043 Du Page                  Il        23    .62        35    .59
+  19 111 Lee                      Ia        21    .57        33    .56
+  19 107 Keokuk                   Ia        21    .57        34    .57
+  31 055 Douglas                  Ne        20    .54        33    .56
+  04 013 Maricopa                 Az        20    .54        32    .54
+  19 105 Jones                    Ia        19    .52        29    .49
+  53 033 King                     Wa        19    .52        29    .49
+  19 157 Poweshiek                Ia        19    .52        27    .46
+  19 187 Webster                  Ia        19    .52        28    .47
+  55 025 Dane                     Wi        18    .49        24    .40
+  19 125 Marion                   Ia        18    .49        26    .44
+  17 097 Lake                     Il        18    .49        33    .56
+  19 087 Henry                    Ia        17    .46        24    .40
+  29 189 St. Louis                Mo        17    .46        27    .46
+  25 017 Middlesex                Ma        15    .41        26    .44
+  19 101 Jefferson                Ia        15    .41        23    .39
+  19 097 Jackson                  Ia        15    .41        21    .35
+  19 099 Jasper                   Ia        15    .41        21    .35
+  19 083 Hardin                   Ia        15    .41        16    .27
+  19 017 Bremer                   Ia        14    .38        16    .27
+  29 095 Jackson                  Mo        14    .38        26    .44
+  19 019 Buchanan                 Ia        14    .38        19    .32
+  55 079 Milwaukee                Wi        13    .35        30    .51
+  29 019 Boone                    Mo        13    .35        21    .35
+  42 101 Philadelphia             Pa        12    .33        21    .35
+  06 075 San Francisco            Ca        12    .33        23    .39
+  11 001 Wash.,D.C.               DC        12    .33        12    .20
+  19 055 Delaware                 Ia        12    .33        15    .25
+  19 115 Louisa                   Ia        12    .33        20    .34
+  48 201 Harris                   Tx        11    .30        30    .51
+  48 453 Travis                   Tx        11    .30        14    .24
+  27 123 Ramsey                   Mn        11    .30        22    .37
+  36 061 New York                 NY        11    .30        12    .20
+  19 191 Winneshiek               Ia        11    .30        15    .25
+  04 019 Pima                     Az        11    .30        16    .27
+  19 067 Floyd                    Ia        11    .30        22    .37
+  17 201 Winnebago                Il        10    .27        15    .25
+  19 189 Winnebago                Ia        10    .27        15    .25
+  17 019 Champaign                Il        10    .27        16    .27
+  19 123 Mahaska                  Ia        10    .27        15    .25
+   Same State                              251   6.82       355   5.99
+   Region 1:   Northeast                   144   3.91       254   4.28
+   Region 2:   Midwest                     453  12.31       736  12.42
+   Region 3:   South                       318   8.64       595  10.04
+   Region 4:   West                        200   5.43       371   6.26
+      19 103   County Non-Migrants       29808            62753
+19 105   Jones Total Migration Fl Ia       392              851
+  19 113 Linn                     Ia       112  28.57       258  30.32
+  19 061 Dubuque                  Ia        31   7.91        58   6.82
+  19 055 Delaware                 Ia        17   4.34        28   3.29
+  19 103 Johnson                  Ia        12   3.06        21   2.47
+  19 097 Jackson                  Ia        11   2.81        28   3.29
+  19 031 Cedar                    Ia        10   2.55        24   2.82
+   Same State                               84  21.43       174  20.45
+   Same Region, Diff. State                 48  12.24       112  13.16
+   Different Region                         67  17.09       148  17.39
+      19 105   County Non-Migrants        6514            15353
+19 107   Keokuk Total Migration F Ia       227              499
+  19 183 Washington               Ia        23  10.13        41   8.22
+  19 123 Mahaska                  Ia        22   9.69        51  10.22
+  19 179 Wapello                  Ia        18   7.93        56  11.22
+  19 101 Jefferson                Ia        18   7.93        44   8.82
+  19 095 Iowa                     Ia        13   5.73        28   5.61
+   Same State                               73  32.16       148  29.66
+   Same Region, Diff. State                 29  12.78        71  14.23
+   Different Region                         31  13.66        60  12.02
+      19 107   County Non-Migrants        4209             9929
+19 109   Kossuth Total Migration  Ia       238              491
+  19 147 Palo Alto                Ia        24  10.08        43   8.76
+  19 081 Hancock                  Ia        17   7.14        42   8.55
+   Same State                              110  46.22       232  47.25
+   Same Region, Diff. State                 53  22.27       100  20.37
+   Different Region                         34  14.29        74  15.07
+      19 109   County Non-Migrants        6595            15997
+19 111   Lee Total Migration Flow Ia       736             1598
+  17 067 Hancock                  Il        80  10.87       166  10.39
+  19 057 Des Moines               Ia        68   9.24       142   8.89
+  29 045 Clark                    Mo        30   4.08        58   3.63
+  29 175 Randolph                 Mo        30   4.08        98   6.13
+  19 087 Henry                    Ia        26   3.53        46   2.88
+  19 163 Scott                    Ia        16   2.17        29   1.81
+  19 153 Polk                     Ia        14   1.90        23   1.44
+  17 001 Adams                    Il        14   1.90        33   2.07
+  19 177 Van Buren                Ia        12   1.63        32   2.00
+  57 001 Foreign / Overseas       FR        11   1.49        30   1.88
+   Same State                              102  13.86       208  13.02
+   Region 1:   Northeast                    28   3.80        61   3.82
+   Region 2:   Midwest                     149  20.24       335  20.96
+   Region 3:   South                       111  15.08       248  15.52
+   Region 4:   West                         45   6.11        89   5.57
+      19 111   County Non-Migrants       13176            30374
+19 113   Linn Total Migration Flo Ia      3624             6910
+  19 103 Johnson                  Ia       382  10.54       624   9.03
+  19 011 Benton                   Ia       206   5.68       402   5.82
+  19 105 Jones                    Ia       156   4.30       275   3.98
+  19 153 Polk                     Ia       121   3.34       226   3.27
+  19 013 Black Hawk               Ia       120   3.31       217   3.14
+  19 061 Dubuque                  Ia       108   2.98       163   2.36
+  19 055 Delaware                 Ia        69   1.90       112   1.62
+  19 019 Buchanan                 Ia        68   1.88       133   1.92
+  19 163 Scott                    Ia        66   1.82       137   1.98
+  17 031 Cook                     Il        65   1.79       111   1.61
+  04 013 Maricopa                 Az        47   1.30        81   1.17
+  19 031 Cedar                    Ia        46   1.27        88   1.27
+  57 001 Foreign / Overseas       FR        45   1.24        89   1.29
+  27 053 Hennepin                 Mn        38   1.05        56    .81
+  19 095 Iowa                     Ia        37   1.02        58    .84
+  19 169 Story                    Ia        34    .94        52    .75
+  19 045 Clinton                  Ia        32    .88        62    .90
+  06 073 San Diego                Ca        30    .83        56    .81
+  19 065 Fayette                  Ia        29    .80        41    .59
+  19 033 Cerro Gordo              Ia        26    .72        46    .67
+  19 127 Marshall                 Ia        24    .66        39    .56
+  06 037 Los Angeles              Ca        23    .63        53    .77
+  27 123 Ramsey                   Mn        22    .61        44    .64
+  17 043 Du Page                  Il        21    .58        49    .71
+  20 173 Sedgwick                 Ks        20    .55        59    .85
+  31 055 Douglas                  Ne        20    .55        33    .48
+  19 097 Jackson                  Ia        20    .55        36    .52
+  19 043 Clayton                  Ia        20    .55        27    .39
+  19 191 Winneshiek               Ia        19    .52        31    .45
+  19 057 Des Moines               Ia        19    .52        31    .45
+  06 059 Orange                   Ca        19    .52        32    .46
+  19 183 Washington               Ia        19    .52        45    .65
+  29 189 St. Louis                Mo        18    .50        39    .56
+  19 017 Bremer                   Ia        18    .50        31    .45
+  17 161 Rock Island              Il        17    .47        36    .52
+  19 193 Woodbury                 Ia        17    .47        42    .61
+  55 025 Dane                     Wi        17    .47        29    .42
+  20 091 Johnson                  Ks        15    .41        27    .39
+  19 139 Muscatine                Ia        15    .41        37    .54
+  55 079 Milwaukee                Wi        15    .41        27    .39
+  48 113 Dallas                   Tx        14    .39        28    .41
+  19 111 Lee                      Ia        13    .36        25    .36
+  19 123 Mahaska                  Ia        13    .36        19    .27
+  19 005 Allamakee                Ia        13    .36        19    .27
+  19 187 Webster                  Ia        13    .36        28    .41
+  19 171 Tama                     Ia        13    .36        27    .39
+  46 099 Minnehaha                SD        12    .33        25    .36
+  17 097 Lake                     Il        12    .33        37    .54
+  19 099 Jasper                   Ia        12    .33        29    .42
+  36 055 Monroe                   NY        12    .33        20    .29
+  53 033 King                     Wa        12    .33        27    .39
+  19 157 Poweshiek                Ia        12    .33        24    .35
+  27 037 Dakota                   Mn        12    .33        28    .41
+  12 103 Pinellas                 Fl        11    .30        19    .27
+  12 095 Orange                   Fl        11    .30        28    .41
+  19 075 Grundy                   Ia        11    .30        18    .26
+  06 071 San Bernardino           Ca        11    .30        22    .32
+  29 095 Jackson                  Mo        11    .30        22    .32
+  19 155 Pottawattamie            Ia        10    .28        19    .27
+  08 041 El Paso                  Co        10    .28        16    .23
+  19 181 Warren                   Ia        10    .28        19    .27
+  04 019 Pima                     Az        10    .28        18    .26
+   Same State                              189   5.22       321   4.65
+   Region 1:   Northeast                    79   2.18       160   2.32
+   Region 2:   Midwest                     465  12.83       992  14.36
+   Region 3:   South                       333   9.19       722  10.45
+   Region 4:   West                        197   5.44       422   6.11
+      19 113   County Non-Migrants       62895           140796
+19 115   Louisa Total Migration F Ia       357              840
+  19 139 Muscatine                Ia        82  22.97       189  22.50
+  19 057 Des Moines               Ia        31   8.68        57   6.79
+  19 103 Johnson                  Ia        19   5.32        23   2.74
+  19 183 Washington               Ia        19   5.32        52   6.19
+  17 031 Cook                     Il        16   4.48        42   5.00
+  06 073 San Diego                Ca        14   3.92        52   6.19
+  19 087 Henry                    Ia        12   3.36        21   2.50
+  06 025 Imperial                 Ca        12   3.36        40   4.76
+   Same State                               35   9.80        63   7.50
+   Same Region, Diff. State                 51  14.29       109  12.98
+   Different Region                         66  18.49       192  22.86
+      19 115   County Non-Migrants        3918             9398
+19 117   Lucas Total Migration Fl Ia       203              449
+  19 153 Polk                     Ia        33  16.26        88  19.60
+  19 181 Warren                   Ia        18   8.87        40   8.91
+  19 185 Wayne                    Ia        12   5.91        28   6.24
+  19 125 Marion                   Ia        10   4.93        18   4.01
+   Same State                               61  30.05       111  24.72
+   Same Region, Diff. State                 35  17.24        80  17.82
+   Different Region                         34  16.75        84  18.71
+      19 117   County Non-Migrants        3192             7361
+19 119   Lyon Total Migration Flo Ia       181              382
+  46 099 Minnehaha                SD        31  17.13        83  21.73
+  19 167 Sioux                    Ia        20  11.05        35   9.16
+  46 083 Lincoln                  SD        12   6.63        35   9.16
+  19 141 O'Brien                  Ia        10   5.52        16   4.19
+   Same State                               26  14.36        49  12.83
+   Same Region, Diff. State                 53  29.28       108  28.27
+   Different Region                         29  16.02        56  14.66
+      19 119   County Non-Migrants        4042            10551
+19 121   Madison Total Migration  Ia       353              795
+  19 153 Polk                     Ia        98  27.76       205  25.79
+  19 049 Dallas                   Ia        50  14.16       125  15.72
+  19 181 Warren                   Ia        39  11.05        89  11.19
+  19 175 Union                    Ia        16   4.53        35   4.40
+   Same State                               68  19.26       143  17.99
+   Same Region, Diff. State                 49  13.88       134  16.86
+   Different Region                         33   9.35        64   8.05
+      19 121   County Non-Migrants        4210            10185
+19 123   Mahaska Total Migration  Ia       454              958
+  19 125 Marion                   Ia        47  10.35       105  10.96
+  19 179 Wapello                  Ia        38   8.37        85   8.87
+  19 107 Keokuk                   Ia        31   6.83        61   6.37
+  19 099 Jasper                   Ia        24   5.29        53   5.53
+  19 153 Polk                     Ia        20   4.41        35   3.65
+  19 157 Poweshiek                Ia        18   3.96        30   3.13
+   Same State                              123  27.09       254  26.51
+   Same Region, Diff. State                 91  20.04       206  21.50
+   Different Region                         62  13.66       129  13.47
+      19 123   County Non-Migrants        7008            16699
+19 125   Marion Total Migration F Ia       580             1265
+  19 153 Polk                     Ia        90  15.52       175  13.83
+  19 099 Jasper                   Ia        57   9.83       127  10.04
+  19 123 Mahaska                  Ia        57   9.83       117   9.25
+  19 181 Warren                   Ia        31   5.34        81   6.40
+  19 135 Monroe                   Ia        19   3.28        40   3.16
+  19 117 Lucas                    Ia        16   2.76        39   3.08
+  19 169 Story                    Ia        15   2.59        27   2.13
+  19 179 Wapello                  Ia        10   1.72        26   2.06
+   Same State                              102  17.59       208  16.44
+   Region 1:   Northeast                    13   2.24        21   1.66
+   Region 2:   Midwest                     101  17.41       249  19.68
+   Region 3:   South                        39   6.72        91   7.19
+   Region 4:   West                         30   5.17        64   5.06
+      19 125   County Non-Migrants        9963            24237
+19 127   Marshall Total Migration Ia       820             1732
+  19 171 Tama                     Ia        79   9.63       156   9.01
+  19 153 Polk                     Ia        63   7.68       125   7.22
+  19 169 Story                    Ia        34   4.15        57   3.29
+  19 075 Grundy                   Ia        34   4.15        69   3.98
+  19 099 Jasper                   Ia        32   3.90        72   4.16
+  19 083 Hardin                   Ia        28   3.41        51   2.94
+  19 157 Poweshiek                Ia        25   3.05        52   3.00
+  19 013 Black Hawk               Ia        18   2.20        34   1.96
+  19 113 Linn                     Ia        15   1.83        30   1.73
+  19 103 Johnson                  Ia        14   1.71        25   1.44
+  19 139 Muscatine                Ia        12   1.46        43   2.48
+  57 001 Foreign / Overseas       FR        10   1.22        18   1.04
+  17 031 Cook                     Il        10   1.22        29   1.67
+   Same State                              133  16.22       286  16.51
+   Region 1:   Northeast                    16   1.95        29   1.67
+   Region 2:   Midwest                     131  15.98       298  17.21
+   Region 3:   South                        83  10.12       176  10.16
+   Region 4:   West                         83  10.12       182  10.51
+      19 127   County Non-Migrants       13639            31319
+19 129   Mills Total Migration Fl Ia       339              783
+  31 055 Douglas                  Ne        54  15.93       118  15.07
+  19 155 Pottawattamie            Ia        54  15.93       128  16.35
+  31 153 Sarpy                    Ne        20   5.90        51   6.51
+  19 071 Fremont                  Ia        18   5.31        45   5.75
+  19 137 Montgomery               Ia        15   4.42        30   3.83
+   Same State                               43  12.68        86  10.98
+   Same Region, Diff. State                 70  20.65       169  21.58
+   Different Region                         65  19.17       156  19.92
+      19 129   County Non-Migrants        4230            10278
+19 131   Mitchell Total Migration Ia       152              319
+  19 067 Floyd                    Ia        21  13.82        59  18.50
+  19 033 Cerro Gordo              Ia        11   7.24        24   7.52
+  19 013 Black Hawk               Ia        10   6.58        15   4.70
+  19 195 Worth                    Ia        10   6.58        19   5.96
+   Same State                               34  22.37        80  25.08
+   Same Region, Diff. State                 42  27.63        71  22.26
+   Different Region                         24  15.79        51  15.99
+      19 131   County Non-Migrants        3939             9365
+19 133   Monona Total Migration F Ia       168              360
+  19 193 Woodbury                 Ia        53  31.55       115  31.94
+   Same State                               45  26.79        84  23.33
+   Same Region, Diff. State                 36  21.43        88  24.44
+   Different Region                         34  20.24        73  20.28
+      19 133   County Non-Migrants        3592             8070
+19 135   Monroe Total Migration F Ia       157              357
+  19 179 Wapello                  Ia        23  14.65        55  15.41
+  19 007 Appanoose                Ia        18  11.46        39  10.92
+  19 125 Marion                   Ia        15   9.55        34   9.52
+  19 153 Polk                     Ia        13   8.28        31   8.68
+   Same State                               55  35.03       130  36.41
+   Same Region, Diff. State                 16  10.19        37  10.36
+   Different Region                         17  10.83        31   8.68
+      19 135   County Non-Migrants        2736             6287
+19 137   Montgomery Total Migrati Ia       258              543
+  19 145 Page                     Ia        25   9.69        46   8.47
+  19 155 Pottawattamie            Ia        20   7.75        36   6.63
+  19 129 Mills                    Ia        19   7.36        37   6.81
+  19 029 Cass                     Ia        17   6.59        37   6.81
+  19 003 Adams                    Ia        14   5.43        34   6.26
+   Same State                               48  18.60       122  22.47
+   Same Region, Diff. State                 61  23.64       111  20.44
+   Different Region                         54  20.93       120  22.10
+      19 137   County Non-Migrants        4417            10082
+19 139   Muscatine Total Migratio Ia       873             2054
+  19 115 Louisa                   Ia        85   9.74       207  10.08
+  19 163 Scott                    Ia        77   8.82       172   8.37
+  19 103 Johnson                  Ia        60   6.87       118   5.74
+  19 031 Cedar                    Ia        55   6.30       125   6.09
+  17 161 Rock Island              Il        29   3.32        60   2.92
+  19 113 Linn                     Ia        20   2.29        37   1.80
+  17 031 Cook                     Il        17   1.95        47   2.29
+  19 153 Polk                     Ia        13   1.49        24   1.17
+  57 001 Foreign / Overseas       FR        11   1.26        23   1.12
+  06 073 San Diego                Ca        11   1.26        24   1.17
+  17 131 Mercer                   Il        10   1.15        24   1.17
+   Same State                              109  12.49       243  11.83
+   Region 1:   Northeast                    23   2.63        44   2.14
+   Region 2:   Midwest                     139  15.92       315  15.34
+   Region 3:   South                       121  13.86       329  16.02
+   Region 4:   West                         93  10.65       262  12.76
+      19 139   County Non-Migrants       14394            34271
+19 141   O'Brien Total Migration  Ia       356              751
+  19 167 Sioux                    Ia        36  10.11        83  11.05
+  19 041 Clay                     Ia        23   6.46        50   6.66
+  19 035 Cherokee                 Ia        23   6.46        47   6.26
+  19 143 Osceola                  Ia        20   5.62        43   5.73
+  19 193 Woodbury                 Ia        12   3.37        30   3.99
+  19 021 Buena Vista              Ia        10   2.81        21   2.80
+   Same State                               83  23.31       181  24.10
+   Same Region, Diff. State                 94  26.40       196  26.10
+   Different Region                         55  15.45       100  13.32
+      19 141   County Non-Migrants        5461            13274
+19 143   Osceola Total Migration  Ia       127              278
+  19 141 O'Brien                  Ia        21  16.54        39  14.03
+  27 105 Nobles                   Mn        13  10.24        32  11.51
+   Same State                               46  36.22       114  41.01
+   Same Region, Diff. State                 32  25.20        59  21.22
+   Different Region                         15  11.81        34  12.23
+      19 143   County Non-Migrants        2656             6339
+19 145   Page Total Migration Flo Ia       316              724
+  19 071 Fremont                  Ia        37  11.71        94  12.98
+  19 137 Montgomery               Ia        27   8.54        66   9.12
+  19 173 Taylor                   Ia        22   6.96        52   7.18
+  29 147 Nodaway                  Mo        13   4.11        27   3.73
+  31 055 Douglas                  Ne        10   3.16        20   2.76
+  19 153 Polk                     Ia        10   3.16        10   1.38
+  19 155 Pottawattamie            Ia        10   3.16        19   2.62
+   Same State                               55  17.41       133  18.37
+   Same Region, Diff. State                 69  21.84       146  20.17
+   Different Region                         63  19.94       157  21.69
+      19 145   County Non-Migrants        5697            13288
+19 147   Palo Alto Total Migratio Ia       204              429
+  19 041 Clay                     Ia        23  11.27        68  15.85
+  19 109 Kossuth                  Ia        16   7.84        45  10.49
+  19 151 Pocahontas               Ia        16   7.84        29   6.76
+  19 063 Emmet                    Ia        11   5.39        28   6.53
+   Same State                               78  38.24       151  35.20
+   Same Region, Diff. State                 30  14.71        49  11.42
+   Different Region                         30  14.71        59  13.75
+      19 147   County Non-Migrants        3588             8605
+19 149   Plymouth Total Migration Ia       442              976
+  19 193 Woodbury                 Ia       118  26.70       247  25.31
+  19 167 Sioux                    Ia        28   6.33        54   5.53
+  19 035 Cherokee                 Ia        14   3.17        30   3.07
+  57 001 Foreign / Overseas       FR        11   2.49        20   2.05
+  19 141 O'Brien                  Ia        10   2.26        22   2.25
+   Same State                               98  22.17       226  23.16
+   Same Region, Diff. State                 99  22.40       227  23.26
+   Different Region                         64  14.48       150  15.37
+      19 149   County Non-Migrants        8098            20137
+19 151   Pocahontas Total Migrati Ia       158              360
+  19 021 Buena Vista              Ia        12   7.59        35   9.72
+  19 025 Calhoun                  Ia        12   7.59        32   8.89
+  19 091 Humboldt                 Ia        10   6.33        17   4.72
+   Same State                               63  39.87       142  39.44
+   Region 2:   Midwest                      30  18.99        75  20.83
+   Region 3:   South                        17  10.76        33   9.17
+   Region 4:   West                         14   8.86        26   7.22
+      19 151   County Non-Migrants        3386             8078
+19 153   Polk Total Migration Flo Ia      8614            15686
+  19 181 Warren                   Ia       587   6.81      1066   6.80
+  19 169 Story                    Ia       446   5.18       750   4.78
+  19 049 Dallas                   Ia       376   4.36       686   4.37
+  19 099 Jasper                   Ia       224   2.60       374   2.38
+  19 103 Johnson                  Ia       184   2.14       295   1.88
+  19 013 Black Hawk               Ia       181   2.10       289   1.84
+  19 113 Linn                     Ia       161   1.87       265   1.69
+  31 055 Douglas                  Ne       150   1.74       285   1.82
+  17 031 Cook                     Il       147   1.71       251   1.60
+  19 163 Scott                    Ia       129   1.50       253   1.61
+  19 121 Madison                  Ia       119   1.38       187   1.19
+  19 127 Marshall                 Ia       119   1.38       188   1.20
+  27 053 Hennepin                 Mn       113   1.31       196   1.25
+  19 125 Marion                   Ia       109   1.27       190   1.21
+  19 015 Boone                    Ia       105   1.22       171   1.09
+  04 013 Maricopa                 Az        90   1.04       162   1.03
+  19 193 Woodbury                 Ia        89   1.03       174   1.11
+  19 187 Webster                  Ia        83    .96       138    .88
+  19 033 Cerro Gordo              Ia        82    .95       154    .98
+  06 037 Los Angeles              Ca        77    .89       143    .91
+  57 001 Foreign / Overseas       FR        76    .88       145    .92
+  19 077 Guthrie                  Ia        72    .84       118    .75
+  19 179 Wapello                  Ia        67    .78       119    .76
+  19 157 Poweshiek                Ia        62    .72       102    .65
+  19 027 Carroll                  Ia        58    .67        81    .52
+  19 061 Dubuque                  Ia        54    .63        87    .55
+  06 073 San Diego                Ca        54    .63       112    .71
+  48 113 Dallas                   Tx        53    .62       121    .77
+  29 095 Jackson                  Mo        51    .59        98    .62
+  20 091 Johnson                  Ks        47    .55       103    .66
+  19 155 Pottawattamie            Ia        47    .55        79    .50
+  17 043 Du Page                  Il        44    .51        94    .60
+  19 083 Hardin                   Ia        43    .50        62    .40
+  29 189 St. Louis                Mo        43    .50       109    .69
+  19 079 Hamilton                 Ia        37    .43        59    .38
+  19 109 Kossuth                  Ia        36    .42        52    .33
+  19 021 Buena Vista              Ia        35    .41        56    .36
+  19 039 Clarke                   Ia        34    .39        72    .46
+  06 059 Orange                   Ca        33    .38        63    .40
+  19 123 Mahaska                  Ia        33    .38        46    .29
+  19 029 Cass                     Ia        32    .37        58    .37
+  19 175 Union                    Ia        32    .37        47    .30
+  08 031 Denver                   Co        31    .36        62    .40
+  31 109 Lancaster                Ne        30    .35        54    .34
+  48 439 Tarrant                  Tx        29    .34        60    .38
+  19 117 Lucas                    Ia        28    .33        45    .29
+  48 201 Harris                   Tx        28    .33        66    .42
+  27 037 Dakota                   Mn        28    .33        54    .34
+  19 073 Greene                   Ia        28    .33        40    .26
+  19 145 Page                     Ia        27    .31        44    .28
+  19 017 Bremer                   Ia        27    .31        44    .28
+  46 099 Minnehaha                SD        27    .31        55    .35
+  19 053 Decatur                  Ia        26    .30        44    .28
+  27 123 Ramsey                   Mn        26    .30        46    .29
+  04 019 Pima                     Az        26    .30        56    .36
+  31 153 Sarpy                    Ne        26    .30        59    .38
+  19 069 Franklin                 Ia        25    .29        38    .24
+  06 085 Santa Clara              Ca        25    .29        45    .29
+  19 057 Des Moines               Ia        25    .29        36    .23
+  53 033 King                     Wa        25    .29        46    .29
+  17 161 Rock Island              Il        24    .28        44    .28
+  19 137 Montgomery               Ia        24    .28        46    .29
+  19 197 Wright                   Ia        24    .28        38    .24
+  08 005 Arapahoe                 Co        22    .26        44    .28
+  19 009 Audubon                  Ia        22    .26        30    .19
+  26 163 Wayne                    Mi        22    .26        39    .25
+  08 041 El Paso                  Co        22    .26        40    .26
+  19 001 Adair                    Ia        22    .26        32    .20
+  20 173 Sedgwick                 Ks        22    .26        42    .27
+  19 067 Floyd                    Ia        22    .26        40    .26
+  19 101 Jefferson                Ia        22    .26        41    .26
+  19 007 Appanoose                Ia        22    .26        32    .20
+  08 059 Jefferson                Co        21    .24        39    .25
+  19 065 Fayette                  Ia        21    .24        27    .17
+  25 017 Middlesex                Ma        21    .24        37    .24
+  15 003 Honolulu                 Hi        21    .24        36    .23
+  19 165 Shelby                   Ia        21    .24        34    .22
+  32 003 Clark                    Nv        21    .24        28    .18
+  51 059 Fairfax                  Va        20    .23        40    .26
+  06 071 San Bernardino           Ca        20    .23        55    .35
+  19 171 Tama                     Ia        20    .23        34    .22
+  55 079 Milwaukee                Wi        20    .23        44    .28
+  19 091 Humboldt                 Ia        19    .22        31    .20
+  19 041 Clay                     Ia        19    .22        27    .17
+  12 099 Palm Beach               Fl        19    .22        43    .27
+  19 075 Grundy                   Ia        19    .22        25    .16
+  17 089 Kane                     Il        19    .22        36    .23
+  48 029 Bexar                    Tx        19    .22        48    .31
+  19 111 Lee                      Ia        19    .22        28    .18
+  19 185 Wayne                    Ia        18    .21        34    .22
+  29 021 Buchanan                 Mo        18    .21        34    .22
+  47 157 Shelby                   Tn        18    .21        48    .31
+  19 045 Clinton                  Ia        18    .21        27    .17
+  19 081 Hancock                  Ia        17    .20        22    .14
+  27 109 Olmsted                  Mn        17    .20        31    .20
+  17 097 Lake                     Il        17    .20        40    .26
+  29 047 Clay                     Mo        17    .20        37    .24
+  19 139 Muscatine                Ia        17    .20        35    .22
+  19 025 Calhoun                  Ia        16    .19        23    .15
+  19 087 Henry                    Ia        16    .19        23    .15
+  31 079 Hall                     Ne        16    .19        42    .27
+  19 011 Benton                   Ia        16    .19        28    .18
+  06 065 Riverside                Ca        16    .19        40    .26
+  12 095 Orange                   Fl        16    .19        28    .18
+  12 011 Broward                  Fl        15    .17        20    .13
+  40 109 Oklahoma                 Ok        15    .17        33    .21
+  19 149 Plymouth                 Ia        15    .17        30    .19
+  26 125 Oakland                  Mi        15    .17        38    .24
+  19 167 Sioux                    Ia        15    .17        23    .15
+  19 047 Crawford                 Ia        15    .17        18    .11
+  48 453 Travis                   Tx        15    .17        32    .20
+  19 019 Buchanan                 Ia        14    .16        20    .13
+  19 161 Sac                      Ia        14    .16        25    .16
+  19 173 Taylor                   Ia        14    .16        20    .13
+  20 177 Shawnee                  Ks        14    .16        24    .15
+  40 143 Tulsa                    Ok        14    .16        23    .15
+  12 031 Duval                    Fl        14    .16        26    .17
+  29 077 Greene                   Mo        13    .15        32    .20
+  19 159 Ringgold                 Ia        13    .15        23    .15
+  17 019 Champaign                Il        13    .15        29    .18
+  38 017 Cass                     ND        13    .15        23    .15
+  19 023 Butler                   Ia        13    .15        15    .10
+  29 183 St. Charles              Mo        13    .15        34    .22
+  19 059 Dickinson                Ia        13    .15        28    .18
+  35 001 Bernalillo               NM        13    .15        33    .21
+  19 191 Winneshiek               Ia        13    .15        14    .09
+  55 025 Dane                     Wi        12    .14        26    .17
+  39 049 Franklin                 Oh        12    .14        20    .13
+  39 061 Hamilton                 Oh        12    .14        19    .12
+  29 147 Nodaway                  Mo        12    .14        23    .15
+  19 031 Cedar                    Ia        12    .14        20    .13
+  29 510 St. Louis city           Mo        12    .14        21    .13
+  19 097 Jackson                  Ia        12    .14        25    .16
+  06 053 Monterey                 Ca        12    .14        36    .23
+  39 035 Cuyahoga                 Oh        12    .14        21    .13
+  48 027 Bell                     Tx        12    .14        19    .12
+  06 067 Sacramento               Ca        12    .14        26    .17
+  29 001 Adair                    Mo        12    .14        18    .11
+  37 133 Onslow                   NC        11    .13        25    .16
+  08 001 Adams                    Co        11    .13        17    .11
+  19 135 Monroe                   Ia        11    .13        15    .10
+  19 183 Washington               Ia        11    .13        19    .12
+  19 037 Chickasaw                Ia        11    .13        11    .07
+  48 085 Collin                   Tx        11    .13        22    .14
+  19 107 Keokuk                   Ia        11    .13        12    .08
+  19 147 Palo Alto                Ia        11    .13        16    .10
+  19 131 Mitchell                 Ia        11    .13        17    .11
+  19 141 O'Brien                  Ia        11    .13        13    .08
+  19 189 Winnebago                Ia        10    .12        15    .10
+  19 051 Davis                    Ia        10    .12        15    .10
+  08 069 Larimer                  Co        10    .12        28    .18
+  47 037 Davidson                 Tn        10    .12        11    .07
+  19 003 Adams                    Ia        10    .12        15    .10
+  05 007 Benton                   Ar        10    .12        16    .10
+  48 121 Denton                   Tx        10    .12        18    .11
+  36 061 New York                 NY        10    .12        13    .08
+  20 045 Douglas                  Ks        10    .12        18    .11
+  12 057 Hillsborough             Fl        10    .12        20    .13
+  51 710 Norfolk city             Va        10    .12        18    .11
+  13 121 Fulton                   Ga        10    .12        15    .10
+   Same State                              116   1.35       178   1.13
+   Region 1:   Northeast                   199   2.31       385   2.45
+   Region 2:   Midwest                     781   9.07      1519   9.68
+   Region 3:   South                       557   6.47      1152   7.34
+   Region 4:   West                        318   3.69       680   4.34
+      19 153   County Non-Migrants      121428           262801
+19 155   Pottawattamie Total Migr Ia      1761             3437
+  31 055 Douglas                  Ne       529  30.04       968  28.16
+  31 153 Sarpy                    Ne        86   4.88       175   5.09
+  19 085 Harrison                 Ia        79   4.49       167   4.86
+  19 129 Mills                    Ia        65   3.69       123   3.58
+  19 165 Shelby                   Ia        45   2.56        75   2.18
+  19 029 Cass                     Ia        38   2.16        72   2.09
+  19 153 Polk                     Ia        28   1.59        57   1.66
+  19 193 Woodbury                 Ia        27   1.53        48   1.40
+  57 001 Foreign / Overseas       FR        21   1.19        42   1.22
+  19 137 Montgomery               Ia        21   1.19        40   1.16
+  04 013 Maricopa                 Az        18   1.02        35   1.02
+  19 047 Crawford                 Ia        17    .97        22    .64
+  31 109 Lancaster                Ne        15    .85        23    .67
+  06 073 San Diego                Ca        15    .85        48   1.40
+  06 037 Los Angeles              Ca        14    .80        21    .61
+  19 169 Story                    Ia        12    .68        15    .44
+  20 091 Johnson                  Ks        10    .57        22    .64
+  19 027 Carroll                  Ia        10    .57        12    .35
+   Same State                              155   8.80       319   9.28
+   Region 1:   Northeast                    18   1.02        34    .99
+   Region 2:   Midwest                     253  14.37       531  15.45
+   Region 3:   South                       146   8.29       312   9.08
+   Region 4:   West                        139   7.89       276   8.03
+      19 155   County Non-Migrants       29052            66295
+19 157   Poweshiek Total Migratio Ia       419              858
+  19 099 Jasper                   Ia        47  11.22        85   9.91
+  19 153 Polk                     Ia        30   7.16        74   8.62
+  19 123 Mahaska                  Ia        25   5.97        49   5.71
+  19 127 Marshall                 Ia        23   5.49        46   5.36
+  19 171 Tama                     Ia        16   3.82        29   3.38
+  19 095 Iowa                     Ia        14   3.34        19   2.21
+  19 103 Johnson                  Ia        14   3.34        25   2.91
+  19 113 Linn                     Ia        10   2.39        18   2.10
+   Same State                               91  21.72       200  23.31
+   Region 1:   Northeast                    11   2.63        19   2.21
+   Region 2:   Midwest                      62  14.80       129  15.03
+   Region 3:   South                        37   8.83        74   8.62
+   Region 4:   West                         39   9.31        91  10.61
+      19 157   County Non-Migrants        6606            15031
+19 159   Ringgold Total Migration Ia       104              216
+  19 175 Union                    Ia        15  14.42        32  14.81
+  19 153 Polk                     Ia        10   9.62        19   8.80
+   Same State                               37  35.58        72  33.33
+   Same Region, Diff. State                 20  19.23        45  20.83
+   Different Region                         22  21.15        48  22.22
+      19 159   County Non-Migrants        1790             4137
+19 161   Sac Total Migration Flow Ia       238              500
+  19 021 Buena Vista              Ia        35  14.71        76  15.20
+  19 093 Ida                      Ia        17   7.14        44   8.80
+  19 027 Carroll                  Ia        16   6.72        32   6.40
+  19 047 Crawford                 Ia        15   6.30        30   6.00
+  19 025 Calhoun                  Ia        12   5.04        17   3.40
+  19 153 Polk                     Ia        11   4.62        20   4.00
+  19 187 Webster                  Ia        10   4.20        20   4.00
+   Same State                               64  26.89       143  28.60
+   Same Region, Diff. State                 27  11.34        46   9.20
+   Different Region                         31  13.03        72  14.40
+      19 161   County Non-Migrants        4326            10265
+19 163   Scott Total Migration Fl Ia      3655             7298
+  17 161 Rock Island              Il       529  14.47       962  13.18
+  19 045 Clinton                  Ia       154   4.21       265   3.63
+  19 139 Muscatine                Ia       116   3.17       230   3.15
+  19 103 Johnson                  Ia       115   3.15       181   2.48
+  19 153 Polk                     Ia        91   2.49       175   2.40
+  57 001 Foreign / Overseas       FR        84   2.30       178   2.44
+  19 113 Linn                     Ia        79   2.16       143   1.96
+  17 031 Cook                     Il        78   2.13       138   1.89
+  17 073 Henry                    Il        49   1.34        90   1.23
+  19 013 Black Hawk               Ia        48   1.31        98   1.34
+  04 013 Maricopa                 Az        41   1.12        76   1.04
+  19 031 Cedar                    Ia        37   1.01        77   1.06
+  19 061 Dubuque                  Ia        35    .96        80   1.10
+  17 043 Du Page                  Il        34    .93        77   1.06
+  27 053 Hennepin                 Mn        33    .90        70    .96
+  17 195 Whiteside                Il        30    .82        63    .86
+  06 073 San Diego                Ca        29    .79        63    .86
+  17 143 Peoria                   Il        27    .74        56    .77
+  19 057 Des Moines               Ia        25    .68        39    .53
+  19 097 Jackson                  Ia        25    .68        39    .53
+  19 169 Story                    Ia        24    .66        50    .69
+  31 055 Douglas                  Ne        24    .66        47    .64
+  17 095 Knox                     Il        22    .60        37    .51
+  55 079 Milwaukee                Wi        21    .57        42    .58
+  29 189 St. Louis                Mo        20    .55        41    .56
+  06 037 Los Angeles              Ca        20    .55        40    .55
+  48 113 Dallas                   Tx        20    .55        48    .66
+  17 201 Winnebago                Il        19    .52        48    .66
+  19 179 Wapello                  Ia        19    .52        41    .56
+  17 131 Mercer                   Il        17    .47        37    .51
+  32 003 Clark                    Nv        16    .44        32    .44
+  12 057 Hillsborough             Fl        15    .41        35    .48
+  06 059 Orange                   Ca        15    .41        40    .55
+  19 111 Lee                      Ia        15    .41        25    .34
+  48 439 Tarrant                  Tx        14    .38        36    .49
+  17 187 Warren                   Il        13    .36        28    .38
+  12 071 Lee                      Fl        13    .36        31    .42
+  12 011 Broward                  Fl        13    .36        23    .32
+  55 025 Dane                     Wi        13    .36        33    .45
+  20 173 Sedgwick                 Ks        12    .33        30    .41
+  17 011 Bureau                   Il        12    .33        13    .18
+  26 125 Oakland                  Mi        12    .33        21    .29
+  34 001 Atlantic                 NJ        12    .33        21    .29
+  42 003 Allegheny                Pa        11    .30        21    .29
+  49 049 Utah                     Ut        10    .27        45    .62
+  06 071 San Bernardino           Ca        10    .27        16    .22
+  17 113 McLean                   Il        10    .27        20    .27
+  17 099 La Salle                 Il        10    .27        16    .22
+  19 155 Pottawattamie            Ia        10    .27        23    .32
+  42 133 York                     Pa        10    .27        33    .45
+  19 127 Marshall                 Ia        10    .27        14    .19
+   Same State                              189   5.17       368   5.04
+   Region 1:   Northeast                   178   4.87       353   4.84
+   Region 2:   Midwest                     569  15.57      1193  16.35
+   Region 3:   South                       377  10.31       815  11.17
+   Region 4:   West                        221   6.05       482   6.60
+      19 163   County Non-Migrants       53536           122774
+19 165   Shelby Total Migration F Ia       270              583
+  19 155 Pottawattamie            Ia        50  18.52       110  18.87
+  31 055 Douglas                  Ne        23   8.52        36   6.17
+  19 047 Crawford                 Ia        21   7.78        61  10.46
+  19 009 Audubon                  Ia        13   4.81        24   4.12
+  19 085 Harrison                 Ia        12   4.44        27   4.63
+   Same State                               69  25.56       149  25.56
+   Same Region, Diff. State                 52  19.26       106  18.18
+   Different Region                         30  11.11        70  12.01
+      19 165   County Non-Migrants        4761            11497
+19 167   Sioux Total Migration Fl Ia       462             1045
+  19 141 O'Brien                  Ia        44   9.52        92   8.80
+  19 149 Plymouth                 Ia        41   8.87        86   8.23
+  19 119 Lyon                     Ia        29   6.28        71   6.79
+  19 193 Woodbury                 Ia        29   6.28        75   7.18
+  46 099 Minnehaha                SD        15   3.25        30   2.87
+  19 035 Cherokee                 Ia        11   2.38        24   2.30
+  46 127 Union                    SD        10   2.16        25   2.39
+   Same State                               68  14.72       158  15.12
+   Same Region, Diff. State                122  26.41       289  27.66
+   Different Region                         93  20.13       195  18.66
+      19 167   County Non-Migrants        9742            26081
+19 169   Story Total Migration Fl Ia      2436             4272
+  19 153 Polk                     Ia       305  12.52       509  11.91
+  19 015 Boone                    Ia        89   3.65       168   3.93
+  57 001 Foreign / Overseas       FR        78   3.20       140   3.28
+  19 113 Linn                     Ia        51   2.09        64   1.50
+  19 013 Black Hawk               Ia        46   1.89        73   1.71
+  19 079 Hamilton                 Ia        46   1.89        80   1.87
+  19 083 Hardin                   Ia        43   1.77        84   1.97
+  19 127 Marshall                 Ia        43   1.77        83   1.94
+  19 103 Johnson                  Ia        41   1.68        67   1.57
+  19 099 Jasper                   Ia        35   1.44        71   1.66
+  19 187 Webster                  Ia        34   1.40        50   1.17
+  17 031 Cook                     Il        32   1.31        39    .91
+  19 193 Woodbury                 Ia        29   1.19        46   1.08
+  31 055 Douglas                  Ne        20    .82        34    .80
+  19 049 Dallas                   Ia        20    .82        31    .73
+  19 027 Carroll                  Ia        20    .82        34    .80
+  19 181 Warren                   Ia        20    .82        26    .61
+  19 033 Cerro Gordo              Ia        19    .78        31    .73
+  19 171 Tama                     Ia        18    .74        26    .61
+  19 155 Pottawattamie            Ia        18    .74        25    .59
+  19 163 Scott                    Ia        17    .70        24    .56
+  27 053 Hennepin                 Mn        16    .66        25    .59
+  19 017 Bremer                   Ia        16    .66        21    .49
+  19 125 Marion                   Ia        15    .62        23    .54
+  27 123 Ramsey                   Mn        15    .62        22    .51
+  19 179 Wapello                  Ia        15    .62        24    .56
+  04 013 Maricopa                 Az        15    .62        26    .61
+  19 069 Franklin                 Ia        14    .57        17    .40
+  19 025 Calhoun                  Ia        14    .57        18    .42
+  19 157 Poweshiek                Ia        14    .57        26    .61
+  19 175 Union                    Ia        14    .57        24    .56
+  19 197 Wright                   Ia        14    .57        23    .54
+  19 061 Dubuque                  Ia        14    .57        20    .47
+  19 003 Adams                    Ia        14    .57        31    .73
+  08 041 El Paso                  Co        14    .57        31    .73
+  06 073 San Diego                Ca        14    .57        30    .70
+  06 037 Los Angeles              Ca        13    .53        22    .51
+  19 109 Kossuth                  Ia        13    .53        23    .54
+  19 041 Clay                     Ia        12    .49        15    .35
+  19 091 Humboldt                 Ia        12    .49        21    .49
+  29 095 Jackson                  Mo        12    .49        22    .51
+  19 073 Greene                   Ia        11    .45        17    .40
+  29 189 St. Louis                Mo        11    .45        27    .63
+  19 057 Des Moines               Ia        10    .41        14    .33
+  19 059 Dickinson                Ia        10    .41        16    .37
+  31 109 Lancaster                Ne        10    .41        26    .61
+  19 063 Emmet                    Ia        10    .41        13    .30
+  19 123 Mahaska                  Ia        10    .41        24    .56
+  48 201 Harris                   Tx        10    .41        16    .37
+  19 081 Hancock                  Ia        10    .41        15    .35
+   Same State                              313  12.85       500  11.70
+   Region 1:   Northeast                    69   2.83       137   3.21
+   Region 2:   Midwest                     342  14.04       633  14.82
+   Region 3:   South                       187   7.68       396   9.27
+   Region 4:   West                        129   5.30       269   6.30
+      19 169   County Non-Migrants       21217            47636
+19 171   Tama Total Migration Flo Ia       359              808
+  19 127 Marshall                 Ia        54  15.04       128  15.84
+  19 013 Black Hawk               Ia        42  11.70       108  13.37
+  19 011 Benton                   Ia        25   6.96        50   6.19
+  19 113 Linn                     Ia        22   6.13        41   5.07
+  19 157 Poweshiek                Ia        14   3.90        27   3.34
+   Same State                               93  25.91       211  26.11
+   Same Region, Diff. State                 42  11.70        85  10.52
+   Different Region                         67  18.66       158  19.55
+      19 171   County Non-Migrants        6407            14783
+19 173   Taylor Total Migration F Ia       159              340
+  19 145 Page                     Ia        30  18.87        61  17.94
+  19 175 Union                    Ia        13   8.18        22   6.47
+  19 003 Adams                    Ia        12   7.55        23   6.76
+   Same State                               34  21.38        79  23.24
+   Same Region, Diff. State                 36  22.64        73  21.47
+   Different Region                         34  21.38        82  24.12
+      19 173   County Non-Migrants        2309             5432
+19 175   Union Total Migration Fl Ia       263              545
+  19 153 Polk                     Ia        20   7.60        36   6.61
+  19 003 Adams                    Ia        16   6.08        26   4.77
+  19 039 Clarke                   Ia        15   5.70        36   6.61
+  19 159 Ringgold                 Ia        13   4.94        27   4.95
+  19 173 Taylor                   Ia        13   4.94        32   5.87
+  19 121 Madison                  Ia        13   4.94        28   5.14
+  19 001 Adair                    Ia        12   4.56        26   4.77
+   Same State                               77  29.28       151  27.71
+   Same Region, Diff. State                 49  18.63       110  20.18
+   Different Region                         35  13.31        73  13.39
+      19 175   County Non-Migrants        4416            10167
+19 177   Van Buren Total Migratio Ia       164              384
+  19 101 Jefferson                Ia        27  16.46        58  15.10
+  19 111 Lee                      Ia        22  13.41        55  14.32
+   Same State                               56  34.15       133  34.64
+   Same Region, Diff. State                 30  18.29        67  17.45
+   Different Region                         29  17.68        71  18.49
+      19 177   County Non-Migrants        2563             6014
+19 179   Wapello Total Migration  Ia       733             1541
+  19 051 Davis                    Ia        61   8.32       116   7.53
+  19 101 Jefferson                Ia        37   5.05        80   5.19
+  19 123 Mahaska                  Ia        37   5.05        79   5.13
+  19 153 Polk                     Ia        32   4.37        72   4.67
+  19 135 Monroe                   Ia        29   3.96        54   3.50
+  19 113 Linn                     Ia        20   2.73        27   1.75
+  19 163 Scott                    Ia        19   2.59        33   2.14
+  19 107 Keokuk                   Ia        19   2.59        46   2.99
+  19 007 Appanoose                Ia        17   2.32        27   1.75
+  19 103 Johnson                  Ia        15   2.05        23   1.49
+  19 177 Van Buren                Ia        12   1.64        25   1.62
+  19 125 Marion                   Ia        11   1.50        33   2.14
+   Same State                              118  16.10       254  16.48
+   Region 1:   Northeast                    13   1.77        23   1.49
+   Region 2:   Midwest                     153  20.87       339  22.00
+   Region 3:   South                        80  10.91       179  11.62
+   Region 4:   West                         60   8.19       131   8.50
+      19 179   County Non-Migrants       11890            26859
+19 181   Warren Total Migration F Ia      1151             2482
+  19 153 Polk                     Ia       556  48.31      1189  47.90
+  19 121 Madison                  Ia        35   3.04        71   2.86
+  19 125 Marion                   Ia        26   2.26        67   2.70
+  19 039 Clarke                   Ia        22   1.91        48   1.93
+  19 169 Story                    Ia        17   1.48        39   1.57
+  19 049 Dallas                   Ia        16   1.39        31   1.25
+  19 103 Johnson                  Ia        13   1.13        21    .85
+  19 127 Marshall                 Ia        11    .96        22    .89
+  19 117 Lucas                    Ia        11    .96        20    .81
+  57 001 Foreign / Overseas       FR        10    .87        16    .64
+   Same State                              163  14.16       349  14.06
+   Same Region, Diff. State                129  11.21       286  11.52
+   Different Region                        142  12.34       323  13.01
+      19 181   County Non-Migrants       11937            29617
+19 183   Washington Total Migrati Ia       514             1213
+  19 103 Johnson                  Ia       132  25.68       287  23.66
+  19 115 Louisa                   Ia        33   6.42        82   6.76
+  19 087 Henry                    Ia        32   6.23        66   5.44
+  19 107 Keokuk                   Ia        20   3.89        37   3.05
+  19 101 Jefferson                Ia        14   2.72        36   2.97
+  19 113 Linn                     Ia        13   2.53        31   2.56
+  19 139 Muscatine                Ia        11   2.14        28   2.31
+   Same State                               96  18.68       229  18.88
+   Region 1:   Northeast                    11   2.14        23   1.90
+   Region 2:   Midwest                      75  14.59       192  15.83
+   Region 3:   South                        34   6.61        95   7.83
+   Region 4:   West                         43   8.37       107   8.82
+      19 183   County Non-Migrants        7207            16947
+19 185   Wayne Total Migration Fl Ia       130              300
+  19 153 Polk                     Ia        13  10.00        28   9.33
+  19 007 Appanoose                Ia        11   8.46        29   9.67
+   Same State                               49  37.69       117  39.00
+   Same Region, Diff. State                 34  26.15        75  25.00
+   Different Region                         23  17.69        51  17.00
+      19 185   County Non-Migrants        2369             5415
+19 187   Webster Total Migration  Ia       790             1599
+  19 079 Hamilton                 Ia        43   5.44        89   5.57
+  19 025 Calhoun                  Ia        41   5.19        61   3.81
+  19 091 Humboldt                 Ia        38   4.81        74   4.63
+  19 153 Polk                     Ia        38   4.81        59   3.69
+  19 197 Wright                   Ia        22   2.78        49   3.06
+  19 015 Boone                    Ia        17   2.15        27   1.69
+  31 055 Douglas                  Ne        15   1.90        24   1.50
+  19 169 Story                    Ia        14   1.77        24   1.50
+  57 001 Foreign / Overseas       FR        14   1.77        24   1.50
+  19 151 Pocahontas               Ia        12   1.52        20   1.25
+  04 013 Maricopa                 Az        12   1.52        18   1.13
+  19 109 Kossuth                  Ia        11   1.39        19   1.19
+  19 193 Woodbury                 Ia        11   1.39        23   1.44
+  19 033 Cerro Gordo              Ia        11   1.39        22   1.38
+  19 013 Black Hawk               Ia        10   1.27        20   1.25
+   Same State                              171  21.65       325  20.33
+   Region 1:   Northeast                    20   2.53        41   2.56
+   Region 2:   Midwest                     154  19.49       366  22.89
+   Region 3:   South                        68   8.61       168  10.51
+   Region 4:   West                         68   8.61       146   9.13
+      19 187   County Non-Migrants       14087            31906
+19 189   Winnebago Total Migratio Ia       228              441
+  19 081 Hancock                  Ia        26  11.40        50  11.34
+  19 033 Cerro Gordo              Ia        23  10.09        36   8.16
+  19 195 Worth                    Ia        20   8.77        33   7.48
+  27 043 Faribault                Mn        13   5.70        34   7.71
+  27 047 Freeborn                 Mn        12   5.26        26   5.90
+  19 109 Kossuth                  Ia        11   4.82        17   3.85
+   Same State                               49  21.49        90  20.41
+   Same Region, Diff. State                 52  22.81       110  24.94
+   Different Region                         22   9.65        45  10.20
+      19 189   County Non-Migrants        4410            10462
+19 191   Winneshiek Total Migrati Ia       340              653
+  19 089 Howard                   Ia        28   8.24        53   8.12
+  19 065 Fayette                  Ia        27   7.94        64   9.80
+  19 005 Allamakee                Ia        24   7.06        50   7.66
+  19 043 Clayton                  Ia        17   5.00        40   6.13
+  27 053 Hennepin                 Mn        13   3.82        18   2.76
+   Same State                               91  26.76       160  24.50
+   Same Region, Diff. State                 89  26.18       184  28.18
+   Different Region                         51  15.00        84  12.86
+      19 191   County Non-Migrants        6683            16029
+19 193   Woodbury Total Migration Ia      2371             4941
+  31 043 Dakota                   Ne       281  11.85       608  12.31
+  19 149 Plymouth                 Ia       149   6.28       272   5.50
+  46 127 Union                    SD        85   3.58       166   3.36
+  31 055 Douglas                  Ne        63   2.66       108   2.19
+  19 153 Polk                     Ia        62   2.61       123   2.49
+  46 099 Minnehaha                SD        56   2.36       110   2.23
+  19 133 Monona                   Ia        45   1.90        84   1.70
+  19 167 Sioux                    Ia        32   1.35        60   1.21
+  06 037 Los Angeles              Ca        27   1.14        82   1.66
+  57 001 Foreign / Overseas       FR        27   1.14        53   1.07
+  04 013 Maricopa                 Az        26   1.10        63   1.28
+  19 021 Buena Vista              Ia        24   1.01        40    .81
+  06 073 San Diego                Ca        24   1.01        52   1.05
+  19 047 Crawford                 Ia        23    .97        51   1.03
+  27 053 Hennepin                 Mn        23    .97        37    .75
+  31 119 Madison                  Ne        22    .93        47    .95
+  19 013 Black Hawk               Ia        22    .93        52   1.05
+  19 169 Story                    Ia        21    .89        39    .79
+  48 215 Hidalgo                  Tx        21    .89        51   1.03
+  19 103 Johnson                  Ia        21    .89        39    .79
+  46 027 Clay                     SD        20    .84        31    .63
+  06 059 Orange                   Ca        20    .84        44    .89
+  19 035 Cherokee                 Ia        20    .84        39    .79
+  48 029 Bexar                    Tx        19    .80        41    .83
+  31 051 Dixon                    Ne        18    .76        38    .77
+  19 155 Pottawattamie            Ia        17    .72        27    .55
+  19 093 Ida                      Ia        16    .67        32    .65
+  48 201 Harris                   Tx        16    .67        30    .61
+  19 141 O'Brien                  Ia        15    .63        28    .57
+  19 187 Webster                  Ia        14    .59        24    .49
+  20 173 Sedgwick                 Ks        14    .59        27    .55
+  06 071 San Bernardino           Ca        13    .55        55   1.11
+  19 041 Clay                     Ia        13    .55        22    .45
+  19 161 Sac                      Ia        13    .55        22    .45
+  19 163 Scott                    Ia        13    .55        29    .59
+  08 059 Jefferson                Co        13    .55        32    .65
+  17 031 Cook                     Il        13    .55        30    .61
+  31 173 Thurston                 Ne        13    .55        37    .75
+  48 479 Webb                     Tx        12    .51        30    .61
+  31 153 Sarpy                    Ne        12    .51        27    .55
+  48 141 El Paso                  Tx        11    .46        23    .47
+  19 181 Warren                   Ia        10    .42        21    .43
+  08 005 Arapahoe                 Co        10    .42        17    .34
+   Same State                              169   7.13       318   6.44
+   Region 1:   Northeast                    34   1.43        71   1.44
+   Region 2:   Midwest                     368  15.52       777  15.73
+   Region 3:   South                       217   9.15       485   9.82
+   Region 4:   West                        194   8.18       447   9.05
+      19 193   County Non-Migrants       32794            77108
+19 195   Worth Total Migration Fl Ia       156              330
+  19 033 Cerro Gordo              Ia        48  30.77       108  32.73
+  19 189 Winnebago                Ia        15   9.62        35  10.61
+   Same State                               46  29.49        96  29.09
+   Same Region, Diff. State                 27  17.31        49  14.85
+   Different Region                         20  12.82        42  12.73
+      19 195   County Non-Migrants        2835             6536
+19 197   Wright Total Migration F Ia       290              550
+  19 079 Hamilton                 Ia        25   8.62        43   7.82
+  19 187 Webster                  Ia        20   6.90        34   6.18
+  19 081 Hancock                  Ia        15   5.17        31   5.64
+  19 069 Franklin                 Ia        15   5.17        27   4.91
+  19 033 Cerro Gordo              Ia        15   5.17        21   3.82
+  19 091 Humboldt                 Ia        13   4.48        23   4.18
+  19 153 Polk                     Ia        12   4.14        22   4.00
+  19 083 Hardin                   Ia        11   3.79        31   5.64
+   Same State                               91  31.38       183  33.27
+   Same Region, Diff. State                 30  10.34        62  11.27
+   Different Region                         43  14.83        73  13.27
+      19 197   County Non-Migrants        5201            12065
