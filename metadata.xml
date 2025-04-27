@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>IRS-Migration-Data</dc:title>
+  <dc:description>This repository contains the raw migration data from the IRS for the years 1990 to 2021, cleaned datasets for 1995 to 2021 and 2011 to 2021, and the code used to generate them.</dc:description>
+  <dc:creator>Daniel Malone</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>2025-04-27</dc:date>
+  <dc:language>en</dc:language>
+  <dc:identifier>https://github.com/MaloneDanny/IRS-Migration-Data</dc:identifier>
+  <dc:subject>IRS</dc:subject>
+  <dc:subject>migration</dc:subject>
+  <dc:subject>county-to-county migration</dc:subject>
+  <dc:subject>internal migration</dc:subject>
+  <dc:subject>United States</dc:subject>
+  <dc:subject>R programming</dc:subject>
+  <dc:rights>MIT License</dc:rights>
+  <dc:relation>https://www.irs.gov/statistics/soi-tax-stats-migration-data</dc:relation>
+</metadata>
