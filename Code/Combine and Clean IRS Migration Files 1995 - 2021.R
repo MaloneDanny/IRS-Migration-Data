@@ -100,7 +100,7 @@ read.data.1.inflow = function(dir.name){
   return(inflow.data.combined.2)
 }
 #Makes sure the working directory is correct, then populates a data frame with the years 1995 - 2003, using the inflow data function.
-setwd('D:/Dropbox/Research Data/Raw Data/IRS Migration/Pre-2011')
+setwd('D:/Github/IRS-Migration-Data/Pre-2011')
 data.subset.1.inflow = map_dfr(files, read.data.1.inflow)
 
 #Defines a function to read the outflow data.
@@ -159,7 +159,7 @@ read.data.1.outflow = function(dir.name){
   return(outflow.data.combined.2)
 }
 #Makes sure the working directory is correct, then populates a data frame with the years 1995 - 2003
-setwd('D:/Dropbox/Research Data/Raw Data/IRS Migration/Pre-2011')
+setwd('D:/Github/IRS-Migration-Data/Pre-2011')
 data.subset.1.outflow = map_dfr(files, read.data.1.outflow)
 
 #Join together the inflow and outflow data frames
@@ -259,7 +259,7 @@ read.data.2.inflow = function(dir.name){
   setwd('..')
   return(inflow.data.combined.2)
 }
-setwd('D:/Dropbox/Research Data/Raw Data/IRS Migration/Pre-2011')
+setwd('D:/Github/IRS-Migration-Data/Pre-2011')
 data.subset.2.inflow = map_dfr(files, read.data.2.inflow)
 
 read.data.2.outflow = function(dir.name){
@@ -313,7 +313,7 @@ read.data.2.outflow = function(dir.name){
   setwd('..')
   return(outflow.data.combined.2)
 }
-setwd('D:/Dropbox/Research Data/Raw Data/IRS Migration/Pre-2011')
+setwd('D:/Github/IRS-Migration-Data/Pre-2011')
 data.subset.2.outflow = map_dfr(files, read.data.2.outflow)
 
 combined.data.subset.2 = full_join(data.subset.2.inflow, data.subset.2.outflow)
@@ -341,7 +341,7 @@ combined.data.subset.2.2 = combined.data.subset.2|>
   filter(is.na(nonmigrants) == FALSE)|>
   select(!c(nonmigrants.inflow, nonmigrants.outflow))
 ############################ 2011 - 2021; Import Inflow and Outflow, Combine and Clean #####################
-setwd('D:/Dropbox/Research Data/Raw Data/IRS Migration/Post-2011')
+setwd('D:/Github/IRS-Migration-Data/Post-2011')
 file.list = list.files()
 #The data files for this chunk are not located in separate directories, so it will not go in and out of separate directories
 inflow.files = file.list[grepl(pattern = 'inflow', file.list)]
@@ -377,7 +377,7 @@ import.inflow = function(file.name){
   inflow.data.combined = left_join(inflow.data.2, inflow.data.3)
   return(inflow.data.combined)
 }
-setwd('D:/Dropbox/Research Data/Raw Data/IRS Migration/Post-2011')
+setwd('D:/Github/IRS-Migration-Data/Post-2011')
 all.inflow = map_dfr(inflow.files, import.inflow)
 #Import Outflow Data
 import.outflow = function(file.name){
@@ -412,7 +412,7 @@ import.outflow = function(file.name){
   outflow.data.combined = left_join(outflow.data.2, outflow.data.3)
   return(outflow.data.combined)
 }
-setwd('D:/Dropbox/Research Data/Raw Data/IRS Migration/Post-2011')
+setwd('D:/Github/IRS-Migration-Data/Post-2011')
 all.outflow = map_dfr(outflow.files, import.outflow)
 
 combined.data = full_join(all.inflow, all.outflow)
@@ -445,6 +445,6 @@ full.data = full.data|>
   arrange(FIPS, year)
 ################# Save Data Frame ##################
 #Set the working directory to where you want the final data set to go, if you don't want it to go back into the Github folder.
-setwd('D:/Dropbox/Research Data/Cleaned Data/IRS Migration')
+setwd('D:/Github/IRS-Migration-Data/Cleaned Data')
 #Feel free to rename it as well.
 write_csv(full.data, file = 'IRS_Migration_Data_1995-2021.csv')
