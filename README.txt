@@ -1,6 +1,6 @@
 IRS-Migration-Data
 
-<!-- Update this once you get your Zenodo DOI -->
+ DOI: 10.5281/zenodo.15292816 
 
 -Description-
 
@@ -116,9 +116,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 If you use this repository, please cite it as:
 
-Daniel Malone. (2025). IRS-Migration-Data. GitHub. https://github.com/MaloneDanny/IRS-Migration-Data
-
-(Replace with DOI once minted.)
+Daniel Malone. (2025). IRS-Migration-Data. GitHub.  DOI: 10.5281/zenodo.15292816 
 
 -Contact-
 
